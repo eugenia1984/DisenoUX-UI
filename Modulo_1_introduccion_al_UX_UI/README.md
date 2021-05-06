@@ -2,15 +2,20 @@
 
 ## Qué es UX? 
 
-UX = user experience = Experiencia de usuarios:
+**UX** = **user experience** = **Experiencia de usuarios** <br>
 
-* Contexto: <br>
--usuario: las personas que usan los productos digitales <br>
--herramientas: celulares y computadoras <br>
--productos digitales: aplicaciones, sitios webs. <br>
+Es la disicplina que estudia la experiencia que vive una persona al interactuar con un producto o servicio.
+
+* Se da en un contexto donde interactúan: <br>
+-el usuario: las personas que usan los productos digitales <br>
+-las herramientas: celulares y computadoras <br>
+-los productos digitales: aplicaciones, sitios webs. <br>
 
 * Diseño centrado en el usuario, busca la armonía entre las personas y la tecnología. <br>
 Basándose en las sensaciones, emociones y valoraciones hacia el producto digital. <br>
+
+Un ejemplo es ir a comprar a un supermercado, por ejemplo no encotnramos un producto que busamos, entonces la experiencia es mala y no lo recomendamos.
+En cambio si tenemos buena atención, encontramos el producto, tenemos buena experiencia y lo recomendamos. Es un ejemplo de UX
 
 * En el curso vamos a acotar en celulares y computadoras ya que son los medios por los cuales los sitios webs llegan más rápido al usuario. <br>
 Hay muchos más productos digitales (como x ej. video juegos).
