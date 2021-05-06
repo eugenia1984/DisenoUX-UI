@@ -60,8 +60,8 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
   * **Spotify** resuelve de una forma muy limpia la interfaz de usaurio, usa el modo nocturno (contraste de colores, formas), también recomiendan músicas y listas, diseño sobrio, con texto simple que conecta con la persona que lo utiliza. <br>
 
 ## Diseñador UX/UI?
-
- * Qué hace ?
+ 
+* Qué hace ?
   * Desarrollar experiencias (memorables y significativas) para que un producto digital forme parte de la vida de las personas.
   * Entender las necesidades potenciales de los usuarios para crear experiencias memorables y significativas.
   * Realizar investigaciones y pruebas de usuarios.
@@ -71,7 +71,7 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
   * Comunicar ideas de diseño y prototipos a los desarrolladores.
   * Identificar productos de la competencia y las tendencias de la industria.
  
- * Sus **tareas** :
+* Sus **tareas** :
   * Análisis de resultados de la investigación UX
   * Diseño de pantallas y puntos de contacto con el usuario
   * Visualización del producto en diferentes pantallas y dispositivos (diseño responsivo)
@@ -81,7 +81,7 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
   * Establecer guías de estilo que faciliten el desarrollo del producto de acuerdo a un conjunto de parámetros y principios consistentes de caras al usuario
   * Desarrollo y prueba de prototipos de UI 
 
- * Sus **roles en la industria digital** :
+* Sus **roles en la industria digital** :
   * Product Designer (Diseñador de Producto)
   * Ux Researcher (investigador Ux)
   * Information Architect (Arquitecto de información)
