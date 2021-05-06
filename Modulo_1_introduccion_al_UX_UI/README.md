@@ -61,14 +61,36 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
 
 ## Qué hace un diseñador UX/UI?
 
- * Desarrollar experiencias (memorables y significativas) para que un producto digital forme parte de la vida de las personas.
- * Entender las necesidades potenciales de los usuarios para crear experiencias memorables y significativas.
- * Realizar investigaciones y pruebas de usuarios.
- * Desarrollar prototipos y flujos de tareas basados en las necesidades del usuario.
- * Colaborar con diseñadores y desarrolladores para crear plataformas optimizadas en la usabilidad.
- * Crear perfiles de user persona a través de la investigación y data.
- * Comunicar ideas de diseño y prototipos a los desarrolladores.
- * Identificar productos de la competencia y las tendencias de la industria.
+  * Desarrollar experiencias (memorables y significativas) para que un producto digital forme parte de la vida de las personas.
+  * Entender las necesidades potenciales de los usuarios para crear experiencias memorables y significativas.
+  * Realizar investigaciones y pruebas de usuarios.
+  * Desarrollar prototipos y flujos de tareas basados en las necesidades del usuario.
+  * Colaborar con diseñadores y desarrolladores para crear plataformas optimizadas en la usabilidad.
+  * Crear perfiles de user persona a través de la investigación y data.
+  * Comunicar ideas de diseño y prototipos a los desarrolladores.
+  * Identificar productos de la competencia y las tendencias de la industria.
+ 
+ * Sus **tareas** :
+  * Análisis de resultados de la investigación UX
+  * Diseño de pantallas y puntos de contacto con el usuario
+  * Visualización del producto en diferentes pantallas y dispositivos (diseño responsivo)
+  * Creación de la paleta de colores en armonía con la identidad y el concepto del producto digital
+  * Selección de las fuentes y tipografías
+  * Definición de las interacciones para cada elemento de la UI
+  * Establecer guías de estilo que faciliten el desarrollo del producto de acuerdo a un conjunto de parámetros y principios consistentes de caras al usuario
+  * Desarrollo y prueba de prototipos de UI 
+
+ * Sus **roles en la industria digital** :
+  * Product Designer (Diseñador de Producto)
+  * Ux Researcher (investigador Ux)
+  * Information Architect (Arquitecto de información)
+  * Content strategist (Creador de contenido estratégico)
+  * Visual designer (Diseñador Visual)
+  * Front End Developer (Desarrollador Front End)
+  * Interaction designer (Diseñador de Interacción)
+
+
+### Ux / UI
 
 * **UX** - experiencia - :
   * investigación de usuario (reasearch)
@@ -82,9 +104,6 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
   * diseño visual y gráfico
   * storyboard, style guide 
 
-## Rol en la industria digital.
-
-## Diferencia y relación entre UX y UI.
 
 ## Qué es IxD.
 
