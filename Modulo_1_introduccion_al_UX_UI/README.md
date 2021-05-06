@@ -21,8 +21,8 @@ Hay muchos más productos digitales (como x ej. video juegos). <br>
 
 * Ejemplos de UX: <br>
 -vaso térmico: cubre la necesidad de poder transportar un líquido caliente, por ejemplo ir tomando el café caliente en el viaje. Para ello tieen una tapa para que no se vuelque, su material es térmico para mantener el calor y que no nos quememos, su tapa tiene ranura para poder tomarlo.  <br>
--bicicleta eléctrica: mobilidad, ecología, ejericico. <br>
--pago con QR.
+-bicicleta eléctrica: mobilidad, ecología, ejericicio, evitar tráfico/embotellamiento, se combina con uso de tren para movilizarse desde la estación al trabajo -pocas cuadras-. <br>
+-pago con QR: no estás con efectivo, por el covid no tenés que andar tocando nada.
 
 ## Breve reseña histórica
 
