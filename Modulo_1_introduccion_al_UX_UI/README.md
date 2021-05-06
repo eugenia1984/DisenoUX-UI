@@ -59,8 +59,9 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
   
   * **Spotify** resuelve de una forma muy limpia la interfaz de usaurio, usa el modo nocturno (contraste de colores, formas), también recomiendan músicas y listas, diseño sobrio, con texto simple que conecta con la persona que lo utiliza. <br>
 
-## Qué hace un diseñador UX/UI?
+## Diseñador UX/UI?
 
+ * Qué hace ?
   * Desarrollar experiencias (memorables y significativas) para que un producto digital forme parte de la vida de las personas.
   * Entender las necesidades potenciales de los usuarios para crear experiencias memorables y significativas.
   * Realizar investigaciones y pruebas de usuarios.
