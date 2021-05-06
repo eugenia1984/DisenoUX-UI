@@ -61,6 +61,18 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
 
 ## Qué hace un diseñador UX/UI?
 
+ * UX:
+  * investigación de usuario (reasearch)
+  * arquitectura de información
+  * prototipado / wireframes
+  * testing / pruebas AB
+  
+* UI 
+  * diseño de interacción (IxD)
+  * identidad de marca (branding)
+  * diseño visual y gráfico
+  * storyboard, style guide 
+
 ## Rol en la industria digital.
 
 ## Diferencia y relación entre UX y UI.
@@ -83,5 +95,5 @@ Cómo usamos un producto / dispositivo para alcanzar una tarea específica, teni
   
          usuarios                         interacciones                 dispositivos
     ocurre delante de la pantalla                                 ocurre en la pantalla 
-       Experiencia                         Interacción                  Interfaz  
-          UX                                 IxD                          UI  
+        Experiencia                         Interacción                  Interfaz  
+          UX                                   IxD                          UI  
