@@ -17,7 +17,12 @@ Un ejemplo es ir a comprar a un supermercado, por ejemplo no encotnramos un prod
 En cambio si tenemos buena atención, encontramos el producto, tenemos buena experiencia y lo recomendamos. Es un ejemplo de UX
 
 * En el curso vamos a acotar en celulares y computadoras ya que son los medios por los cuales los sitios webs llegan más rápido al usuario. <br>
-Hay muchos más productos digitales (como x ej. video juegos).
+Hay muchos más productos digitales (como x ej. video juegos). <br>
+
+* Ejemplos de UX: <br>
+-vaso térmico: cubre la necesidad de poder transportar un líquido caliente, por ejemplo ir tomando el café caliente en el viaje. Para ello tieen una tapa para que no se vuelque, su material es térmico para mantener el calor y que no nos quememos, su tapa tiene ranura para poder tomarlo.  <br>
+-bicicleta eléctrica: mobilidad, ecología, ejericico. <br>
+-pago con QR.
 
 ## Breve reseña histórica
 
