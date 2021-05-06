@@ -91,7 +91,7 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
   * Interaction designer (Diseñador de Interacción)
 
 
-### Ux / UI
+### UX / UI
 
 * **UX** - experiencia - :
   * investigación de usuario (reasearch)
