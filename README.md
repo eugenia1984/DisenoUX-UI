@@ -12,7 +12,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
     * Reconocer los conceptos y las prácticas básicas del diseño UX/UI.
     * Identificar y reconocer el desarrollo y la planificación de un producto digital.
     * Comprender que los desafíos, es decir: la creación de productos digitales 
-    interactivos adecuados para el comportamiento <br>
+    interactivos adecuados para el comportamiento 
     de las personas, deben ser abordados con métodos, prácticas y conocimientos 
     imprescindibles en el diseño UX/UI.
 
