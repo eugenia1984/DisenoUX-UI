@@ -7,13 +7,13 @@ Se abordarán algunos ejemplos prácticos que servirán para interiorizar los co
 
 Al finalizar el curso, el estudiante contará con los conocimientos básicos para poder adentrarse en el mundo de la experiencia de usuarios y las interfaces digitales. <br>
 
-* COMPETENCIAS Y HABILIDADES A DESARROLLAR:
+### COMPETENCIAS Y HABILIDADES A DESARROLLAR:
 
     * Reconocer los conceptos y las prácticas básicas del diseño UX/UI.
     * Identificar y reconocer el desarrollo y la planificación de un producto digital.
     * Comprender que los desafíos, es decir: la creación de productos digitales interactivos adecuados para el comportamiento de las personas, deben ser abordados con métodos, prácticas y conocimientos imprescindibles en el diseño UX/UI.
 
-* OBJETIVOS ESPECÍFICOS DE CADA MÓDULO:
+### OBJETIVOS ESPECÍFICOS DE CADA MÓDULO:
 
     * Identificar qué es el diseño Ux/Ui, y cómo se complementan ambas disciplinas.
     * Identificar qué rol cumple el/la diseñador/a Ux y el/la diseñador/a Ui.
@@ -24,9 +24,9 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
     * Comprender qué es la arquitectura de información.
     * Conocer la importancia, el marco teórico y las etapas de la metodología del Design Thinking.
 
-*  TEMAS A DESARROLLAR:
+###  TEMAS A DESARROLLAR:
 
-### Módulo 1 | Introducción al UX/UI
+#### Módulo 1 | Introducción al UX/UI
 
 -Qué es UX. Breve reseña histórica. <br>
 -Por qué es importante incorporarlo? <br>
@@ -36,7 +36,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 -Diferencia y relación entre UX y UI.  <br>
 -Qué es IxD. <br>
 
-### Módulo 2 | Usabilidad y Accesibilidad
+#### Módulo 2 | Usabilidad y Accesibilidad
 
 -Evaluación Heurística.  <br>
 -Jackob Nielsen.  <br>
@@ -44,7 +44,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 -Concepto de accesibilidad Introducción al proceso UX.  <br>
 -Planificación y organización previa. <br>
 
-### Módulo 3 | Proceso UX/UI - Introducción a la investigación
+#### Módulo 3 | Proceso UX/UI - Introducción a la investigación
 
 -El diseño gráfico como proceso. <br>
 -Design Thinking. <br>
@@ -59,7 +59,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 -User Experience Map.<br>
 
 
-### Módulo 4 | Definición, ideación y prototipado
+#### Módulo 4 | Definición, ideación y prototipado
 
 -Filtramos información. <br>
 -Detectamos problemas y los definimos.<br>
@@ -72,7 +72,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 -Mockups.<br>
 -Diagramas de flujo.<br>
 
-### Módulo 5 | Pruebas e Implementación - Cierre
+#### Módulo 5 | Pruebas e Implementación - Cierre
 
 -Contraste y Legibilidad. <br>
 -Pruebas de usuario Pruebas A/B. <br>
