@@ -9,10 +9,10 @@ UX = user experience = Experiencia de usuarios:
 -herramientas: celulares y computadoras <br>
 -productos digitales: aplicaciones, sitios webs. <br>
 
-Diseño centrado en el usuario, busca la armonía entre las personas y la tecnología. <br>
+* Diseño centrado en el usuario, busca la armonía entre las personas y la tecnología. <br>
 Basándose en las sensaciones, emociones y valoraciones hacia el producto digital. <br>
 
--En el curso vamos a acotar en celulares y computadoras ya que son los medios por los cuales los sitios webs llegan más rápido al usuario. <br>
+* En el curso vamos a acotar en celulares y computadoras ya que son los medios por los cuales los sitios webs llegan más rápido al usuario. <br>
 Hay muchos más productos digitales (como x ej. video juegos).
 
 ## Breve reseña histórica
