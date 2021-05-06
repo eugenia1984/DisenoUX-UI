@@ -22,9 +22,16 @@ Hay muchos más productos digitales (como x ej. video juegos). <br>
 * Ejemplos de UX: <br>
 -vaso térmico: cubre la necesidad de poder transportar un líquido caliente, por ejemplo ir tomando el café caliente en el viaje. Para ello tieen una tapa para que no se vuelque, su material es térmico para mantener el calor y que no nos quememos, su tapa tiene ranura para poder tomarlo.  <br>
 -bicicleta eléctrica: mobilidad, ecología, ejericicio, evitar tráfico/embotellamiento, se combina con uso de tren para movilizarse desde la estación al trabajo -pocas cuadras-. <br>
--pago con QR: no estás con efectivo, por el covid no tenés que andar tocando nada.
+-pago con QR: no estás con efectivo, por el covid no tenés que andar tocando nada, una billetera virtual, el comerciante también etá sin dinero -asi no le roban, le da seguridad-, nueva experiencia de pago.
 
 ## Breve reseña histórica
+
+* 1900: Segunda Revolución Industrial, las máquinas para producir industrialmente, surgen los procesos agilizados, demanda a mayora trabajo, se orientan a la producción, hay facilidad de uso, se mejora la producción de bienes y servicios, se hace más eficiente. El tren como medio de transporte de personas y de materia prima. <br> 
+* 1940: Toyota Motors, qué aporta el humano/empleado frente al uso de las máquinas? <br> 
+* 1955: Walt Disney - Disneyland <br> 
+* 1970: Xerox PARC <br> 
+* 1984: Apple Macintosh <br> 
+* 1995: Donald Norman <br> 
 
 ## Por qué es importante incorporarlo?
 
