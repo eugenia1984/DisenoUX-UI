@@ -54,7 +54,7 @@ Ocurren en las pantallas de la computadora o celular. Es la parte visual con la 
 Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo más amigable posible. <br>
 
 * Ejemplos:  
-  * **Netflix** que da suegerencia de películas/series similares, muestra los más populares, suguiere que continuar viendo, cómo acomodan los elementos.
+  * **Netflix** que da suegerencia de películas/series similares, muestra los más populares, suguiere que continuar viendo, cómo acomodan los elementos. Cuando elijo la serie/película me mantiene en la página y tengo 3 botones: ver, descargar, detalles, si decido ver más los botones de la botonera cambian y me muestra desde dónde dejé de ver y tengo nuevas interacciones (agregar a la lista, calificar, compartir).
   * **Spotify**
 
 ## Qué hace un diseñador UX/UI?
