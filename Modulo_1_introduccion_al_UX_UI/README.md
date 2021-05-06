@@ -61,6 +61,15 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
 
 ## Qué hace un diseñador UX/UI?
 
+ * Desarrollar experiencias (memorables y significativas) para que un producto digital forme parte de la vida de las personas.
+ * Entender las necesidades potenciales de los usuarios para crear experiencias memorables y significativas.
+ * Realizar investigaciones y pruebas de usuarios.
+ * Desarrollar prototipos y flujos de tareas basados en las necesidades del usuario.
+ * Colaborar con diseñadores y desarrolladores para crear plataformas optimizadas en la usabilidad.
+ * Crear perfiles de user persona a través de la investigación y data.
+ * Comunicar ideas de diseño y prototipos a los desarrolladores.
+ * Identificar productos de la competencia y las tendencias de la industria.
+
 * **UX** - experiencia - :
   * investigación de usuario (reasearch)
   * arquitectura de información
