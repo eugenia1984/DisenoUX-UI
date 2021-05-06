@@ -54,8 +54,10 @@ Ocurren en las pantallas de la computadora o celular. Es la parte visual con la 
 Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo más amigable posible. <br>
 
 * Ejemplos:  
+
   * **Netflix** que da suegerencia de películas/series similares, muestra los más populares, suguiere que continuar viendo, cómo acomodan los elementos. Cuando elijo la serie/película me mantiene en la página y tengo 3 botones: ver, descargar, detalles, si decido ver más los botones de la botonera cambian y me muestra desde dónde dejé de ver y tengo nuevas interacciones (agregar a la lista, calificar, compartir).
-  * **Spotify**
+  
+  * **Spotify** resuelve de una forma muy limpia la interfaz de usaurio, usa el modo nocturno (contraste de colores, formas), también recomiendan músicas y listas, diseño sobrio, con texto simple que conecta con la persona que lo utiliza. <br>
 
 ## Qué hace un diseñador UX/UI?
 
@@ -64,3 +66,22 @@ Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo má
 ## Diferencia y relación entre UX y UI.
 
 ## Qué es IxD.
+
+### IxD = Interaction Design = Diseño de interacción.
+
+* Es la disciplina que se ocupa de diseñar las interacciones. Hace foco en el contacto entre el usuario y el artefacto. <br>
+
+Cómo usamos un producto / dispositivo para alcanzar una tarea específica, teniendo una buena experiencia de usaurio. <br>
+
+* Ejemplo:
+
+  * Navegar la home de Instagram, cómo damos el like. <br>
+  * Realidad virtual <br>
+  * tap, doble tap, long press, swipe up, suipe down, swipe right, swipe left, pinch, zoom, rotate  <br>
+
+#### Cómo interactúan entre ellas?
+  
+     usuarios                         interacciones                 dispositivos
+ocurre delante de la pantalla                                 ocurre en la pantalla
+     Experiencia                      Interacción                   Interfaz
+          UX                              IxD                          UI
