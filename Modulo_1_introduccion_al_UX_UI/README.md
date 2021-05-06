@@ -27,11 +27,16 @@ Hay muchos más productos digitales (como x ej. video juegos). <br>
 ## Breve reseña histórica
 
 * 1900: **Segunda Revolución Industrial** , las máquinas para producir industrialmente, surgen los procesos agilizados, demanda a mayora trabajo, se orientan a la producción, hay facilidad de uso, se mejora la producción de bienes y servicios, se hace más eficiente. El tren como medio de transporte de personas y de materia prima. <br> 
+
 * 1940: **Toyota Motors** , qué aporta el humano/empleado frente al uso de las máquinas? cómo se puede mejorar el proceso? Se escuchan las experiencias y necesidades de los empleados para mejorar la cadena de producción. Se **mejora el proceso** . <br> 
+
 * 1955: Walt Disney - **Disneyland** . La primer expriencia pensada como servicio para el público que va a Disneyland. Disney hacía caminar a sus ingenieros para ver el tema de la altura de los chicos (los que van a vivir la experiencia). Se hacen estudios y análisis de experiencia de usuario. Deben **conocer a la audiencia**, quería que **usen al zapato de sus invitados** , que se comuniquen con el **color**, la **forma** y la **textura** ; lo que luego es la base del UX. <br> 
-* 1970: Xerox PARC <br> 
-* 1984: Apple Macintosh <br> 
-* 1995: Donald Norman <br> 
+
+* 1970: **Xerox PARC** <br> 
+
+* 1984: **Apple Macintosh** <br> 
+
+* 1995: **Donald Norman** <br> 
 
 ## Por qué es importante incorporarlo?
 
