@@ -81,7 +81,7 @@ Cómo usamos un producto / dispositivo para alcanzar una tarea específica, teni
 
 #### Cómo interactúan entre ellas?
   
-     usuarios                               interacciones                 dispositivos
-    ocurre delante de la pantalla                                 ocurre en la pantalla <br>
-     Experiencia                         Interacción                      Interfaz  <br>
-          UX                                 IxD                          UI  <br>
+         usuarios                         interacciones                 dispositivos
+    ocurre delante de la pantalla                                 ocurre en la pantalla 
+       Experiencia                         Interacción                  Interfaz  
+          UX                                 IxD                          UI  
