@@ -23,10 +23,12 @@ Hay muchos más productos digitales (como x ej. video juegos). <br>
 -vaso térmico: cubre la necesidad de poder transportar un líquido caliente, por ejemplo ir tomando el café caliente en el viaje. Para ello tieen una tapa para que no se vuelque, su material es térmico para mantener el calor y que no nos quememos, su tapa tiene ranura para poder tomarlo.  <br>
 -bicicleta eléctrica: mobilidad, ecología, ejericicio, evitar tráfico/embotellamiento, se combina con uso de tren para movilizarse desde la estación al trabajo -pocas cuadras-. <br>
 -pago con QR: no estás con efectivo, por el covid no tenés que andar tocando nada, una billetera virtual, el comerciante también etá sin dinero -asi no le roban, le da seguridad-, nueva experiencia de pago.
+-aplicación de PedidoYa: uno selecciona que quiere, pasa el pago, confirma el pedido y el usuario espera le ruido e la campanita (da sensación de satisfacción de completar el pedido, ahora solo hay que esperar que llegue la comida).
 
 ## Breve reseña histórica
 
 * 1900: **Segunda Revolución Industrial** , las máquinas para producir industrialmente, surgen los procesos agilizados, demanda a mayora trabajo, se orientan a la producción, hay facilidad de uso, se mejora la producción de bienes y servicios, se hace más eficiente. El tren como medio de transporte de personas y de materia prima. <br> 
+La industria toma la experiencia de usuario, como el diseño industrial con su investigación y estudio antes de producir, por ejemplo una silla, qué altra tiene? Se ve todo antes de armar la matriz. <br>
 
 * 1940: **Toyota Motors** , qué aporta el humano/empleado frente al uso de las máquinas? cómo se puede mejorar el proceso? Se escuchan las experiencias y necesidades de los empleados para mejorar la cadena de producción. Se **mejora el proceso** . <br> 
 
@@ -41,7 +43,19 @@ Se ve cómo las necesidades d elas personas fueron avanzando hasta incluir a la 
 
 ## Por qué es importante incorporarlo?
 
+La buena experiencia de usaurio hace que nuestro serivcio/producto se compre, utilice y se recomiende.
+
 ## Qué es UI?
+
+### UI = user interface = interfaz de usuario
+
+* Es la disciplina que se ocupa del diseñar visualmente las interfaces con las que interactúa el usuario con un producto digital. <br>
+Ocurren en las pantallas de la computadora o celular. Es la parte visual con la que interactuamos por medio del **artefacto**. Hace foco en lo que está **dentro de la pantalla** , qué elementos ponemos? texto, botones, formularios de contacto, etc. Cómo los ponemos?<br>
+Es todo lo visual que interactúa el usuario, se quere armar una interfaz lo más amigable posible. <br>
+
+* Ejemplos:  
+  * **Netflix** que da suegerencia de películas/series similares, muestra los más populares, suguiere que continuar viendo, cómo acomodan los elementos.
+  * **Spotify**
 
 ## Qué hace un diseñador UX/UI?
 
