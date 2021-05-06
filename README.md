@@ -70,7 +70,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 -Técnicas de ideación.<br>
 -Arquitectura de información. <br>
 -Prototipos de distintos grados de fidelidad.<br>
-- Bocetos. <br>
+-Bocetos. <br>
 -Wireframes.<br>
 -Mockups.<br>
 -Diagramas de flujo.<br>
