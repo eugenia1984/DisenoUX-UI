@@ -1,4 +1,4 @@
-# PoloticMisiones Inturduccion a Diseño Un / UI
+# PoloticMisiones Introduccion a Diseño Un / UI
 
 ## PLAN DE ESTUDIO 🚀
 
