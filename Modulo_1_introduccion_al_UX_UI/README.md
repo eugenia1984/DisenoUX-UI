@@ -4,7 +4,7 @@
 
 UX = user experience = Experiencia de usuarios:
 
-* Contexto: 
+* Contexto: <br>
 -usuario: las personas que usan los productos digitales <br>
 -herramientas: celulares y computadoras <br>
 -productos digitales: aplicaciones, sitios webs. <br>
