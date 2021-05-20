@@ -116,14 +116,15 @@ Otro ejemplo los sitios d elos noventa, sobrecargados de información.
 Hace referencia a los textos su legibilidad, su forma, el uso de abreviaturas y modismos.<br>
 Por otro lado el uso de iconos de fácil comprensión para indicar la herramienta y la función que cumplen.<br>
 Por ejemplo, el tipo de letra, el tamaño acorde al dispositivo desde que se lo ve, usar palabras comunes, evitar modismos y abreviaturas. <br>
-Que los potenciales usaurios no perdan tiempo adivinando, que lo entiendan de una, debe ser un sitio claro, los íconos deben entenderse.
-
+Que los potenciales usuarios no perdan tiempo adivinando, que lo entiendan de una, debe ser un sitio claro, los íconos deben entenderse <br>
 
 **Robusto :**
 Robusto se refiere a que los sitios web o aplicaciones deben ser compatibles con todos los navegadores web, <br>
 en todos los sistemas operativos, en todos los dispositivos y con aplicaciones de tecnologías de apoyo, <br>
 como lectores de pantallas. <br>
-Se ve en el código, usar los alt="" en las imágenes, todo lo qeu ayude al SEO.
+Se ve en el código, usar los alt="" en las imágenes, todo lo que ayude al SEO.<br>
+Mobile first, primero pensarlo para mobile y luego ir escalando a las pantallas más grandes (cada vez la mayoría se conecta por celular).<br>
+Todos los tags semánticos.
 
 ---
 
