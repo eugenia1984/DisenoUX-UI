@@ -1,6 +1,6 @@
 # Módulo 3 | Proceso UX/UI - Introducción a la investigación
 
-### CUSTOMER USER EXPERIENCE (Experiencia del Cliente)
+## CUSTOMER USER EXPERIENCE (Experiencia del Cliente)
 
 **No hace falta ser cliente de alguien para ser usuario de algo.** <br>
 
@@ -13,7 +13,7 @@ Abarca todo el recorrido: Ux, Ixd, Ui
 
 ---
 
-### EL DISEÑO GRÁFICO COMO PROCESO 
+## EL DISEÑO GRÁFICO COMO PROCESO 
 
 **R** requerimientos ( necesidades del cliente) <br>
 **D** diseño <br>
@@ -24,9 +24,9 @@ Puede ser de **manera lineal** o de **manera iterativa** (como en el método scr
 
 ---
 
-### DESIGN THINKING
+## DESIGN THINKING
 
-#### Pensamiento de Diseño
+### Pensamiento de Diseño
 
 Según **Design Thinking en Español** : <br>
 
@@ -37,7 +37,7 @@ Según **Tim Brown** , actual CEO de IDEO: <br>
 con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente, <br>
 así como en una gran oportunidad para el mercado”. <br>
 
- ### Que tener en cuenta y cómo prepararse ?
+ ## Que tener en cuenta y cómo prepararse ?
 
 - **Empatía** : entender los problemas, necesidades y deseos de los usuarios <br>
 implicados en la solución que estamso buscando. <br>
@@ -52,9 +52,9 @@ puntos de vista por sobre al singularidad.<br>
 - **Materializar** : gran contenido visual y práctico. <br>
 Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analítica. <br>
 
-### Etapas del proceso : 
+## Etapas del proceso : 
 
-#### Empatizar
+### Empatizar
 
 Conocer por medio de la investigación las verdaderas necesidades del usuario y el entorno que lo rodea. <br>
 
@@ -86,7 +86,7 @@ Hay que entender por qué se generara la necesidad y por qué el usuario actúa 
 Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
 No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , también conocer la problemática del proyecto y el modelo de negocio.
 
-#### Definir
+### Definir
 
 Filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
 
@@ -100,55 +100,55 @@ DETECTANDO
   * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
   * Definimos las necesidades del cliente y por qué las necesita.
 
-#### Idear
+### Idear
 
 Generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
 A veces las ideas más absurdas pueden dar solución. <br>
 
-#### Prototipar
+### Prototipar
 
 Volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
 
-#### Testear
+### Testear
 
 Probar los prototipos con los usuarios implicados en la solución. <br>
 Detectar fallas y/o carencias para mejorar y llegar a la solució más eficiente.
 
 ---
 
-#### ANTECEDENTES DEL MÉTODO CIENTÍFICO
+### ANTECEDENTES DEL MÉTODO CIENTÍFICO
 
 ---
 
-#### LEAN UX
+### LEAN UX
 
 ---
 
-#### RESEARCH (investigación)
+### RESEARCH (investigación)
 
 ---
 
-#### BENCHMARK
+### BENCHMARK
 
 ---
 
-#### ENTREVISTAS
+### ENTREVISTAS
 
 ---
 
-#### DETECTANDO Y DEFINIENDO EL PROBLEMA
+### DETECTANDO Y DEFINIENDO EL PROBLEMA
 
 ---
 
-#### CREACIÓN DEL USER PERSONA
+### CREACIÓN DEL USER PERSONA
 
 ---
 
-#### CUSTOMER JOURNEY MAP
+### CUSTOMER JOURNEY MAP
 
 ---
 
-#### USER EXPERIENCE MAP
+### USER EXPERIENCE MAP
 
 ---
