@@ -159,9 +159,7 @@ SOLTARSE CRANEAR <BR>
 
  Al finalizar esta etapa deberíamos tener definido: <br>
 
-  * Entender por qué se genera la necesidad y por qué el usuario actúa de la forma que hace. <br>
-  * Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
-  * No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario', también conocer la problemática del proyecto y el modelo de negocio. <br>
+  * Si el resultado es malo hay que volver a la etapa anterior y encontrar un nuevo camino.
 
  ### Prototipar
 
