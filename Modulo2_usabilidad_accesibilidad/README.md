@@ -18,15 +18,15 @@ para conseguir metas específicas con **eficacia, eficiencia y satisfacción** e
 - Metas específicas (poder hacer un recorte, x ej seleccionar la pizza, completar domicilio, hacer pago y esperar nos llegue)
 - Contexto específico
 
-### Eficacia
+### Eficacia:
 El grado de finalización y exactitud con el que los usuarios consiguen cumplir metas específicas. <br>
 Ej.: error en un icono que confunde al usuario y no permite completar la tarea. <br>
 
-### Eficiencia
+### Eficiencia:
 La eficiencia es un balance entre los recursos empleados y los resultados obtenidos. <br>
 Ej.: Un formulario de contacto se completa más rápido en movil que en escritorio.<br>
 
-### Satisfacción
+### Satisfacción:
 Decimos que es el grado en que las respuestas físicas, cognitivas y emocionales, <br>
 del uso de un sistema, producto o servicio satisfacen las necesidades y expectativas del usuario.<br>
 Ej.: la tarea no se cumple. El usuario quizas se frustre y quede insatisfecho con nuestro producto.<br>
@@ -88,23 +88,19 @@ pueda acceder a él y usarlo ".<br>
 
 #### Principios básicos de Accesibilidad Ux
 
-**Perceptible**
-
+**Perceptible :**
 Se refiere que tanto los contenidos como la interfaz <br>
 debe poder ser percibida por todos sus usuarios.
 
-**Operable**
-
+**Operable :**
 Entre más alternativas existen para realizar una acción o buscar <br>
 un contenido, mejor será su accesibilidad.
 
-**Comprensible**
-
+**Comprensible :**
 Hace referencia a los textos su legibilidad, su forma, el uso de abreviaturas y modismos.<br>
 Por otro lado el uso de iconos de fácil comprensión para indicar la herramienta y la función que cumplen.<br>
 
-**Robusto**
-
+**Robusto :**
 Robusto se refiere a que los sitios web o aplicaciones deben ser compatibles <br>
 con todos los navegadores web, en todos los sistemas operativos, <br>
 en todos los dispositivos y con aplicaciones de tecnologías de apoyo, <br>
@@ -114,9 +110,9 @@ como lectores de pantallas. <br>
 
 #### Diversidad visual
 
-**Buenas prácticas**
+**Buenas prácticas :**
 
-**Evitar**
+**Evitar :**
 
 ---
 
