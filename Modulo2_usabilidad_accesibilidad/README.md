@@ -7,8 +7,7 @@
 **Concepto de usabilidad** , dentro de la experiencia de usuario: <br>
 
 "Grado en el que un sistema, producto o servicio puede ser usado por usuarios específicos <br>
-para conseguir metas específicas con **eficacia, eficiencia y satisfacción** <br>
-en un cotexto de uso específico. " <br>
+para conseguir metas específicas con **eficacia, eficiencia y satisfacción** en un cotexto de uso específico. " <br>
 (ISO 9241-210:2019: Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems)
 
 #### Analizando el concepto
