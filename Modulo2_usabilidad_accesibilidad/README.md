@@ -162,26 +162,33 @@ Todos los tags semánticos.
 ### Diversidad motriz
 
 **Buenas prácticas :**
-- Usar acciones y enlaces grandes
+- Usar acciones y enlaces grandes, para evitar demandar precisión ( poner íconos grandes).
 - Otorgar distancia a los campos de los formularios
-- Diseñar para operar con el teclado o el habla únicamente
-- DIseñar teniendo en mente los móviles y las pantallas tácticas
-- Ofrecer atajos
+- Diseñar para operar con el teclado o el habla únicamente (con el TAB, los comandos de voz)
+- Diseñar teniendo en mente los móviles y las pantallas táctiles
+- Ofrecer atajos, asi no deben desplazarse mucho por pantalla
 
 **Evitar :**
-- Demandar precisión
+- Demandar precisión, no poner íconos chicos, asi no tiene que tener tanta presiciñon de tocar justo en el espacio reducido.
 - Agrupar interacciones juntas
 - Realizar contenido dinámico que requiera mucho desplazamiento del ratón
-- Tener períodos de expiración breves en una tarrea
+- Tener períodos de expiración breves en una tarea (deben tener tiempo para completar datos, o para leer)
 - Requerir demasiada información y desplazamientos de pantalla
 
 ### Diversidad Disléxica
 
 **Buenas prácticas :**
 - Utilizar imágenes y diagramas para dar soporte al texto
+- Alinear texto a la izquierda y mantener una escritura consistente.
+- Producir materiales en otros formatos (como audio o video).
+- Mantener el contenido breve, claro, simple.
+- Permitir al usuario modificar el contraste entre el fondo y el texto.
 
 **Evitar :**
 - Utilizar bloques extensos de denso texto.
+- Subrayar palabras, utilizar tácticas o escribir en mayúsulas.
+- Forzar a usuarios a recordar cosas de pantallas previas.
+- Ubicar demasiada información en un lugar.
 
 ### Diseñando para lectores de pantallas
 
@@ -194,6 +201,38 @@ Todos los tags semánticos.
 
 **Evitar :**
 - Mostrar información únicamente en una imagen o video.
+- Desparramar contenido por toda la página
+- Forzar el uso del mouse en pantalla
+- Redactar víncuos o interacciones poco informativas.
 ---
 
 ## PLANIFICACIÓN Y ORGANIZACIÓN PREVIA
+
+**El proceso de diseño centrado en el usuario**
+
+**La necesidades comunicativas** que establece la persona o institución que solicita o encarga el producto. <br>
+**Cliente** ( emisor ) <br>
+**Diseñador/ra Ux**
+**Producto** ( contenido ) <br>
+**Usuario** ( receptor ) <br>
+**Las necesidades informativas y fucionalidades** de las personas que van a usar el producto. <br>
+
+Hay una interacción constante entre: contexto, contenido y usuario. <br>
+
+De este modo, el enfoque del diseño cenrado en el usuario persigue asegurar la consecución de un producto <br>
+con la funcionalidad adecuada para usuarios concretos. <br>
+
+Las diferentes metodologías de creación de un producto no son rígidas. <br>
+En el caso de la creacion de un producto digital, las etapas de diseño están condicionadas por tres elementos <br>
+que señalan que todo proyecto es relativo a los usuarios, contextos y contenidos específicos en cada caso. <br>
+
+Para realizar un proyecto exitoso en UX es necesario tener un esquema de trabajo que nos permita identificar y no saltearnos <br>
+ninguna de las eapas necesarias para conseguir los mejores resultados. <br>
+
+Este esquema o marco de trabajo debe ser guiado centrándonos en las necesidades, <br>
+exigencias, expectativas y objetivos del usuario final e involucrarlo en la interacción del producto <br>
+mientras se va desarrollando para valorar sus reacciones.
+
+
+
+
