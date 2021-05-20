@@ -147,7 +147,7 @@ SOLTARSE CRANEAR <BR>
    * **Lluvia de ideas**
    * **Scamper**
    * **Selección de ideas**
-   * **Seis sombreros para pensar**
+   * **Seis sombreros para pensar** : cada sombrero representa un rol, y ese rol le puede tocar a cualquiera, es para ver las distintas perspectivas. Cada sombrero tiene un color, y cada color representa algo. una misma temática con distintos puntos de vista.
    * **Brainwriting**
    * **Consejo de sabios**
    * **Lago Serious Play**
@@ -167,6 +167,12 @@ SOLTARSE CRANEAR <BR>
 
 Volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
+ 
+**Sus características:** <br>
+
+  * Hacer físicas las ideas. Los prototipos pueden ser actuaciones, sketches, 3d, bocetos, ilustraciones. <br>
+  * Pretende experiementar, crear y refinar modelos en 2 y 3 dimensiones con el fin de testearlos en la sigueinte fase.
+  * Consumir la menor cantidad de recursos y tiempos, de modo que se puede ver/ testear las soluciones que han surgido en la etapa de ideación, lo antes posible.
 
 ### Testear
 
