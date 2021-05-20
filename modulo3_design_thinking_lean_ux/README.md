@@ -52,7 +52,7 @@ puntos de vista por sobre al singularidad.<br>
 - **Materializar** : gran contenido visual y práctico. <br>
 Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analítica. <br>
 
-### ETAPAS DEL PROCESO
+### Etapas del proceso : 
 
 - **Empatizar** : conocer por medio de la investigación las verdaderas necesidades del usuario <br>
 y el entorno que lo rodea. <br>
