@@ -98,25 +98,32 @@ de forma que el mayor número posible de personas, en el mayor número posible d
 pueda acceder a él y usarlo ".<br>
 (Nordic Guidelines for Computer Accessibility) <br>
 
+Que pueda ser usado por todos, por quienes tiene poca accesibilidad, quien nunca la usó, quien tiene alguna dificultad(visual, auditiva, etc).
+
 #### Principios básicos de Accesibilidad Ux
 
 **Perceptible :**
-Se refiere que tanto los contenidos como la interfaz <br>
-debe poder ser percibida por todos sus usuarios.
+Se refiere que tanto los contenidos como la interfaz debe poder ser percibida por todos sus usuarios. <br>
+x ej: subtitulado, recuadros de lenguajes de señas, la interfaz, las imágenes, los botones deben ser accesibles, los colores (no remarcar con rojo por los daltónicos). <br>
 
 **Operable :**
-Entre más alternativas existen para realizar una acción o buscar <br>
-un contenido, mejor será su accesibilidad.
+Entre más alternativas existen para realizar una acción o buscar un contenido, mejor será su accesibilidad. <br>
+Por ejemplo todos están acostumbrdos a usar la computadora con maouse, pero también hay que considerar el teclado y el touchpad. <br>
+Otro ejemplo, que los slider no sean tán rápidos qeue uno no llega ni a ver o leer qué dicen. <br>
+Otro ejemplo los sitios d elos noventa, sobrecargados de información.
 
 **Comprensible :**
 Hace referencia a los textos su legibilidad, su forma, el uso de abreviaturas y modismos.<br>
 Por otro lado el uso de iconos de fácil comprensión para indicar la herramienta y la función que cumplen.<br>
+Por ejemplo, el tipo de letra, el tamaño acorde al dispositivo desde que se lo ve, usar palabras comunes, evitar modismos y abreviaturas. <br>
+Que los potenciales usaurios no perdan tiempo adivinando, que lo entiendan de una, debe ser un sitio claro, los íconos deben entenderse.
+
 
 **Robusto :**
-Robusto se refiere a que los sitios web o aplicaciones deben ser compatibles <br>
-con todos los navegadores web, en todos los sistemas operativos, <br>
-en todos los dispositivos y con aplicaciones de tecnologías de apoyo, <br>
+Robusto se refiere a que los sitios web o aplicaciones deben ser compatibles con todos los navegadores web, <br>
+en todos los sistemas operativos, en todos los dispositivos y con aplicaciones de tecnologías de apoyo, <br>
 como lectores de pantallas. <br>
+Se ve en el código, usar los alt="" en las imágenes, todo lo qeu ayude al SEO.
 
 ---
 
@@ -179,6 +186,10 @@ como lectores de pantallas. <br>
 
 **Buenas prácticas :**
 - Describir imágenes y proporcionar transcripciones para videos.
+- Mantener una composición lineal y lógica.
+- Estructurar contenido utilizando HTML5
+- Construir para el uso de teclado únciamente.
+- Redactar vínculos y títulos descriptivos.
 
 **Evitar :**
 - Mostrar información únicamente en una imagen o video.
