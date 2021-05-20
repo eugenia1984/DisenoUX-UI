@@ -10,7 +10,7 @@
 para conseguir metas específicas con **eficacia, eficiencia y satisfacción** en un cotexto de uso específico. " <br>
 (ISO 9241-210:2019: Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems)
 
-#### Analizando el concepto
+### Analizando el concepto
 
 - Grado: buena (alto grado) y mala (bajo grado) usabilidad
 - Sistema (x ej. software para hacer una app de pedidos de comida), producto (x ej. una pizza que compramos) o servicio (x ej. cuando nos traen la pizza)
@@ -18,19 +18,20 @@ para conseguir metas específicas con **eficacia, eficiencia y satisfacción** e
 - Metas específicas (poder hacer un recorte, x ej seleccionar la pizza, completar domicilio, hacer pago y esperar nos llegue)
 - Contexto específico
 
-#### Eficacia
+### Eficacia
 El grado de finalización y exactitud con el que los usuarios consiguen cumplir metas específicas. <br>
 Ej.: error en un icono que confunde al usuario y no permite completar la tarea. <br>
 
-#### Eficiencia
+### Eficiencia
 La eficiencia es un balance entre los recursos empleados y los resultados obtenidos. <br>
 Ej.: Un formulario de contacto se completa más rápido en movil que en escritorio.<br>
 
-#### Satisfacción
+### Satisfacción
 Decimos que es el grado en que las respuestas físicas, cognitivas y emocionales, <br>
 del uso de un sistema, producto o servicio satisfacen las necesidades y expectativas del usuario.<br>
 Ej.: la tarea no se cumple. El usuario quizas se frustre y quede insatisfecho con nuestro producto.<br>
 Solo resta poder trabajar para mejorar esa experiencia de uso. <br>
+
 ---
 
 ## Evaluación Heurística
@@ -85,7 +86,7 @@ de forma que el mayor número posible de personas, en el mayor número posible d
 pueda acceder a él y usarlo ".<br>
 (Nordic Guidelines for Computer Accessibility) <br>
 
-##### Principios básicos de Accesibilidad Ux
+#### Principios básicos de Accesibilidad Ux
 
 **Perceptible**
 
@@ -111,7 +112,7 @@ como lectores de pantallas. <br>
 
 ---
 
-##### Diversidad visual
+#### Diversidad visual
 
 **Buenas prácticas**
 
