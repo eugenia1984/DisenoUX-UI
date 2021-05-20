@@ -89,6 +89,10 @@ un botón que te redirija a la home y dan posibles motivos (dan contención al u
 
 ## DONALD NORMAN
 
+**Donald A. Norman** es profesor emérito de **ciencia cognitiva** en la University of California, San Diego y <br>
+profesor de Ciencias de la Computación en la Northwestern University, pero hoy en día trabaja principalmente<br>
+con la ciencia cognitiva en el dominio de la ingeniería de la usabilidad.
+
 ---
 
 ## CONCEPTO DE ACCESIBILIDAD. INTRODUCCIÓN AL PROCESO UX
@@ -208,13 +212,16 @@ Todos los tags semánticos.
 
 ## PLANIFICACIÓN Y ORGANIZACIÓN PREVIA
 
-**El proceso de diseño centrado en el usuario**
+**El proceso de diseño centrado en el usuario, viendolo desde un proceso comunicativo**
 
+**Diseñador/ra Ux** es el mediador entre todo este proceso. <br>
+
+**Cliente** ( emisor ) es el que busca emitir el mensaje, tiene las necesidades comunicativas.<br>
 **La necesidades comunicativas** que establece la persona o institución que solicita o encarga el producto. <br>
-**Cliente** ( emisor ) <br>
-**Diseñador/ra Ux**
-**Producto** ( contenido ) <br>
-**Usuario** ( receptor ) <br>
+
+**Producto** ( contenido ) es el mensaje a transmitir.<br>
+
+**Usuario** ( receptor ) a quien va dirigido el mensaje. <br>
 **Las necesidades informativas y fucionalidades** de las personas que van a usar el producto. <br>
 
 Hay una interacción constante entre: contexto, contenido y usuario. <br>
