@@ -55,13 +55,46 @@ Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analít
 ### Etapas del proceso : 
 
 - **Empatizar** : conocer por medio de la investigación las verdaderas necesidades del usuario y el entorno que lo rodea. <br>
-Sus características: <br>
+
+**Sus características:** <br>
+
   * Ponerse en el lugar del otro, ver con sus ojos, sentir y experimentar con sus sentidos.
   * Pretender entender la necesidad que se va a trabajar para el proyecto que se va a desarrollar.
   * Es el entendimiento del comportamiento del usuario respecto al usaurio real, es el principio básico del diseño centrado en el usuario.
   * Trabaja sobre necesidades reales. Para emjroar la vidda de las personas.
 
+¿ Cómo identificamos una necesidad? ¿ Cómo entendemos al usuario ? ¿ Cómo comprender el problema?
+INVESTIGANDO
+
+**Técnicas para utilizar**
+
+  * **Mapa de actores** : inmersión cognitiva, interacción constructiva, con todos los actores del proceso
+  * **Mapa mental** : es algo más conceptual, en el centro está la experiencia del cliente y bien cerca UX y UI
+  * **Moodboard** : observación encubierta
+  * **¿ Qué, cómo, por qué ?**
+  * **Entrevistas** : scamper, recuadamos datos cualitativos, son muy importantes, que sean preguntas abiertas.
+  * **Storytelling** : contar historia
+  * **Customer Journey** : el mapeo d ela experiencia del cliente
+  * **Matriz FODA** : lienzo del modelo de negocio, mapa de atracción de clientes, diagrama de prioridades
+  * **Curvas de valor** a través de un gráfico, de acuerdo a los valores que presentamos a nuestro producto, va a tener ciertos altibajos.
+  * **Grupos de enfoque o 'focus group'** : reunión entre muchas personas (usaurio). técnica de los 5 porquè, diagrama de causa-efecto, análisis paralelo.
+  * **Sería / No sería**
+
+Hay que entender por qué se generara la necesidad y por qué el usuario actúa de la forma que hace. <br>
+Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
+No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , también conocer la problemática del proyecto y el modelo de negocio.
+
 - **Definir** : filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
+
+¿Cómo finltramos la información? ¿Cómo definiimos el problema? ¿Cómo detectamos insigths?
+DETECTANDO
+
+**Características**
+
+  * Definir el problema, en los cuales nos vamos a enfocar àra buscar las mejores soluciones-
+  * A estos problemas concretos se los conoce como insights y nos permiten focalizarnos hasta hallar la solución definitiva.
+  * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
+  * Definimos las necesidades del cliente y por qué las necesita.
 
 - **Idear** : generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
 A veces las ideas más absurdas pueden dar solución. <br>
