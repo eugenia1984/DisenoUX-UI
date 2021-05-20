@@ -65,7 +65,7 @@ Conocer por medio de la investigación las verdaderas necesidades del usuario y 
   * Es el entendimiento del comportamiento del usuario respecto al usaurio real, es el principio básico del diseño centrado en el usuario.
   * Trabaja sobre necesidades reales. Para emjroar la vidda de las personas.
 
-¿ Cómo identificamos una necesidad? ¿ Cómo entendemos al usuario ? ¿ Cómo comprender el problema?
+¿ Cómo identificamos una necesidad? ¿ Cómo entendemos al usuario ? ¿ Cómo comprender el problema? <br>
 INVESTIGANDO
 
 **Técnicas para utilizar**
@@ -90,8 +90,8 @@ No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , tamb
 
 Filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
 
-¿Cómo finltramos la información? ¿Cómo definiimos el problema? ¿Cómo detectamos insigths?
-DETECTANDO
+¿Cómo finltramos la información? ¿Cómo definiimos el problema? ¿Cómo detectamos insigths? <br>
+DETECTANDO PATRONES
 
 **Características**
 
@@ -99,6 +99,26 @@ DETECTANDO
   * A estos problemas concretos se los conoce como insights y nos permiten focalizarnos hasta hallar la solución definitiva.
   * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
   * Definimos las necesidades del cliente y por qué las necesita.
+
+**Técnicas para utilizar**
+
+  * **Mapa de interacción de usuario**
+  * **Mapa mental**
+  * **Moosboard**
+  * **Matriz de motivaciones**
+  * **Personas**
+  * **Mapa de empatía** ¿Cómo podríamos? Historias compartidas
+  * **Infografías**
+  * **Insights**
+  * **Toolkit** Dentro / Fuera
+ 
+ Al finalizar esta etapa deberíamos tener definido: <br>
+ - el problema <br>
+ - los perfiles de usaurios <br>
+ - el modelo de negocio <br>
+ - objetivos del cliente <br>
+ - necesidades del proyecto <br>
+ - contexto de uso <br>
 
 ### Idear
 
