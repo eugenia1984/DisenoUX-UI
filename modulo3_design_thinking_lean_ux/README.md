@@ -95,22 +95,22 @@ DETECTANDO PATRONES
 
 **Características**
 
-  * Definir el problema, en los cuales nos vamos a enfocar àra buscar las mejores soluciones-
-  * A estos problemas concretos se los conoce como insights y nos permiten focalizarnos hasta hallar la solución definitiva.
-  * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
-  * Definimos las necesidades del cliente y por qué las necesita.
+   * Definir el problema, en los cuales nos vamos a enfocar àra buscar las mejores soluciones-
+   * A estos problemas concretos se los conoce como insights y nos permiten focalizarnos hasta hallar la solución definitiva.
+   * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
+   * Definimos las necesidades del cliente y por qué las necesita.
 
 **Técnicas para utilizar**
 
-  * **Mapa de interacción de usuario**
-  * **Mapa mental**
-  * **Moosboard**
-  * **Matriz de motivaciones**
-  * **Personas**
-  * **Mapa de empatía** ¿Cómo podríamos? Historias compartidas
-  * **Infografías**
-  * **Insights**
-  * **Toolkit** Dentro / Fuera
+   * **Mapa de interacción de usuario**
+   * **Mapa mental**
+   * **Moosboard**
+   * **Matriz de motivaciones**
+   * **Personas**
+   * **Mapa de empatía** ¿Cómo podríamos? Historias compartidas
+   * **Infografías**
+   * **Insights**
+   * **Toolkit** Dentro / Fuera
  
  Al finalizar esta etapa deberíamos tener definido: <br>
  - el problema <br>
@@ -125,7 +125,45 @@ DETECTANDO PATRONES
 Generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
 A veces las ideas más absurdas pueden dar solución. <br>
 
-### Prototipar
+**Características**
+
+   * Entender, comprender y definir el problema y sus varaibles nos permite idear y crear múltiples alternativas. <br>
+   * El foco aquí es más amplio, no debe existir restricciones. Generar la mayor cantidad de ideas y no quedarnos con la primera. <br>
+   * Poner en práctica el pensamiento lateral y dejar volar la imaginación. <br>
+   * Trabajar con much material visual y plástico, para poder materializar las ideas y palabras.
+
+¿ Cómo crear alternativas? ¿Cómo imaginar soluciones? ¿Cómo idear componentes? <br>
+SOLTARSE CRANEAR <BR>
+ 
+**Técnicas para utilizar**
+
+   * **Dibujo en grupo**
+   * **Tarjetas**
+   * **Maquetas**
+   * **Moodboard**
+   * **Personas**
+   * **Cuenta cuentos*
+   * **Storyboard o guión gráfico**
+   * **Lluvia de ideas**
+   * **Scamper**
+   * **Selección de ideas**
+   * **Seis sombreros para pensar**
+   * **Brainwriting**
+   * **Consejo de sabios**
+   * **Lago Serious Play**
+   * **Impact Mapping**
+   * **WorldWide ideas**
+   * **Co-creación**
+   * **Ideación basada en sùoer héroes**
+   * **Exploración semántica**
+
+**Características**
+
+  * Entender por qué se genera la necesidad y por qué el usuario actúa de la forma que hace. <br>
+  * Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
+  * No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario', también conocer la problemática del proyecto y el modelo de negocio. <br>
+
+ ### Prototipar
 
 Volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
