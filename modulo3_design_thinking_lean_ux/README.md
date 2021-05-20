@@ -28,11 +28,11 @@ Puede ser de **manera lineal** o de **manera iterativa** (como en el método scr
 
 #### Pensamiento de Diseño
 
-Según Design Thinking en Español: <br>
+Según **Design Thinking en Español** : <br>
 
-«Es una metodología para generar ideas innovadoras que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios». <br>
+«Es una **metodología para generar ideas innovadoras** que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios». <br>
 
-Según Tim Brown, actual CEO de IDEO: <br>
+Según **Tim Brown** , actual CEO de IDEO: <br>
 “Es una disciplina que usa la sensibilidad y métodos de los diseñadores para hacer coincidir las necesidades de las personas <br>
 con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente, <br>
 así como en una gran oportunidad para el mercado”. <br>
@@ -54,13 +54,17 @@ Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analít
 
 ### Etapas del proceso : 
 
-- **Empatizar** : conocer por medio de la investigación las verdaderas necesidades del usuario <br>
-y el entorno que lo rodea. <br>
+- **Empatizar** : conocer por medio de la investigación las verdaderas necesidades del usuario y el entorno que lo rodea. <br>
+Sus características: <br>
+  * Ponerse en el lugar del otro, ver con sus ojos, sentir y experimentar con sus sentidos.
+  * Pretender entender la necesidad que se va a trabajar para el proyecto que se va a desarrollar.
+  * Es el entendimiento del comportamiento del usuario respecto al usaurio real, es el principio básico del diseño centrado en el usuario.
+  * Trabaja sobre necesidades reales. Para emjroar la vidda de las personas.
 
 - **Definir** : filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
 
 - **Idear** : generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
-- A veces las ideas más absurdas pueden dar solución. <br>
+A veces las ideas más absurdas pueden dar solución. <br>
 
 - **Prototipar** : volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
