@@ -54,7 +54,9 @@ Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analít
 
 ### Etapas del proceso : 
 
-- **Empatizar** : conocer por medio de la investigación las verdaderas necesidades del usuario y el entorno que lo rodea. <br>
+#### Empatizar
+
+Conocer por medio de la investigación las verdaderas necesidades del usuario y el entorno que lo rodea. <br>
 
 **Sus características:** <br>
 
@@ -84,7 +86,9 @@ Hay que entender por qué se generara la necesidad y por qué el usuario actúa 
 Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
 No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , también conocer la problemática del proyecto y el modelo de negocio.
 
-- **Definir** : filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
+#### Definir
+
+Filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
 
 ¿Cómo finltramos la información? ¿Cómo definiimos el problema? ¿Cómo detectamos insigths?
 DETECTANDO
@@ -96,13 +100,19 @@ DETECTANDO
   * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
   * Definimos las necesidades del cliente y por qué las necesita.
 
-- **Idear** : generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
+#### Idear
+
+Generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
 A veces las ideas más absurdas pueden dar solución. <br>
 
-- **Prototipar** : volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
+#### Prototipar
+
+Volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
 
-- **Testear** : probar los prototipos con los usuarios implicados en la solución. <br>
+#### Testear
+
+Probar los prototipos con los usuarios implicados en la solución. <br>
 Detectar fallas y/o carencias para mejorar y llegar a la solució más eficiente.
 
 ---
