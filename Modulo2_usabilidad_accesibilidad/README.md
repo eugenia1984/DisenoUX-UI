@@ -77,11 +77,13 @@ x ej: la lupa de buscar, agregar como navegador determinado, bajar extensiones, 
 información de Chrome, configuaración avanzada.
 
 8 - Estética y minimalismo
-Menos es más, eliminar el ruido visual, jerarquizar la información, quitar lo irrelevante.
+Menos es más, eliminar el ruido visual, jerarquizar la información, quitar lo irrelevante. <br>
+x ej la web de www.aynotdead.com
 
-9 - Comunicar errores con claridad
+9 - Comunicar errores con claridad: x ej, personalizar el error 404, lo aprovechamos, pedimos disculpas, y ponemos <br>
+un botón que te redirija a la home y dan posibles motivos (dan contención al usuario).
 
-10 - Ayuda y documentación
+10 - Ayuda y documentación: x ej el ícono de **i** de más información, el signo de **?** .
 
 ---
 
@@ -118,12 +120,68 @@ como lectores de pantallas. <br>
 
 ---
 
-#### Diversidad visual
+### Diversidad visual
 
 **Buenas prácticas :**
+- Utilizar un buen contraste de color un tamaño de tipografía legible.
+- Publicar toda al información.
+- Utilizr una combinación de color, formas y texto.
+- Mantener una composición lineal y lógica.
+- Utilizar botones y notificaciones en contexto.
 
 **Evitar :**
+- Utilizar contraste de color pobre y un tamaño de tipografía paqueno.
+- Ocultar informacion en descargables.
+- Utilizar únicamente color para asociar significados (como los colores del semáforo)
+- Separar acciones de su contexto
 
+### Diversidad auditiva
+
+**Buenas prácticas :**
+- Escribir en términos sencillos
+- Utilizar sub-títulos o proveer transcripcones para videos.
+- Utilizar un diseño lógico y lineal.
+- Dividir el contenido con sub-títulos, imágenes y videos.
+- Ubicar botones y notificaciones en contexto.
+
+**Evitar :**
+- Utilizar expresiones idiomáticas o regionalismo.
+- Poner contenido únicamente en audio o video.
+- REalizar diseño y menís complejos.
+- Hacer leer a los usuarios bloques largos de contenido.
+- Utilizar la vía tellefónica como único medio de contacto.
+
+### Diversidad motriz
+
+**Buenas prácticas :**
+- Usar acciones y enlaces grandes
+- Otorgar distancia a los campos de los formularios
+- Diseñar para operar con el teclado o el habla únicamente
+- DIseñar teniendo en mente los móviles y las pantallas tácticas
+- Ofrecer atajos
+
+**Evitar :**
+- Demandar precisión
+- Agrupar interacciones juntas
+- Realizar contenido dinámico que requiera mucho desplazamiento del ratón
+- Tener períodos de expiración breves en una tarrea
+- Requerir demasiada información y desplazamientos de pantalla
+
+### Diversidad Disléxica
+
+**Buenas prácticas :**
+- Utilizar imágenes y diagramas para dar soporte al texto
+
+**Evitar :**
+- Utilizar bloques extensos de denso texto.
+
+### Diseñando para lectores de pantallas
+
+**Buenas prácticas :**
+- Describir imágenes y proporcionar transcripciones para videos.
+
+**Evitar :**
+- Mostrar información únicamente en una imagen o video.
 ---
 
 ## PLANIFICACIÓN Y ORGANIZACIÓN PREVIA
