@@ -86,7 +86,7 @@ Hay que entender por qué se generara la necesidad y por qué el usuario actúa 
 Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
 No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , también conocer la problemática del proyecto y el modelo de negocio.
 
-////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
 
 ### Definir
 
@@ -123,7 +123,7 @@ DETECTANDO PATRONES
  - contexto de uso <br>
 
 
-////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
 
 ### Idear
 
@@ -169,7 +169,7 @@ SOLTARSE CRANEAR <BR>
   * Llevarnos soluciones y definir cuál son las ideas viables, en cuáles vamos a profundizar. Se busca una solución para poder prototipar y testear.
   * Si el resultado es malo hay que volver a la etapa anterior y encontrar un nuevo camino.
 
-////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
  
 ### Prototipar
 
@@ -178,7 +178,7 @@ detectando las primeras mejoras del producto. <br>
  
 **Sus características:** <br>
 
-  * Hacer físicas las ideas. Los prototipos pueden ser actuaciones, sketches, 3d, bocetos, ilustraciones. Tienen distintos tipos de fidelidad (sino llevan mucho tiempo y dinero, y hay que ahorrar). <br>
+  * **Hacer físicas las ideas**. Los prototipos pueden ser actuaciones, sketches, 3d, bocetos, ilustraciones. Tienen distintos tipos de fidelidad (sino llevan mucho tiempo y dinero, y hay que ahorrar). <br>
   * Pretende experiementar, crear y refinar modelos en 2 y 3 dimensiones con el fin de testearlos en la siguiente fase. Sino al menos se hacen bocetos en hoja. Hay que mostrar en un material visual.
   * Consumir la menor cantidad de recursos y tiempos, de modo que se puede ver/ testear las soluciones que han surgido en la etapa de ideación, lo antes posible.
  
@@ -210,13 +210,47 @@ MATERIALIZANDO SULUCIONES <br>
    * **Infografía**
    * Toolkit
  
-////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
  
 ### Testear
 
 Probar los prototipos con los usuarios implicados en la solución. <br>
 Detectar fallas y/o carencias para mejorar y llegar a la solució más eficiente.
 
+**Sus características:** <br>
+
+  * Abrir la **conversación** en base a prototipos, para extraer información de las **necesidades de los usuarios** y de cómo los **conceptos generados satisfacen o no** . <br>
+  * El **testeo** puede abrir puertas hacia profundozar en empatía, re-definir el posible problema, buscar más ideas en la fase de ideación, e incluso, retomar prototipos que se quedaron en el cambio. <br>
+
+ ¿Cómo generar conversaciones? ¿Cómo evaluar la experiencia? ¿Cómo iterar lo que sea necesario? <br>
+TESTEANDO <br>
+ 
+**Técnicas para utilizar**
+
+   * Interacción constructiva
+   * **Mapeo de experiencia de usario** , responde a una tarea en específico, se hace un recorte en un flujo en particular, x ej., la experiencia de pago, cómo decide descargar la app?.
+   * **Maquetas**
+   * **Mapeo de experiencia del cliente**
+   * Poster
+   * **Juego de roles**
+   * Prototipado en bruto
+   * Prototipo en imagen
+   * Prototipado de un servicio
+   * Mapa del sistema
+   * **Prueba de usabilidad**
+   * Casos de uso
+   * **Observación encubierta**
+   * Storytelling
+   * Grupos de enfoque (focus group)
+   * Toolkit
+   * Apuntes de testeo.
+
+  Al finalizar esta etapa deberíamos: <br>
+
+  * Identificar mejoras significativas, fallos a resolver, posibles carencias.
+  * Mejorar la necesidad que se está trabajando y lograr una óptima interacción con el usuario.
+  * Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución que estábamos buscando.
+ 
 ---
 
 ### ANTECEDENTES DEL MÉTODO CIENTÍFICO
