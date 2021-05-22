@@ -150,15 +150,18 @@ SOLTARSE CRANEAR <BR>
    * **Seis sombreros para pensar** : cada sombrero representa un rol, y ese rol le puede tocar a cualquiera, es para ver las distintas perspectivas. Cada sombrero tiene un color, y cada color representa algo. una misma temática con distintos puntos de vista.
    * **Brainwriting**
    * **Consejo de sabios**
-   * **Lago Serious Play**
+   * **Lego Serious Play** idear con Legos
    * **Impact Mapping**
    * **WorldWide ideas**
    * **Co-creación**
    * **Ideación basada en sùoer héroes**
    * **Exploración semántica**
+ 
+ Todas estas actividades son cronometradas, y en un tiempo definido se usa la imaginación. A veces se vuelve a repetir o se usa otra herramienta, pero siempre con tiempo cronometrado.
 
  Al finalizar esta etapa deberíamos tener definido: <br>
 
+  * Llevarnos soluciones y definir cuál son las ideas viables, en cuáles vamos a profundizar. Se busca una solución para poder prototipar y testear.
   * Si el resultado es malo hay que volver a la etapa anterior y encontrar un nuevo camino.
 
  ### Prototipar
@@ -168,10 +171,38 @@ detectando las primeras mejoras del producto. <br>
  
 **Sus características:** <br>
 
-  * Hacer físicas las ideas. Los prototipos pueden ser actuaciones, sketches, 3d, bocetos, ilustraciones. <br>
-  * Pretende experiementar, crear y refinar modelos en 2 y 3 dimensiones con el fin de testearlos en la sigueinte fase.
+  * Hacer físicas las ideas. Los prototipos pueden ser actuaciones, sketches, 3d, bocetos, ilustraciones. Tienen distintos tipos de fidelidad (sino llevan mucho tiempo y dinero, y hay que ahorrar). <br>
+  * Pretende experiementar, crear y refinar modelos en 2 y 3 dimensiones con el fin de testearlos en la siguiente fase. Sino al menos se hacen bocetos en hoja. Hay que mostrar en un material visual.
   * Consumir la menor cantidad de recursos y tiempos, de modo que se puede ver/ testear las soluciones que han surgido en la etapa de ideación, lo antes posible.
+ 
+¿Cómo crear prototipos? ¿Cómo refinar prototipos ? Al menor costo y tiempo<br>
+MATERIALIZANDO SULUCIONES <br>
 
+**Técnicas para utilizar**
+
+   * Inmersión cognitiva
+   * Interacción Constructiva
+   * Mapa de interacción de usuario
+   * **Dibujo en grupo**
+   * Evaluación controlada
+   * Mapa Mental
+   * Maquetas
+   * Mapa de ofertas
+   * **Personas**
+   * **Juego de roles**
+   * **Prototipado de Apps en papel**
+   * Prototipado en bruto**
+   * Prototipo en imágen
+   * Cuenta cuentos
+   * **Storyboard o guión gráfico**
+   * Mapa del sistema
+   * **Casos de uso**
+   * Lego Serious Play
+   * **Figma ó Adobe XD**
+   * Impact Mapping
+   * **Infografía**
+   * Toolkit
+ 
 ### Testear
 
 Probar los prototipos con los usuarios implicados en la solución. <br>
