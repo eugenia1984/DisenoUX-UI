@@ -252,13 +252,65 @@ TESTEANDO <br>
   * Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución que estábamos buscando.
  
 ---
+### CONSIDERACIONES IMPORTANTES
+ 
+-Es una forma de explorar ideas. Nada se descarta en sus inicios, nada es absurdo, todo se prueba <br>
+-Es una forma iterativa de trabajar, es decir, se piensa, se construye, se evalúa, y se repite lo mismo una y otra vez. <br>
+-En poco tiempo tengo un conjunto grande de ideas que se han desarrollado a un buen nivel para poder tomar una decisión informada.<br>
+-La exploración de nuevos productos, servicios o ideas en general, no obedecen a estudios de mercado, sino más bien a “ponerme en los zapatos” de quién utiliza mis productos o servicios. Es vivir la experiencia de mi propio servicio y producto. <br>
+-Acelera la posibilidad de partir de una idea y llevarla al mercado.  <br>
+-Permite desarrollar de forma colectiva. Pueden participar todos los miembros de una organización o empresa.<br>
+-Tiene un objetivo muy claro, pero permiten suficiente libertad para explorar.<br>
+-Participan aquellos que conocen el producto o servicio, que además tienen un conocimiento amplio de lo que sucede en el mundo, y personas que conocen tendencias tanto locales como mundiales.
+ 
+---
 
+**Ejemplo Ux - Ikea Place (app)**
+ 
+Caso de estudio | Medium | @HausJiang <br>
+
+https://medium.com/@HausJiang/ux-casestudy-ikea-place-a66319510023  <br>
+
+ 
+--- 
+ 
 ### ANTECEDENTES DEL MÉTODO CIENTÍFICO
 
 ---
 
 ### LEAN UX
+ 
+La **metodología Lean** proviene de **Lean Manufacturing**, un **método** que la **Toyota**, implementó en su ensambladora para mejorar el proceso de producción de automóviles. La empresa japonesa incluyó a sus usuarios en todos los ciclos de producción y se dedicó a oír sus opiniones. Lo que hizo que el usuario se sintiera
+importante e incluido, logrando perfeccionar sus productos. <br>
+ 
+ 
+**Lean Startup:** 
+Es una metodología focalizada en el desarrollo de empresas (negocios), que busca un acortamiento de los ciclos de desarrollo con objetivo de descubrir tempranamente si el modelo de negocio es viable. <br>
+Mediante la construcción de un **MVP (Minimun Viable Product)** testando, obteniendo información relativa a ese proceso de prueba y validando el aprendizaje y así hasta validar la hipótesis o descartarla. <br> 
 
+ 
+El término **‘Agile’** se refiere a las metodologías ágiles. <br>
+Enfoque incremental e iterativo para gestionar los proyectos. <br>
+Deriva del Manifiesto Ágil de 2001 y, aunque surgió en el ámbito del Software, ya se exporta para abarcar muchos otros proyectos. <br>
+Si seguimos un desarrollo ágil estaremos siguiendo un ciclo de vida adaptativo frente a los cambios constantes, con mucha rapidez debido a nuevas decisiones del cliente o cambios en el entorno.<br>
+Tiene la peculiaridad de que el producto va evolucionando a lo largo de todo el proyecto, por lo que ni se diseña ni se planifica por adelantado, sino que se va creando y presentando el producto al cliente en intervalos cortos que se conocen como **‘sprints’**.
+ 
+ 
+**LEAN UX**
+ 
+Es un método que permite crear productos que sigan todos los requerimientos de los usuarios, reduciendo la posibilidad de fracasar, agilizando su tiempo de producción y logrando los objetivos buscados en un tiempo más corto. <br>
+Elimina elementos que no aportan algo útil al cliente y se basa en el aprendizaje para lograr perfeccionar
+sus productos. <br>
+Lean UX es una serie de principios y procesos teniendo como base la efectividad, agilidad e iteración en la
+validación de hipótesis para la creación de soluciones de acuerdo al feedback temprano de los usuarios finales. <br>
+ 
+ **Etapas de la metodología:**
+ 
+ -VALIDAR <br>
+ -PENSAR <br>
+ -HACER <br>
+ 
+ 
 ---
 
 ### RESEARCH (investigación)
