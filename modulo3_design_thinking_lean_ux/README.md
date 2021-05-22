@@ -86,6 +86,8 @@ Hay que entender por qué se generara la necesidad y por qué el usuario actúa 
 Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
 No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , también conocer la problemática del proyecto y el modelo de negocio.
 
+*******************************************
+
 ### Definir
 
 Filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
@@ -119,6 +121,9 @@ DETECTANDO PATRONES
  - objetivos del cliente <br>
  - necesidades del proyecto <br>
  - contexto de uso <br>
+
+
+*******************************************
 
 ### Idear
 
@@ -164,7 +169,10 @@ SOLTARSE CRANEAR <BR>
   * Llevarnos soluciones y definir cuál son las ideas viables, en cuáles vamos a profundizar. Se busca una solución para poder prototipar y testear.
   * Si el resultado es malo hay que volver a la etapa anterior y encontrar un nuevo camino.
 
- ### Prototipar
+ 
+*******************************************
+ 
+### Prototipar
 
 Volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
@@ -202,6 +210,9 @@ MATERIALIZANDO SULUCIONES <br>
    * Impact Mapping
    * **Infografía**
    * Toolkit
+ 
+
+******************************************* 
  
 ### Testear
 
