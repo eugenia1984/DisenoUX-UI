@@ -254,14 +254,21 @@ TESTEANDO <br>
 ---
 ### CONSIDERACIONES IMPORTANTES
  
--Es una forma de explorar ideas. Nada se descarta en sus inicios, nada es absurdo, todo se prueba <br>
--Es una forma iterativa de trabajar, es decir, se piensa, se construye, se evalúa, y se repite lo mismo una y otra vez. <br>
--En poco tiempo tengo un conjunto grande de ideas que se han desarrollado a un buen nivel para poder tomar una decisión informada.<br>
--La exploración de nuevos productos, servicios o ideas en general, no obedecen a estudios de mercado, sino más bien a “ponerme en los zapatos” de quién utiliza mis productos o servicios. Es vivir la experiencia de mi propio servicio y producto. <br>
--Acelera la posibilidad de partir de una idea y llevarla al mercado.  <br>
--Permite desarrollar de forma colectiva. Pueden participar todos los miembros de una organización o empresa.<br>
--Tiene un objetivo muy claro, pero permiten suficiente libertad para explorar.<br>
--Participan aquellos que conocen el producto o servicio, que además tienen un conocimiento amplio de lo que sucede en el mundo, y personas que conocen tendencias tanto locales como mundiales.
+* Es una forma de explorar ideas. Nada se descarta en sus inicios, nada es absurdo, todo se prueba <br>
+
+* Es una forma iterativa de trabajar, es decir, se piensa, se construye, se evalúa, y se repite lo mismo una y otra vez. <br>
+
+* En poco tiempo tengo un conjunto grande de ideas que se han desarrollado a un buen nivel para poder tomar una decisión informada.<br>
+
+* La exploración de nuevos productos, servicios o ideas en general, no obedecen a estudios de mercado, sino más bien a “ponerme en los zapatos” de quién utiliza mis productos o servicios. Es vivir la experiencia de mi propio servicio y producto. <br>
+
+* Acelera la posibilidad de partir de una idea y llevarla al mercado.  <br>
+
+* Permite desarrollar de forma colectiva. Pueden participar todos los miembros de una organización o empresa.<br>
+
+* Tiene un objetivo muy claro, pero permiten suficiente libertad para explorar.<br>
+
+* Participan aquellos que conocen el producto o servicio, que además tienen un conocimiento amplio de lo que sucede en el mundo, y personas que conocen tendencias tanto locales como mundiales.
  
 ---
 
@@ -288,46 +295,48 @@ importante e incluido, logrando perfeccionar sus productos. <br>
 Es una metodología focalizada en el desarrollo de empresas (negocios), que busca un acortamiento de los ciclos de desarrollo con objetivo de descubrir tempranamente si el modelo de negocio es viable. <br>
 Mediante la construcción de un **MVP (Minimun Viable Product)** testando, obteniendo información relativa a ese proceso de prueba y validando el aprendizaje y así hasta validar la hipótesis o descartarla. <br> 
 
-Se investiga, se genera una hpótesis, se crea un mínimo producto viable, se crea, se lanza, se testea, y así se va repitiendo el ciclo. 
+Se investiga, se genera una hpótesis, se crea un mínimo producto viable, se crea, se lanza, se testea, y así se va repitiendo el ciclo. <br>
+
+Hay un **equipo colaborativo**. <br>
 
  
-El término **‘Agile’** se refiere a las metodologías ágiles. <br>
-Enfoque incremental e iterativo para gestionar los proyectos. <br>
+El término **‘Agile’** se refiere a las **metodologías ágiles**. <br>
+**Enfoque incremental e iterativo** para gestionar los proyectos. <br>
 Deriva del Manifiesto Ágil de 2001 y, aunque surgió en el ámbito del Software, ya se exporta para abarcar muchos otros proyectos. <br>
-Si seguimos un desarrollo ágil estaremos siguiendo un ciclo de vida adaptativo frente a los cambios constantes, con mucha rapidez debido a nuevas decisiones del cliente o cambios en el entorno.<br>
-Tiene la peculiaridad de que el producto va evolucionando a lo largo de todo el proyecto, por lo que ni se diseña ni se planifica por adelantado, sino que se va creando y presentando el producto al cliente en intervalos cortos que se conocen como **‘sprints’**.
+Si seguimos un desarrollo ágil estaremos siguiendo un **ciclo de vida adaptativo frente a los cambios constantes**, con mucha **rapidez** debido a **nuevas decisiones del cliente** o **cambios en el entorno**.<br>
+Tiene la peculiaridad de que el **producto** va **evolucionando a lo largo de todo el proyecto**, por lo que ni se diseña ni se planifica por adelantado, sino que se va creando y presentando el producto al cliente en intervalos cortos que se conocen como **‘sprints’**.
  
  
 **LEAN UX**
  
-Es un método que permite crear productos que sigan todos los requerimientos de los usuarios, reduciendo la posibilidad de fracasar, agilizando su tiempo de producción y logrando los objetivos buscados en un tiempo más corto. <br>
-Elimina elementos que no aportan algo útil al cliente y se basa en el aprendizaje para lograr perfeccionar
+Es un método que permite crear **productos que sigan todos los requerimientos de los usuarios**, **reduciendo** la posibilidad de fracasar, **agilizando** su tiempo de producción y logrando los objetivos buscados en un tiempo más corto. <br>
+Elimina elementos que no aportan algo útil al cliente y se basa en el **aprendizaje** para lograr perfeccionar
 sus productos. <br>
-Lean UX es una serie de principios y procesos teniendo como base la efectividad, agilidad e iteración en la
-validación de hipótesis para la creación de soluciones de acuerdo al feedback temprano de los usuarios finales. <br>
+Lean UX es una serie de principios y procesos teniendo como base la **efectividad**, **agilidad** e **iteración** en la validación de hipótesis para la creación de soluciones de acuerdo al feedback temprano de los usuarios finales. <br>
  
- **Etapas de la metodología:**
+### ETAPAS DE LA METODOLOGÍA:
  
 
-#### PENSAR 
+#### Pensar
  
-La etapa de pensamiento es donde se aborda de manera efectiva un problema con el fin de llegar a una hipótesis.<br>
+La etapa de pensamiento es donde se aborda de manera efectiva un problema con el fin de llegar a una **hipótesis**.<br>
 Se planteará el problema y luego generará ideas y suposiciones. <br>
 Las suposiciones son declaraciones que se cree que son ciertas y ayudan a los diseñadores a comprender una idea que conducirá a una hipótesis.
 
 Esta etapa implica: <br>
-  * Investigación generativa <br>
+ 
+  * Investigación generativa. generar material <br>
   * Creando suposiciones <br>
   * Ideación <br>
   * Modelos mentales <br>
   * Modelos de comportamiento <br>
   * Análisis competitivo <br>
  
-#### HACER 
+#### Hacer
  
-La etapa de hacer es donde los diseñadores de UX y UI crean soluciones a las hipótesis que generaron durante la etapa de reflexión. <br>
-Aquí es donde se pasa de pensamientos abstractos a soluciones más específicas. <br>
-Lean UX, en particular, realmente se presta a la creación de prototipos, tanto de baja fidelidad como de alta fidelidad. <br>
+La etapa de hacer es donde los diseñadores de UX y UI crean **soluciones** a las hipótesis que generaron durante la etapa de reflexión. <br>
+Aquí es donde se pasa de pensamientos abstractos a **soluciones más específicas**. <br>
+Lean UX, en particular, realmente se presta a la creación de **prototipos**, tanto de baja fidelidad como de alta fidelidad. <br>
 Dado que implica probar múltiples hipótesis en un período de tiempo rápido, permitiendo a los diseñadores construir sobre sus hipótesis con un esfuerzo mínimo. <br>
  
 Esta etapa implica: <br>
@@ -335,13 +344,12 @@ Esta etapa implica: <br>
    * Prototipos <br>
    * Wireframes <br>
    * Propuesta de valor <br>
-   * Páginas de destino<br> 
+   * Páginas de destino (landing page)<br> 
 
-#### VALIDADR
+#### Validar
 
-Validar implica, nada más y nada menos, que poner a prueba las soluciones propuestas. <br>
-Se trata de testear los prototipos con usuarios reales para obtener datos concretos y fiables
-acerca de la potencialidad de éxito de nuestro producto. <br>
+Validar implica, nada más y nada menos, que **poner a prueba las soluciones propuestas**. <br>
+Se trata de testear los prototipos con usuarios reales para obtener datos concretos y fiables acerca de la potencialidad de éxito de nuestro producto. <br>
 
 Esta etapa implica: <br>
   * Pruebas A/B <br> 
@@ -353,16 +361,17 @@ Esta etapa implica: <br>
 ### Principios del Lean Ux 
  
 **Según Jeff Gothelf :*
+ 
 “Es fundamental que las compañías sigan los siguientes principios sobre la <br>
 organización de los equipos de trabajo, la transformación de la cultura interna de <br>
 la empresa y la optimización de los procesos de diseño”. <br>
  
 **Equipos de trabajo**
 
--Multidisciplinario <br>
--Pequeño, localizado y dedicado <br>
--Autosuficiente y empoderado <br>
--Enfocado en el problema  <br>
+  * Multidisciplinario <br>
+  * Pequeño, localizado y dedicado <br>
+  * Autosuficiente y empoderado <br>
+  * Enfocado en el problema  <br>
  
 **Cultura interna**
  
