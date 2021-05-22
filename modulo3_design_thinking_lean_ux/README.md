@@ -265,7 +265,7 @@ TESTEANDO <br>
  
 ---
 
-**Ejemplo Ux - Ikea Place (app)**
+**Ejemplo Ux - Ikea Place (app)** una app de realidad aumentada, para saber cómo va a quedar el mueble donde lo voy a usar.
  
 Caso de estudio | Medium | @HausJiang <br>
 
@@ -288,6 +288,8 @@ importante e incluido, logrando perfeccionar sus productos. <br>
 Es una metodología focalizada en el desarrollo de empresas (negocios), que busca un acortamiento de los ciclos de desarrollo con objetivo de descubrir tempranamente si el modelo de negocio es viable. <br>
 Mediante la construcción de un **MVP (Minimun Viable Product)** testando, obteniendo información relativa a ese proceso de prueba y validando el aprendizaje y así hasta validar la hipótesis o descartarla. <br> 
 
+Se investiga, se genera una hpótesis, se crea un mínimo producto viable, se crea, se lanza, se testea, y así se va repitiendo el ciclo. 
+
  
 El término **‘Agile’** se refiere a las metodologías ágiles. <br>
 Enfoque incremental e iterativo para gestionar los proyectos. <br>
@@ -306,10 +308,75 @@ validación de hipótesis para la creación de soluciones de acuerdo al feedback
  
  **Etapas de la metodología:**
  
- -VALIDAR <br>
- -PENSAR <br>
- -HACER <br>
+
+#### PENSAR 
  
+La etapa de pensamiento es donde se aborda de manera efectiva un problema con el fin de llegar a una hipótesis.<br>
+Se planteará el problema y luego generará ideas y suposiciones. <br>
+Las suposiciones son declaraciones que se cree que son ciertas y ayudan a los diseñadores a comprender una idea que conducirá a una hipótesis.
+
+Esta etapa implica: <br>
+  * Investigación generativa <br>
+  * Creando suposiciones <br>
+  * Ideación <br>
+  * Modelos mentales <br>
+  * Modelos de comportamiento <br>
+  * Análisis competitivo <br>
+ 
+#### HACER 
+ 
+La etapa de hacer es donde los diseñadores de UX y UI crean soluciones a las hipótesis que generaron durante la etapa de reflexión. <br>
+Aquí es donde se pasa de pensamientos abstractos a soluciones más específicas. <br>
+Lean UX, en particular, realmente se presta a la creación de prototipos, tanto de baja fidelidad como de alta fidelidad. <br>
+Dado que implica probar múltiples hipótesis en un período de tiempo rápido, permitiendo a los diseñadores construir sobre sus hipótesis con un esfuerzo mínimo. <br>
+ 
+Esta etapa implica: <br>
+
+   * Prototipos <br>
+   * Wireframes <br>
+   * Propuesta de valor <br>
+   * Páginas de destino<br> 
+
+#### VALIDADR
+
+Validar implica, nada más y nada menos, que poner a prueba las soluciones propuestas. <br>
+Se trata de testear los prototipos con usuarios reales para obtener datos concretos y fiables
+acerca de la potencialidad de éxito de nuestro producto. <br>
+
+Esta etapa implica: <br>
+  * Pruebas A/B <br> 
+  * Card Sorting <br> 
+  * Pruebas beta <br> 
+  * Juegos de roles <br> 
+  * Observación encubierta <br> 
+ 
+### Principios del Lean Ux 
+ 
+**Según Jeff Gothelf :*
+“Es fundamental que las compañías sigan los siguientes principios sobre la <br>
+organización de los equipos de trabajo, la transformación de la cultura interna de <br>
+la empresa y la optimización de los procesos de diseño”. <br>
+ 
+**Equipos de trabajo**
+
+-Multidisciplinario <br>
+-Pequeño, localizado y dedicado <br>
+-Autosuficiente y empoderado <br>
+-Enfocado en el problema  <br>
+ 
+**Cultura interna**
+ 
+-De la duda a la certeza <br>
+-Resultados, no entregables <br>
+-Conocimiento compartido <br>
+-Mentalidad de equipo <br>
+-Permiso para equivocarse <br>
+ 
+**Cultra interna**
+
+-Pasos pequeños <br>
+-Descubrimiento continuo <br>
+-Externalizar el trabajo <br>
  
 ---
 
