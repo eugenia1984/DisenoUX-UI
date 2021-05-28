@@ -391,6 +391,21 @@ la empresa y la optimización de los procesos de diseño”. <br>
 
 ### RESEARCH (investigación)
 
+**UX RESEARCH (investigación de usuarios): ¿qué es?**
+
+Es el proceso de **investigación** para entender a los **usuarios** que van a usar nuestro **producto digital**, es la investigación que debemos hacer para detectar las **necesidades  profundas** de los **usuarios**. <br>
+ PAra comprender dichas necesidades, tenemos que entender a los usuarios, y para entenderlos debemos **observar** su **comportamiento**, **cómo piensan**, **qué necesitan**, que quieren conseguir** y **qué motiva** a las personas que van a utilizar nuestro producto o servicio. <br>
+ 
+ **La importancia de la investigación de usuarios** <br>
+ 
+  * Tiene como princial objetivo revelar **información de valor** para incorporar en el proceso de diseño y así obtener un mejor resultado de nuestro producto, debido a que podrá entender que es lo que realmente necesitan los usuarios.
+ 
+  * Incluir el UX Research en el proceso de diseño ayudará a generar productos más exitosas que podrán brindarle al cliente una buena experiencia y satisfacer de manera efectiva las necesidades o problemas reales que estos tengan.
+ 
+  * Permite obtener datos fiables, que nos acercan a los clientes reales y entender cómo será su interacción con nuestro producto en las distintas etapas del proceso de diseño.
+ 
+**EL research no es una etapa, sino un estado.** 
+ 
 ---
 
 ### BENCHMARK
@@ -406,6 +421,8 @@ la empresa y la optimización de los procesos de diseño”. <br>
 ---
 
 ### CREACIÓN DEL USER PERSONA
+
+Puede ser uno o más **user persona**, son los ejemplos de quienes van a ser nuestros usuarios. También se puede crear una persona que sabemos que no va a ser nuestro usuario.
 
 ---
 
