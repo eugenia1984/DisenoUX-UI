@@ -396,15 +396,38 @@ la empresa y la optimización de los procesos de diseño”. <br>
 Es el proceso de **investigación** para entender a los **usuarios** que van a usar nuestro **producto digital**, es la investigación que debemos hacer para detectar las **necesidades  profundas** de los **usuarios**. <br>
  PAra comprender dichas necesidades, tenemos que entender a los usuarios, y para entenderlos debemos **observar** su **comportamiento**, **cómo piensan**, **qué necesitan**, que quieren conseguir** y **qué motiva** a las personas que van a utilizar nuestro producto o servicio. <br>
  
- **La importancia de la investigación de usuarios** <br>
+ **La importancia de la investigación de usuarios :** <br>
  
   * Tiene como princial objetivo revelar **información de valor** para incorporar en el proceso de diseño y así obtener un mejor resultado de nuestro producto, debido a que podrá entender que es lo que realmente necesitan los usuarios.
  
-  * Incluir el UX Research en el proceso de diseño ayudará a generar productos más exitosas que podrán brindarle al cliente una buena experiencia y satisfacer de manera efectiva las necesidades o problemas reales que estos tengan.
+  * Incluir el UX Research en el proceso de diseño ayudará a generar **productos más exitosos** que podrán brindarle al cliente una **buena experiencia** y **satisfacer** de manera **efectiva** las **necesidades** o **problemas** reales que estos tengan.
  
-  * Permite obtener datos fiables, que nos acercan a los clientes reales y entender cómo será su interacción con nuestro producto en las distintas etapas del proceso de diseño.
+  * Permite obtener **datos fiables**, que nos acercan a los clientes reales y entender cómo será su interacción con nuestro producto en las distintas etapas del proceso de diseño.
  
-**EL research no es una etapa, sino un estado.** 
+**El research no es una etapa, sino un estado.** <br>
+ 
+**¿ En qué etapas investigamos?** <br>
+ 
+En **todas**, no dejamos de investigar nunca.<br>
+ 
+  * **Empezar / Definir :** Al **comienzo del proyecto**, el *e*ecolectar información previa** a comenzar a diseñar permite entender a quienes le estamos diseñando, conocer los requisitos del proyecto de las partes interesadas y conocer las necesidades y objetivos de los usuarios finales, si realmente la solución que tenemos planteada responde a esas necesidades. <br>
+Va de la mano del Design Thinking, de empatizar con el usuario y conocerlo.<br>
+Conocer su **comportamiento** y el **entorno** en el que se desenvolverá nuestro producto antes de domenzar el diseño, nos permite descubrir si merece la pena o no intentar su desarrollo. Por ello, analizar su nicho de mercado, a la competencia y las posibles amenazas a las que se pueda enfrentar nos permite diseñarlo teniendo en cuenta estos factores. <br>
+ 
+  * **Idear / prototipar :** Durante el proceso de diseño, cuando se diseña un producto siempre queremos que este sea **exitoso** y que ofrezca una **buena experiencia a los usuarios**, por lo que durante todo le proceso de diseño es conveniente **ir probando con los usuarios los avances que se van teniendo para así realizar mejoras en el camino**, analizar su **comportamiento** y conocer los **problemas** que se le presentan, de cara a mejorar la eficacia de nuestro producto, en lugar de esperar al final. <br>
+ 
+  * **Testear :** Cuando el **producto está listo para salir**. Ya cuando el producto está listo se debe **probar** para confirmar que las **mejoras** que fueron hechas en el proceso sí surgieron un efecto positivo, además la UX Research no debe darse por terminada jamás, ya que siempre existirán **aspectos para mejorar el producto** y darle una **excelente experiencia al usuario**. <br>  
+ 
+**¿ Qué tipo de investigación podemos hacer ?**
+ 
+  * **Investigación cualitativa : ** es una investigación exploratoria que nos ayuda a **comprender por qué las  personas  hacen las cosas que hacen**, se realiza para detectar las **motivaciones** y **necesidades** más profundas de los usuarios. <br>
+ Está más relacionado con las emociones, por lo que hay que tener empatía en el trato. <br>
+En términos generales, los métodos cualitativos no están estructurados en gran medida, tienden a ser **subjetivos** y lo que se busca es establecer ideas y teorías (que luego serán probadas utilizando enfoques cualitativos). Suelen ser nuestras de menor tamaño y requieren cierto grado de facilitación práctica. Con la investigación cualitativa, los comportamientos y actitudes de los usuarios se recopilan directamente. <br>
+Se debe realizar una investigación cualitativa con cuidado. Como implica la recopilación de datos no numéricos (por ejemplo: opiniones, motivaciones) existe el riesgo que las opiniones personales influyan en los resultados. <br>
+Pueden ser 5 o 7 los entrevistados, tiene muy buena selección de perfil del usuario. Es muy  importante el rol del investigador, debe insentivar a que el enrevistado aporte, no puede influir en la respuestas, debe ser objetivo.<br>
+ 
+  * **Investigación Cuantitativa:** son en gran medida estructurados, tienden a ser objetivos, recopila datos medibles sobre lo que hacen los usuarios (por ejemplo: ¿qué porcentaje de personas hicieron click en un CTA (llamada a la acción)?) y prueba las suposiciones que se extrajeron de la investigación cualitastiva. Suelen tener **tamaño de muestras más grandes** y se pueden ejecutar de forma más directa.<br>
+Con la investigación cualitativa, los comportamientos y actitudes de los usuarios se recopilan indirectamente. Es un método valioso para comprender las probabilidades estadísticas y lo que está sucediendo en un sitio o en una aplicación. Sim embargo, los datos cuantitativos por si solos no pueden  revelar conocimientos humanos más profundos.
  
 ---
 
