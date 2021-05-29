@@ -1,4 +1,4 @@
-# PoloticMisiones Introduccion a Diseño Un / UI
+# PoloticMisiones Introduccion a Diseño UX / UI
 
 ---
 
