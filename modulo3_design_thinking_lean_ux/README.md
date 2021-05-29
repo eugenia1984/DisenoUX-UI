@@ -420,27 +420,106 @@ Conocer su **comportamiento** y el **entorno** en el que se desenvolverá nuestr
  
 **¿ Qué tipo de investigación podemos hacer ?**
  
-  * **Investigación cualitativa : ** es una investigación exploratoria que nos ayuda a **comprender por qué las  personas  hacen las cosas que hacen**, se realiza para detectar las **motivaciones** y **necesidades** más profundas de los usuarios. <br>
+  * **Investigación cualitativa :** es una investigación exploratoria que nos ayuda a **comprender por qué las  personas  hacen las cosas que hacen**, se realiza para detectar las **motivaciones** y **necesidades** más profundas de los usuarios. <br>
  Está más relacionado con las emociones, por lo que hay que tener empatía en el trato. <br>
 En términos generales, los métodos cualitativos no están estructurados en gran medida, tienden a ser **subjetivos** y lo que se busca es establecer ideas y teorías (que luego serán probadas utilizando enfoques cualitativos). Suelen ser nuestras de menor tamaño y requieren cierto grado de facilitación práctica. Con la investigación cualitativa, los comportamientos y actitudes de los usuarios se recopilan directamente. <br>
 Se debe realizar una investigación cualitativa con cuidado. Como implica la recopilación de datos no numéricos (por ejemplo: opiniones, motivaciones) existe el riesgo que las opiniones personales influyan en los resultados. <br>
 Pueden ser 5 o 7 los entrevistados, tiene muy buena selección de perfil del usuario. Es muy  importante el rol del investigador, debe insentivar a que el enrevistado aporte, no puede influir en la respuestas, debe ser objetivo.<br>
  
   * **Investigación Cuantitativa:** son en gran medida estructurados, tienden a ser objetivos, recopila datos medibles sobre lo que hacen los usuarios (por ejemplo: ¿qué porcentaje de personas hicieron click en un CTA (llamada a la acción)?) y prueba las suposiciones que se extrajeron de la investigación cualitastiva. Suelen tener **tamaño de muestras más grandes** y se pueden ejecutar de forma más directa.<br>
-Con la investigación cualitativa, los comportamientos y actitudes de los usuarios se recopilan indirectamente. Es un método valioso para comprender las probabilidades estadísticas y lo que está sucediendo en un sitio o en una aplicación. Sim embargo, los datos cuantitativos por si solos no pueden  revelar conocimientos humanos más profundos.
+Con la investigación cualitativa, los comportamientos y actitudes de los usuarios se recopilan indirectame; no se está en contacto cara a cara, se obtienen por medio de formularios. Es un método valioso para comprender las probabilidades estadísticas y lo que está sucediendo en un sitio o en una aplicación. <br>
+Los datos cuantitativos por si solos no pueden revelar conocimientos humanos más profundos.<br>
+Hay software (mapas de calor) que ven donde hay más ctividad en la pantalla, para ver si cumple con el diseño UI.<br>
  
+**Puntos claves de la investigación** <br>
+ 
+  * **Observar** detalles, comportamientos, características de los usuarios (en la metodología cualitativa se hace más énfasis, llevar anotaciones, captar todos los detalles, que pueden ser futuras hipótesis; siempre tratar de ser objetivos). <br>
+ 
+  * **Empatizar** conectar, acercarse y escuchar(poder escuchar, ser cercanos a los usuarios, igualmente en un formulario también debemos ser empáticos). <br>
+ 
+  * **Analizar**  descubrimientos en boca de personas (ver qué patrones se repiten, al entrecruzar los datos recolectados, van a ser caminos para encarar futuras etapas, futuras posibles soluciones). <br>
+
+
 ---
 
-### BENCHMARK
+### PROCESO DEL RESEARCH UX 
+
+  * DETECTANDO Y DEFINIENDO EL PROBLEMA: un **buen enunciado del problema** ( debemos saber **qué** vamos a investigar; se recomienda empezar con un verbo maás específico, como: describir, evaluar, identificar, y evitar los verbos muy abarcativos, como: explorar o entender) y de los objetivos (debemos saber **por qué** lo vamos a investigar) que se definen en consecuencia son claves para una investigación de calidad. <br>
+El buen enunciado describe el tema de estudio y el objetivo, se entiende bien donde enmarcamos, qué objetivos tenemos, qué temética abarcamos, qué vamos a estudiar. Debemos tener ese norte al que queremos llegar.<br>
+Las hipótesis son el mejor intento para resolver el problema, es un camino hacia el cuál vamos a ir transitando en el proceso de research, tratando de validarlas, desafiarlas, anular hasta tener datos certeros.<br>
+Un ejemplo: tenemos un e-commerce, pero hay ruido en el proceso de compra, nos avisan de soporte. Entonces hacemos una investigación para saber cuál es la razón por la cuál el usuario tiene dudas al momento de hacer la compra? Qué le pasa al usuario? (este es el problama). Y planteamos la hipótesis: nuestro proceso de compra actual es complejo para nuestros usuarios.<br>
+ 
+  * PLANIFICACIÓN: definir previamente **cuáles** y **cuántos** son esos recursos a usar para llevar adelante la investigación. Definimos cuáles son las mejores **herramientas** / **métodos**, lo que mejor se acondicione, a veces si no encontramos lo que buscamos, debemos cambiar de herramientas/método. <br>
+"Crear un plan de proyecto, estructura tus pensamientos en la actividad de investigación. Nos ayuda a abstraernos y enfocarnos." Por esto es muy importante planificar: qué herramientas usaremos? <br>
+-Propósitos del plan.<br>
+-Propósito y objetivos del proceso de investigación. <br>
+-Información sobre cómo se conducirá la investigación, la información básica del producto, el método empleado y la lógica de la investigación.<br>
+-Tareas del usuario.<br>
+-Perfiles de usuario (para el test con usuarios).<br>
+-Encuesta en pantalla a los usuarios y plan de reclutamiento (para el test con usuarios).<br>
+-Equipo: expactativas y roles. Lista de tareas.<br>
+-Guía para la observadores sobre cómo preguntar y tomar notas, incluyendo cómo colaborar de una manera en la recogida de datos sin sesgar el proceso. Hay que prepararse y tener en cuenta muchas cosas (tener en cuenta el contexto, estar preparados).<br>
+-Cronograma.<br>
+-Guión para el facilitador con las preguntas para los participantes, incluyendo las narrativas para los usuarios.<br> 
+ 
+ 
+  * EJECUCIÓN: **salida a campo**, **recolección de datos**, sea con la metodología que sea. Es la puesta en práctica. <br>
+Con todo lo anterior definido, ya podemos dar comienzo al proceso de recaudación de datos. <br>
+Hay que ser empáticos, peor no condicionar las respuestas.<br>
+Existen **herramientas** que responden a enfoques cualitativos, explorando opiniones, enfoques cuantitativos, probando opiniones mediante la exploración de datos numéricos o porcentuales. Tenemos enfoques conductuales, observar a usuarios, explorando sus actitudes y opiniones. Además podemos clasificarlos en ralación en relación a la etapa del diseño en las que nos encontramos, tanto si usamos Design Thinking o Lean Ux.<br>
+Podemos decir que en un principio este investigacióon en **muchísimo más exhaustiva**, ya que es el momento en donde debemos conocerlo y descubrirlo al usuario, pero como dijimos antes no es el único momento, analizar las pruebas y los testeos son parte de la investigación del usuario.<br>  
+Algunas herramientas: <br>
+- <br> 
+ 
+  * ANÁLISIS Y REPORTE DE RESULTADOS: procesar estos datos, detectar patrones y sacar conclusiones. Hacer un análisis y un reporte. <br>
 
 ---
 
-### ENTREVISTAS
+# Herramientas para dar un pantallazo: 
+ 
+### DESK RESEARCH
 
----
+La investigación de escritorio consiste en la primera inmersión en el tema.<br>
+Incluye cualquier tipo de acercamiento. <br>
+-Googlear <br>
+-Leer un libro<br>
+-Probar algún producto<br>
+-Hablar con un conocido<br>
+-Hablar con un profesional del tema<br>
+-Mirar la competencia<br>
 
-### DETECTANDO Y DEFINIENDO EL PROBLEMA
+Todo lo que sirva para poder terminar con una idea inicial de lo que estamos investigando. 
+ 
+### ENTREVISTAS CON  STAKENHOLDERS 
+ 
+Es la herramienta que posibilita a los diseñadores y estrategas UX conocer en profundidad el modelo de negocio del cliente, su realidad tecnológica, sus aspiraciones, sus opiniones sobre su competencia y sus clientes - actuales, potenciales e ideales- y el ecosistema donde se moverá el producto a diseñar.<br>
+En pocas palabras, es una técnica de análisis cualitativo y de recolección de información basado en entrevistas.<br> 
+ 
+### BENCHMARKKING
+ 
+Es un método de gestión empresarial que **buscar encontrar las mejores prácticas** dentro o fuera de la empresa a través de la comparación de técnicas, procesos y servicios de otras organizaciones con el fin de aumentar su eficiencia y cometitividad.<br>
+No es copiar a la competencia, sino ver que es lo bueno que tiene y si se puede adaptar a nuestra empresa.<br>
+Si es una buena práctica que funciona, se toma (uno se organiza, se itera).<br>
+Por ejemplo las aplicaciones que tienen la botonera abajo en un celular, es lo más accesible. Lo mismo para el menú hamburguesa, que esconde información en pantallas chicas.<br>
 
+
+--- 
+ 
+### ENTREVISTAS CON USUARIO
+ 
+**Entrevistas dirigidas** <br>
+ Son el tipo más común, son entrevistas típicas de preguntas y respuestas, en las que un investigador hace preguntas específicas.<br>
+ Esto puede resultar útil cuando se realizan entrevistas con un gran número de usuarios o cuando se busca comparar y contrastar respuestas de varios usuarios.
+ 
+**Entrevistas no dirigidas**<br> 
+Son la mejor manera de aprender sobre temas más delicados.<br>
+Con una entrevista no dirigida, el entrevistador establece algunas pautas generales y abre una conversación con el entrevistado.<br>
+EL entrevistador escuchará principalmente durente esta conversación y hablará solo para proporcionarle el usuario detalles adicionales o explicar conceptos. <br>
+ 
+**Entrevistas etnográficas**<br> 
+Implica observar lo que las personas hacen durante sus días en sus habitats naturales. <br>
+En este tipo de entrevistas, el usuario muestra al entrevistador cómo realiza determinadas tareas, sumergiendo esencialmente al entrevistador en su cultura laboral o familiar.<br> 
+ 
 ---
 
 ### CREACIÓN DEL USER PERSONA
