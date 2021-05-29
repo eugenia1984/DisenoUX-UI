@@ -442,14 +442,48 @@ Hay software (mapas de calor) que ven donde hay más ctividad en la pantalla, pa
 
 ---
 
-### PROCESO DEL RESEARCH UX 
+# PROCESO DEL RESEARCH UX :
+ 
 
-  * **DETECTANDO Y DEFINIENDO EL PROBLEMA :** un **buen enunciado del problema** ( debemos saber **qué** vamos a investigar; se recomienda empezar con un verbo maás específico, como: describir, evaluar, identificar, y evitar los verbos muy abarcativos, como: explorar o entender) y de los objetivos (debemos saber **por qué** lo vamos a investigar) que se definen en consecuencia son claves para una investigación de calidad. <br>
+# 1 - DETECTANDO Y DEFINIENDO EL PROBLEMA :
+ 
+Un **buen enunciado del problema** ( debemos saber **qué** vamos a investigar; se recomienda empezar con un verbo maás específico, como: describir, evaluar, identificar, y evitar los verbos muy abarcativos, como: explorar o entender) y de los objetivos (debemos saber **por qué** lo vamos a investigar) que se definen en consecuencia son claves para una investigación de calidad. <br>
 El buen enunciado describe el tema de estudio y el objetivo, se entiende bien donde enmarcamos, qué objetivos tenemos, qué temética abarcamos, qué vamos a estudiar. Debemos tener ese norte al que queremos llegar.<br>
 Las hipótesis son el mejor intento para resolver el problema, es un camino hacia el cuál vamos a ir transitando en el proceso de research, tratando de validarlas, desafiarlas, anular hasta tener datos certeros.<br>
 Un ejemplo: tenemos un e-commerce, pero hay ruido en el proceso de compra, nos avisan de soporte. Entonces hacemos una investigación para saber cuál es la razón por la cuál el usuario tiene dudas al momento de hacer la compra? Qué le pasa al usuario? (este es el problama). Y planteamos la hipótesis: nuestro proceso de compra actual es complejo para nuestros usuarios.<br>
  
-  * **PLANIFICACIÓN :** definir previamente **cuáles** y **cuántos** son esos recursos a usar para llevar adelante la investigación. Definimos cuáles son las mejores **herramientas** / **métodos**, lo que mejor se acondicione, a veces si no encontramos lo que buscamos, debemos cambiar de herramientas/método. <br>
+### Herramientas para dar un pantallazo: 
+ 
+#### DESK RESEARCH
+
+La investigación de escritorio consiste en la primera inmersión en el tema.<br>
+Incluye cualquier tipo de acercamiento. <br>
+-Googlear <br>
+-Leer un libro<br>
+-Probar algún producto<br>
+-Hablar con un conocido<br>
+-Hablar con un profesional del tema<br>
+-Mirar la competencia<br>
+
+Todo lo que sirva para poder terminar con una idea inicial de lo que estamos investigando. 
+ 
+#### ENTREVISTAS CON  STAKENHOLDERS 
+ 
+Es la herramienta que posibilita a los diseñadores y estrategas UX conocer en profundidad el modelo de negocio del cliente, su realidad tecnológica, sus aspiraciones, sus opiniones sobre su competencia y sus clientes - actuales, potenciales e ideales- y el ecosistema donde se moverá el producto a diseñar.<br>
+En pocas palabras, es una técnica de análisis cualitativo y de recolección de información basado en entrevistas.<br> 
+ 
+#### BENCHMARKING
+ 
+Es un método de gestión empresarial que **buscar encontrar las mejores prácticas** dentro o fuera de la empresa a través de la comparación de técnicas, procesos y servicios de otras organizaciones con el fin de aumentar su eficiencia y cometitividad.<br>
+No es copiar a la competencia, sino ver que es lo bueno que tiene y si se puede adaptar a nuestra empresa.<br>
+Si es una buena práctica que funciona, se toma (uno se organiza, se itera).<br>
+Por ejemplo las aplicaciones que tienen la botonera abajo en un celular, es lo más accesible. Lo mismo para el menú hamburguesa, que esconde información en pantallas chicas.<br>
+ 
+ 
+ 
+# 2 - PLANIFICACIÓN :
+ 
+Definir previamente **cuáles** y **cuántos** son esos recursos a usar para llevar adelante la investigación. Definimos cuáles son las mejores **herramientas** / **métodos**, lo que mejor se acondicione, a veces si no encontramos lo que buscamos, debemos cambiar de herramientas/método. <br>
 "Crear un plan de proyecto, estructura tus pensamientos en la actividad de investigación. Nos ayuda a abstraernos y enfocarnos." Por esto es muy importante planificar: qué herramientas usaremos? <br>
 -Propósitos del plan.<br>
 -Propósito y objetivos del proceso de investigación. <br>
@@ -463,49 +497,16 @@ Un ejemplo: tenemos un e-commerce, pero hay ruido en el proceso de compra, nos a
 -Guión para el facilitador con las preguntas para los participantes, incluyendo las narrativas para los usuarios.<br> 
  
  
-  * **EJECUCIÓN :** **salida a campo**, **recolección de datos**, sea con la metodología que sea. Es la puesta en práctica. <br>
+ 
+# 3 - EJECUCIÓN :
+ 
+**Salida a campo**, **recolección de datos**, sea con la metodología que sea. Es la puesta en práctica. <br>
 Con todo lo anterior definido, ya podemos dar comienzo al proceso de recaudación de datos. <br>
 Hay que ser empáticos, peor no condicionar las respuestas.<br>
 Existen **herramientas** que responden a enfoques cualitativos, explorando opiniones, enfoques cuantitativos, probando opiniones mediante la exploración de datos numéricos o porcentuales. Tenemos enfoques conductuales, observar a usuarios, explorando sus actitudes y opiniones. Además podemos clasificarlos en ralación en relación a la etapa del diseño en las que nos encontramos, tanto si usamos Design Thinking o Lean Ux.<br>
 Podemos decir que en un principio este investigacióon en **muchísimo más exhaustiva**, ya que es el momento en donde debemos conocerlo y descubrirlo al usuario, pero como dijimos antes no es el único momento, analizar las pruebas y los testeos son parte de la investigación del usuario.<br>  
-Algunas herramientas: <br>
-- <br> 
  
-  * **ANÁLISIS Y REPORTE DE RESULTADOS :** procesar estos datos, detectar patrones y sacar conclusiones. Hacer un análisis y un reporte. <br>
-
----
-
-# Herramientas para dar un pantallazo: 
- 
-### DESK RESEARCH
-
-La investigación de escritorio consiste en la primera inmersión en el tema.<br>
-Incluye cualquier tipo de acercamiento. <br>
--Googlear <br>
--Leer un libro<br>
--Probar algún producto<br>
--Hablar con un conocido<br>
--Hablar con un profesional del tema<br>
--Mirar la competencia<br>
-
-Todo lo que sirva para poder terminar con una idea inicial de lo que estamos investigando. 
- 
-### ENTREVISTAS CON  STAKENHOLDERS 
- 
-Es la herramienta que posibilita a los diseñadores y estrategas UX conocer en profundidad el modelo de negocio del cliente, su realidad tecnológica, sus aspiraciones, sus opiniones sobre su competencia y sus clientes - actuales, potenciales e ideales- y el ecosistema donde se moverá el producto a diseñar.<br>
-En pocas palabras, es una técnica de análisis cualitativo y de recolección de información basado en entrevistas.<br> 
- 
-### BENCHMARKKING
- 
-Es un método de gestión empresarial que **buscar encontrar las mejores prácticas** dentro o fuera de la empresa a través de la comparación de técnicas, procesos y servicios de otras organizaciones con el fin de aumentar su eficiencia y cometitividad.<br>
-No es copiar a la competencia, sino ver que es lo bueno que tiene y si se puede adaptar a nuestra empresa.<br>
-Si es una buena práctica que funciona, se toma (uno se organiza, se itera).<br>
-Por ejemplo las aplicaciones que tienen la botonera abajo en un celular, es lo más accesible. Lo mismo para el menú hamburguesa, que esconde información en pantallas chicas.<br>
-
-
---- 
- 
-### ENTREVISTAS CON USUARIO
+#### ENTREVISTAS CON USUARIO
  
 **Entrevistas dirigidas** <br>
 Son el tipo más común, son entrevistas típicas de preguntas y respuestas, en las que un investigador hace preguntas específicas.<br>
@@ -518,15 +519,83 @@ EL entrevistador escuchará principalmente durente esta conversación y hablará
  
 **Entrevistas etnográficas**<br> 
 Implica observar lo que las personas hacen durante sus días en sus habitats naturales. <br>
+Son extensas, se lo acompaña en su habitat natural, para conocer más en detalle, con libreta en mano se anota lo máximo posible..<br>
 En este tipo de entrevistas, el usuario muestra al entrevistador cómo realiza determinadas tareas, sumergiendo esencialmente al entrevistador en su cultura laboral o familiar.<br> 
+  
+
+
+#### CREACIÓN DEL USER PERSONA
+
+Antes de la construcción de personas es necesario haber definido los escenarios. Los escenarios no son más que una descripción de las situaciones de uso y contextualizar las interacciones que realiza el usuario con el producto digital, ya sea un sitio web o una applicación.<br> 
+Es una herramienta poderosa basada en conclusiones de investigaciones en ayudar la creación de funciones de producto optimizando la investigación de UX. No sólo representa a algún usuario concreto sino al conjunto de ellos, se puede entender como el personaje típico de la conducta, la actitud, las habilidades y los contextos de todos los usuarios potenciales.<br>
+Hay veces que el mismo cliente ya trae un user persona, o un recorte que qué quiere.<br>
+Puede ser uno o más **user persona**, son los ejemplos de quienes van a ser nuestros usuarios.<br> 
+También se puede crear una persona que sabemos que no va a ser nuestro usuario.<br>
+Un ejemplo: una persona que suele comprar por internet, su relación con la tecnología, sus datos demográfico, rango de edad, qué lo motiva, qué objetivos tiene, sus características.<br>
+Luego hay que probar a nuestro usuario.<br>
  
----
+ 
+#### MAPA DE EMPATÍA
 
-### CREACIÓN DEL USER PERSONA
+Se basa como su propio nombre indica en la **empatía** y sirve para **entender mejor al cliente o público objetivo**. No es más que ponernos en los zapatos del consumidor para tener un conocimiento más profundo sobre él, su personalidad, su entonrno, su visión del mundo y sus necesidades y deseos.<br>
+El mapa de empatía nos ayuda a ir más allá de lo que dice que quiere nuestro consumidor y nos adentra en lo que realmente quiere. <br>
+Son datos que se obtiene de forma cualitativa.<br>
+ 
+  * **¿Qué piensa y siente?** sus inquietudes, aspiraciones.<br>
+ 
+  * **¿Qué ve?** en su entonrno, con sus amigos, en la oferta del mercado.<br>
+ 
+  * **¿Qué dice y hace?** actitud en público, cómo es nuestro usaurio, el comportamiento hacia los demás.<br>
+ 
+  * **¿Qué oye?** lo que dicen los amigos, el jefe, las personas influyentes. <br>
+ 
+  * **Esfuerzos** miedos, frustaciones, obstáculos.<br>
+ 
+  * **Resultados** deseos, necesidades, obstáculos.<br> 
 
-Puede ser uno o más **user persona**, son los ejemplos de quienes van a ser nuestros usuarios. También se puede crear una persona que sabemos que no va a ser nuestro usuario.
 
----
+#### CARD SORTING (ORGANIZACIÓN EN TARJETAS)
+ 
+Técnica a través de la cual se puede observar el comportamiento de los usuarios y cuál creen que es la mejor forma de organizar los contenidos en sus diferentes categorías.<br>
+Es un planeamiento de análisis que requiere de la intervención de usuarios para **mejorar la usabilidad** de un producto digital.<br>
+Actualmente existen dos tipos de Card Sorting: <br>
+-Abierto, que permite a los usuarios agrupar en las categorías que considere con total libertad.<br>
+-Cerrado, con los grupos ya predefinidos para que el usaurio introduzca en ellos lo que crea más adecuado.<br> 
+
+**Definir** un contenido.<br>
+**Categorizar** agrupar.<br>
+**Analizar** para poder dar una bajada.<br>
+ 
+Por ejemplo: tenemos muchas categorías de productos sueltas para un sitio web y se las damos al usuario para que las acomode a su gusto y en base a eso lo analiizamos (card sorting cerrado). Si le damos total libertad, para que el usuario nos sugiera categoría, es un ejemplo de card sorting abierto, si vemos un patrón que se repite le prestamos atención.<br>
+ 
+ 
+# 4 - ANÁLISIS Y REPORTE DE RESULTADOS :
+ 
+Procesar estos datos, detectar patrones y sacar conclusiones. Hacer un análisis y un reporte. <br>
+Es importante hacer un buen uso de toda la investigación.<br>
+Es importante **triangular los hallazgos**, buscando **correlaciones** y **patrones**.
+El objetivo es ver si surgen resultados que sean confirmados por los diferentes métodos de investigación para poder implementarlos. La **triangulación** es el proceso de utilizar múltiples puintos de investigación de múltiples métodos para aumentar la confianza en la investigación y las supocisiones. Cuanto más métodos o herramientas de recaudación de datos utilicemos, más confianza tendremos en nuestras suposiciones.<br>
+Los diferentes métodos de investigación tienen diferentes fortalezas y se prestan a diferentes escenarios. Los diferentes usuarios responden de diferentes maneras, ofreciendo diferentes opiniones, idealmente, necesita una combincación saludable de diferentes métodos de investigación y diferentes sujetos de prueba para cubrir todas las tareas.<br> 
+
+ 
+--- 
+ 
+### ROL DEL RESEARCHER
+ 
+El rol del investigador es un papel crucial dentro del proceso de diseño.<br>
+Se encarga de investigar la búsqueda de patrones de comportamiento, estos insights que nos dan pauta para la creacion de ideas o para la mejora particular en el producto/servicio.<br>
+El investigador de usaurio juega uno de los papeles más importantes dentro del proceso de diseño de UX, ya que sus entregables proponen ideas de solución, segmentaciones de públicos, ejecución de prototipos y después proponer un producto a los diferentes usuarios.<br>
+Comprender a profundidad que requieren los clientes.<br>
+Entre sus tareas está:<br>
+-La definición de objetivos de investigación.<br>
+-Elección de técnicas de investigación en base a lo que necesitan aprender.<br>
+-Recruiting de personas usuarias.<br>
+-Armado y planeamiento de la técnica.<br>
+-Presentación de hallazgos.<br>
+-El equipo para pasr a la fase de diseño de ideación y diseño del producto. <br>
+ 
+--- 
+ 
 
 ### CUSTOMER JOURNEY MAP
 
