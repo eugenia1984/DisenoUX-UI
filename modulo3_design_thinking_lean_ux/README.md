@@ -444,12 +444,12 @@ Hay software (mapas de calor) que ven donde hay más ctividad en la pantalla, pa
 
 ### PROCESO DEL RESEARCH UX 
 
-  * DETECTANDO Y DEFINIENDO EL PROBLEMA: un **buen enunciado del problema** ( debemos saber **qué** vamos a investigar; se recomienda empezar con un verbo maás específico, como: describir, evaluar, identificar, y evitar los verbos muy abarcativos, como: explorar o entender) y de los objetivos (debemos saber **por qué** lo vamos a investigar) que se definen en consecuencia son claves para una investigación de calidad. <br>
+  * **DETECTANDO Y DEFINIENDO EL PROBLEMA :** un **buen enunciado del problema** ( debemos saber **qué** vamos a investigar; se recomienda empezar con un verbo maás específico, como: describir, evaluar, identificar, y evitar los verbos muy abarcativos, como: explorar o entender) y de los objetivos (debemos saber **por qué** lo vamos a investigar) que se definen en consecuencia son claves para una investigación de calidad. <br>
 El buen enunciado describe el tema de estudio y el objetivo, se entiende bien donde enmarcamos, qué objetivos tenemos, qué temética abarcamos, qué vamos a estudiar. Debemos tener ese norte al que queremos llegar.<br>
 Las hipótesis son el mejor intento para resolver el problema, es un camino hacia el cuál vamos a ir transitando en el proceso de research, tratando de validarlas, desafiarlas, anular hasta tener datos certeros.<br>
 Un ejemplo: tenemos un e-commerce, pero hay ruido en el proceso de compra, nos avisan de soporte. Entonces hacemos una investigación para saber cuál es la razón por la cuál el usuario tiene dudas al momento de hacer la compra? Qué le pasa al usuario? (este es el problama). Y planteamos la hipótesis: nuestro proceso de compra actual es complejo para nuestros usuarios.<br>
  
-  * PLANIFICACIÓN: definir previamente **cuáles** y **cuántos** son esos recursos a usar para llevar adelante la investigación. Definimos cuáles son las mejores **herramientas** / **métodos**, lo que mejor se acondicione, a veces si no encontramos lo que buscamos, debemos cambiar de herramientas/método. <br>
+  * **PLANIFICACIÓN :** definir previamente **cuáles** y **cuántos** son esos recursos a usar para llevar adelante la investigación. Definimos cuáles son las mejores **herramientas** / **métodos**, lo que mejor se acondicione, a veces si no encontramos lo que buscamos, debemos cambiar de herramientas/método. <br>
 "Crear un plan de proyecto, estructura tus pensamientos en la actividad de investigación. Nos ayuda a abstraernos y enfocarnos." Por esto es muy importante planificar: qué herramientas usaremos? <br>
 -Propósitos del plan.<br>
 -Propósito y objetivos del proceso de investigación. <br>
@@ -463,7 +463,7 @@ Un ejemplo: tenemos un e-commerce, pero hay ruido en el proceso de compra, nos a
 -Guión para el facilitador con las preguntas para los participantes, incluyendo las narrativas para los usuarios.<br> 
  
  
-  * EJECUCIÓN: **salida a campo**, **recolección de datos**, sea con la metodología que sea. Es la puesta en práctica. <br>
+  * **EJECUCIÓN :** **salida a campo**, **recolección de datos**, sea con la metodología que sea. Es la puesta en práctica. <br>
 Con todo lo anterior definido, ya podemos dar comienzo al proceso de recaudación de datos. <br>
 Hay que ser empáticos, peor no condicionar las respuestas.<br>
 Existen **herramientas** que responden a enfoques cualitativos, explorando opiniones, enfoques cuantitativos, probando opiniones mediante la exploración de datos numéricos o porcentuales. Tenemos enfoques conductuales, observar a usuarios, explorando sus actitudes y opiniones. Además podemos clasificarlos en ralación en relación a la etapa del diseño en las que nos encontramos, tanto si usamos Design Thinking o Lean Ux.<br>
@@ -471,7 +471,7 @@ Podemos decir que en un principio este investigacióon en **muchísimo más exha
 Algunas herramientas: <br>
 - <br> 
  
-  * ANÁLISIS Y REPORTE DE RESULTADOS: procesar estos datos, detectar patrones y sacar conclusiones. Hacer un análisis y un reporte. <br>
+  * **ANÁLISIS Y REPORTE DE RESULTADOS :** procesar estos datos, detectar patrones y sacar conclusiones. Hacer un análisis y un reporte. <br>
 
 ---
 
@@ -508,8 +508,8 @@ Por ejemplo las aplicaciones que tienen la botonera abajo en un celular, es lo m
 ### ENTREVISTAS CON USUARIO
  
 **Entrevistas dirigidas** <br>
- Son el tipo más común, son entrevistas típicas de preguntas y respuestas, en las que un investigador hace preguntas específicas.<br>
- Esto puede resultar útil cuando se realizan entrevistas con un gran número de usuarios o cuando se busca comparar y contrastar respuestas de varios usuarios.
+Son el tipo más común, son entrevistas típicas de preguntas y respuestas, en las que un investigador hace preguntas específicas.<br>
+Esto puede resultar útil cuando se realizan entrevistas con un gran número de usuarios o cuando se busca comparar y contrastar respuestas de varios usuarios.
  
 **Entrevistas no dirigidas**<br> 
 Son la mejor manera de aprender sobre temas más delicados.<br>
