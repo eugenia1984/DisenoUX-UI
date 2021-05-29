@@ -147,7 +147,7 @@ SOLTARSE CRANEAR <BR>
    * **Maquetas**
    * **Moodboard**
    * **Personas**
-   * **Cuenta cuentos*
+   * **Cuenta cuentos**
    * **Storyboard o guión gráfico**
    * **Lluvia de ideas**
    * **Scamper**
