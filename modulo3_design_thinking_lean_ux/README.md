@@ -647,17 +647,19 @@ Entender y comprender cuál es la problemática de los usuarios . <br>
 
 **Matriz de impacto y esfuerzo**
 
-+ <br> 
-I       MANOS A        |         CONVERTIR <br>
-M       LA OBRA        |         EN PROYECTOS <br>
-P <br>                 |
-A     - - - - - - - - -  - - - - - - - - - - - - -  <br> 
-C       TAREAS DE      |        NO, GRACIAS <br>
-T       RELLENO <br>   |
-O     <br>             |
-       - - - - - - - -  - - - - - - - - - - - - - - -
-- <br>
-  -           ESFUERZO                         +              
+POSITIVO <br>
+<br> 
+<br>
+I  <br>
+M  ----- MANOS A LA OBRA--------CONVEERTIR EN PROYECTOS <br>
+P <br>                 
+A <br> 
+C  TAREAS DE RELLENO --------------NO, GRACIAS <br>
+T  <br>   
+O  <br>             
+<br>
+<br>
+NEGATIVO ---------  ESFUERZO ---------------- POSITIVO              
 
 ### DEFINIMOS EL FOCO
 
