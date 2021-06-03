@@ -620,30 +620,32 @@ Si lo que creiamos al principio, luego investigado, coincide con los postis que 
 
 ### DEFINIMOS EL PROBLEMA
 
-**Insights** : es un punto de vista único y relevante del usuario. <br>
+**Insights** : es un **punto de vista único y relevante del usuario** del que nos dimos cuentta por una expresión del mismo, su movimiento, por algo que detectamos a partir de la observación llevada a cabo en el proceso de empatizar (acá entran en juego ayudando a definir, pero ya lo tenemos desde la etapa anterior). <br>
+
 Son al fin y al cabo “revelaciones” encontradas a partir de la observación llevada a cabo en el Proceso de Empatizar. <br>
 Entender bien las **necesidades** para definir bien el problema.<br>
+Vemos qué es lo que se repite en los usuarios, lo que vamos a prototipar y testear.<br>
 
-La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de articular claramente el problema que intentas solucionar. <br>
-Entender y comprender cuál es la problemática de los usuarios. <br>
-Vamos a buscar en esta etapa detectar puntos de dolor que se repiten, es decir, poder detectar necesidades no satisfechas de los usuarios. <br>
-El problema debe de ser lo suficientemente abarcativo para darnos lugar en las siguientes etapas a poder generar una búsqueda de soluciones creativas amplia, pero sin llegar al punto de lo absurdo. <br>
+La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de a**rticular claramente el problema que intentas solucionar**. <br>
+Entender y comprender cuál es la **problemática de los usuarios**. <br>
+Vamos a buscar en esta etapa detectar **puntos de dolor que se repiten**, es decir, poder detectar **necesidades no satisfechas de los usuarios**. <br>
+El problema debe de ser lo **suficientemente abarcativo** para darnos lugar en las siguientes etapas a poder generar una búsqueda de soluciones creativas amplia, pero sin llegar al punto de lo absurdo. <br>
 
-En esta etapa es interesante que también participen los stakeholders, para ayudar a definir o dar su aporte desde su conocimiento. <br> 
-La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de articular claramente el problema que intentas solucionar. <br>
-Entender y comprender cuál es la problemática de los usuarios . <br>
+En esta etapa es interesante que también participen los **stakeholders**, para ayudar a definir o dar su aporte desde su conocimiento. <br> 
+La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de **articular claramente el problema que intentas solucionar**. <br>
+**Entender** y c**omprender** cuál es la **problemática de los usuarios** . <br>
 
 **¿Qué hace a una buena declaración de un problema?**
  
-  * Centrado en el humano. El planteamiento del problema debe ser de la gente el equipo es tratando de ayudar, en vez de centrarse en tecnología, rendimientos monetarios o especificaciones del producto.
+  * **Centrado en el humano :** El planteamiento del problema debe ser de la gente el equipo es tratando de ayudar, en vez de centrarse en tecnología, rendimientos monetarios o especificaciones del producto. <br>
  
-  * Amplia libertad creativa. El planteamiento del problema no debe centrarse demasiado estrecho en un método específico con respecto a la implementación de la solución.
+  * **Amplia libertad creativa :** El planteamiento del problema no debe centrarse demasiado estrecho en un método específico con respecto a la implementación de la solución. <br>
  
-  *  Suficientemente estrecho para que sea manejable. Una declaración del problema como "Mejorar la condición humana" es demasiado amplia. Declaraciones del problema deben tener suficientes restricciones para hacer manejable el proyecto.
+  *  **Suficientemente estrecho para que sea manejable :** Una declaración del problema como "Mejorar la condición humana" es demasiado amplia. Declaraciones del problema deben tener suficientes restricciones para hacer manejable el proyecto. <br>
 
-  * Visión de futuro: la declaración de un buen problema es siempre mirando hacia adelante. Contiene semillas de posibilidades.
+  * **Visión de futuro :** la declaración de un buen problema es siempre mirando hacia adelante. Contiene semillas de posibilidades. <br>
 
-  * Verbo impulsado, orientado la acción: comenzar el planteamiento del problema con un verbo, como "Crear", "Definir" o "Adaptar", para que el problema sea más orientado a la acción. 
+  * **Verbo impulsado, orientado la acción :** comenzar el planteamiento del problema con un verbo, como **"Crear"**, **"Definir"** o **"Adaptar"**, para que el problema sea más orientado a la acción.  <br>
 
 **Matriz de impacto y esfuerzo**
 
@@ -651,15 +653,19 @@ POSITIVO <br>
 <br> 
 <br>
 I  <br>
-M  ----- MANOS A LA OBRA--------CONVEERTIR EN PROYECTOS <br>
+M  ----- MANOS A LA OBRA--CONVERTIR EN PROYECTOS <br>
 P <br>                 
 A <br> 
-C  TAREAS DE RELLENO --------------NO, GRACIAS <br>
+C  TAREAS DE RELLENO -NO, GRACIAS <br>
 T  <br>   
 O  <br>             
 <br>
 <br>
-NEGATIVO ---------  ESFUERZO ---------------- POSITIVO              
+NEGATIVO -  ESFUERZO - POSITIVO     <br>
+
+CONVERTIR EN PROYECTOS: vamos avanzando con lo que creemos más viable, hay que ver lo que tenga buen impacto, pero que no demande un esfuerzo imposible <br>
+TAREAS DE RELLENO: lo podemos agregar a otro problema, porque no nos demanda mucho y junto con otro se resuelve algo mejor. <br>  
+NO, GRACIAS: se deja para más adelante algo que genera muy poco impacto e implica mucho esfuerzo.<br>        
 
 ### DEFINIMOS EL FOCO
 
@@ -674,10 +680,80 @@ Pone el foco en el problema dentro de un encuadre, define al **usuario**, en cua
 
 Es una etapa compleja y dificil en la que hjay ue definir en base a lo que se detecta como se sigue, de acá nace la base para las próximas tres etapas: idear, prototipar y testear. <br>
 
+“Los pacientes de este hospital (usuarios) necesitan sentirse más animados cuando van al quirófano
+(necesidad) porque el traslado hasta allí es un momento de miedo e incertidumbre (insight).” <br>
+
+**Definiendo el foco de acción** <br>
+
+Para definir el foco de acción, podemos servirnos de fórmulas como estas: <br>
+
+**El (usuario) desea/necesita (deseo/necesidad ) porque (insight).** <br>
+
+**Ejemplo :** En un hospital nos han contratado para mejorar la experiencia emocional de sus usuarios. No esperan que les digamos cómo deben operar y pasar consulta sus profesionales. Quieren que sus pacientes tengan emociones más positivas cuando se encuentran en su hospital. <br>
+
+
+Para ello, buscamos entender las necesidades y deseos más importantes de los usuarios del hospital. <br>
+A través de entrevistas, observación y otras técnicas profundizamos en aquello que parecía importante para ellos. Qué les preocupa, qué les motiva. <br>
+Qué hacen, cómo piensan. Y qué sucede en su contexto, entre otras muchas cosas.<br>
+ 
+**¿ Por qué es importante Definir ?**  <br>
+
+Veámos cuáles son las poderosas razones que nos invitan a definir en el design thinking: <br>
+
+  * Aporta un marco y foco sobre el problema a analizar
+  * Inspira a tu equipo
+  * Nos aporta una referencia para evaluar las ideas posteriores
+  * Aporta un marco común que permite que tu equipo pueda tomar decisiones en paralelo
+  * Sirve para conquistar los corazones y las mentes de las personas que intervienen en el proyecto
+  * Sirve de guía para tus esfuerzos de innovación y creatividad
+
 
 --- 
 
-### HERRAMIENTAS BRAINSTORMING 
+# IDEAR
+
+**Dejemos volar nuestra mente**
+
+Es una de las etapas más dinámica y colaborativa del proceso, y esto se debe a que tiene como objetivo la generación de un sinfín de “posibles soluciones” al problema (o problemas) que se detectaron en la fase de
+Definición. Esta es la etapa donde a través de técnicas específicas favorecemos el pensamiento divergente o expansivo y las ideas más “locas o estrambóticas” pueden surgir, esas ideas locas que finalmente son las que generan soluciones visionarias. <br>
+
+La clave en esta etapa es incentivar el pensamiento divergente y eliminar los juicios de valor (creencias, formas de vida o de valores) a través de técnicas o metodologías para producir muchas ideas, sobre todo aquellas que desafían las suposiciones o lo convencional. <br>
+
+
+### HERRAMIENTAS BRAINSTORMING  (lluvia de ideas)
+
+Las tormentas de ideas se utilizan fundamentalmente para: <br>
+
+  * Generar una gran cantidad de ideas.
+  * Mejorar la creatividad de los equipos de trabajo.
+  * Buscar nuevas oportunidades para solucionar problemas o mejorar algún proceso de la empresa.
+
+La utilización del Brainstorming ayuda a resolver problemas, generar soluciones innovadoras y superar el conformismo en un determinado trabajo o situación. <br>
+En ocasiones, también puede ayudar a encontrar oportunidades de negocio ideales para implantar en una empresa. <br>
+
+### Cuatro reglas básicas
+
+**Suspender el juicio** <br>
+
+Durante el proceso de generación de ideas, no hay que realizar ninguna valoración o crítica sobre estas.<br> Solo se apuntan las ideas, la evaluación se realiza después. <br>
+Esta regla es muy importante y, quizás, sea la que más cuesta a las personas seguir, ya que estamos entrenados para ser analíticos y prácticos. <br>
+
+**Pensar libremente** <br>
+
+Las ideas más prácticas muchas veces nacen de otras ideas que, en su mayoría, son inviables.<br>
+Por ello, es muy importante para una sesión de Brainstorming efectiva, que los usuarios piensen libremente y tengan ideas imposibles. <br>
+De esta forma, se consigue salir de las ideas lógicas y habituales, fomentando así la creación de nuevas soluciones. <br>
+
+**Efecto multiplicador** <br>
+
+Los participantes en las tormentas de ideas, no solo contribuyen con sus pensamientos, sino que también puede sugerir mejoras o combinar las ideas que tienen los demás. <br>
+Así, las ideas que tienen unos usuarios sirven de estímulo para los otros participantes.<br>
+
+**La cantidad es importante** <br>
+
+Al hacer un Brainstorming se busca generar una gran cantidad de ideas, para luego escoger la mejor de todas ellas. <br>
+Esto es así por dos motivos: Al principio suelen aparecer las ideas más obvias y habituales. <br>
+Cuantas más ideas más se pueden elegir, combinar y adaptar para resolver el problema planteado al principio. <br>
 
 --- 
 
@@ -685,10 +761,32 @@ Es una etapa compleja y dificil en la que hjay ue definir en base a lo que se de
 
 --- 
 
-### CUSTOMER JOURNEY MAP
+### CUSTOMER JOURNEY MAP (mapa de viaje del cliente)
+
+Un mapa de viaje del cliente es una visualización del proceso que atraviesa una persona para lograr un objetivo vinculado a un negocio o producto específico. <br>
+Se utiliza para comprender y abordar las necesidades y los puntos débiles de los clientes. <br>
+
+
+En su forma más básica, el mapeo de viajes comienza compilando una serie de objetivos y acciones del usuario en un esqueleto de línea de tiempo. <br>
+El recorrido del cliente es el camino que toma una persona para convertirse en consumidor de un producto o servicio. <br>
+
+  * Refleja la perspectiva del usuario:
+    * Incluyendo su forma de pensar, pensamientos y emociones.
+    * Omitiendo la mayoría de los detalles del proceso
+  * Es cronológico.
+  *  Hay un mapa por persona / tipo de usuario (mapeo 1: 1).
 
 ---
 
-### USER EXPERIENCE MAP
+### USER EXPERIENCE MAP (mapa de experiencia de usuario)
+
+Un mapa de experiencias es una visualización de una experiencia completa de principio a fin por la que pasa una persona "genérica" para lograr un objetivo. <br>
+Esta experiencia es independiente de un negocio o producto específico. <br>
+Se utiliza para comprender un comportamiento humano general (a diferencia de un mapa de viaje del cliente, que es más específico y se centra en lo relacionado con un negocio específico). <br>
+
+Los mapas de experiencia ayudan a los equipos a explorar, definir y alinear las interacciones de los usuarios. Puede usarlos para visualizar experiencias conocidas, o puede trabajar con ellos para descubrir
+nuevas oportunidades.<br>
+Y dependiendo de sus objetivos, puede desarrollar mapas de experiencia para sus clientes actuales o
+potenciales. <br>
 
 ---
