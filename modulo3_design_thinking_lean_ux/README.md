@@ -653,10 +653,10 @@ POSITIVO <br>
 <br> 
 <br>
 I  <br>
-M  ----- MANOS A LA OBRA--CONVERTIR EN PROYECTOS <br>
+M  ----- MANOS A LA OBRA ----- CONVERTIR EN PROYECTOS <br>
 P <br>                 
 A <br> 
-C  TAREAS DE RELLENO -NO, GRACIAS <br>
+C  TAREAS DE RELLENO ----- NO, GRACIAS <br>
 T  <br>   
 O  <br>             
 <br>
@@ -678,10 +678,21 @@ Según la **Design School de Standford** la definición de **Point of View** es 
 el **Pint Of View** es un **reencuadre único** del **problema** basado en las **necesidades del usuario** y los **insights**. <br>
 Pone el foco en el problema dentro de un encuadre, define al **usuario**, en cuanto a sus necesidades e insights. ASi no nos desviamos, nos enfocamos en esto.<br>
 
-Es una etapa compleja y dificil en la que hjay ue definir en base a lo que se detecta como se sigue, de acá nace la base para las próximas tres etapas: idear, prototipar y testear. <br>
+Es una etapa compleja y dificil en la que hay que definir en base a lo que se detecta como se sigue, de acá nace la base para las próximas tres etapas: idear, prototipar y testear. <br>
 
 “Los pacientes de este hospital (usuarios) necesitan sentirse más animados cuando van al quirófano
 (necesidad) porque el traslado hasta allí es un momento de miedo e incertidumbre (insight).” <br>
+
+**Definiendo el foco de acción, Para establecer el reto creativo** <br>
+
+Definir un foco de acción nos permite centrarnos.<br>
+Si no lo hacemos de la forma adecuada, lo arrastraremos durante todo el proceso. <br>
+Habiendo generado ideas y prototipos para las mismas que pueden no resolver los problemas o satisfacer los deseos que los usuarios tenían. <br>
+Consideraciones a tener en cuenta a la hora de definir el foco:<br>
+  * Encontrar una frase que recoja necesidades y deseos relevantes para el usuario
+  * Entender las razones que los llevan a tenerlos (insights).
+  * La definición de un foco de acción que responda a un aspecto de la realidad ni tan extenso como para no poder abarcarse ni tan restringido como para que las soluciones que puedan surgir sean de poco valor o utilidad.
+
 
 **Definiendo el foco de acción** <br>
 
@@ -692,20 +703,25 @@ Para definir el foco de acción, podemos servirnos de fórmulas como estas: <br>
 **Ejemplo :** En un hospital nos han contratado para mejorar la experiencia emocional de sus usuarios. No esperan que les digamos cómo deben operar y pasar consulta sus profesionales. Quieren que sus pacientes tengan emociones más positivas cuando se encuentran en su hospital. <br>
 
 
-Para ello, buscamos entender las necesidades y deseos más importantes de los usuarios del hospital. <br>
-A través de entrevistas, observación y otras técnicas profundizamos en aquello que parecía importante para ellos. Qué les preocupa, qué les motiva. <br>
-Qué hacen, cómo piensan. Y qué sucede en su contexto, entre otras muchas cosas.<br>
+Para ello, buscamos entender las **necesidades** y **deseos* más importantes de los **usuarios** del hospital; vamos a investigar, por medio de entrevistas, observación y otras técnicas rofundizamos en aquello que parecía importante para ellos: qué los preocupa? qué los motiva? qué hacen? cómo piensan? <br>
+Qué sucede en su contexto, entre otras muchas cosas.<br>
+Es un contexto delicado, por lo cual hay que ser cuidadosos y empáticos. <br>
+
+La conclusión de la investigación: “Los pacientes de este hospital (usuarios) necesitan sentirse más animados cuando van al quirófano (necesidad) porque el traslado hasta allí es un momento de miedo e incertidumbre (insight).” <br>
+
+Otro ejemplo puede ser las salas de espera en consultorios, que suelen ser de todos claros, estar todo calmo. <br>
+
  
 **¿ Por qué es importante Definir ?**  <br>
 
 Veámos cuáles son las poderosas razones que nos invitan a definir en el design thinking: <br>
 
-  * Aporta un marco y foco sobre el problema a analizar
-  * Inspira a tu equipo
-  * Nos aporta una referencia para evaluar las ideas posteriores
-  * Aporta un marco común que permite que tu equipo pueda tomar decisiones en paralelo
-  * Sirve para conquistar los corazones y las mentes de las personas que intervienen en el proyecto
-  * Sirve de guía para tus esfuerzos de innovación y creatividad
+  * Aporta un marco y foco sobre el problema a analizar.  <br>
+  * Inspira a tu equipo.  <br>
+  * Nos aporta una referencia para evaluar las ideas posteriores.  <br>
+  * Aporta un marco común que permite que tu equipo pueda tomar decisiones en paralelo.  <br>
+  * Sirve para conquistar los corazones y las mentes de las personas que intervienen en el proyecto. <br>
+  * Sirve de guía para tus esfuerzos de innovación y creatividad.  <br>
 
 
 --- 
@@ -714,13 +730,19 @@ Veámos cuáles son las poderosas razones que nos invitan a definir en el design
 
 **Dejemos volar nuestra mente**
 
-Es una de las etapas más dinámica y colaborativa del proceso, y esto se debe a que tiene como objetivo la generación de un sinfín de “posibles soluciones” al problema (o problemas) que se detectaron en la fase de
-Definición. Esta es la etapa donde a través de técnicas específicas favorecemos el pensamiento divergente o expansivo y las ideas más “locas o estrambóticas” pueden surgir, esas ideas locas que finalmente son las que generan soluciones visionarias. <br>
+Es una de las etapas más **dinámica** y **colaborativa** del proceso, y esto se debe a que tiene como objetivo la generación de un sinfín de **“posibles soluciones” al problema (o problemas) que se detectaron en la fase de Definición**. <br>
+Esta es la etapa donde a través de técnicas específicas favorecemos el **pensamiento divergente o expansivo** y las **ideas más “locas o estrambóticas”** pueden surgir, esas ideas locas que finalmente son las que generan soluciones visionarias. <br>
 
-La clave en esta etapa es incentivar el pensamiento divergente y eliminar los juicios de valor (creencias, formas de vida o de valores) a través de técnicas o metodologías para producir muchas ideas, sobre todo aquellas que desafían las suposiciones o lo convencional. <br>
+La clave en esta etapa es **incentivar el pensamiento divergente** y **eliminar los juicios de valor (creencias, formas de vida o de valores)** a través de técnicas o metodologías para producir muchas ideas, sobre todo aquellas que desafían las suposiciones o lo convencional. <br>
+
+Es muy completo, cada vez es más especializado, hay más de 100 técnicas posibles para usar. <br>
+Hay researcher que estan enfocados solo en la etapa de investigación . <br>
+El equipo es muy importante, tener gente que vea la vida de modo difererente, que sean distintos pensamientos.<br>
 
 
 ### HERRAMIENTAS BRAINSTORMING  (lluvia de ideas)
+
+Es mejor tener muchas ideas de las cuales elegir que tener algo acotado.<br>
 
 Las tormentas de ideas se utilizan fundamentalmente para: <br>
 
@@ -755,9 +777,24 @@ Al hacer un Brainstorming se busca generar una gran cantidad de ideas, para lueg
 Esto es así por dos motivos: Al principio suelen aparecer las ideas más obvias y habituales. <br>
 Cuantas más ideas más se pueden elegir, combinar y adaptar para resolver el problema planteado al principio. <br>
 
+**Un brain storming con el ejemplo del hospital :**
+Momentos felices: veo cuales son y con quienes?<br>
+Con familia :  vacaciones, almuerzos, visitando, de fiesta<br>
+Con compañero/a: de fiesta, mirando una peli, cocinando<br>
+Solo : leyendo, andando en bici, decorando mi casa<br>
+Con amigos: deportes, de fiesta, videojuegos, trabajando, viajando<br>
+Viajando : con compañero/a, descubriendo, cocinando, explorando <br>
+
+De todo esto lo que más me llamó la atención es la idea del VIAJE, el momento desde la salida de la habitación hasata el quirófano, ese viaje es en el que enfoco. Por eso hay que ver el contexto, el pasillo por el que va a pasar, que sea un viaje que acompañe. Surge la idea de trasladar al paciente en un viaje que ni se entere que está ahi. Se pueden aprovechar los castos de realildad virtual y proponerle un viaje feliz : caminata por el bosque, caminata por la playa, son videos audiovisuales, el elige el que más le gusta de las opciones que ofrece el hospital.<br>
+En base a esto se prototipa el casco de realidad aumentada. Se lo lleva y se testea en pacientes y a partir de ahi se ve cómo fue la experiencia? Y vemos si es una solución viable? O si lo incomoda más? O es peor tener un hermoso viaje y de repente se choca con el quirófano. <br>
+
 --- 
 
-### MIND MAP  
+### MIND MAP  (mapa mental)
+
+Hacer un **mapa mental** de las etapas, acá hablamos de conceptos, vemos cómo organizar todas las ideas.<br>
+**Design Thinking : ** empatizar, testear, definir, idear, prototipar
+
 
 --- 
 
@@ -768,13 +805,32 @@ Se utiliza para comprender y abordar las necesidades y los puntos débiles de lo
 
 
 En su forma más básica, el mapeo de viajes comienza compilando una serie de objetivos y acciones del usuario en un esqueleto de línea de tiempo. <br>
-El recorrido del cliente es el camino que toma una persona para convertirse en consumidor de un producto o servicio. <br>
+El recorrido del cliente es el camino que toma una persona para convertirse en consumidor de un producto o servicio. Mapeamos este camino.<br>
 
   * Refleja la perspectiva del usuario:
     * Incluyendo su forma de pensar, pensamientos y emociones.
     * Omitiendo la mayoría de los detalles del proceso
   * Es cronológico.
   *  Hay un mapa por persona / tipo de usuario (mapeo 1: 1).
+
+### Las etapas con un ejemplo de una agencia de autos:
+Lo previo: <br>
+
+**Búsqueda de información** es clave tener presencia y buena reputación digital; hay que mejorar la presencia en portales y medios digitales del sector.<br>
+
+**Elección de modelo** : hay que tener ofertas actualizadas.<br>
+
+**Búsqueda de concesionario :** hay que trabajar el SEO local. Tener una buena web con experiencia de usuario, no perderlo al ver nuestra web, que lo atraiga para conocernos. <br>
+
+ Ya llegando al concecionario: <br>
+
+**Visita concesionario :** es el primer punto de contacto con una persona. Hay que cuidar la experiencia de cliente en toda la visita, estar formados y entrenados. Es un momento crítico. Los vendedores deben ser carismáticos, compradores, venden un auto, toda una inversión en un bien material<br>
+
+**Prueba de vehiculo :** cuidar cada detalle de la prueba. AMpliar el tiempo de prueba.<br>
+
+**Financiación y seguro** : oportunidad de buscar nuevos partners.<br>
+
+**Postventa** resolver los posibles problemas que pueden surgir es crítico. Hay que implementar sistema de recordatorio automático.<br>
 
 ---
 
