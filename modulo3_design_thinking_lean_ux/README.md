@@ -603,38 +603,75 @@ Entre sus tareas está:<br>
 **Analizar, sintetizar y tomar decisiones** 
  
 Tras la primera etapa de **EMPATIZAR** en la que hemos abierto los ojos y los oídos para comprender a nuestros usuarios y clientes, deberíamos, como ideal llegar a esta instancia con muchísima información, con muchos datos tanto cualitativos como cuantitativos sobre el
-universo en el que se encuentra nuestro negocio y nuestros usuarios. Por eso antes de descartar cualquier información debemos ir organizando para después pasarla por un filtro, no toda la información recabada es de valor. <br>
+universo en el que se encuentra nuestro negocio y nuestros usuarios. <br>
+Por eso antes de descartar cualquier información debemos ir organizando para después pasarla por un filtro, no toda la información recabada es de valor. <br>
 
+Usamos los papeles de colores (postis) o pizarra, ponemos en palabras todos los datos juntados, para visualizar. <br>
 
 ## Personas - Mapa de Empatía
 
-**Cruzando datos y detectando patrones**
+Como lo visto en la clase anterior se vuelve a ver el **User Persona** y el **mapa de empatía** , son herramientas que se siguen usando, con todo lo que se tiene se ve si hay que hacer algún cambio en ellos, o si siguen así. <br>
+Si lo que creiamos al principio, luego investigado, coincide con los postis que son el resultado de la investigación.<br>
 
-### DEFINIR | ¿Qué estamos definiendo?
+**Cruzando datos y detectando patrones** es lo fundamental en esta etapa para poder organizar la información que tenemos en base a las entrevistas realizadas y lo que bajamos de los postis, ver qué copincidencias hay? Con elñ mapa de empatía ver qué piensan? SI hay algo en común? <br>
 
-**Definimos el PROBLEMA**
- 
-La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de articular claramente el problema que intentas solucionar. <br>
-Entender y comprender cuál es la problemática de los usuarios . <br>
+## DEFINIR : ¿Qué estamos definiendo?
 
-**Definimos el FOCO**
 
-Esta fase del design thinking va un paso más allá de la mera definición del problema, poder Identificar un foco de acción a partir de las conclusiones extraídas de la fase anterior. <br>
-Debería ser una guía que te focaliza en unos usuarios específicos con unas necesidades concretas
-y refleja los insights que has descubierto durante la fase de empatía. <br>
-Según la Design School de Standford la definición de Point of View es la siguiente: <br>
-el POV es un reencuadre único del problema basado en las necesidades del usuario y los insights. <br>
-
-## Definiendo el problema
+### DEFINIMOS EL PROBLEMA
 
 **Insights** : es un punto de vista único y relevante del usuario. <br>
 Son al fin y al cabo “revelaciones” encontradas a partir de la observación llevada a cabo en el Proceso de Empatizar. <br>
+Entender bien las **necesidades** para definir bien el problema.<br>
 
 La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de articular claramente el problema que intentas solucionar. <br>
 Entender y comprender cuál es la problemática de los usuarios. <br>
 Vamos a buscar en esta etapa detectar puntos de dolor que se repiten, es decir, poder detectar necesidades no satisfechas de los usuarios. <br>
 El problema debe de ser lo suficientemente abarcativo para darnos lugar en las siguientes etapas a poder generar una búsqueda de soluciones creativas amplia, pero sin llegar al punto de lo absurdo. <br>
-En esta etapa es interesante que también participen los stakeholders, para ayudar a definir o dar su aporte desde su conocimiento. <br>
+
+En esta etapa es interesante que también participen los stakeholders, para ayudar a definir o dar su aporte desde su conocimiento. <br> 
+La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de articular claramente el problema que intentas solucionar. <br>
+Entender y comprender cuál es la problemática de los usuarios . <br>
+
+**¿Qué hace a una buena declaración de un problema?**
+ 
+  * Centrado en el humano. El planteamiento del problema debe ser de la gente el equipo es tratando de ayudar, en vez de centrarse en tecnología, rendimientos monetarios o especificaciones del producto.
+ 
+  * Amplia libertad creativa. El planteamiento del problema no debe centrarse demasiado estrecho en un método específico con respecto a la implementación de la solución.
+ 
+  *  Suficientemente estrecho para que sea manejable. Una declaración del problema como "Mejorar la condición humana" es demasiado amplia. Declaraciones del problema deben tener suficientes restricciones para hacer manejable el proyecto.
+
+  * Visión de futuro: la declaración de un buen problema es siempre mirando hacia adelante. Contiene semillas de posibilidades.
+
+  * Verbo impulsado, orientado la acción: comenzar el planteamiento del problema con un verbo, como "Crear", "Definir" o "Adaptar", para que el problema sea más orientado a la acción. 
+
+**Matriz de impacto y esfuerzo**
+
++ <br> 
+I       MANOS A        |         CONVERTIR <br>
+M       LA OBRA        |         EN PROYECTOS <br>
+P <br>                 |
+A     - - - - - - - - -  - - - - - - - - - - - - -  <br> 
+C       TAREAS DE      |        NO, GRACIAS <br>
+T       RELLENO <br>   |
+O     <br>             |
+       - - - - - - - -  - - - - - - - - - - - - - - -
+- <br>
+  -           ESFUERZO                         +              
+
+### DEFINIMOS EL FOCO
+
+Esta fase del design thinking va un paso más allá de la mera definición del problema, poder **Identificar un foco de acción a partir de las conclusiones extraídas de la fase anterior**. <br>
+
+Debería ser una guía que te focaliza en unos usuarios específicos con unas necesidades concretas
+y refleja los insights que has descubierto durante la fase de empatía. <br>
+
+Según la **Design School de Standford** la definición de **Point of View** es la siguiente: <br>
+el **Pint Of View** es un **reencuadre único** del **problema** basado en las **necesidades del usuario** y los **insights**. <br>
+Pone el foco en el problema dentro de un encuadre, define al **usuario**, en cuanto a sus necesidades e insights. ASi no nos desviamos, nos enfocamos en esto.<br>
+
+Es una etapa compleja y dificil en la que hjay ue definir en base a lo que se detecta como se sigue, de acá nace la base para las próximas tres etapas: idear, prototipar y testear. <br>
+
 
 --- 
 
