@@ -62,8 +62,8 @@ Conocer por medio de la investigación las verdaderas necesidades del usuario y 
 
   * Ponerse en el lugar del otro, ver con sus ojos, sentir y experimentar con sus sentidos.
   * Pretender entender la necesidad que se va a trabajar para el proyecto que se va a desarrollar.
-  * Es el entendimiento del comportamiento del usuario respecto al usaurio real, es el principio básico del diseño centrado en el usuario.
-  * Trabaja sobre necesidades reales. Para emjroar la vidda de las personas.
+  * Es el entendimiento del comportamiento del usuario respecto al usuario real, es el principio básico del diseño centrado en el usuario.
+  * Trabaja sobre necesidades reales. Para mejorar la vidda de las personas.
 
 ¿ Cómo identificamos una necesidad? ¿ Cómo entendemos al usuario ? ¿ Cómo comprender el problema? <br>
 INVESTIGANDO
