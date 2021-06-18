@@ -64,6 +64,11 @@ Tenemos que poder definir para el usuario qué es clave para que entienda que de
 
 El modelo de acceso definirá en la guía lo relativo a navegación, orientación del usuario y búsqueda. <br>
 
+## Conceptos claves: navegación
+
+Pesar en las posibilidades de navegación, va más allá de un menú. Con el fin de que el usuario pueda desplazarse entre secciones o cantidades de información, podemos implementar enlaces contextuales, wizards, breadcrumbs, etc. La navegación nos permite explorar la información que hay en el sistema, así como interactuar de manera ráìda con e contenido. una buena navegación se hace presente a lo largo de todas las páginas o secciones de manera consistente.
+
+
 
 
 ---
