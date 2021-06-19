@@ -92,7 +92,8 @@ No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , tamb
 
 Filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
 
-¿Cómo finltramos la información? ¿Cómo definiimos el problema? ¿Cómo detectamos insigths? <br>
+¿Cómo filtramos la información? ¿Cómo definimos el problema? ¿Cómo detectamos insigths? <br>
+
 DETECTANDO PATRONES
 
 **Características**
