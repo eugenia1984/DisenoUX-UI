@@ -149,7 +149,7 @@ Las respuestas conseguidas nos ayudarán a determinar qué contenido y enlaces d
 Un diagrama de flujo, es una manera de representar gráficamente un proceso a través de una serie de pasos bien estructurados y relacionados que permiten comprender un todo. <br>
 Los diagramas permiten representar flujos de tareas ( task flows) y flujos de usuarios ( user flows). Tienen otra característica importante, y es que son completamente agnósticos al tipo de dispositivo y a la estética, hecho que facilita que la discusión se centre en qué cucede y no es cómo se verá. <br>
 
-## ¿ En quñé etapa del proceso lo podemos usar ?
+## ¿ En qué etapa del proceso lo podemos usar ?
 
 El diagrama de flujo puede utilizarse en multitud de momentos dentro del proceso de diseño. Por ejemplo:
 
