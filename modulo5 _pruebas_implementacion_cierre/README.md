@@ -170,8 +170,22 @@ Para medir la eficacia es necesario definir qué significa éxito y fracaso para
 Hay tareas que tienen un fin muy claro (por ejemplo, reservar un vuelo concreto en la página web de una aerolínea) mientras que otras tienen un fin más abierto (por ejemplo, localizar el horario y precio más ajustados a nuestras necesidades). <br>
 
 **Ejemplo** <br>
-Test de usabilidad en el que participan 10 usuarios, cuya tarea es tratar de reservar un vuelo en dos aerolíneas diferentes (A y B). Una práctica común es asignar un 1 cuando el usuario completa la tarea, 0,5 cuando lo hace pero de manera incompleta, y 0 cuando no consigue finalizar la tarea. A partir de esta información se puede construir la métrica Tasa de éxito, como una media de puntuaciones de todos los participantes.
+Test de usabilidad en el que participan 10 usuarios, cuya tarea es tratar de reservar un vuelo en dos aerolíneas diferentes (A y B). Una práctica común es asignar un 1 cuando el usuario completa la tarea, 0,5 cuando lo hace pero de manera incompleta, y 0 cuando no consigue finalizar la tarea. A partir de esta información se puede construir la métrica Tasa de éxito, como una media de puntuaciones de todos los participantes. <br>
 
+**Eficiencia**: La eficiencia en el uso de un producto digital se refiere a cuánto esfuerzo mental es necesario para realizar una tarea. <br>
+
+**Ejemplo**:<br>
+Volviendo al caso anterior, imaginemos que dos sitios web de aerolíneas tienen una tasa de éxito del 100% (todos los usuarios consiguen reservar el vuelo) pero a los usuarios, uno de los sitios les ha parecido mucho más difícil que el otro. <br>
+¿Cómo podríamos medir la eficiencia con la que los usuarios pueden realizar su tarea en ambos sitios? Una posibilidad es medir el tiempo
+que tardan en hacer cada una de las tareas. Imaginemos que definimos un tiempo máximo de 2 minutos para realizar la tarea Existen otras posibilidades para medir la eficiencia, como son registrar el número de clicks que debe realizar el usuario para llegar a su objetivo, o
+emplear un cuestionario de esfuerzo cognitivo percibido. <br>
+
+**Satisfacción** : En la mayoría de los casos, la satisfacción de los usuarios depende principalmente de que puedan cumplir su objetivo con el mínimo esfuerzo. <br>
+En este sentido, si la eficacia y la eficiencia de un sistema es alta, también lo será su satisfacción.<br>
+Pero si entendemos la satisfacción en un sentido más amplio, también va a depender de otros aspectos que influyen en la experiencia de usuario, como la calidad estética del sitio web o la aplicación. <br>
+La manera más directa de evaluar la satisfacción es mediante el uso de cuestionarios de usabilidad percibida y experiencia de usuario. <br>
+
+**Ejemplo** : La evaluación puede consistir en una sola pregunta que cada usuario responde en una escala del 1 al 10. ¿Estoy satisfecho con el proceso de reserva? (1 – Totalmente en desacuerdo; 10 – Totalmente de acuerdo). <br>
 
 ---
 
