@@ -6,9 +6,8 @@
 
 ---
 
-## Pruebas de usuario Pruebas A/B
 
-### Introducción: Pruebas Ux (Ux Test)
+## Introducción: Pruebas Ux (Ux Test)
 
 El diseño Ux es la práctica del diseño que se centra en el usuario y la usabilidad de
 un producto para ofrecer la experiencia más satisfactoria. Si bien algunos
@@ -119,13 +118,59 @@ Por otro lado, en esta fase también debemos plantear las preguntas que queremos
 
 **6. Seleccionar y captar a los usuarios**  <br>
 
+Una vez que tenemos todo el plan del test definido y los perfiles con los que lo queremos realizar, es el momento de determinar el número de usuarios para proceder a su captación. <br>
+
+Hay estudios que demuestran que 5 participantes revelan el 85% de los problemas de usabilidad del producto que estamos testando. A partir de ahí, la cantidad de insights obtenidos crece muy levemente con cada usuario adicional. <br>
+
+Por supuesto, el número de participantes dependerá del producto que vamos a testar y de la cantidad de perfiles diversos con los que vayamos a contar. <br>
+
 **7. Preparar el espacio y los materiales**  <br>
+
+En este punto, lo primero que debemos hacer es escoger la herramienta con la que vamos a realizar los tests y registrar toda la información obtenida. <br>
+
+Por otro lado, debemos preparar el espacio en el que vamos a llevar a cabo los tests: un espacio libre de ruidos en el que se encontrarán el usuario y el moderador del test. También necesitaremos contar con un espacio para el observador que se encargará de registrar la información que está viendo en tiempo real. <br>
+
+Ambos espacios tendrán que estar equipados con todos los elementos necesarios para cada tipo de test: ordenador, móvil, cámara de vídeo, etc. <br>
 
 **8. Elaborar una prueba piloto**  <br>
 
+Antes de lanzar el test, es necesario que hagamos una prueba piloto para comprobar que todo funciona correctamente y, en su defecto, poder corregir cualquier incidencia. <br>
+Por el contrario, si se produce cualquier tipo de problema durante la realización de los tests reales, los resultados pueden verse afectados. <br>
+Esta prueba piloto la tendremos que realizar con una o dos personas ajenas al proyecto, para simular una situación lo más realista posible.<br>
+
+### Pruebas A/B (A/B Testing)
+
+La prueba A / B es un método para comparar dos versiones de una página web o aplicación entre sí para determinar cuál funciona mejor. La prueba AB es esencialmente un experimento en el que se muestran dos versiones de una página o aplicación a los usuarios de forma aleatoria y se utiliza un análisis estadístico para determinar qué variación funciona mejor para un objetivo de conversión determinado. <br>
+
+Las pruebas eliminan las conjeturas y permiten decisiones basadas en datos que cambian las conversaciones comerciales de "pensamos" a "sabemos". Al medir el impacto que los cambios tienen en sus métricas, puede asegurarse de que cada cambio produzca resultados positivos. <br>
+
+### ¿Cómo funcionan Pruebas A/B?
+
+Este método consiste en desarrollar dos versiones de un mismo elemento que vamos a lanzar al mercado (por ejemplo, un botón de CTA azul y uno amarillo), y luego utilizar las métricas de cada variación para evaluar cuál funciona mejor. <br>
+
+En una prueba A / B, toma una página web o la pantalla de una aplicación y la modifica para crear una segunda versión de la misma página. La versión A puede ser la que se esté utilizando en un momento determinado (control), mientras que la versión B se modifica en algún aspecto concreto (variante). <br>
+
+Este cambio puede ser tan simple como un solo título o botón, o ser un rediseño completo de la página. Luego, a la mitad de su tráfico se le muestra la versión original de la página (conocida como el control) y a la mitad se le muestra la versión modificada de la página (la variación). <br>
+
 **9. Llevar a cabo el test**  <br>
 
+Cuando llegue cada uno de los usuarios, es importante transmitirle tranquilidad y explicarle todo con detalle. Es probable que el usuario se encuentre algo nervioso ya que no sabe a lo que se enfrenta, por ello es importante que le hagamos sentir cómodo y le repitamos las veces que hagan falta que no les estamos evaluando a él/ella, sino al producto. <br>
+
+Durante la ejecución del test, es importante que el observador registre el máximo de información posible, aunque la sesión se esté grabando y podamos consultar la información posteriormente. En general, no sólo debemos prestar atención a lo que el usuario hace y dice, sino también a sus expresiones y gestos, que nos revelarán mucha información acerca de cómo se siente en cada momento. <br>
+
+Puede resultar muy interesante que esté presente algún miembro responsable del producto para que puedan ver de primera mano cómo los usuarios manejan su producto y los problemas que se encuentran <br>
+
 **10. Analizar los resultados y proponer mejoras**  <br>
+
+El concepto de usabilidad de un sistema considera que hay tres dimensiones principales que pueden medirse: eficacia, eficiencia y satisfacción. <br>
+Por otra parte, la definición de experiencia de usuario señala que ésta depende de las percepciones y respuestas de los usuarios antes, durante y después del uso, lo cual amplía el abanico de variables psicológicas y comportamentales que pueden medirse<br>
+
+**Eficacia**: ¿Pueden los usuarios conseguir su objetivo con el sitio web o la aplicación? <br>
+Para medir la eficacia es necesario definir qué significa éxito y fracaso para el usuario en una tarea determinada. <br>
+Hay tareas que tienen un fin muy claro (por ejemplo, reservar un vuelo concreto en la página web de una aerolínea) mientras que otras tienen un fin más abierto (por ejemplo, localizar el horario y precio más ajustados a nuestras necesidades). <br>
+
+**Ejemplo** <br>
+Test de usabilidad en el que participan 10 usuarios, cuya tarea es tratar de reservar un vuelo en dos aerolíneas diferentes (A y B). Una práctica común es asignar un 1 cuando el usuario completa la tarea, 0,5 cuando lo hace pero de manera incompleta, y 0 cuando no consigue finalizar la tarea. A partir de esta información se puede construir la métrica Tasa de éxito, como una media de puntuaciones de todos los participantes.
 
 
 ---
