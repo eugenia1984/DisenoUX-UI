@@ -1,5 +1,7 @@
 # Módulo 5 | Pruebas e Implementación - Cierre
 
+Testing para comprobar las hipotesis y los contenidos.
+
 ---
 
 ## Contraste y Legibilidad
