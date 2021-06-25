@@ -6,8 +6,7 @@
 
 Es el resultado de las interacciones que un cliente tiene con una organización/empresa durante toda su relación. <br>
 No es una disciplina, es el resultado de diversas técnicas como el servicio al cliente, el control de calidad, el estudio de mercado. <br>
-Hablamos de la suma de experiencias. El foco está en todo el recorrido del cliente, desde su primera interacción hasta que compra <br>
-un producto o recibe un servicio y el posterior soporte. <br>
+Hablamos de la suma de experiencias. El foco está en todo el recorrido del cliente, desde su primera interacción hasta que compra un producto o recibe un servicio y el posterior soporte. <br>
 
 Abarca todo el recorrido: Ux, Ixd, Ui
 
@@ -33,24 +32,21 @@ Según **Design Thinking en Español** : <br>
 «Es una **metodología para generar ideas innovadoras** que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios». <br>
 
 Según **Tim Brown** , actual CEO de IDEO: <br>
-“Es una disciplina que usa la sensibilidad y métodos de los diseñadores para hacer coincidir las necesidades de las personas <br>
-con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente, <br>
-así como en una gran oportunidad para el mercado”. <br>
+“Es una disciplina que usa la sensibilidad y métodos de los diseñadores para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente, así como en una gran oportunidad para el mercado”. <br>
 
  ## Que tener en cuenta y cómo prepararse ?
 
-- **Empatía** : entender los problemas, necesidades y deseos de los usuarios <br>
-implicados en la solución que estamso buscando. <br>
+- **Empatía** : entender los problemas, necesidades y deseos de los usuarios implicados en la solución que estamso buscando. <br>
 
-- **Equipo** : el trabajo en equipo multidisciplinario genera diferentes enfoques y <br>
-puntos de vista por sobre al singularidad.<br>
+- **Equipo** : el trabajo en equipo multidisciplinario genera diferentes enfoques y puntos de vista por sobre al singularidad.<br>
 
 - **Prototipos** : la metodología defiende que toda idea debe ser validada antes de asumirse como correcta.
 
 - **Lúdico** : disfrutar durante el proceso, llegar a un estado mental en el que demos rienda suelta a nuestro potencial. <br>
 
-- **Materializar** : gran contenido visual y práctico. <br>
-Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analítica. <br>
+- **Materializar** : gran contenido visual y práctico. Esto hace que pongamos a trabajar tanto a nuestra mente creativa como la analítica. <br>
+
+---
 
 ## Etapas del proceso : 
 
@@ -86,13 +82,15 @@ Hay que entender por qué se generara la necesidad y por qué el usuario actúa 
 Entender el problema y la interacción del usuario es fundamental para alcanzar el objetivo. <br>
 No solamente en esta etapa buscamos ponernos en los 'zapatos del usuario' , también conocer la problemática del proyecto y el modelo de negocio.
 
-////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ### Definir
 
 Filtrar información, detectar problemas claves y quedarnos con lo que realmente aporta valor. <br>
 
 ¿Cómo filtramos la información? ¿Cómo definimos el problema? ¿Cómo detectamos insigths? <br>
+
 
 DETECTANDO PATRONES
 
@@ -102,6 +100,7 @@ DETECTANDO PATRONES
    * A estos problemas concretos se los conoce como insights y nos permiten focalizarnos hasta hallar la solución definitiva.
    * En esta etapa filtramos la información recopilada en la fase de empatía y nos quedamos con lo que realmente aporta valor al uduario.
    * Definimos las necesidades del cliente y por qué las necesita.
+
 
 **Técnicas para utilizar**
 
@@ -115,6 +114,7 @@ DETECTANDO PATRONES
    * **Insights**
    * **Toolkit** Dentro / Fuera
  
+ 
  Al finalizar esta etapa deberíamos tener definido: <br>
  - el problema <br>
  - los perfiles de usaurios <br>
@@ -124,12 +124,15 @@ DETECTANDO PATRONES
  - contexto de uso <br>
 
 
-////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ### Idear
 
+
 Generar la mayor cantidad de ideas eliminando cualquier juicio de valor. <br>
 A veces las ideas más absurdas pueden dar solución. <br>
+
 
 **Características**
 
@@ -138,7 +141,9 @@ A veces las ideas más absurdas pueden dar solución. <br>
    * Poner en práctica el pensamiento lateral y dejar volar la imaginación. <br>
    * Trabajar con much material visual y plástico, para poder materializar las ideas y palabras.
 
+
 ¿ Cómo crear alternativas? ¿Cómo imaginar soluciones? ¿Cómo idear componentes? <br>
+
 SOLTARSE CRANEAR <BR>
  
 **Técnicas para utilizar**
@@ -163,19 +168,25 @@ SOLTARSE CRANEAR <BR>
    * **Ideación basada en sùoer héroes**
    * **Exploración semántica**
  
- Todas estas actividades son cronometradas, y en un tiempo definido se usa la imaginación. A veces se vuelve a repetir o se usa otra herramienta, pero siempre con tiempo cronometrado.
+ 
+ Todas estas actividades son cronometradas, y en un tiempo definido se usa la imaginación. A veces se vuelve a repetir o se usa otra herramienta, pero siempre con tiempo cronometrado. <br>
+ 
 
  Al finalizar esta etapa deberíamos tener definido: <br>
 
   * Llevarnos soluciones y definir cuál son las ideas viables, en cuáles vamos a profundizar. Se busca una solución para poder prototipar y testear.
   * Si el resultado es malo hay que volver a la etapa anterior y encontrar un nuevo camino.
 
-////////////////////////////////////////////////////////////////////////////////////////
+ 
+////////////////////////////////////////////////////////////////////////////////////////////////
+ 
  
 ### Prototipar
+ 
 
 Volver las ideas realidad, materializarlas, visualizando las posibles soluciones y <br>
 detectando las primeras mejoras del producto. <br>
+ 
  
 **Sus características:** <br>
 
@@ -183,7 +194,11 @@ detectando las primeras mejoras del producto. <br>
   * Pretende experiementar, crear y refinar modelos en 2 y 3 dimensiones con el fin de testearlos en la siguiente fase. Sino al menos se hacen bocetos en hoja. Hay que mostrar en un material visual.
   * Consumir la menor cantidad de recursos y tiempos, de modo que se puede ver/ testear las soluciones que han surgido en la etapa de ideación, lo antes posible.
  
-¿Cómo crear prototipos? ¿Cómo refinar prototipos ? Al menor costo y tiempo<br>
+ 
+¿Cómo crear prototipos? <br>
+¿Cómo refinar prototipos ? Al menor costo y tiempo<br>
+ 
+ 
 MATERIALIZANDO SULUCIONES <br>
 
 **Técnicas para utilizar**
@@ -211,19 +226,24 @@ MATERIALIZANDO SULUCIONES <br>
    * **Infografía**
    * Toolkit
  
+ 
 ////////////////////////////////////////////////////////////////////////////////////////
+ 
  
 ### Testear
 
 Probar los prototipos con los usuarios implicados en la solución. <br>
 Detectar fallas y/o carencias para mejorar y llegar a la solució más eficiente.
 
+ 
 **Sus características:** <br>
 
   * Abrir la **conversación** en base a prototipos, para extraer información de las **necesidades de los usuarios** y de cómo los **conceptos generados satisfacen o no** . <br>
   * El **testeo** puede abrir puertas hacia profundozar en empatía, re-definir el posible problema, buscar más ideas en la fase de ideación, e incluso, retomar prototipos que se quedaron en el cambio. <br>
 
- ¿Cómo generar conversaciones? ¿Cómo evaluar la experiencia? ¿Cómo iterar lo que sea necesario? <br>
+ ¿Cómo generar conversaciones? <br>
+ ¿Cómo evaluar la experiencia? ¿Cómo iterar lo que sea necesario? <br>
+ 
 TESTEANDO <br>
  
 **Técnicas para utilizar**
@@ -246,13 +266,17 @@ TESTEANDO <br>
    * Toolkit
    * Apuntes de testeo.
 
+ 
   Al finalizar esta etapa deberíamos: <br>
 
+ 
   * Identificar mejoras significativas, fallos a resolver, posibles carencias.
   * Mejorar la necesidad que se está trabajando y lograr una óptima interacción con el usuario.
   * Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución que estábamos buscando.
  
+ 
 ---
+ 
 ### CONSIDERACIONES IMPORTANTES
  
 * Es una forma de explorar ideas. Nada se descarta en sus inicios, nada es absurdo, todo se prueba <br>
@@ -271,8 +295,10 @@ TESTEANDO <br>
 
 * Participan aquellos que conocen el producto o servicio, que además tienen un conocimiento amplio de lo que sucede en el mundo, y personas que conocen tendencias tanto locales como mundiales.
  
+ 
 ---
 
+ 
 **Ejemplo Ux - Ikea Place (app)** una app de realidad aumentada, para saber cómo va a quedar el mueble donde lo voy a usar.
  
 Caso de estudio | Medium | @HausJiang <br>
@@ -315,6 +341,7 @@ Elimina elementos que no aportan algo útil al cliente y se basa en el **aprendi
 sus productos. <br>
 Lean UX es una serie de principios y procesos teniendo como base la **efectividad**, **agilidad** e **iteración** en la validación de hipótesis para la creación de soluciones de acuerdo al feedback temprano de los usuarios finales. <br>
  
+ 
 ### ETAPAS DE LA METODOLOGÍA:
  
 
@@ -333,6 +360,7 @@ Esta etapa implica: <br>
   * Modelos de comportamiento <br>
   * Análisis competitivo <br>
  
+ 
 #### Hacer
  
 La etapa de hacer es donde los diseñadores de UX y UI crean **soluciones** a las hipótesis que generaron durante la etapa de reflexión. <br>
@@ -347,6 +375,7 @@ Esta etapa implica: <br>
    * Propuesta de valor <br>
    * Páginas de destino (landing page)<br> 
 
+ 
 #### Validar
 
 Validar implica, nada más y nada menos, que **poner a prueba las soluciones propuestas**. <br>
@@ -358,6 +387,7 @@ Esta etapa implica: <br>
   * Pruebas beta <br> 
   * Juegos de roles <br> 
   * Observación encubierta <br> 
+ 
  
 ### Principios del Lean Ux 
  
@@ -388,16 +418,22 @@ la empresa y la optimización de los procesos de diseño”. <br>
 -Descubrimiento continuo <br>
 -Externalizar el trabajo <br>
  
+ 
 ---
+ 
 
 ### RESEARCH (investigación)
 
+ 
 **UX RESEARCH (investigación de usuarios): ¿qué es?**
 
 Es el proceso de **investigación** para entender a los **usuarios** que van a usar nuestro **producto digital**, es la investigación que debemos hacer para detectar las **necesidades  profundas** de los **usuarios**. <br>
  PAra comprender dichas necesidades, tenemos que entender a los usuarios, y para entenderlos debemos **observar** su **comportamiento**, **cómo piensan**, **qué necesitan**, que quieren conseguir** y **qué motiva** a las personas que van a utilizar nuestro producto o servicio. <br>
  
+ 
+ 
  **La importancia de la investigación de usuarios :** <br>
+ 
  
   * Tiene como princial objetivo revelar **información de valor** para incorporar en el proceso de diseño y así obtener un mejor resultado de nuestro producto, debido a que podrá entender que es lo que realmente necesitan los usuarios.
  
@@ -405,9 +441,15 @@ Es el proceso de **investigación** para entender a los **usuarios** que van a u
  
   * Permite obtener **datos fiables**, que nos acercan a los clientes reales y entender cómo será su interacción con nuestro producto en las distintas etapas del proceso de diseño.
  
+ 
+ 
 **El research no es una etapa, sino un estado.** <br>
  
+ 
+ 
 **¿ En qué etapas investigamos?** <br>
+ 
+ 
  
 En **todas**, no dejamos de investigar nunca.<br>
  
@@ -418,6 +460,8 @@ Conocer su **comportamiento** y el **entorno** en el que se desenvolverá nuestr
   * **Idear / prototipar :** Durante el proceso de diseño, cuando se diseña un producto siempre queremos que este sea **exitoso** y que ofrezca una **buena experiencia a los usuarios**, por lo que durante todo le proceso de diseño es conveniente **ir probando con los usuarios los avances que se van teniendo para así realizar mejoras en el camino**, analizar su **comportamiento** y conocer los **problemas** que se le presentan, de cara a mejorar la eficacia de nuestro producto, en lugar de esperar al final. <br>
  
   * **Testear :** Cuando el **producto está listo para salir**. Ya cuando el producto está listo se debe **probar** para confirmar que las **mejoras** que fueron hechas en el proceso sí surgieron un efecto positivo, además la UX Research no debe darse por terminada jamás, ya que siempre existirán **aspectos para mejorar el producto** y darle una **excelente experiencia al usuario**. <br>  
+ 
+ 
  
 **¿ Qué tipo de investigación podemos hacer ?**
  
@@ -431,6 +475,8 @@ Pueden ser 5 o 7 los entrevistados, tiene muy buena selección de perfil del usu
 Con la investigación cualitativa, los comportamientos y actitudes de los usuarios se recopilan indirectame; no se está en contacto cara a cara, se obtienen por medio de formularios. Es un método valioso para comprender las probabilidades estadísticas y lo que está sucediendo en un sitio o en una aplicación. <br>
 Los datos cuantitativos por si solos no pueden revelar conocimientos humanos más profundos.<br>
 Hay software (mapas de calor) que ven donde hay más ctividad en la pantalla, para ver si cumple con el diseño UI.<br>
+ 
+ 
  
 **Puntos claves de la investigación** <br>
  
@@ -453,7 +499,9 @@ El buen enunciado describe el tema de estudio y el objetivo, se entiende bien do
 Las hipótesis son el mejor intento para resolver el problema, es un camino hacia el cuál vamos a ir transitando en el proceso de research, tratando de validarlas, desafiarlas, anular hasta tener datos certeros.<br>
 Un ejemplo: tenemos un e-commerce, pero hay ruido en el proceso de compra, nos avisan de soporte. Entonces hacemos una investigación para saber cuál es la razón por la cuál el usuario tiene dudas al momento de hacer la compra? Qué le pasa al usuario? (este es el problama). Y planteamos la hipótesis: nuestro proceso de compra actual es complejo para nuestros usuarios.<br>
  
+ 
 ### Herramientas para dar un pantallazo: 
+ 
  
 #### DESK RESEARCH
 
@@ -468,10 +516,12 @@ Incluye cualquier tipo de acercamiento. <br>
 
 Todo lo que sirva para poder terminar con una idea inicial de lo que estamos investigando. 
  
+ 
 #### ENTREVISTAS CON  STAKENHOLDERS 
  
 Es la herramienta que posibilita a los diseñadores y estrategas UX conocer en profundidad el modelo de negocio del cliente, su realidad tecnológica, sus aspiraciones, sus opiniones sobre su competencia y sus clientes - actuales, potenciales e ideales- y el ecosistema donde se moverá el producto a diseñar.<br>
 En pocas palabras, es una técnica de análisis cualitativo y de recolección de información basado en entrevistas.<br> 
+ 
  
 #### BENCHMARKING
  
@@ -479,6 +529,7 @@ Es un método de gestión empresarial que **buscar encontrar las mejores prácti
 No es copiar a la competencia, sino ver que es lo bueno que tiene y si se puede adaptar a nuestra empresa.<br>
 Si es una buena práctica que funciona, se toma (uno se organiza, se itera).<br>
 Por ejemplo las aplicaciones que tienen la botonera abajo en un celular, es lo más accesible. Lo mismo para el menú hamburguesa, que esconde información en pantallas chicas.<br>
+ 
  
  
  
@@ -499,6 +550,7 @@ Definir previamente **cuáles** y **cuántos** son esos recursos a usar para lle
  
  
  
+ 
 # 3 - EJECUCIÓN :
  
 **Salida a campo**, **recolección de datos**, sea con la metodología que sea. Es la puesta en práctica. <br>
@@ -507,16 +559,20 @@ Hay que ser empáticos, peor no condicionar las respuestas.<br>
 Existen **herramientas** que responden a enfoques cualitativos, explorando opiniones, enfoques cuantitativos, probando opiniones mediante la exploración de datos numéricos o porcentuales. Tenemos enfoques conductuales, observar a usuarios, explorando sus actitudes y opiniones. Además podemos clasificarlos en ralación en relación a la etapa del diseño en las que nos encontramos, tanto si usamos Design Thinking o Lean Ux.<br>
 Podemos decir que en un principio este investigacióon en **muchísimo más exhaustiva**, ya que es el momento en donde debemos conocerlo y descubrirlo al usuario, pero como dijimos antes no es el único momento, analizar las pruebas y los testeos son parte de la investigación del usuario.<br>  
  
+ 
 #### ENTREVISTAS CON USUARIO
+ 
  
 **Entrevistas dirigidas** <br>
 Son el tipo más común, son entrevistas típicas de preguntas y respuestas, en las que un investigador hace preguntas específicas.<br>
 Esto puede resultar útil cuando se realizan entrevistas con un gran número de usuarios o cuando se busca comparar y contrastar respuestas de varios usuarios.
  
+ 
 **Entrevistas no dirigidas**<br> 
 Son la mejor manera de aprender sobre temas más delicados.<br>
 Con una entrevista no dirigida, el entrevistador establece algunas pautas generales y abre una conversación con el entrevistado.<br>
 EL entrevistador escuchará principalmente durente esta conversación y hablará solo para proporcionarle el usuario detalles adicionales o explicar conceptos. <br>
+ 
  
 **Entrevistas etnográficas**<br> 
 Implica observar lo que las personas hacen durante sus días en sus habitats naturales. <br>
@@ -525,6 +581,7 @@ En este tipo de entrevistas, el usuario muestra al entrevistador cómo realiza d
   
 
 
+ 
 #### CREACIÓN DEL USER PERSONA
 
 Antes de la construcción de personas es necesario haber definido los escenarios. Los escenarios no son más que una descripción de las situaciones de uso y contextualizar las interacciones que realiza el usuario con el producto digital, ya sea un sitio web o una applicación.<br> 
@@ -534,6 +591,7 @@ Puede ser uno o más **user persona**, son los ejemplos de quienes van a ser nue
 También se puede crear una persona que sabemos que no va a ser nuestro usuario.<br>
 Un ejemplo: una persona que suele comprar por internet, su relación con la tecnología, sus datos demográfico, rango de edad, qué lo motiva, qué objetivos tiene, sus características.<br>
 Luego hay que probar a nuestro usuario.<br>
+ 
  
  
 #### MAPA DE EMPATÍA
@@ -554,6 +612,7 @@ Son datos que se obtiene de forma cualitativa.<br>
  
   * **Resultados** deseos, necesidades, obstáculos.<br> 
 
+ 
 
 #### CARD SORTING (ORGANIZACIÓN EN TARJETAS)
  
@@ -570,6 +629,7 @@ Actualmente existen dos tipos de Card Sorting: <br>
 Por ejemplo: tenemos muchas categorías de productos sueltas para un sitio web y se las damos al usuario para que las acomode a su gusto y en base a eso lo analiizamos (card sorting cerrado). Si le damos total libertad, para que el usuario nos sugiera categoría, es un ejemplo de card sorting abierto, si vemos un patrón que se repite le prestamos atención.<br>
  
  
+ 
 # 4 - ANÁLISIS Y REPORTE DE RESULTADOS :
  
 Procesar estos datos, detectar patrones y sacar conclusiones. Hacer un análisis y un reporte. <br>
@@ -581,13 +641,16 @@ Los diferentes métodos de investigación tienen diferentes fortalezas y se pres
  
 --- 
  
+ 
 ### ROL DEL RESEARCHER
  
 El rol del investigador es un papel crucial dentro del proceso de diseño.<br>
 Se encarga de investigar la búsqueda de patrones de comportamiento, estos insights que nos dan pauta para la creacion de ideas o para la mejora particular en el producto/servicio.<br>
 El investigador de usaurio juega uno de los papeles más importantes dentro del proceso de diseño de UX, ya que sus entregables proponen ideas de solución, segmentaciones de públicos, ejecución de prototipos y después proponer un producto a los diferentes usuarios.<br>
 Comprender a profundidad que requieren los clientes.<br>
+ 
 Entre sus tareas está:<br>
+ 
 -La definición de objetivos de investigación.<br>
 -Elección de técnicas de investigación en base a lo que necesitan aprender.<br>
 -Recruiting de personas usuarias.<br>
@@ -595,13 +658,18 @@ Entre sus tareas está:<br>
 -Presentación de hallazgos.<br>
 -El equipo para pasr a la fase de diseño de ideación y diseño del producto. <br>
  
+ 
 --- 
 
+ 
 # ETAPAS DEFINIR E IDEAR ( DESIGN THINKING)
 
+ 
 ## ¿Qué hacemos con toda la información?
 
+ 
 **Analizar, sintetizar y tomar decisiones** 
+ 
  
 Tras la primera etapa de **EMPATIZAR** en la que hemos abierto los ojos y los oídos para comprender a nuestros usuarios y clientes, deberíamos, como ideal llegar a esta instancia con muchísima información, con muchos datos tanto cualitativos como cuantitativos sobre el
 universo en el que se encuentra nuestro negocio y nuestros usuarios. <br>
@@ -616,11 +684,14 @@ Si lo que creiamos al principio, luego investigado, coincide con los postis que 
 
 **Cruzando datos y detectando patrones** es lo fundamental en esta etapa para poder organizar la información que tenemos en base a las entrevistas realizadas y lo que bajamos de los postis, ver qué copincidencias hay? Con elñ mapa de empatía ver qué piensan? SI hay algo en común? <br>
 
+ 
 ## DEFINIR : ¿Qué estamos definiendo?
 
 
+ 
 ### DEFINIMOS EL PROBLEMA
 
+ 
 **Insights** : es un **punto de vista único y relevante del usuario** del que nos dimos cuentta por una expresión del mismo, su movimiento, por algo que detectamos a partir de la observación llevada a cabo en el proceso de empatizar (acá entran en juego ayudando a definir, pero ya lo tenemos desde la etapa anterior). <br>
 
 Son al fin y al cabo “revelaciones” encontradas a partir de la observación llevada a cabo en el Proceso de Empatizar. <br>
@@ -634,8 +705,10 @@ El problema debe de ser lo **suficientemente abarcativo** para darnos lugar en l
 
 En esta etapa es interesante que también participen los **stakeholders**, para ayudar a definir o dar su aporte desde su conocimiento. <br> 
 La principal preocupación en la etapa de "definir" de Design Thinking está alrededor de **articular claramente el problema que intentas solucionar**. <br>
-**Entender** y c**omprender** cuál es la **problemática de los usuarios** . <br>
+ 
+**Entender** y **comprender** cuál es la **problemática de los usuarios** . <br>
 
+ 
 **¿Qué hace a una buena declaración de un problema?**
  
   * **Centrado en el humano :** El planteamiento del problema debe ser de la gente el equipo es tratando de ayudar, en vez de centrarse en tecnología, rendimientos monetarios o especificaciones del producto. <br>
@@ -648,6 +721,7 @@ La principal preocupación en la etapa de "definir" de Design Thinking está alr
 
   * **Verbo impulsado, orientado la acción :** comenzar el planteamiento del problema con un verbo, como **"Crear"**, **"Definir"** o **"Adaptar"**, para que el problema sea más orientado a la acción.  <br>
 
+ 
 **Matriz de impacto y esfuerzo**
 
 POSITIVO <br>
@@ -664,12 +738,15 @@ O  <br>
 <br>
 NEGATIVO -  ESFUERZO - POSITIVO     <br>
 
+ 
 CONVERTIR EN PROYECTOS: vamos avanzando con lo que creemos más viable, hay que ver lo que tenga buen impacto, pero que no demande un esfuerzo imposible <br>
 TAREAS DE RELLENO: lo podemos agregar a otro problema, porque no nos demanda mucho y junto con otro se resuelve algo mejor. <br>  
 NO, GRACIAS: se deja para más adelante algo que genera muy poco impacto e implica mucho esfuerzo.<br>        
 
+ 
 ### DEFINIMOS EL FOCO
 
+ 
 Esta fase del design thinking va un paso más allá de la mera definición del problema, poder **Identificar un foco de acción a partir de las conclusiones extraídas de la fase anterior**. <br>
 
 Debería ser una guía que te focaliza en unos usuarios específicos con unas necesidades concretas
@@ -695,8 +772,10 @@ Consideraciones a tener en cuenta a la hora de definir el foco:<br>
   * La definición de un foco de acción que responda a un aspecto de la realidad ni tan extenso como para no poder abarcarse ni tan restringido como para que las soluciones que puedan surgir sean de poco valor o utilidad.
 
 
+ 
 **Definiendo el foco de acción** <br>
 
+ 
 Para definir el foco de acción, podemos servirnos de fórmulas como estas: <br>
 
 **El (usuario) desea/necesita (deseo/necesidad ) porque (insight).** <br>
@@ -713,8 +792,10 @@ La conclusión de la investigación: “Los pacientes de este hospital (usuarios
 Otro ejemplo puede ser las salas de espera en consultorios, que suelen ser de todos claros, estar todo calmo. <br>
 
  
+ 
 **¿ Por qué es importante Definir ?**  <br>
 
+ 
 Veámos cuáles son las poderosas razones que nos invitan a definir en el design thinking: <br>
 
   * Aporta un marco y foco sobre el problema a analizar.  <br>
@@ -727,10 +808,13 @@ Veámos cuáles son las poderosas razones que nos invitan a definir en el design
 
 --- 
 
+ 
 # IDEAR
 
+ 
 **Dejemos volar nuestra mente**
 
+ 
 Es una de las etapas más **dinámica** y **colaborativa** del proceso, y esto se debe a que tiene como objetivo la generación de un sinfín de **“posibles soluciones” al problema (o problemas) que se detectaron en la fase de Definición**. <br>
 Esta es la etapa donde a través de técnicas específicas favorecemos el **pensamiento divergente o expansivo** y las **ideas más “locas o estrambóticas”** pueden surgir, esas ideas locas que finalmente son las que generan soluciones visionarias. <br>
 
@@ -741,8 +825,10 @@ Hay researcher que estan enfocados solo en la etapa de investigación . <br>
 El equipo es muy importante, tener gente que vea la vida de modo difererente, que sean distintos pensamientos.<br>
 
 
+ 
 ### HERRAMIENTAS BRAINSTORMING  (lluvia de ideas)
 
+ 
 Es mejor tener muchas ideas de las cuales elegir que tener algo acotado.<br>
 
 Las tormentas de ideas se utilizan fundamentalmente para: <br>
@@ -754,24 +840,29 @@ Las tormentas de ideas se utilizan fundamentalmente para: <br>
 La utilización del Brainstorming ayuda a resolver problemas, generar soluciones innovadoras y superar el conformismo en un determinado trabajo o situación. <br>
 En ocasiones, también puede ayudar a encontrar oportunidades de negocio ideales para implantar en una empresa. <br>
 
+ 
 ### Cuatro reglas básicas
 
+ 
 **Suspender el juicio** <br>
 
 Durante el proceso de generación de ideas, no hay que realizar ninguna valoración o crítica sobre estas.<br> Solo se apuntan las ideas, la evaluación se realiza después. <br>
 Esta regla es muy importante y, quizás, sea la que más cuesta a las personas seguir, ya que estamos entrenados para ser analíticos y prácticos. <br>
 
+ 
 **Pensar libremente** <br>
 
 Las ideas más prácticas muchas veces nacen de otras ideas que, en su mayoría, son inviables.<br>
 Por ello, es muy importante para una sesión de Brainstorming efectiva, que los usuarios piensen libremente y tengan ideas imposibles. <br>
 De esta forma, se consigue salir de las ideas lógicas y habituales, fomentando así la creación de nuevas soluciones. <br>
 
+ 
 **Efecto multiplicador** <br>
 
 Los participantes en las tormentas de ideas, no solo contribuyen con sus pensamientos, sino que también puede sugerir mejoras o combinar las ideas que tienen los demás. <br>
 Así, las ideas que tienen unos usuarios sirven de estímulo para los otros participantes.<br>
 
+ 
 **La cantidad es importante** <br>
 
 Al hacer un Brainstorming se busca generar una gran cantidad de ideas, para luego escoger la mejor de todas ellas. <br>
@@ -789,8 +880,10 @@ Viajando : con compañero/a, descubriendo, cocinando, explorando <br>
 De todo esto lo que más me llamó la atención es la idea del VIAJE, el momento desde la salida de la habitación hasata el quirófano, ese viaje es en el que enfoco. Por eso hay que ver el contexto, el pasillo por el que va a pasar, que sea un viaje que acompañe. Surge la idea de trasladar al paciente en un viaje que ni se entere que está ahi. Se pueden aprovechar los castos de realildad virtual y proponerle un viaje feliz : caminata por el bosque, caminata por la playa, son videos audiovisuales, el elige el que más le gusta de las opciones que ofrece el hospital.<br>
 En base a esto se prototipa el casco de realidad aumentada. Se lo lleva y se testea en pacientes y a partir de ahi se ve cómo fue la experiencia? Y vemos si es una solución viable? O si lo incomoda más? O es peor tener un hermoso viaje y de repente se choca con el quirófano. <br>
 
+ 
 --- 
 
+ 
 ### MIND MAP  (mapa mental)
 
 Hacer un **mapa mental** de las etapas, acá hablamos de conceptos, vemos cómo organizar todas las ideas.<br>
@@ -799,8 +892,10 @@ Hacer un **mapa mental** de las etapas, acá hablamos de conceptos, vemos cómo 
 
 --- 
 
+ 
 ### CUSTOMER JOURNEY MAP (mapa de viaje del cliente)
 
+ 
 Un mapa de viaje del cliente es una visualización del proceso que atraviesa una persona para lograr un objetivo vinculado a un negocio o producto específico. <br>
 Se utiliza para comprender y abordar las necesidades y los puntos débiles de los clientes. <br>
 
@@ -814,29 +909,42 @@ El recorrido del cliente es el camino que toma una persona para convertirse en c
   * Es cronológico.
   *  Hay un mapa por persona / tipo de usuario (mapeo 1: 1).
 
+ 
 ### Las etapas con un ejemplo de una agencia de autos:
+ 
 Lo previo: <br>
 
+ 
 **Búsqueda de información** es clave tener presencia y buena reputación digital; hay que mejorar la presencia en portales y medios digitales del sector.<br>
 
+ 
 **Elección de modelo** : hay que tener ofertas actualizadas.<br>
 
+ 
 **Búsqueda de concesionario :** hay que trabajar el SEO local. Tener una buena web con experiencia de usuario, no perderlo al ver nuestra web, que lo atraiga para conocernos. <br>
 
+ 
  Ya llegando al concecionario: <br>
 
+ 
 **Visita concesionario :** es el primer punto de contacto con una persona. Hay que cuidar la experiencia de cliente en toda la visita, estar formados y entrenados. Es un momento crítico. Los vendedores deben ser carismáticos, compradores, venden un auto, toda una inversión en un bien material<br>
 
+ 
 **Prueba de vehiculo :** cuidar cada detalle de la prueba. AMpliar el tiempo de prueba.<br>
 
+ 
 **Financiación y seguro** : oportunidad de buscar nuevos partners.<br>
 
+ 
 **Postventa** resolver los posibles problemas que pueden surgir es crítico. Hay que implementar sistema de recordatorio automático.<br>
 
+ 
 ---
 
+ 
 ### USER EXPERIENCE MAP (mapa de experiencia de usuario)
 
+ 
 Un mapa de experiencias es una visualización de una experiencia completa de principio a fin por la que pasa una persona "genérica" para lograr un objetivo. <br>
 Esta experiencia es independiente de un negocio o producto específico. <br>
 Se utiliza para comprender un comportamiento humano general (a diferencia de un mapa de viaje del cliente, que es más específico y se centra en lo relacionado con un negocio específico). <br>
