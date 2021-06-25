@@ -4,12 +4,15 @@ Testing para comprobar las hipotesis y los contenidos.
 
 ---
 
+
 ## Contraste y Legibilidad
+
 
 ---
 
 
 ## Design system (Sistema de diseño )
+
 
 Un Design System o Sistema de Diseño es un **lenguaje** centralizado que consta de un conjunto de patrones perceptuales y funcionales que están interconectados, traducidos en código y guiados por normas específicas para que se utilicen de manera coherente y eficaz sin perder el objetivo del producto digital. <br>
 
@@ -17,16 +20,19 @@ Se definen ciertos valores como los colores, las tipografías, las iconografías
 Tienen las mismas estructuras, depende del diseñador como lo categorice, pero siempre son: tipografías, tamaños, colores, iconos, botones primarios / secundarios / de texto / con links, el tamaño de las imagenes, grilla que se ocupa, el ancho de columnas dentro de la grilla, cálculos con unidad minima de pixeles. <br>
 Está relacionado con la ideantidad de la marca, los valores, el tono de color, como se expresan, la paleta de palabra, etc. <br>
 
+
 Una manera de crear un Design System es basándonos en el concepto de **Atomic Design**. <br>
 Este método, inspirado en los principios de la química, fue ideado por Brad Frost y nos permite construir productos complejos. <br>
 Hacer una construcción desde lo mínimo hasta la maqueta que enviamos a desarrollo. Se piensan los componentes mínimo por separado (sería el átomo) que se combinan para crear pequeñas unidades de diseño (las moléculas). Entonces crea un componente más complejo formado por distintos componentes. <br>
 Y luego se los ubica en la esructura general: donde van? qué lugar ocupan? Le sumamos el texto, todo el entorno para hacer todo el concepto, se suman en el template.<br>
 Por ejemplo los puntitos de abajo del caruesel nos indican que hay más imagenes, o el menu hamburguesa nos avisa que hya un menu. Hay un texto, hay una imagen, las fotos reales, esta la idea de marca, con sus colores. <br>
 
+
 ---
 
 
 ## Introducción: Pruebas Ux (Ux Test)
+
 
 El diseño Ux es la práctica del diseño que **se centra en el usuario y la usabilidad de
 un producto para ofrecer la experiencia más satisfactoria**. <br>
@@ -38,14 +44,19 @@ importantes: sus **usuarios/clientes**. <br>
 Decidir qué aspectos del producto probar y cómo es una gran tarea. <br>
 Hay que definir el prototipo que se usa, cómo se va a hacer ese testeo. <br>
 
+
 Un test de usuario es una **técnica o metodología de investigación** que se utiliza en el diseño centrado en el usuario y tiene como objetivo **evaluar un producto digital** tanto en una fase de diseño desde cero como en una fase de optimización. <br>
 
+
+
 ### ¿Qué son las Pruebas de Usabilidad?
+
 
 -La actividad de **evaluar un producto o servicio probándolo con usuarios representativos**. <br>
 Normalmente, durante una prueba, los participantes tratarán de completar tareas típicas mientras los observadores observan, escuchan y toman notas. <br>
 El objetivo es identificar cualquier problema de usabilidad, recopilar datos cualitativos y cuantitativos y determinar la satisfacción del participante con el producto.-<br>
 **Usability.gov** <br>
+
 
 Uno de los puntos más importantes: llevar mucha información cualitativa y cuantitativa, para poder tomar decisiones. <br>
 
@@ -55,11 +66,15 @@ Por lo general, implica **observar a los usuarios** cuando intentan **completar 
 Por lo general se realizan de manera constante, desde el desarrollo inicial hasta la liberación de un producto.- <br>
 **Interaction Design Foundation** <br>
 
+
 En esta etapa se tratan de hacer anotaciones y observar. Las pruebas no están atadas a productos digitales, puede ser algo físico, se desarrolla para todo, en este curso nos centramos a los productos digitales y sitios webs.<br>
 Son empresas grandes, con bastantes recursos, que pueden probar los productos. <br>
 Lo que si es importante al menos realizar las pruebas del producto final o hacer prototipos rápidos para poder testear. <br>
 
+
+
 ### ¿Por qué son importantes las Pruebas Ux?
+
 
    * Se pueden detectar problemas potenciales para ser corregidos antes de que el producto sea lanzado y por tanto, ahorrar tiempos y costos.
    
@@ -80,10 +95,13 @@ Lo que si es importante al menos realizar las pruebas del producto final o hacer
    * Ayudan a entender los comportamientos de los usuarios, no sus actitudes. A veces el comportamiento del usuario no es exactamente la actitud que tiene, o lo que dice no lo representa, ppor eso hay que ver su expresión, su movimiento, para saber que es lo que siente. A veces responden cuestionarios o tienen entrevistas.
 
 
+
+
 ### Pruebas con usuarios en 10 pasos:
 
 No hay una metodología pautada, hay muchas formas de llevarlo a cabo. Sugerimos estos pasos que cubren varios aspectos. <br>
 Se pueden hacer hasta test remotos, con cámaras que graben cómo se comporta el dedo, qué recorridos hace, si surgen dudas, y otra cámara va a grabar el rostro para detectar las emosiones. <br>
+
 
 **1. Definir los objetivos**  <br>
 
@@ -91,19 +109,25 @@ Es necesario **tener claro lo que queremos lograr con esta técnica** para poder
 De lo contrario, podemos llevar a cabo tests que no nos aporten los resultados necesarios para mejorar nuestro producto. <br>
 Antes de hacer cualquier cosa, debemos tener claro que buscamos, que averiguamos. <br>
 
+
 **2. Decidir el tipo de test**  <br>
 
 Existen diferentes modalidades de tests con usuarios. <br>
 En este punto, debemos decidir cómo va a ser nuestro test, en función de lo que pretendemos alcanzar, nuestros recursos y el tipo de usuarios que van a participar, entre otras cosas. <br>
+
 
 **3. Disponer del producto a testar**  <br>
 
 Dependiendo de lo que estemos buscando validar, de lo que queramos obtener y de los recursos con los que contemos, será mejor llevar a cabo la prueba con un tipo de producto u otro. <br>
 Dependiendo de los recursos que tenemos vemos que evaluamos, siempre teniendo algo ya desarrollodo, sino no se puede testear. <br>
 
+
+
 ### Características y tipos de pruebas de usabilidad
 
+
 ### Formativas
+
 
 Las pruebas formativas son aquellas en las que se está constantemente **revisando el producto o servicio para hacer ajustes que mejoren el resultado final**. <br>
 El objetivo final es **probar todo antes de sacar a la luz**. <br>
@@ -114,6 +138,8 @@ Las preguntas que se responden en este tipo de evaluación son de carácter cual
    * ¿ Cuáles son los errores más frecuentes ?
    * ¿ Qué mejoras hubo entre una versión de diseño previa y la actual ?
 
+
+
 ### Sumativas
 
 Las pruebas sumativas, **prueban el producto ya cuando fue lanzado**. <br>
@@ -123,6 +149,8 @@ Puede medir errores, se mide con mejor precisión, se ven estadísticas. <br>
    * ¿ Se cumplieron los objetivos de usabilidad planteados ?
    * ¿ Cuál es la usabilidad general del producto ?
    * ¿ Cómo se compara nuestro producto frente al de la competencia ?
+
+
 
 ## Presenciales: Laboratorio o Guerrilla
 
@@ -135,6 +163,8 @@ Las pruebas de guerrilla suelen ser un recurso excelente para quién quiere **de
 Pueden tener menores costos, se pueden citar en espacios públicos o usar contexto real para usar el producto. <br>
 No son tan preparadas, elaboradas. <br>
 
+
+
 ## Remotas: Moderadas o Automatizadas
 
 En las moderadas hay una persona del otro lado pidiendo al usuario que realice una serie de tareas, puede ir guiando la sesión conforme el participante responde y puede hacer preguntas abiertas para fomentar la participación o recolectar más datos.<br>
@@ -144,6 +174,8 @@ Además, los participantes pueden realizar la prueba con la ayuda de algún soft
 Cuando el tamaño de la muestra es grande, es un excelente recurso para obtener datos cuantitativos. <br>
 Un ejemplo puede ser un Google Form. <br>
 
+
+
 **4. Identificar los tipos de perfiles de usuario**  <br>
 
 Para ello, deberemos de tener en cuenta **múltiples características de nuestros usuarios**, como el tipo y nivel de uso del producto, la edad, el género (depende del producto, en algunos casos puede ser determinante) y su destreza tecnológica, entre otras. Tenemos que ver si queremos tener informaciónde un usuario de nuestro producto o de alguien que ni lo conoce, todo va a ir variando.<br>
@@ -151,6 +183,8 @@ Para ello, deberemos de tener en cuenta **múltiples características de nuestro
 Puede darse el caso de **estar buscando una muestra representativa de los potenciales usuarios del producto** para evitar obtener información sesgada. Algo grande, de muhcas personas, tener buenas métricas.<br>
 
 Así como también podemos encontrarnos con situaciones en las que sólo queramos obtener **información de un tipo de perfil concreto**, por lo que tendremos que encargarnos de identificar bien a este perfil para poder reclutarlo y obtener la información que deseamos. Buecamos pocas personas, que respondan a nuestro perfil, van a ser los buyer personas, acáa nos centramos en reclutarlo<br>
+
+
 
 **5. Diseñar las tareas y cuestiones**  <br>
 
@@ -164,6 +198,8 @@ Deben ser cortos, entretenidos, que el usuario se sienta cómodo, porque sino la
 Por otro lado, en esta fase también debemos plantear las preguntas que queremos formular a los usuarios, a modo entrevista o cuestionario, tanto antes, como durante y después del test. <br>
 ¿ Cómo invito al usuario ? ¿Cómo lo recibo ? ¿Dónde lo recibo ? Si es entrevista, preparo todo, no hago preguntas cerradas, lo dejo hablar. <br>
 
+
+
 **6. Seleccionar y captar a los usuarios**  <br>
 
 Una vez que tenemos todo el plan del test definido y los perfiles con los que lo queremos realizar, es el momento de **determinar el número de usuarios para proceder a su captación**. <br>
@@ -173,6 +209,8 @@ Esto igual debende de la prueba, si es que necesitamos una mayor muestra. <br>
 
 Por supuesto, el número de participantes dependerá del producto que vamos a testar y de la cantidad de perfiles diversos con los que vayamos a contar. <br>
 
+
+
 **7. Preparar el espacio y los materiales**  <br>
 
 En este punto, lo primero que debemos hacer es escoger la **herramienta** con la que vamos a realizar los tests y registrar toda la información obtenida. <br>
@@ -181,12 +219,16 @@ Por otro lado, debemos preparar el **espacio** en el que vamos a llevar a cabo l
 
 Ambos espacios tendrán que estar equipados con todos los **elementos necesarios para cada tipo de test**: ordenador, móvil, cámara de vídeo, etc. <br>
 
+
+
 **8. Elaborar una prueba piloto**  <br>
 
 Antes de lanzar el test, es necesario que hagamos una **prueba piloto para comprobar que todo funciona correctamente** y, en su defecto, **poder corregir cualquier incidencia**. <br>
 Por el contrario, si se produce cualquier tipo de problema durante la realización de los tests reales, los resultados pueden verse afectados. <br>
 Esta prueba piloto la tendremos que realizar con una o dos personas ajenas al proyecto, para simular una situación lo más realista posible.<br>
 Se hace una prueba del testeo, se ve que los microfonos funcionen, que esté todo preparado, que no falte nada. <br>
+
+
 
 ### Pruebas A/ B (A/B Testing)
 
@@ -195,6 +237,8 @@ La prueba A / B es un método para comparar dos versiones de una página web o a
 Las pruebas eliminan las conjeturas y permiten decisiones basadas en datos que cambian las conversaciones comerciales de "pensamos" a "sabemos". Al medir el impacto que los cambios tienen en sus métricas, puede asegurarse de que cada cambio produzca resultados positivos. <br>
 
 Se ve qué tan determinante es, como por ejemplo dónde ubico o con qué color tengo un Call to action, para que sea más efectivo, le ponemos una palabra más lamativa, cambiamos el tamaño, o el color y así nos aumentan las ventas. <br>
+
+
 
 ### ¿Cómo funcionan Pruebas A/B?
 
@@ -207,6 +251,7 @@ En una prueba A / B, toma una página web o la pantalla de una aplicación y la 
 Este cambio puede ser tan simple como un solo título o botón, o ser un rediseño completo de la página. Luego, a la mitad de su tráfico se le muestra la versión original de la página (conocida como el control) y a la mitad se le muestra la versión modificada de la página (la variación). Asi el usuario ve las modificaciones y ve qué es lo que prefiere, que lo plasma en un questionario.<br>
 
 Proceso de prueba A / B : **recopilar datos** que nos permitan generar una **hipótesis** para poder **crear varaibles**. **Ejecutamos la prueba** y al final **analizamos los resultados** apoyándonos en software de testeos.<br>
+
 
 **9. Llevar a cabo el test**  <br>
 
@@ -226,12 +271,14 @@ Puede resultar muy interesante que esté presente algún miembro responsable del
 El concepto de usabilidad de un sistema considera que hay tres dimensiones principales que pueden medirse: **eficacia**, **eficiencia** y **satisfacción**. <br>
 Por otra parte, la definición de experiencia de usuario señala que ésta depende de las percepciones y respuestas de los usuarios antes, durante y después del uso, lo cual amplía el abanico de variables psicológicas y comportamentales que pueden medirse<br>
 
+
 **Eficacia**: ¿Pueden los usuarios conseguir su objetivo con el sitio web o la aplicación? <br>
 Para medir la eficacia es necesario definir qué significa éxito y fracaso para el usuario en una tarea determinada. <br>
 Hay tareas que tienen un fin muy claro (por ejemplo, reservar un vuelo concreto en la página web de una aerolínea) mientras que otras tienen un fin más abierto (por ejemplo, localizar el horario y precio más ajustados a nuestras necesidades). <br>
 
 **Ejemplo** <br>
 Test de usabilidad en el que participan 10 usuarios, cuya tarea es tratar de reservar un vuelo en dos aerolíneas diferentes (A y B). Una práctica común es asignar un 1 cuando el usuario completa la tarea, 0,5 cuando lo hace pero de manera incompleta, y 0 cuando no consigue finalizar la tarea. A partir de esta información se puede construir la métrica Tasa de éxito, como una media de puntuaciones de todos los participantes. <br>
+
 
 **Eficiencia**: La eficiencia en el uso de un producto digital se refiere a **cuánto esfuerzo mental es necesario para realizar una tarea**. Se suelen medir los tiempos.<br>
 
@@ -240,6 +287,7 @@ Volviendo al caso anterior, imaginemos que dos sitios web de aerolíneas tienen 
 ¿Cómo podríamos medir la eficiencia con la que los usuarios pueden realizar su tarea en ambos sitios?<br>
 Una posibilidad es **medir el tiempo** que tardan en hacer cada una de las tareas. <br>
 Imaginemos que definimos un tiempo máximo de 2 minutos para realizar la tarea Existen otras posibilidades para medir la eficiencia, como son registrar el número de clicks que debe realizar el usuario para llegar a su objetivo, o emplear un cuestionario de esfuerzo cognitivo percibido. <br>
+
 
 **Satisfacción** : En la mayoría de los casos, la satisfacción de los usuarios depende principalmente de **que puedan cumplir su objetivo con el mínimo esfuerzo**. <br>
 En este sentido, si la eficacia y la eficiencia de un sistema es alta, también lo será su satisfacción.<br>
