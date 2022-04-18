@@ -90,6 +90,15 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 -Caso de estudio para ver en la práctica todo lo aprendido.
 
 ---
+---
+
+
+## Extra:
+
+Curso de LinkedIn Learning [**experiencia de usuario ux avanzado**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/experiencia_de_usuario_ux_avanzado)
+
+---
+---
 
 ## Glosario ux/ui 
 
