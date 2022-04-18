@@ -33,61 +33,96 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 ###  TEMAS A DESARROLLAR:
 
-#### Módulo 1 | Introducción al UX/UI
+#### [Módulo 1 | Introducción al UX/UI](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI)
 
--Qué es UX. Breve reseña histórica. <br>
--Por qué es importante incorporarlo? <br>
--Qué es UI? <br>
--Qué hace un diseñador UX/UI? <br>
--Rol en la industria digital.  <br>
--Diferencia y relación entre UX y UI.  <br>
--Qué es IxD. <br>
+- Qué es UX. Breve reseña histórica. 
 
-#### Módulo 2 | Usabilidad y Accesibilidad
+- Por qué es importante incorporarlo? 
 
--Evaluación Heurística.  <br>
--Jackob Nielsen.  <br>
--Donald Norman. <br>
--Concepto de accesibilidad Introducción al proceso UX.  <br>
--Planificación y organización previa. <br>
+- Qué es UI? 
 
-#### Módulo 3 | Proceso UX/UI - Introducción a la investigación
+- Qué hace un diseñador UX/UI? 
 
--El diseño gráfico como proceso. <br>
--Design Thinking. <br>
--Antecedente del método científico. <br>
--Lean Ux. <br>
--Research (investigación). <br>
--Benchmark. <br>
--Entrevistas. <br>
--Detectando y definiendo el problema. <br>
--Creación de user Persona.<br>
--Customer Journey Map. <br>
--User Experience Map.<br>
+- Rol en la industria digital.  
+
+- Diferencia y relación entre UX y UI. 
+
+- Qué es IxD. 
+
+#### [Módulo 2 | Usabilidad y Accesibilidad](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad)
+
+- Evaluación Heurística.  
+
+- Jackob Nielsen.  
+
+- Donald Norman. 
+
+- Concepto de accesibilidad Introducción al proceso UX.  
+
+- Planificación y organización previa. 
+
+#### [Módulo 3 | Proceso UX/UI - Introducción a la investigación](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/modulo3_design_thinking_lean_ux)
+
+- El diseño gráfico como proceso. 
+
+- Design Thinking.
+
+- Antecedente del método científico.
+
+- Lean Ux. 
+
+- Research (investigación). 
+
+- Benchmark. 
+
+- Entrevistas. 
+
+- Detectando y definiendo el problema.
+
+- Creación de user Persona
+
+- Customer Journey Map.
+
+- User Experience Map.
 
 
-#### Módulo 4 | Definición, ideación y prototipado
+#### [Módulo 4 | Definición, ideación y prototipado](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado)
 
--Filtramos información. <br>
--Detectamos problemas y los definimos.<br>
--Insights. <br>
--Técnicas de ideación.<br>
--Arquitectura de información. <br>
--Prototipos de distintos grados de fidelidad.<br>
--Bocetos. <br>
--Wireframes.<br>
--Mockups.<br>
--Diagramas de flujo.<br>
+- Filtramos información. 
 
-#### Módulo 5 | Pruebas e Implementación - Cierre
+- Detectamos problemas y los definimos.
 
--Contraste y Legibilidad. <br>
--Pruebas de usuario Pruebas A/B. <br>
--Concepto de iteración. <br>
--Trabajando con desarrolladores.<br>
--Design system. <br>
--Cierre del curso con una puesta en común sobre todo el proceso de diseño de un producto digital. <br>
--Caso de estudio para ver en la práctica todo lo aprendido.
+- Insights. 
+
+- Técnicas de ideación.
+
+- Arquitectura de información. 
+
+- Prototipos de distintos grados de fidelidad.
+
+- Bocetos. 
+
+- Wireframes.
+
+- Mockups.
+ 
+- Diagramas de flujo.
+
+#### [Módulo 5 | Pruebas e Implementación - Cierre](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/modulo5%20_pruebas_implementacion_cierre)
+
+- Contraste y Legibilidad. 
+
+- Pruebas de usuario Pruebas A/B. 
+
+- Concepto de iteración. 
+
+- Trabajando con desarrolladores.
+
+- Design system. 
+
+- Cierre del curso con una puesta en común sobre todo el proceso de diseño de un producto digital. 
+
+- Caso de estudio para ver en la práctica todo lo aprendido.
 
 ---
 ---
@@ -194,15 +229,21 @@ Fuente: https://en.wikipedia.org/wiki/Prototype <br>
 **UX**: Ver Experiencia de Usuario <br>
 
 ---
+---
+
 
 ## Por favor: 🎁
 
 * Comparte este proyecto con otros 📢
+
 * Invita con una cerveza 🍺 o un café ☕ a alguien del equipo. 
+
 * Muchas gracias 🤓.
 
 ---
+
 ## Notas:
+
 Aprecio tu interés por este ropositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y seguime en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
 
 ---
