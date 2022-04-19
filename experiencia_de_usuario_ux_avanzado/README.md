@@ -693,20 +693,60 @@ Beneficios:
 
 ### Card sorting
 
+Permite ver y comprender como un grupo de personas ordena una serie de categorias o elementos segun su propio criterio.
+
+Caracteristicas:
+
+- uso de tarjetas nombradas, que van a ordenar, deben ser nombradas de forma sencilla, facil de entender
+
+- audiencia grupal o actividad individual, que ya utilicen un producto similar al que esta en desarrollo
+
+- ponee en comun los resultados
+
 
 ### Test de usabilidad
+
+Generan resultados reales para saber si el producto es usable o no, y si las personas usuarias que lo utilizan se sienten cómodas utilizandolo, o por el contrario nunca lo utilizarian.
+
+Caracteristicas:
+
+- una version funcional de tu producto, no es necesario estar en la ultima etapa, si que sea util
+
+- una audiencia dispuesta a realizar tareas especificas, para ver como interactuan con el producto
+
+- mostrar una sola version o varias de tu producto, para decidirse por la mejor
+
+- recolectar el feedback final para luego volvarlo al equipo de diseño
 
 
 ### Recolección y comparación de datos con objetivos
 
+Debes comparar los datos que has obtenido son lso datos que tenias anteriormente y revisar por que decidiste realizar una u otra prueba.
+
+Verificar si los objetivos que te marcaste se han cumplido, si necesitas alguna otra prueba, o repetir la misma prueba para garantizar la seguridad de los datos que has ido obteniendo.
+
+¿Como analizar los datos obtenidos?
+
+- revisar los cambios y modificaciones sugeridas, si son utiles
+
+- documentar las decisiones y el proceso de analisis de datos, demostras las sugerencias justificadas con los datos
+
+- planear las sigueintes pruebas con usuarios
+
+
 ---
 ---
+
+
 
 ##  :star:  Storyboarding en UX
 
+
 ### Contexto: ¿por que storyboarding?
 
+
 ### Ejemplo de storyboarding en UX
+
 
 ---
 ---
