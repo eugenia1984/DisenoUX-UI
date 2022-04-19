@@ -744,10 +744,25 @@ Verificar si los objetivos que te marcaste se han cumplido, si necesitas alguna 
 
 ### Contexto: ¿por que storyboarding?
 
+Ilustra el flujo de funcionalidad del producto a quienes no estan familiarizados a la experiencia de usario.
+
+Consiste en varios dibujos de 3 a 6 viñetas, exponiendo una persona, nuestro producto y la accion que se esta realizando.
+
+
+Esta dedicada a la comunicacion visual, requiere esfuerzo, tener la funciona user, y que objetivo se quiere transmitir.
 
 ### Ejemplo de storyboarding en UX
 
+Un ejemplo de story boarding:
 
+- dibujar una persona apenada con el texto: Marisa llega tarde a su reunion...
+
+- en la mano tiene un celular y se ve un auto con el texto "pidiendo taxi" y el recuadro tiene el texto: Pide un taxi por la aplicaicon
+
+- en la mano tiene un celular y en la pantalla se ve un mensaje de "taxi en camino", en el story esta el texto: encuentra un taxi!
+
+- se la ve feliz, y esta el texto: Marisa llegara a tiempo
+-
 ---
 ---
 
