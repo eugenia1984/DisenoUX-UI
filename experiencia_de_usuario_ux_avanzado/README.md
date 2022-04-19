@@ -775,7 +775,7 @@ Cada **pagina** esta representada por un rectangulo simple.
 Cada **stack**, o conjunto de paginas se representa como rectangulos apilados.
 
 Una **alternativa** o **condicion**:
-````
+```
              Inicio
                |
 Inicio <---no-----si----> Perfil
@@ -788,7 +788,7 @@ Se controla que si no esta identificada no puede entrar, entre el si y no hay un
 
 La conexion entre pantallas se hace con una **flecha**
 
-````
+```
     ------> Inicio---------------------------------------------------
     |          |          |                  |          |           |
     ---no-------------si----> Perfil         v          v           v
@@ -799,6 +799,25 @@ La conexion entre pantallas se hace con una **flecha**
 ```
 
 ### Elementos y ejemplo de un task flow
+
+Se dibujan los pasos que la persona realizara
+
+Ejemplo de task flow de un e-commerce_
+
+```
+Busqueda del --------------
+producto                  |
+                          |
+Encontrar un              |   añadir                                       redireccion        
+producto de forma --------|   producto al      elegir          elegir        a la            finalizar
+organica                  |---carrito de  ---- realizar -----  metodo ---- pasarela   -----  la compra
+                          |    compra          la compra      de pago      de pagos
+                          |
+Elegir un producto        |
+de la lista d eproductos--|
+
+
+```
 
 
 ### Errores comunes y como evitarlos
