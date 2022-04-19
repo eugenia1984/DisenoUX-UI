@@ -626,15 +626,76 @@ Se hace en 15 minutos, con comunicacion visual, puede perticipar todo el equipo.
 
 ### Principios de investigación con usuarios
 
+- Definir un grupo de usuarios primarios, con los que vas a realizar las pruebas, debes detallar rango de edad
+
+- Escoger el tipo de prueba, en base al proyecto y en que fase estás. Cada prueba tiene su coste, tiempo y pasos
+
+- Realiza la prueba
+
+- Validar la prueba, para ver si el producto es viable, si la audiencia es la ideal o hay que cambiar
+
+- Genera requerimientos de usuarios, en base al feed back se puede mejorar el producto, van a ser los nuevos requerimientos dle proyecto.
+
+¿ Cuántas pruebas son necesarias?
+
+Depende del capital y el tiempo del que dispongas. Algunas pruebas no requieren mucho tiempo ni dinero y son fácilmente reutilizables, mientras que otras requerirán material, equipo y responsables que dirijan la prueba.
+
 ### Entrevistas de usuarios
+
+Es una técnica de investigación con usuarios muy utilizada en el sector de la experiencia de usuario.
+
+Suelen ser sencillas de organizar, no tienen mucho coste y son fácilmente organizadas.
+
+Requerimiento:
+
+- audiencia determinada (el grupo de usuarios primario)
+
+- escoger un espacio presencial o remoto, es bueno tener contacto visual
+
+- crear las preguntas a debatir (influencia de la marca, problematica del producto, que cambiaria, etc)
+
 
 ### Encuestas de usuarios
 
+Técnica de investigación con usuarios muy utilizada en el sector de la experiencia de usuario.
+
+Van dirigidas normalmente a un grupo de audiencia grande y diverso.
+
+Cuentan con un set específico de preguntas anteriormente validadas según las necesidades y dudas sobre el producto.
+
+Caracteristicas:
+
+- aportan datos relevantes
+
+- - dirigidas a un grupo más amplio y diverso
+
+- valoran la satisfaccion de las personas usuarias
+
+- preguntas de respuesta concretas: si, no, verdadero, falso, un rango de 1 a 10, muy de acuerdo, muy en desacuerdo, podes poner como pregunta opcional una para que se explayen
+
+
 ### Grupos de debate
+
+Técnica de investigación de experiencia de usuario muy interesante y útil de realizar.
+
+Permite conocer más el trasfondo de la audiencia interesada en tu producto, mas alla de las opiniones que tienen.
+
+Es una audiencia diversa con el interes comun en el producto, y asi saber por que les interesa el producto o la compañia.
+
+Beneficios:
+
+- se escuchan experiencias diversas y otras perspectivas
+
+- se entienden e identifican las diferencias entre los participantes
+
+- se generan ideas  
+ 
 
 ### Card sorting
 
+
 ### Test de usabilidad
+
 
 ### Recolección y comparación de datos con objetivos
 
