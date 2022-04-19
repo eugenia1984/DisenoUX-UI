@@ -822,6 +822,15 @@ de la lista d eproductos--|
 
 ### Errores comunes y como evitarlos
 
+- conexiones mal colocadas
+
+- conexiones confusas, que en vez de ser una linea recta tenga tantas lineas que uno se pierde, deben estar de manera clara y correcta
+
+- elementos mla alineados, siempre alinearlos horizontal y verticalmente
+
+- texto mal ubicado, no esta dentro del recuadro
+
+
 ---
 ---
 
@@ -829,6 +838,26 @@ de la lista d eproductos--|
 
 
 ### Elementos de wireframing
+
+Un esboso o scketch de lo que es el producto, debe ser simple y claro, sirve para posicionar los elementos claves de las pantallas que se estan contruyendo.
+
+Se suelen hacer a mano, en escalas de grises, tambien se pueden hacer digital.
+
+Sus elementos:
+
+- separadores, puede ser una linea o una linea de rayitas (----)
+
+- imagenes, videos, contenedores (con cuadrado con una X dentro que va de punta a punta, de diagonal en diagonal, o puede tener el triangulo de play para videos o ser un cuadrado blanco vacio para contenedores)
+
+- texto o parrafo, con lineas anchas, cuando todavia no se tiene el texto real
+
+- imagen de perfil, un rectangulo con un usuario simple
+
+- logo, un circulo ocn el texto logo
+
+- botones, pueden ser solo con un borde o ser todos negros con letras blancas, pueden ser rectangulos o con puntas redondeadas, o también como los botones de previo y siguiente que tienen tringulos de avanzar o retroceder. Los botones sombreados tienen mas importancia.
+
+-texto, poner Lorem Ipsum, puedo si ir ya poniendo los distintos tamaños y grosores, marcar titulos, etc.
 
 ### Diseño de interacción con wireframes
 
