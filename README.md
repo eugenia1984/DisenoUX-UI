@@ -132,7 +132,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 Cursos de LinkedIn Learning :
 
-[**experiencia de usuario ux avanzado**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/experiencia_de_usuario_ux_avanzado)
+[**Experiencia de usuario ux avanzado**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/experiencia_de_usuario_ux_avanzado)
 
 [**Diseño de Interfaz (UI) esencial**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/ui_esencial)
 
