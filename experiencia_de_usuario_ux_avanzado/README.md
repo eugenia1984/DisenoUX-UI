@@ -902,12 +902,21 @@ Las acciones disponibles en un perfil ajeno son: ver las fotos e interactuar con
 
 ### Prototipando wireframes
 
+Un montaje con los diseños del producto imitando la navegabilidad que tiene, muestra la comunicacion entre pantallas.
+
+Se puede usar Figma, Adobe xd, etc, asi puedo marcar las conexiones y al hacer click se me va a ir moviendo como el producto.
+
+Es mejor hacer varios prototipos, para mejorar el producto, son simples, rapidos y baratos.
+
 
 ### La guia y patrones de diseño
+
+Pueden ser amplias o cortas, marcan las pautas a seguir, definen colores, tipografias, diseño de botones, iconos, margenes, tamaño de letras, colo y sobreado, logo; es decir todo lo importante al plasmar diseño.
 
 
 ### Mockups y diseño final
 
+Aca ya tengo los colores aplicados basados en el wireframe. Se puede crear tambien un prototipo, en base a estos mockups se lleva a desarrollo.
 
 ---
 ---
@@ -916,9 +925,33 @@ Las acciones disponibles en un perfil ajeno son: ver las fotos e interactuar con
 ##  :star:  Desarrollo del producto real
 
 
-### ntrega al equipo de desarrollo
+### Entrega al equipo de desarrollo
+
+Va a recibir el mockup.
+
+Hay cuatro etapas:
+
+- primera etapa: investigacion, persona users, wireframes a mano, prototipos a mano
+
+- segunda etapa: wireframes digitales, prototipos digitales, comienza el desarrollo para test
+
+- tercera etapa: mackups, guia d eestilos, comienza el desarrollo real
+
+- cuarta etapa: mejoras y extensiones, actualizaciones
+
 
 ### Mantenimiento, mejoras y feedback
+
+Las responsabilidades y funciones del departamento de la experiencia de usuario nunca finaliza. Es muy importante tenerlo en cuenta.
+
+Responsabilidades:
+
+- analizar y clasificar feedback tras lanzamiento
+
+- comprobar si los objetivos fijados se cumplieron
+
+- seguir mejorando y extendiendo el proyecto, para que el producto no s eestanque, seguir haciendo encuestas.
+
 
 ---
 ---
