@@ -1,4 +1,4 @@
-# Experiencia de usuario (UX) Avanzado - curso de LinkedIn Learning de DesiréMarrón Carmona
+# Experiencia de usuario (UX) Avanzado - curso de LinkedIn Learning de Desiré Marrón Carmona
 
 Amplía y expande tus conocimientos en el campo de la experiencia de usuario para ser capaz de abordar cualquier estrategia y reto que se te proponga en cuanto a la satisfacción de las necesidades de los mismos. Durante el curso, aprenderás con ejemplos prácticos las características, los diferentes tipos, metodologías, técnicas de investigación y roles dentro de la experiencia de usuario, algo que te será muy útil para reconocer tus funciones y los pasos que debes tomar a la hora de afrontar un proyecto desde el UX.
 
@@ -762,7 +762,7 @@ Un ejemplo de story boarding:
 - en la mano tiene un celular y en la pantalla se ve un mensaje de "taxi en camino", en el story esta el texto: encuentra un taxi!
 
 - se la ve feliz, y esta el texto: Marisa llegara a tiempo
--
+
 ---
 ---
 
@@ -770,7 +770,36 @@ Un ejemplo de story boarding:
 
 ### Elementos y ejemplos de un sitemap
 
+Cada **pagina** esta representada por un rectangulo simple.
+
+Cada **stack**, o conjunto de paginas se representa como rectangulos apilados.
+
+Una **alternativa** o **condicion**:
+````
+             Inicio
+               |
+Inicio <---no-----si----> Perfil
+           ¿esta el 
+           usuario/a 
+           identificado/a
+           en la pagina?      
+```
+Se controla que si no esta identificada no puede entrar, entre el si y no hay un rombo.
+
+La conexion entre pantallas se hace con una **flecha**
+
+````
+    ------> Inicio---------------------------------------------------
+    |          |          |                  |          |           |
+    ---no-------------si----> Perfil         v          v           v
+           ¿esta el                       Contacto    Galeria   Ofertas
+           usuario/a 
+           identificado/a
+           en la pagina?      
+```
+
 ### Elementos y ejemplo de un task flow
+
 
 ### Errores comunes y como evitarlos
 
