@@ -857,22 +857,64 @@ Sus elementos:
 
 - botones, pueden ser solo con un borde o ser todos negros con letras blancas, pueden ser rectangulos o con puntas redondeadas, o también como los botones de previo y siguiente que tienen tringulos de avanzar o retroceder. Los botones sombreados tienen mas importancia.
 
--texto, poner Lorem Ipsum, puedo si ir ya poniendo los distintos tamaños y grosores, marcar titulos, etc.
+- texto, poner Lorem Ipsum, puedo si ir ya poniendo los distintos tamaños y grosores, marcar titulos, etc.
+
+
+### Diseño adaptable de wireframes
+
+Que el diseño se vea correctamente en todas las pantallas de todos los dispositivos
+
+- 1920 ancho X 1080 alto en desktop
+
+- 780 ancho X 1024 alto en tablet
+
+- 375 ancho X 812 alto en mobile de iphone
+
+- 360 ancho X 640 alto en mobile de android
+
+Al ser mobile first empezamos por mobile, adaptamos a tablet y luego a desktop, los tamaños pueden variar acorde. a los modelos dle mercado
+
 
 ### Diseño de interacción con wireframes
 
+Para marcar las interacciones entre pantallas, se representa con manos:
+
+- doble click, una mano con dos circulos en el dedo indice extendido
+
+- unico click una mano con un circuclo en el dedo indice extendido
+
+- arrastrar a la derecha, una mano con una flecha apuntando hacia la derecha en el dedo indice extendido
+
+- arrastrar a la izquierda, una mano con una flecha apuntando hacia la izquierda en el dedo indice extendido
+
+- arrastrar en ambas direcciones una mano con una fecha de dos puntas que apuntan hacia derecha e izquierda en el dedo indice extendido
+
+
 ### Anotaciones en wireframes
+
+Se suele poner un titulo con uun texto para describir que acciones se deben seguir.
+
+Por ejemplo:
+
+Pantalla de perfil de otra persona
+
+Las acciones disponibles en un perfil ajeno son: ver las fotos e interactuar con ellas, enviar un mensaje a dicha persona.
 
 ### Prototipando wireframes
 
+
 ### La guia y patrones de diseño
+
 
 ### Mockups y diseño final
 
+
 ---
 ---
 
+
 ##  :star:  Desarrollo del producto real
+
 
 ### ntrega al equipo de desarrollo
 
