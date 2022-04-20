@@ -246,15 +246,80 @@ Por ejemplo un producto tiene 2 secciones principales y cada una tiene sus subse
 
 ## :star: Manejo y organización del contenido
 
+
 ### La importancia de la organizacion: etiquetas y jerarquia
+
+Etiquetas:
+
+- contenido etiquetado claramente, que sea legible y facil de entender, no es igual como se ve un titulo, que un boton o un buscador.
+
+- la jerarquia define la estructura del contenido.
+
+- una estructura clara fomenta la navegacion, hace placentera la experiencia de usuario.
+
+analisis de contenido -> definicion de jerarquia de contenido -> etiquetar secciones de contenido -> analisis de estructura de contenido
+
 
 ### La importancia de la organizacion: navegacion y busquedas
 
+El usuario debe poder navegar comodamente y en forma agradable.
+
+**navegacion** -> como el usuario de mueve a traves del contenido
+
+**wayfinding** -> comunica al usuario en donde esta
+
+**wireframing** -> combina ambar para desplegar informacion
+
+Busqueda:
+
+- la manera de encontrar informacion
+
+- fundamental para productos con contenido dinamico
+
+- importante conocer las caracteristicas de la informacion
+
+
+Al realizar una busqueda, ve los resultados que deben poder ordenarse por relevancia, fecha, seccion, etc
+
+El contenido debe contar con una estructura definida
+
+Los puntos de navegacion deben ser definidos y guiar al usuario
+
+Se puede maquetar un flujo de producto para confirmar su navegacion
+
+Se puede agregar elementos de wayfinding en cada seccion
+
+
 ### Modelos de contenido: single page y flat
+
+**single page** -> una sola pagina con todo el contenido, puede ser corta o lasga con scroll, de tener scroll es necesario un menu para llevarnos a una seccion. Es para paginas promocionales.
+
+**flat** -> todas las paginas o secciones estan en el mismo nivel, se utilizan para pequeños sitios webs.
+
+un modelo de estructura organiza el contenido de producto, cada producto es diferente, cuenta con distintas caracteristicas y necesidades.
+
+El contenido dicta el modelo a utilizar, si hay poco contenido va a ser una single page.
+
+Single Page es util para contenido con un solo proposito
+
+
 
 ### Modelos de contenido: index y daisy
 
+
+**indice** -> seccion principal y subsecicones. Un indice o menu en cada seccion. Se puede expandir de acuerdo la contenido. Hay una pagina principal de inicio.
+
+**daisy**-> procesos que inician y terminan en la misma seccion, se regresa al origen al completar los pasos. Un sitio de correo electronico, donde siempre vuelve a la bandeja de entrada.
+
+
 ### Modelos de contenido: jerarquias estricta y multidimensional
+
+Lidian con más informacion, porque la pueden separa en subsecciones.
+
+**jerarquia estricta** -> solo se llega a subsecicones a partir de la pagina padre. Obliga a que el usuario siga un proceso especifico. Es popular en plataformas educativas.
+
+**jerarquia multidimensional** ->jerarquia que coexisten, se puede navegar de una seccion a otra, popular en sitios de ventas.
+
 
 ---
 
