@@ -98,6 +98,39 @@ Hay que conocer el elemento visual que los destaca de la diferencia, es lo que l
 
 ### Implementacion de la reticula en la composicion
 
+Reticula (grid) tiene filas y columna que se separa en modulos, para organizar el contenido de manera armonica y jerarquica.
+
+Beneficios:
+
+- consistencia, hay elementos standar reutilizables, como : margenes entre elementos, altura, espacio entre botones
+
+- claridad y coherencia, usando simetria, proximidad y continuidad, ademas de jerarquia y ritmo. Se ve visualmente coherente el contenido.
+
+- simplifica el proceso de diseño
+
+- facilita el desarrollo del producto, hay componentes reutilizables
+
+Sistema de reticula en base a 8 puntos:
+
+8 x 2
+
+8 x 8
+
+8 x 16
+
+Deja un espacio de separacion de 16px
+
+Tienen 64px entre el primer espacio y la columna, despues si quiero usar dos reticulas tomo 128px. Todo es multiplo de 8.
+
+Las reticulas cambian acorde a si es...
+
+... movil con 4 - 8 columnas y un margen de 16px
+
+... tablet con 8 - 12 columnas y un margen de 24px
+
+... desktop 12-16-18-24 columnas y un margen de 24px
+
+
 ---
 
 ## :star: Arquitectura de informacion para UI
