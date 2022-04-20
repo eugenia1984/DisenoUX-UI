@@ -135,17 +135,112 @@ Las reticulas cambian acorde a si es...
 
 ## :star: Arquitectura de informacion para UI
 
-### Principios de la qrquitectura de informacion
+### Principios de la arquitectura de informacion
+
+La informacion que se organiza, categoriza y se le da estructura logica y facil de entender. Si hay concordancia entre los modelos de implementacion y los modelos mentales (de los usuarios). Y asi tendremos una interfaz de usuario de alta usabilidad.
+
 
 ### Estructura y jerarquia en UI
 
+La estructura divide el contenido en secciones o categorias, agrupando elementos de acuerdo a caracteristicas similares.
+
+La jerarquia ordena el contenido de acuerdo a su importancia, crea jerarquia visual, como por ejemplo el titulo que tiene una fuente distinta al del texto.
+
+Hay varias formas de generar jerarquia visual:
+
+- por tamaño, los mas grandes llaman la atencion, como titulo principal, subtitulo y texto
+
+- contraste, cuando un color genera impacto
+
+- proximidad, separar y agrupar elementos
+
+
 ### Principios de AI: objetos y opiniones
+
+El contenido es un organismo vivio, tiene...
+
+... un **tiempo de vida**, hay que ver si es un contenido estatico (como por ejemplo un domicilio) y un contenido que cambie.
+
+... un **comportamiento** ¿como reaccionan ante el contenido?
+
+... **atributos** ¿cuales son sus caracteristica? Cada objeto tiene sus atributos que lo identifican.
+
+Hay opciones:
+
+- productos con opciones significativos (usar nombre claros)
+
+- el rango de opciones presentadas se enfoca en una tarea (como el menu de opciones)
+
+- mayor esfuerzo congnitivo - mayor ansiedad
+
 
 ### Principios de AI: ejemplos y divulgacion
 
+Hay que crear un balance entre las pistas que lo guian y la informacion.
+
+
+Ejemplos:
+
+- categorias o secciones, de un menu en el nav bar
+
+- palabras clave, imagenes o iconos representativos
+
+- identificar contenido en relacion a categorias del producto
+
+
+Divulgacion:
+
+- muestra solo la informacionnecesaria, da una idea
+
+- el usuario puede optar por desplegar mas informacion, como en los acordeones, o cuando haces click en el icono + y se despliega una card.
+
+- a menor ecantidad de informacion desplegada, menor esfuerzo congnitivo (si tiene mucha informacion se pierde y se va)
+
+
 #### Principios de AI: clasificacion multiple y navegacion
 
-### Principios de AI: uertas de fachada y crecimiento
+Clasificacion multiple:
+
+- navegacion de contenido a partir de varios puntos de inicio
+
+- pistas que señalen puntos clave de navegacion
+
+Se enfoca en la manera que el usuario navega a traves del sitio, que recorrido hace, si usa la parte de busqueda.
+
+Navegacion enfocada:
+
+- consistencia entre elementos que forman un menu
+
+- menu se define por si contenido
+
+- menu no se define por su ubicacion
+
+- se puede utilizar manus secundarios
+
+
+### Principios de AI: puertas de fachada y crecimiento
+
+Puerta de fachada: 
+
+- el usuario accede al producto desde cualquier punto externo
+
+- cada seccion de producto debe ser correctamente etiquetada (pista visual como titulo de seccion) 
+
+- seccion de navegacion general presenta a traves del producto
+
+Un ejemplo es el buscador para acceder a cualquier parte del sitio.
+
+Crecimiento: 
+
+- como va a ir creciendo en el tiempo el contenido
+
+- etiquetar contenido y secciones de producto
+
+- estructura definida
+
+- jerarquia visual y de estructura clara.
+
+Por ejemplo un producto tiene 2 secciones principales y cada una tiene sus subsecciones
 
 ---
 
