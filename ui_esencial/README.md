@@ -20,7 +20,7 @@ debe tener estructura y jerarquis claras, debe ser facil la navegacion.
 
 Las fuentes, el color y el contraste debe ayuda a la facil legibilidad.
 
-En cambio en un **mla diseño de interfaz** faltan pistas de guia para que el usuario sepa donde o como navegar a  traves del producto, que no tenga jerarquia visual (poco claro) y fuentes erroneas, poco contraste.
+En cambio en un **mal diseño de interfaz** faltan pistas de guia para que el usuario sepa donde o como navegar a  traves del producto, que no tenga jerarquia visual (poco claro) y fuentes erroneas, poco contraste.
 
 Tanto **funcion** como **estetica** trabajan a la par para **mejorar la interacción entre el usuario y el dispositivo**.
 
