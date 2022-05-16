@@ -71,7 +71,7 @@ Pese a que visualmente las persona preferimos grupos de objetos que tengan la mi
 Se usa en los CTA, pero hay que destacar lo justo.
 
 
-### Pricipio de cierra
+### Pricipio de cierre
 
 Por defecto al ojo humano no le gustan las formas abiertas, y visualmente tenemos tendencia a cerrar todos los circuitos, figuras y formas abiertas que encontramos. Tendmos a añadir con nuestra mente los elementos que faltaran, para completar una figura que esta incompleta.
 
