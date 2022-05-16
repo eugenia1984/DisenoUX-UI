@@ -136,6 +136,8 @@ Cursos de LinkedIn Learning :
 
 [**Diseño de Interfaz (UI) esencial**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/ui_esencial)
 
+[**Diseño de Interfaz -UI-**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/disen%CC%83o_de_interfaz_ui)
+
 ---
 ---
 
