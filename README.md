@@ -10,7 +10,6 @@
 
 # :star: PoloticMisiones Introduccion a Diseño UX / UI
 
----
 
 ## PLAN DE ESTUDIO 🚀
 
@@ -40,7 +39,6 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
     * Comprender qué es la arquitectura de información.
     * Conocer la importancia, el marco teórico y las etapas de la metodología del Design Thinking.
 
----
 
 ###  TEMAS A DESARROLLAR:
 
