@@ -14,10 +14,11 @@
 
 ## PLAN DE ESTUDIO 🚀
 
-Para las personas que deseen aprender los fundamentos básicos de ambas disciplinas, comprender el proceso y las distintas etapas para el desarrollo de un producto digital. <br>
-Se abordarán algunos ejemplos prácticos que servirán para interiorizar los conceptos teóricos. <br>
+Para las personas que deseen aprender los fundamentos básicos de ambas disciplinas, comprender el proceso y las distintas etapas para el desarrollo de un producto digital. 
 
-Al finalizar el curso, el estudiante contará con los conocimientos básicos para poder adentrarse en el mundo de la experiencia de usuarios y las interfaces digitales. <br>
+Se abordarán algunos ejemplos prácticos que servirán para interiorizar los conceptos teóricos. 
+
+Al finalizar el curso, el estudiante contará con los conocimientos básicos para poder adentrarse en el mundo de la experiencia de usuarios y las interfaces digitales. 
 
 ### COMPETENCIAS Y HABILIDADES A DESARROLLAR:
 
@@ -43,7 +44,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 ###  TEMAS A DESARROLLAR:
 
-#### [Módulo 1 | Introducción al UX/UI](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI)
+#### [Módulo 1 | Introducción al UX/UI](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI)
 
 - Qué es UX. Breve reseña histórica. 
 
@@ -59,7 +60,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 - Qué es IxD. 
 
-#### [Módulo 2 | Usabilidad y Accesibilidad](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad)
+#### [Módulo 2 | Usabilidad y Accesibilidad](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad)
 
 - Evaluación Heurística.  
 
@@ -71,7 +72,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 - Planificación y organización previa. 
 
-#### [Módulo 3 | Proceso UX/UI - Introducción a la investigación](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/modulo3_design_thinking_lean_ux)
+#### [Módulo 3 | Proceso UX/UI - Introducción a la investigación](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo3_design_thinking_lean_ux)
 
 - El diseño gráfico como proceso. 
 
@@ -96,7 +97,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 - User Experience Map.
 
 
-#### [Módulo 4 | Definición, ideación y prototipado](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado)
+#### [Módulo 4 | Definición, ideación y prototipado](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado)
 
 - Filtramos información. 
 
@@ -118,7 +119,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
  
 - Diagramas de flujo.
 
-#### [Módulo 5 | Pruebas e Implementación - Cierre](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/modulo5%20_pruebas_implementacion_cierre)
+#### [Módulo 5 | Pruebas e Implementación - Cierre](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo5%20_pruebas_implementacion_cierre)
 
 - Contraste y Legibilidad. 
 
@@ -138,9 +139,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 ---
 
 
-## Extra:
-
-Cursos de LinkedIn Learning :
+# :star: CURSOS DE LINKED IN LEARNING 
 
 [**Experiencia de usuario ux avanzado**](https://github.com/eugenia1984/PoloticMisionesDisenoUX-UI/tree/main/experiencia_de_usuario_ux_avanzado)
 
