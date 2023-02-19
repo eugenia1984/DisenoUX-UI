@@ -148,7 +148,7 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 ---
 ---
 
-## :star:  GLOSARIO UN / UI :star: 
+## :star:  GLOSARIO UX / UI :star: 
 
 ## A
 
