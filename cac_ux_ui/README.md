@@ -4,4 +4,9 @@
 
 ## :book: Temas :book:
 
+
+En la carpeta **clases** está lo que se vio en la clase.
+
+En la carpeta **teoría**está la teoría del aula virtual 
+
 ---
