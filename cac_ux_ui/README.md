@@ -1,4 +1,4 @@
-J# :star: Codo a Coco - Diseño UX UI (Mar 2023 - Jul 2023)
+# :star: Codo a Coco - Diseño UX UI (Mar 2023 - Jul 2023)
 
 ---
 
