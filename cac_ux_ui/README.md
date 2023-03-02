@@ -7,6 +7,8 @@
 
 En la carpeta **clases** está lo que se vio en la clase.
 
-En la carpeta **teoría**está la teoría del aula virtual 
+En la carpeta **teoría** está la teoría del aula virtual 
+
+En la **guía del estudiante** esta toda la información de la cursada.
 
 ---
