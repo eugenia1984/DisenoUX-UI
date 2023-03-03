@@ -137,6 +137,7 @@
 
 ![image](https://user-images.githubusercontent.com/72580574/222832165-1349aff0-1444-42c3-ba2b-a5ddc6ee8e86.png)
 
+---
 
 ## Sobre Codo a Codo 4.0
 
@@ -185,6 +186,7 @@ Cursos avanzados para egresados Full Stack:
 
 Animate a hacer carrera en Codo
 
+---
 
 ## Más información
 
@@ -196,6 +198,7 @@ Animate a hacer carrera en Codo
 
 ● Plan de estudios: en el Drive de estudiantes.
 
+---
 
 ## Requisitos y Modalidad
 
@@ -215,6 +218,8 @@ Se dictarán 2 clases por semana con un/a docente en línea de una duración de 
 
 Las ejercitaciones, actividades y/o consultas se desarrollarán dentro de la plataforma donde encontrarás todo lo necesario para tu formación: foros, material teórico y acompañamiento docente y pedagógico.
 
+---
+
 ## Tu Docente
 
 Diaz Ignacio Joaquin
@@ -226,6 +231,9 @@ Diaz Ignacio Joaquin
 ○ [https://www.linkedin.com/in/enede/](https://www.linkedin.com/in/enede/)
 
 ○ [https://www.behance.net/enede](https://www.behance.net/enede)
+
+
+---
 
 ## Nuestro Compromiso
 
@@ -247,10 +255,13 @@ Diaz Ignacio Joaquin
 
 ○ Si les surgen imponderables y se les complica cursar, también comuníquenlo para ayudarlos a buscar una solución.
 
+---
+
  ## Cronograma
  
  ![image](https://user-images.githubusercontent.com/72580574/222833305-70cb131c-e23a-4f26-b1d7-11c634e3f541.png)
 
+---
 
 ## Portfolio de Egresados
 
@@ -259,6 +270,8 @@ Los invitamos a conocer algunos de los proyectos que han realizado nuestros/as e
 Galería de proyectos de egresados/as del Programa Codo a Codo:
 
 [https://agenciadeaprendizaje.bue.edu.ar/portfolio-egresados-codo-a-codo](https://agenciadeaprendizaje.bue.edu.ar/portfolio-egresados-codo-a-codo)
+
+---
 
 ## Diploma
 
@@ -276,6 +289,8 @@ Requisitos para obtener el diploma:
 
 ● Aprobar el EFI (Examen Final Integrador)
 
+---
+
 ## Formulario de Presentismo
 
 Link: les enviaremos un formulario que será exclusivo de su comisión.
@@ -290,6 +305,8 @@ La asistencia deberá ser de un 65%.
 
 Si tienen 6 inasistencias consecutivas, se les dará de baja del curso automáticamente.
 
+---
+
 ## Motivos para Estudiar Diseño UX
 
 ● ¿Por qué este es un momento único para estudiar UX?
@@ -299,6 +316,9 @@ Si tienen 6 inasistencias consecutivas, se les dará de baja del curso automáti
 ● 6 motivos por los que estudiar UX:
 
 [https://medium.com/@ironhackmad/6-motivos-por-los-que-estudiar-ux-b680b7a1440e](https://medium.com/@ironhackmad/6-motivos-por-los-que-estudiar-ux-b680b7a1440e)
+
+
+---
 
 ## Empleo IT: las 10 carreras con salida laboral de 2021
 
@@ -322,8 +342,9 @@ Si tienen 6 inasistencias consecutivas, se les dará de baja del curso automáti
 
 ● Especialista en eCommerce
 
+---
 
-## Roles
+## :star: Roles
 
 - **UX Researcher**: Se centran en todo lo relacionado con la investigación. Realizan investigaciones con usuarios reales, recopilando datos tanto cualitativos como cuantitativos sobre cómo piensan, sienten y se comportan las personas.
 
@@ -339,7 +360,9 @@ Si tienen 6 inasistencias consecutivas, se les dará de baja del curso automáti
 
 - **UX/UI Designer**: Suele utilizarse este nombre para los profesionales que comprenden y pueden trabajar en todas y cada una de las diversas áreas del diseño centrado en el usuario. Conocen todo el proceso.
 
-## Empleo IT:
+---
+
+## :star: Empleo IT:
 
 Opciones cortas de carreras con salida laboral
 
@@ -349,8 +372,9 @@ Estudiar carreras con salida laboral
 
 ● “Según datos de la Cámara de la Industria Argentina del Software (CESSI), todos los años quedan cerca de 5.000 puestos de trabajo en tecnología sin ocupar en el país por falta de perfiles calificados. Es necesario incrementar la cantidad de alumnos en carreras con salida laboral de manera de contar con los talentos necesarios para el futuro.”
 
+---
 
-## Datos importantes
+##  :star: Datos importantes
 
 Nro. de comisión: 23237
 
@@ -371,7 +395,9 @@ Canal de consultas: la comunicación con el/la Tutor/a es vía formulario.
 
 (Si tienen inconvenientes para cursar en el horario que les asignaron lo deberán comunicar a su Tutor/a, ya que no es posible hacer el curso si no pueden asistir a las clases virtuales sincrónicas).
 
-## Aula Virtual
+---
+
+## :star: Aula Virtual
 
 Los estudiantes tendrán a su disposición el contenido teórico del curso en el aula. De presentar problemas, deberán informar a la brevedad a fin de solucionar el inconveniente lo antes posible.
 
@@ -393,7 +419,9 @@ Se accede con los siguientes datos:
 
 Nota: la contraseña la deben cambiar al ingresar por primera vez y completar su foto de perfil.
 
-## Comunicación
+---
+
+## :star: Comunicación
 
 Como se mencionó antes, el Aula Virtual es de uso obligatorio por lo que será nuestro principal medio de contacto. La información importante siempre irá por ahí, deberán revisar diariamente la Cartelera de Novedades.
 
@@ -413,8 +441,9 @@ Se habilitará en las próximas semanas.
 
 ● **La asistencia a las clases en vivo es obligatoria**.
 
+---
 
-## Validación de tu vacante
+## :star: Validación de tu vacante
 
 Enviar al formulario de validación enviado por tu tutor/a:
 
@@ -443,6 +472,8 @@ Es obligatorio para los estudiantes de este curso realizar la siguiente encuesta
 ● Fecha de entrega final: Clase 26. Semana del 29/5/23
 
 ● Grupo: 5 personas (sin excepción)
+
+-> Se va a hacer todo el mock up de la aplicación.
 
 ---
 
