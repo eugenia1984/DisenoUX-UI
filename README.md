@@ -2,15 +2,23 @@
 
 
 ---
+---
+
 
 # :star: Codo a Codo - Diseño UX / UI :star:
 
 En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/cac_ux_ui) está toda la teoría y prácticas realizadas.
 
 ---
+---
+
 
 # :star: Open Bootcamp de UX UI
 
+En la carpeta [**open_bootcamp_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/open_bootcamp_ux_ui) esta toda la teoría y práctica vista.
+
+
+---
 ---
 
 
