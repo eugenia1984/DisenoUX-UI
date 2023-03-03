@@ -1,4 +1,4 @@
-# :star: CLASE 01 - 03 MAR
+# :star: CLASE 01 - 03 MAR :star:
 
 ---
 
@@ -8,9 +8,9 @@
 
 ## PLAN DE ESTUDIO * Codo a Codo 4.0 2023 * Curso Diseño UX/UI
 
-### MÓDULO I: Nociones de Diseño UX/UI
+### :stars: MÓDULO I: Nociones de Diseño UX/UI
 
-1) Diseño UX/UI - DCU
+**1) Diseño UX/UI - DCU**
 
 ● Introducción al Diseño UX/UI
 
@@ -23,7 +23,7 @@
 ● Experiencias diseñadas y accidentales
 
 
-### 2) Nociones de Diseño Gráfico, Imagen y Marketing
+**2) Nociones de Diseño Gráfico, Imagen y Marketing**
 
 ● Comunicación visual
 
@@ -49,13 +49,13 @@
 
 ● Marca y Logo
 
-### 3) Nociones básicas de softwares de edición de Imagen
+**3) Nociones básicas de softwares de edición de Imagen**
 
 ● Photoshop
 
 ● Illustrator
 
-### 4) Técnicas de Investigación y Validación de hipótesis
+**4) Técnicas de Investigación y Validación de hipótesis**
 
 ● Desk Research
 
@@ -69,7 +69,7 @@
 
 ● Evaluación Heurística
 
-### 5) Técnicas para contar historias
+**5) Técnicas para contar historias**
 
 ● POV
 
@@ -79,9 +79,9 @@
 
 ● Elevator Pitch
 
-### MÓDULO II: Arquitectura de la información
+### :stars: MÓDULO II: Arquitectura de la información
 
-1) Estructuras
+**1) Estructuras**
 
 ● Cardsorting y resultados
 
@@ -93,9 +93,9 @@
 
 ● User flow
 
-### MÓDULO III: Prototipado y Pruebas de Usabilidad
+### :stars: MÓDULO III: Prototipado y Pruebas de Usabilidad
 
-1) Software Figma
+**1) Software Figma**
 
 ● Prototipo a mano y Digital.
 
@@ -117,9 +117,9 @@
 
 ● Accesibilidad
 
-### MÓDULO IV: Proyecto Final y Exposiciones
+### :stars: MÓDULO IV: Proyecto Final y Exposiciones
 
-1) Reporte UX y Portfolio
+**1) Reporte UX y Portfolio**
 
 ● Presentación del trabajo grupal (Desarrollo de habilidades blandas)
 
