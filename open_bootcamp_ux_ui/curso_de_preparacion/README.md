@@ -81,5 +81,22 @@ Familiarícese con las expectativas de los estudiantes de UX/UI Open revisando e
 
 ## :star: 02 - Prueba de diseño :star:
 
+
+## :stars: 2.1 - ¿Qué es el diseño UX/UI?
+
+## :stars: 2.2 - Trayectoria de carrera
+
+## :stars: 2.3 - Shaped Diseñador
+
+## :stars: 2.4 - UX/UI Caja de Herramientas
+
+## :stars: 2.5 - El pensamiento de diseño
+
+## :stars: 2.6 - Principios de UX / UI
+
+## :stars: 2.7 - Diseño Visual
+
+## :stars: 2.8 - Tendencias de diseño
+
 ---
 ---
