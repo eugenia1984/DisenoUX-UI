@@ -5,9 +5,9 @@
 ## :book: Temas :book:
 
 
-En la carpeta **clases** está lo que se vio en la clase.
+En la carpeta [**clases**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/cac_ux_ui/clases) está lo que se vio en la clase.
 
-En la carpeta **teoría** está la teoría del aula virtual 
+En la carpeta [**teoría**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/cac_ux_ui/teoria) está la teoría del aula virtual 
 
 En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/guia_del_estudiante.md)  esta toda la información de la cursada.
 
@@ -15,40 +15,44 @@ En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob
 
 ## :stars: Ejes temáticos - Diseño UX/UI - Codo a Codo 4.0 2023
 
- Presentación
+- Presentación
 
- Introducción al diseño e imágenes
+- Introducción al diseño e imágenes
 
- Vectorial/Mapa de Bits y Research/Bench
+- Vectorial/Mapa de Bits y Research/Bench
 
- User Persona y Entrevistas
+- User Persona y Entrevistas
 
- POV/MVP y Arquitectura
+- POV/MVP y Arquitectura
 
- Userflows y Maquetación
+- Userflows y Maquetación
 
- Prototipo y Patrones
+- Prototipo y Patrones
 
- Prototipo Funcional/Métricas y Pruebas
+- Prototipo Funcional/Métricas y Pruebas
 
- Atomic Design
+- Atomic Design
 
- Grillas y Estándares
+- Grillas y Estándares
 
- Illustrator y Práctica
+- Illustrator y Práctica
 
- Color/Fondos y Tipografías
+- Color/Fondos y Tipografías
 
- Branding y Logo
+- Branding y Logo
 
- Manual de marca y Pre-entrega
+- Manual de marca y Pre-entrega
 
- UI y Accesibilidad
+- UI y Accesibilidad
 
- Motion y Storytelling
+- Motion y Storytelling
 
- Portfolio/Reporte
+- Portfolio/Reporte
 
 ---
 
+![image](https://user-images.githubusercontent.com/72580574/222612034-e6fdb510-51b1-4eec-88dd-7d72a9d838c8.png)
+
+
+---
 
