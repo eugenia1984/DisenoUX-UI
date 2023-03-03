@@ -426,7 +426,7 @@ Al igual que los diseñadores de UX, los diseñadores de UI poseen una variedad 
 
 Los diseñadores de UI también usan una variedad de habilidades técnicas de diseño. Algunos de estos incluyen las habilidades que se enumeran a continuación:
 
-- ** Diseño visual**: como diseñador de interfaz de usuario, diseñará pantallas y creará puntos de contacto visuales, además de orquestar la interactividad detrás de ellos. Los diseñadores de UI comienzan un proyecto creando una guía de estilo, o lenguaje visual, que se implementará a lo largo del proceso de diseño. Será responsable de garantizar la coherencia con las imágenes, el contenido, el estilo y la sensación del producto.
+- **Diseño visual**: como diseñador de interfaz de usuario, diseñará pantallas y creará puntos de contacto visuales, además de orquestar la interactividad detrás de ellos. Los diseñadores de UI comienzan un proyecto creando una guía de estilo, o lenguaje visual, que se implementará a lo largo del proceso de diseño. Será responsable de garantizar la coherencia con las imágenes, el contenido, el estilo y la sensación del producto.
 
 - **Creación de prototipos**: Los diseñadores de UI necesitan probar regularmente la usabilidad de su diseño con los usuarios. La creación y prueba de prototipos son un componente fundamental del flujo de trabajo de la interfaz de usuario porque simulan la experiencia real de usar una aplicación.
 
@@ -586,6 +586,129 @@ Lea este artículo sobre estrategia y diseño en forma de T: [Strategy by Design
 ---
 
 ## :stars: 2.4 - UX/UI Caja de Herramientas
+
+**OBJETIVO DE LA LECCIÓN: Después de completar este punto de control, podrá navegar por su caja de herramientas de UX/UI, identificar diferentes tipos de herramientas y practicar el uso de la herramienta de diseño central Figma.**
+
+## Términos clave
+
+- Figura
+- Evaluaciones heurísticas
+
+## Descripción general
+
+Ahora que ha explorado los conceptos básicos de UX/UI, las trayectorias profesionales y los tipos de habilidades que necesitará para el trabajo, es hora de profundizar en la idea de la caja de herramientas de diseño de UX/UI y las habilidades que necesita para crear experiencias de usuario.
+
+Es importante comenzar diciendo que su caja de herramientas de UX/UI cambiará con frecuencia. Las tecnologías cambian, las empresas prefieren algunas herramientas a otras y su función puede desarrollarse durante el curso de su carrera. En general, es importante centrarse en las habilidades que necesita para crear experiencias en lugar de las herramientas específicas.
+
+Teniendo eso en cuenta, hay algunas herramientas que necesitará para navegar este curso y dar vida a las experiencias. En este punto de control, revisará algunas de las herramientas más comunes utilizadas en el diseño de UX/UI. También obtendrá exposición a una de las herramientas principales del programa, Figma, y  practicará su uso.
+
+## UX/UI herramientas de arranque
+
+Hay varias herramientas simples que usará para poner al día su práctica de UX/UI. A continuación, revisará cada una de estas herramientas generales.
+
+- **Lápiz y papel**: Aunque son simples, el lápiz y el papel son una parte vital de su caja de herramientas. El lápiz y el papel se pueden usar para esbozar rápidamente ideas, esquemas y diagramas y ayudarlo a estar en la misma página que los demás.
+
+- **Listas de verificación de UX**: muchos diseñadores incluyen listas de verificación en su proceso de diseño. Aquí hay dos que son imprescindibles, especialmente para los diseñadores que recién comienzan: la lista de verificación del proyecto UX y la lista de verificación de usabilidad.
+
+- **Diseño de materiales de Google**: Estos recursos en línea confiables son excelentes para tener en su caja de herramientas de UX/UI, ya sea que sea un estudiante nuevo o un profesional experimentado. Hay algunos kits de diseño y plantillas excelentes en cada uno de estos para ayudarlo a comenzar un proyecto. La biblioteca Material Design de Google es extremadamente útil y ofrece consejos sobre diseño de interacción, patrones de diseño y más.
+
+- **Herramientas de gestión de proyectos como Jira o Asana**: su UX/UI será parte de un proyecto más grande, que a menudo involucrará partes móviles y la coordinación con diferentes departamentos. Para mantenerse al día y a tiempo, se recomienda utilizar una herramienta de gestión de proyectos como Jira o Asana. Vea si puede usar una versión de prueba gratuita para tener una idea de las diferentes funcionalidades de cada herramienta.
+
+
+- **Google Suite**: Google Suite es una excelente colección de aplicaciones gratuitas para comenzar a crear activos digitales. Todo lo que necesita hacer es configurar una cuenta gratuita de Gmail y tendrá acceso a Google Docs, Slides, Sheets, Forms y muchas otras herramientas que se utilizarán en este programa y en su carrera como diseñador de UX/UI. Si aún no tiene una cuenta de Gmail, puede crear una aquí!
+UX Stack Exchange: Las cosas cambian todos los días en el mundo de la tecnología, por lo que es importante contar con fuentes de información en las que pueda confiar para el aprendizaje y el crecimiento continuos. UX Stack Exchange es una comunidad de más de 45.000 personas interesadas en UX. Puede hacer preguntas a expertos expertos y probablemente recibirá una respuesta dentro de dos horas. Hay tanto que los diseñadores de UX pueden aprender unos de otros, y sitios y comunidades como este pueden ayudarlo a crecer como diseñador de UX.
+
+![image](https://user-images.githubusercontent.com/72580574/222621245-1a8e67cf-95c4-44e7-b340-f4a95bee379c.png)
+
+
+## Herramientas de investigación y prueba de usuarios
+
+También hay excelentes herramientas que pueden ayudarlo a medida que aprende a realizar investigaciones de usuarios. Estos incluyen herramientas para pruebas de usabilidad remotas, reclutamiento de usuarios, captura de comentarios sobre el sitio o el producto, creación de encuestas en línea y muchos otros propósitos. Algunas herramientas populares se enumeran a continuación.
+
+[UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) lo ayuda a realizar evaluaciones heurísticas para identificar cualquier problema de usabilidad. UX Check le permite ejecutar una evaluación basada en [las diez heurísticas de usabilidad de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/), que puede ver a continuación.
+
+1. Visibilidad del estado del sistema
+
+2. Coincidencia entre el sistema y el mundo real
+
+3. Control y libertad del usuario
+
+4.Coherencia y estándares
+
+5. Prevención de errores
+
+6. Reconocimiento en lugar de recuerdo
+
+7. Flexibilidad y eficiencia de uso
+
+8. Diseño estético y minimalista
+
+9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+10. Ayuda y documentación
+
+[Lookback](https://lookback.io/) es una gran herramienta para capturar la interacción del usuario y registrar a los usuarios. Lookback es fácil de usar y los videos se almacenan en la nube.
+
+[Wufoo](https://www.wufoo.com/) Las encuestas son una parte vital de la investigación de usuarios. Wufoo facilita la creación de encuestas hermosas y efectivas para que pueda analizar los resultados.
+
+[TypeForm](https://www.typeform.com/) es una herramienta para crear encuestas en línea atractivas e inspiradoras. TypeForm tiene muchos propósitos excelentes y brinda una excelente experiencia de creación de encuestas, así como una apariencia fantástica para los usuarios finales.
+
+[User Testing](https://www.usertesting.com/) es una excelente herramienta para ejecutar muchos tipos de pruebas de usuario. Tales pruebas ayudan a una empresa a obtener información valiosa para validar los hallazgos o identificar áreas que pueden ser vagas o que necesitan modificaciones para la participación del usuario.
+
+[Morae](https://www.techsmith.com/morae.html) es la principal herramienta de referencia para capturar lo que hacen sus usuarios. Morae le permite capturar la actividad del teclado, el audio, el mouse y la pantalla para realizar pruebas de usabilidad.
+
+[Design Fight](https://dsgnfight.com/) facilita probar dónde harán clic los usuarios. Es una herramienta que proporciona informes procesables que puede usar para planificar la interacción del usuario.
+
+## Herramientas de diseño y diagramación
+
+A continuación se muestra una descripción general de las herramientas comunes de diseño y diagramación. Pero tenga en cuenta que debido a la rapidez con la que se mueve la industria, las herramientas de diagramación y diseño sugeridas siempre están cambiando. Este programa usará Figma. Tendrás la oportunidad de practicarlo a continuación.
+
+- [Figma](https://www.figma.com/): Esta es una herramienta muy flexible y robusta que le permite cubrir cada parte del proceso de diseño. Está basado en la nube, por lo que puede trabajar en línea en colaboración con su equipo. Puede diagramar, estructurar, diseñar y crear prototipos directamente desde la herramienta.
+
+- [Sketch](https://www.sketch.com/): Esta herramienta también lo ayuda a crear, crear prototipos, colaborar y promulgar sus ideas en una plataforma digital.
+
+#### Practica usando Figma
+
+Figma, como se indicó anteriormente, es una herramienta de diseño colaborativo basada en la nube que lo ayudará a crear artefactos de diseño importantes.
+
+Durante este programa, Figma será la herramienta principal que utilizará para intercambiar ideas, dibujar y entregar artefactos de diseño para sus tareas y su cartera final. Para tener una idea de la herramienta, ¡ahora es un buen momento para descargarla y practicar su uso!
+
+![image](https://user-images.githubusercontent.com/72580574/222621730-2e448059-7fdf-408c-a433-e8b45f400ed7.png)
+
+
+Siga estos pasos para registrarse y comenzar:
+
+1. En su navegador, visite [el sitio web de Figma](https://www.figma.com/).
+
+2. Haga clic en el botón Registrarse.
+
+3. Regístrese con la misma dirección de correo electrónico que usará para registrarse en UX/UI Open.
+
+4. Cree una contraseña para crear una cuenta. Luego tendrá acceso a la aplicación web de Figma.
+
+5. Descargue la aplicación de escritorio Figma siguiendo [estos pasos](https://www.help.figma.com/hc/en-us/articles/360039823654-Download-the-Figma-Desktop-App).
+
+6. ¡Empieza a usar Figma! Comience con estos videos útiles de la página de [YouTube de Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA), luego explore la herramienta por su cuenta.
+
+Como recurso complementario, Figma Book también hace un gran trabajo al presentar Figma.
+
+## Sumario
+
+En este punto de control, exploró los conceptos básicos de una caja de herramientas de UX/UI. Algunas herramientas son gratuitas y tan fáciles de usar que puede comenzar a explorarlas hoy mismo. Otros, como las pruebas de usuario y la investigación, se explorarán con más detalle más adelante en el programa cuando los use para los proyectos que cree. En general, le recomendamos que explore estas herramientas y se prepare. Esto lo ayudará a comprender mejor las herramientas del oficio y las expectativas del programa y le permitirá comenzar a aprender nuevas habilidades.
+
+## ACTIVIDAD
+
+Las cuadrículas de diseño lo ayudarán a alinear objetos dentro de un marco y brindarán una estructura visual agradable para sus diseños. Ayudarán a que sus diseños permanezcan lógicos y consistentes en diferentes plataformas y dispositivos. Mientras mira el breve tutorial de Figma a continuación sobre cómo crear cuadrículas de diseño, ¡abra su cuenta de Figma y juegue! Aquí hay una guía:
+
+1. Crea una página.
+
+2. Cree una mesa de trabajo.
+
+3. Agregue un rectángulo para representar una barra de encabezado y establezca el relleno en una imagen.
+
+4. Intente agregar una cuadrícula de diseño y vea qué sucede.
+
+5. Mire los otros tutoriales y vea qué diseños geniales puede crear. ¿Qué te gusta más? ¿Qué es difícil o confuso?
 
 ---
 
