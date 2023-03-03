@@ -12,126 +12,101 @@
 
 **1) Diseño UX/UI - DCU**
 
+```
 ● Introducción al Diseño UX/UI
-
 ● Relación entre el diseño gráfico y el Diseño UX/UI
-
 ● Usabilidad
-
 ● Diseño Centrado en el Usuario
-
 ● Experiencias diseñadas y accidentales
-
+```
 
 **2) Nociones de Diseño Gráfico, Imagen y Marketing**
 
+```
 ● Comunicación visual
-
 ● Características del diseñador
-
 ● Retórica de la imagen
-
 ● Imágenes en el Diseño
-
 ● Leyes compositivas
-
 ● Leyes Gestálticas
-
 ● Mapa de Bits vs Gráfico vectorial
-
 ● Resolución y Formatos de archivo
-
 ● Moodboard
-
 ● El color en el Diseño (Teoria del color y Psicología del color)
-
 ● Tipografía
-
 ● Marca y Logo
+```
 
 **3) Nociones básicas de softwares de edición de Imagen**
 
+```
 ● Photoshop
-
 ● Illustrator
+```
 
 **4) Técnicas de Investigación y Validación de hipótesis**
 
+```
 ● Desk Research
-
 ● Benchmarking
-
 ● User persona
-
 ● Entrevistas
-
 ● MVP
-
 ● Evaluación Heurística
+```
 
 **5) Técnicas para contar historias**
 
+```
 ● POV
-
 ● Storytelling
-
 ● Storyboard
-
 ● Elevator Pitch
+```
 
 ### :stars: MÓDULO II: Arquitectura de la información
 
 **1) Estructuras**
 
+```
 ● Cardsorting y resultados
-
 ● Mapa de sitio
-
 ● Task flow
-
 ● Happy path
-
 ● User flow
+```
+
 
 ### :stars: MÓDULO III: Prototipado y Pruebas de Usabilidad
 
 **1) Software Figma**
 
+```
 ● Prototipo a mano y Digital.
-
 ● Patrones de Diseño
-
 ● Prototipo Funcional
-
 ● Pruebas de Usabilidad y Métricas
-
 ● Atomic Design
-
 ● Aplicación de Grillas
-
 ● Guidelines (Android y IOS)
-
 ● Ui Kit
-
 ● Motion
-
 ● Accesibilidad
+```
+
 
 ### :stars: MÓDULO IV: Proyecto Final y Exposiciones
 
 **1) Reporte UX y Portfolio**
 
+```
 ● Presentación del trabajo grupal (Desarrollo de habilidades blandas)
-
 ● Presentación correcta de la investigación y los estudios de validación de hipótesis
-
 ● Desarrollo de la temática y correcta redacción de los descubrimientos y conclusiones
-
 ● Presentación de estructuras del sitio por medio de diagramas
-
 ● Presentación de los wireframes y su evolución (Cambios de Fidelidad y uso de mockups)
-
 ● Presentación del prototipo funcional en alta fidelidad
+```
 
 ---
 
@@ -139,7 +114,7 @@
 
 ---
 
-## Sobre Codo a Codo 4.0
+## :star: Sobre Codo a Codo 4.0
 
 Preparamos a los/as estudiantes para la demanda de las empresas más innovadoras del área de IT.
 
@@ -200,7 +175,7 @@ Animate a hacer carrera en Codo
 
 ---
 
-## Requisitos y Modalidad
+## :star: Requisitos y Modalidad
 
 ### Requisitos 
 
@@ -220,7 +195,7 @@ Las ejercitaciones, actividades y/o consultas se desarrollarán dentro de la pla
 
 ---
 
-## Tu Docente
+## :star: Tu Docente
 
 Diaz Ignacio Joaquin
 
@@ -235,7 +210,7 @@ Diaz Ignacio Joaquin
 
 ---
 
-## Nuestro Compromiso
+## :star: Nuestro Compromiso
 
 ● Brindar una oferta académica amplia, actualizada y de calidad.
 
@@ -243,7 +218,8 @@ Diaz Ignacio Joaquin
 
 **Más de 2.000 estudiantes de Diseño UX/UI en Codo a Codo Marzo 2023.**
 
-## Tu Compromiso
+
+## :star: Tu Compromiso
 
 ● Valorar la vacante
 
@@ -257,13 +233,13 @@ Diaz Ignacio Joaquin
 
 ---
 
- ## Cronograma
+ ## :star:  Cronograma
  
  ![image](https://user-images.githubusercontent.com/72580574/222833305-70cb131c-e23a-4f26-b1d7-11c634e3f541.png)
 
 ---
 
-## Portfolio de Egresados
+##  :star: Portfolio de Egresados
 
 Los invitamos a conocer algunos de los proyectos que han realizado nuestros/as egresados/as poniendo en práctica lo aprendido durante el curso.
 
@@ -273,7 +249,7 @@ Galería de proyectos de egresados/as del Programa Codo a Codo:
 
 ---
 
-## Diploma
+## :star:  Diploma
 
 Se otorga una constancia de participación en el programa.
 
@@ -291,7 +267,7 @@ Requisitos para obtener el diploma:
 
 ---
 
-## Formulario de Presentismo
+## :star: Formulario de Presentismo
 
 Link: les enviaremos un formulario que será exclusivo de su comisión.
 
@@ -307,7 +283,7 @@ Si tienen 6 inasistencias consecutivas, se les dará de baja del curso automáti
 
 ---
 
-## Motivos para Estudiar Diseño UX
+## :star:  Motivos para Estudiar Diseño UX
 
 ● ¿Por qué este es un momento único para estudiar UX?
 
@@ -320,7 +296,7 @@ Si tienen 6 inasistencias consecutivas, se les dará de baja del curso automáti
 
 ---
 
-## Empleo IT: las 10 carreras con salida laboral de 2021
+## :star: Empleo IT: las 10 carreras con salida laboral de 2021
 
 ● Data Science y Business Intelligence
 
@@ -477,12 +453,11 @@ Es obligatorio para los estudiantes de este curso realizar la siguiente encuesta
 
 ---
 
-## :star: Ejercicio
-Clase 0
+## :star: Ejercicio - Clase 0
 
-¿Qué creen que es Diseño UX/UI?
+- ¿Qué creen que es Diseño UX/UI?
 
-Nube de palabras.
+Nube de palabras:
 
 ---
 
