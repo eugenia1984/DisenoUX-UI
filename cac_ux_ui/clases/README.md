@@ -2,7 +2,7 @@
 
 ---
 
-##:book: Clases
+## :book: Clases
 
 - [**Clase 1** - 03 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase01.md)
 
