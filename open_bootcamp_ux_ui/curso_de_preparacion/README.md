@@ -94,7 +94,7 @@ Familiarícese con las expectativas de los estudiantes de UX/UI Open revisando e
 
 - [**2.6 - Principios de UX / UI**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/curso_de_preparacion/2.6_principios_de_ux_ui.md)
 
-- [**2.7 Diseño Visual]()
+- [**2.7 Diseño Visual**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/curso_de_preparacion/2.7_disenio_visual.md)
 
 - [**2.8 - Tendencias de diseño**]()
 
