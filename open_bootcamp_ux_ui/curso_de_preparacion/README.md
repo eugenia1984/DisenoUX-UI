@@ -89,17 +89,10 @@ Familiarícese con las expectativas de los estudiantes de UX/UI Open revisando e
 
 - [**2.4 UX UI Caja de herramientas**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/curso_de_preparacion/2.4_ux_ui_caja_de_herramientas.md)
 
+- [**2.6 - Principios de UX / UI**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/curso_de_preparacion/2.5_el_pensamiento_de_disenio.md)
 
 
----
 
-## :stars: 2.6 - Principios de UX / UI
-
----
-
-## :stars: 2.7 - Diseño Visual
-
----
 
 ## :stars: 2.8 - Tendencias de diseño
 
