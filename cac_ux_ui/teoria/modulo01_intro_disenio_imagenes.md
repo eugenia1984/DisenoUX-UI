@@ -2,7 +2,7 @@
 
 ---
 
-##:book: Temas
+## :book: Temas
 
 1. Introducción al diseño UX-UI
 
