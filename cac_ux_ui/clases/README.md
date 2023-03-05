@@ -6,7 +6,7 @@
 
 - [**Clase 1** - 03 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase01.md)
 
-- **Clase 2**
+- **Clase 2** : ¿Qué es el diseño? / Retórica de la imágen /  Diseño gráfico y Diseño UX /  Diseño UI /  Usabilidad /  Metodología: Diseño centrado en el usuario /  Metodología: Design Thinking
 
 - **Clase 3**
 
