@@ -8,7 +8,7 @@
 
 - **Clase 2** : ¿Qué es el diseño? / Retórica de la imágen /  Diseño gráfico y Diseño UX /  Diseño UI /  Usabilidad /  Metodología: Diseño centrado en el usuario /  Metodología: Design Thinking
 
-- **Clase 3**
+- **Clase 3** : Impacto de la imagen /  Fotografía /  Leyes Compositivas /  Puntos de interés /  Composición en el diseño /  Imagen en diseño web /  Leyes Gestálticas
 
 - **Clase 4**
 
