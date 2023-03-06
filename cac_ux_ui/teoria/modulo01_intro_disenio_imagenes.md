@@ -123,14 +123,14 @@ En todo diseño debe haber correlación entre lo que se quiere transmitir y los 
 
 ## :star: 3. La retórica de la imagen
 
-La denotación, es el significado básico de una palabra, constante, universal, el que una palabra tiene para todos los conocedores de una lengua.
+La **denotación**, es el significado básico de una palabra, constante, universal, el que una palabra tiene para todos los conocedores de una lengua.
 
 Por ejemplo: un cuenco, una bombilla, una infusión y yerba. Lo denotado sería lo real, lo objetivo y lo literal, en lo que está de acuerdo toda la comunidad lingüística, es decir el significado que le da el diccionario.
 
 ![image](https://user-images.githubusercontent.com/72580574/222941035-f03228fa-7d81-493e-a2f3-f60d4137a6f2.png)
 
 
-La connotación, son todas aquellas ideas y asociaciones que se despiertan a la hora de visualizar un mate.
+La **connotación**, son todas aquellas ideas y asociaciones que se despiertan a la hora de visualizar un mate.
 
 por ejemplo: Argentinidad, charlas, reunión con amigos, campo, Pampa, etc.
 
