@@ -550,7 +550,7 @@ Estos elementos no seguirán la ley de continuidad si no poseen una dirección c
 
 En la imagen de arriba, vemos un cruce de línea y curva en lugar de cuatro segmentos distintos de línea y curva que se encuentran en un solo punto.
 
-Ley de figura - fondo
+## Ley de figura - fondo
 
 Esta ley analiza la tendencia de nuestro cerebro a separar el fondo de los demás elementos, y se basa en la premisa: no existe figura sin un fondo que la sustente.
 
