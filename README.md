@@ -7,7 +7,7 @@
 
 # :star: Codo a Codo - Diseño UX / UI :star:
 
-En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/cac_ux_ui) está toda la teoría y prácticas realizadas.
+En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/cac_ux_ui) está toda la teoría y prácticas realizadas en el curso **Diseño UX UI** de **Codo a Codo**.
 
 ---
 ---
