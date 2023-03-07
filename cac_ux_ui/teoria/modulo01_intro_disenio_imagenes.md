@@ -43,28 +43,32 @@ El diseño involucra variadas dimensiones que van más allá del aspecto, la for
 
 Durante el proceso se debe tener en cuenta además la funcionalidad, la operatividad, la eficiencia y la vida útil del objeto del diseño.
 
+
 #### Comunicación visual
 
-El Emisor se desdobla en dos protagonistas:
+El **Emisor** se desdobla en dos protagonistas:
 
 Aquel que crea el mensaje y necesita transmitirlo (cliente o marca)
 
-El diseñador que interviene para hacer que dicho mensaje sea efectivo.
+El **diseñador** que interviene para hacer que dicho mensaje sea efectivo.
 
-El receptor es el sujeto para quien está destinada la comunicación, un sector de la sociedad o el público ideal.
+El **receptor** es el sujeto para quien está destinada la comunicación, un sector de la sociedad o el público ideal.
 
-EI significado es lo que se desea expresar, es el mensaje. ¿Qué se comunica?
+EI **significado** es lo que se desea expresar, es el mensaje. ¿Qué se comunica?
 
-El significante está siempre unido al significado pues la comunicación se produce en el cruce de 
+El **significante** está siempre unido al significado pues la comunicación se produce en el cruce de 
 ambos. ¿Cómo se comunica?
+
 
 #### Comunicación casual y comunicación intencional
 
-En la comunicación casual quien es receptor interpreta “libremente” la imagen que está viendo.
+
+En la **comunicación casual** quien es receptor interpreta “libremente” la imagen que está viendo.
 
 ![image](https://user-images.githubusercontent.com/72580574/222940974-dad14e10-80bf-49f9-91d2-5489e16ac2fe.png)
 
-En la comunicación intencional existe un emisor con la intención de que el receptor interprete un mensaje concreto.
+
+En la **comunicación intencional** existe un emisor con la intención de que el receptor interprete un mensaje concreto.
 
 ![image](https://user-images.githubusercontent.com/72580574/222940981-06795bda-03d5-478c-bc47-a3cdffd83a52.png)
 
@@ -75,9 +79,13 @@ En la comunicación intencional existe un emisor con la intención de que el rec
 
 ## :star: 2. Características del diseñador
 
+
 Un diseñador es una persona que ha entrenado su creatividad para enfocarla hacia aspectos más pragmáticos, de manera que pueda ofrecer soluciones adaptadas al problema que enfrenta.
 
 Utiliza un conjunto de saberes aplicables a diversos campos de trabajo, que se sirven de la geometría, la aritmética, la lógica, la ilustración, el mercadeo, la sociología o la informática para un proceso que, fundamentalmente, comprende en las etapas que figuran a continuación:
+
+
+
 
 #### Etapas
 
@@ -86,6 +94,8 @@ Utiliza un conjunto de saberes aplicables a diversos campos de trabajo, que se s
 - **Planificación y proyección**: Proponiendo un modo de solucionar la necesidad detectada.
 
 - **Construcción y ejecución**: Llevando a la realidad lo proyectado y sometiéndolo a la prueba de su funcionamiento.
+
+
 
 #### El diseño como forma de comunicar
 
@@ -102,6 +112,7 @@ Para poder crear estas piezas de comunicación, el mensaje se tiene que adecuar 
 En todo diseño debe haber correlación entre lo que se quiere transmitir y los elementos utilizados sin resignar su objetivo final sea cual sea.
 
 "El diseñador de comunicación visual trabaja en la interpretación, el ordenamiento y la presentación visual de mensajes. Su sensibilidad para la forma debe ser paralela a su sensibilidad para el contenido". Frascara
+
 
 #### Reglas del diseñador profesional
 
