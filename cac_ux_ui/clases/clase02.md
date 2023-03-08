@@ -119,11 +119,17 @@ Utiliza un conjunto de saberes aplicables a diversos campos de trabajo, que se s
 
 ## Etapas:
 
-1. **Observación y análisis**: Ya que la necesidad del diseño surge de la cotidianidad del ser humano.
+1. **Observación y análisis**: Ya que la necesidad del diseño surge de la cotidianidad del ser humano. ¿Quien es nuestro usuario? ¿Qué problema tiene?
 
-2. **Planificación y proyección**: Proponiendo un modo de solucionar la necesidad detectada.
+2. **Planificación y proyección**: Proponiendo un modo de solucionar la necesidad detectada. Se tira tood sobre la mesa para elegir la solucion final.
 
-3. **Construcción y ejecución**: Llevando a la realidad lo proyectado y sometiéndolo a la prueba de su funcionamiento.
+3. **Construcción y ejecución**: Llevando a la realidad lo proyectado y sometiéndolo a la prueba de su funcionamiento. Se prepara el prototipo y se lo usa y prueba para correjirlo.
+
+-> Y es un ciclo dle paso 3 vuelvo al paso 1 -> **iteración**
+
+-> Cada uno luego va a encontrar su forma: primero investigo, armo el boceto, lo corrijo, lo pruebo, lo corrijo, etc.
+
+-> Siempre hay espacio para mejorar, el diseño perfecto no existe.
 
 ---
 
@@ -141,10 +147,17 @@ Utiliza un conjunto de saberes aplicables a diversos campos de trabajo, que se s
 
 6. En todo diseño debe haber **correlación entre lo que se quiere transmitir y los elementos utilizados** sin resignar su objetivo final sea cual sea.
 
+-> Se busca una **metrica**, en base al feed del usuario.
 
 ---
 
-"El diseñador de comunicación visual trabaja en la interpretación, el ordenamiento y la presentación visual de mensajes. Su sensibilidad para la forma debe ser paralela a su sensibilidad para el contenido." - Frascara
+**"El diseñador de comunicación visual trabaja en la interpretación, el ordenamiento y la presentación visual de mensajes. Su sensibilidad para la forma debe ser paralela a su sensibilidad para el contenido."** - Frascara
+
+-> Su sensibilidad para la forma debe ser paralela a su sensibilidad para el contenido 
+
+Su sensibilidad para la forma-> Hay que ajustar el ojo, cuando dos colores estan bien juntos? cuando una tipografia no es la correcta?
+
+u sensibilidad para el contenido -> que se comunica? como se comunica?
 
 ---
 
@@ -152,8 +165,9 @@ Utiliza un conjunto de saberes aplicables a diversos campos de trabajo, que se s
 
 ● El diseñador **es un intérprete** que conforma mensajes producidos por otras personas.
 
-● El diseñador **no adorna**, es un proceso de creación visual con el propósito de comunicar un mensaje
-específico.
+● El diseñador **no adorna**, es un proceso de creación visual con el propósito de comunicar un mensaje específico.
+
+Todo el diseño no es minimalista, pero no vamos a rellenar por rellenar, no adornamos.
 
 ● El diseño debe ser **estético** pero también **funcional**.
 
@@ -196,6 +210,11 @@ El **diseño de experiencia de usuario (UX)** es una disciplina relativamente nu
 
 Es una práctica que sirve para diseñar centrados en las necesidades de los usuarios. La experiencia de usuario es el conjunto de factores relativos a la interacción del usuario con un dispositivo, generando como resultado una percepción positiva o negativa de esa experiencia y su marca.
 
+-> Diseño UX es una rama dle diseño grafico(todo el material impreso y cierta parte del material audiovisual). Nos enfocamos en la cominucación digital, una web y una aplicación. Nos vamos a enfocar en una **Experienica de usuario**: sus necesidades, como interactua con el producto, cque genera la experiencia.
+
+
+
+
 ---
 
 ## Diseño UX facetas
@@ -206,6 +225,20 @@ finales (y no de quien está desarrollando o diseñado).
 Las 7 facetas o factores que construyen la experiencia de usuario de Peter Morville:
 
 Valioso - Útil - Deseable - Accesible - Creíble - Ubicable - Usable
+
+- **VALIOSO** para el usuario, lo debe querer usar
+
+- Debe ser **UTIL**
+
+- Debe ser **DESEABLE** de usar
+
+- Debe ser **ACESIBLE**, lo deben poder utilizar todos
+
+- Debe ser **CREIBLE**, no debe parecer trucho. Debe parecer bueno.
+
+- Debe ser **UBICABLE**, debe ser **memorable**, la recuerdan para volver a usar.
+
+- Debe ser **USABLE**, sino no sirve para nada.
 
 ---
 
