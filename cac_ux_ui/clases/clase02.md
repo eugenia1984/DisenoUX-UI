@@ -345,4 +345,23 @@ El proceso de Design Thinking se compone de 5 etapas o fases.
 
 - **Testear**: En esta última etapa, mostramos el prototipo diseñado para obtener devoluciones de nuestros usuarios. No estamos vendiendo sino aprendiendo del feedback que recibimos. Dado que Design Thinking es un proceso iterativo, nos permite volver a las etapas anteriores para realizar cambios y mejoras en nuestro producto.
 
+-> Entender quien es el usuario
 
+-> DEfinir sus problemas
+
+-> Idear las soluciones a ese problema
+
+-> Prototipar
+
+-> Validar que solucione los problemas que definimos
+
+
+---
+
+## Los Errores webs que se manejan
+
+- ERROR 404 -> Pagina no encontrada
+
+- ERROR 500 -> No funciona el servidor
+
+---
