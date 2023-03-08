@@ -17,6 +17,21 @@ Introducción al diseño
 ```
 
 ---
+---
+
+## ¿Que es el diseño?
+
+- resolver un problema, dandole funcionalidad a esa solucion
+
+- que la solucion sea esteticamente agradable
+
+- primero pensamos en la funcion
+
+
+
+
+---
+---
 
 ## Ejercicio  Clase 1
 
@@ -30,6 +45,13 @@ DIBUJO - DISEÑO - ARTE - ILUSTRACIÓN
 
 ![image](https://user-images.githubusercontent.com/72580574/222941602-d601b390-81c6-43d6-82b1-90288eaedd5f.png)
 
+- Es muy comun confundir **diseño** con **arte**
+
+- El **dibujo** es algo que todos podemos hacer, todos podemos bocetar, por más que no seamos unos genios del dibujo.
+
+- La ilustración es como arte adentro del diseño, se usa para comunicar un mensaje.
+
+- El **diseño** es un **proceso**, se tiene en cuenta la: funcionalidad, eficiencia y vida util.
 
 ---
 
@@ -43,17 +65,26 @@ Durante el proceso se debe tener en cuenta además la funcionalidad, la operativ
 
 ##  Comunicación visual:
 
-El **emisor** se desdobla en dos protagonistas:
+- El **emisor** se desdobla en dos protagonistas:
 
 ○ Aquel que crea el mensaje y necesita transmitirlo (cliente o marca)
 
 ○ El diseñador que interviene para hacer que dicho mensaje sea efectivo.
 
-El **receptor** es el sujeto para quien está destinada la comunicación, un sector de la sociedad o el público ideal.
+- El **receptor** es el sujeto para quien está destinada la comunicación, un sector de la sociedad o el público ideal.
 
-EI **significado** es lo que se desea expresar, es el mensaje. ¿Qué se comunica?
+- EI **significado** es lo que se desea expresar, es el mensaje. ¿Qué se comunica?
 
-El **significante** está siempre unido al significado pues la comunicación se produce en el cruce de ambos. ¿Cómo se comunica?
+- El **significante** está siempre unido al significado pues la comunicación se produce en el cruce de ambos. ¿Cómo se comunica?
+
+
+-> La comunicación no es tan sencilla: EMISOR -> MENSAJE -> RECEPTOR. En el medio pueden pasar muchas cosas: llegar mal el mensaje, no llegar el mensaje, el emisor no conoce al receptor y no sabe como comunicarlo, etc.
+
+-> Se necesita saber **a quien se le habla**, conocer al **user persona**.
+
+-> El significado es lo que quiero comunicar
+
+-> El comunicante es la forma de comunicar
 
 
 ---
@@ -62,11 +93,15 @@ El **significante** está siempre unido al significado pues la comunicación se 
 
 En la **comunicación casual** quien es receptor interpreta “libremente” la imagen que está viendo.
 
+-> Todo lo que una persona interpreta con lo que ve. Se tiene en cuenta, pero no se puede cambiar lo que piensa el usuario.
+
 ![image](https://user-images.githubusercontent.com/72580574/222941692-4eccbbb9-b86f-4e3b-a186-7b763fc8cd64.png)
 
 
 
 En la **comunicación intencional** existe un emisor con la intención de que el receptor interprete un mensaje concreto
+
+-> Tratamos de controlar que interpretan, pero no siempre se puede.
 
 ---
 
@@ -75,6 +110,10 @@ En la **comunicación intencional** existe un emisor con la intención de que el
 Un **diseñador** es una persona que ha entrenado su creatividad para enfocarla hacia aspectos más pragmáticos, de manera que pueda ofrecer **soluciones adaptadas al problema que enfrenta**.
 
 Utiliza un conjunto de saberes aplicables a diversos campos de trabajo, que se sirven de la **geometría, la aritmética, la lógica, la ilustración, el mercadeo, la sociología o la informática** para un proceso que, fundamentalmente, comprende en las etapas que figuran a continuación:
+
+-> Usa todo loq ue tiene a mano para solucionar un problema, usa todo loq ue conoce, todas sus vivencias, para traer la solucion definitiva al problema.
+
+-> Todos los diseñadores son **manipuladores** -> Manipulan al usuario para que lo haga.
 
 ---
 
