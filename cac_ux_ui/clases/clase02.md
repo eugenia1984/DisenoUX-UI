@@ -4,7 +4,7 @@
 
 ## :book: Temas
 
-Introducción al diseño
+**Introducción al diseño**
 
 ```
 ● ¿Qué es el diseño?
@@ -250,15 +250,22 @@ Se trata de lo que vemos y tocamos en una interfaz o un dispositivo, es aquello 
 
 “Un área híbrida, donde los límites entre diseño gráfico e industrial se diluyen”  - Lev Manovich.
 
+-> Todo lo que el usaurio ve y toca. Como es el boton? Que color tiene? TIene iconos? Como es el logo? 
+
+-> Es una mezcla entre el **Diseño gráfico** y el **Diseño Industrial**, porque es el como se usa? como se interactua? como se siente?
+
 ---
 
 ## ¿Qué es la Usabilidad?
 
-“El atributo de calidad de un producto, que se refiere sencillamente a su facilidad de uso. Implica el grado en que el usuario puede explotar o aprovechar la utilidad de un producto.” Jakob Nielsen - Padre de la usabilidad.
+**“El atributo de calidad de un producto, que se refiere sencillamente a su facilidad de uso. Implica el grado en que el usuario puede explotar o aprovechar la utilidad de un producto.”** Jakob Nielsen - Padre de la usabilidad.
+
+-> El producto tiene que poder usarse
 
 ---
 
 ##  Características
+
 
 ● **Facilidad de aprendizaje** ¿Cuán fácil es llevar a cabo las tareas la primera vez?
 
@@ -266,43 +273,48 @@ Se trata de lo que vemos y tocamos en una interfaz o un dispositivo, es aquello 
 
 ● **Cualidad de ser recordado** Si pasan un tiempo sin usarlo, ¿Cuán fácil es que vuelvan a usarlo eficientemente?
 
-● **Eficacia** ¿Cuántos errores comete el usuario? La gravedad del error, puede recuperarse fácilmente de
-esos errores?
+● **Eficacia** ¿Cuántos errores comete el usuario? La gravedad del error, puede recuperarse fácilmente de esos errores?
 
 ● **Satisfacción** ¿Cuán agradable es usar el producto?
 
+
+-> La usabilidad se mide con estos factores.
+
 ---
 
-## Diseño Centrado en el Usuario
+## Diseño Centrado en el Usuario (DCU)
 
 ● El DCU comprende una serie de métodos y técnicas para analizar, diseñar y evaluar hardware y software (interface) 
 
-● Tiene un enfoque de diseño cuyo proceso está orientado por la información acerca de quienes van a hacer uso del producto (usuarios)
+● Tiene un enfoque de diseño cuyo proceso está **orientado por la información** acerca de quienes van a hacer uso del producto (usuarios)
 
 ● Tener en cuenta: ¿Quién usará el sistema?, ¿qué tareas llevará a cabo con el mismo?
 
 ● Un proceso iterativo (cíclico) en el cual diseño y evaluación se incorporan desde la fase inicial del proyecto y en todas las fases que veremos a continuación:
 
+-> Todo diseño está centrado en el usuario. Se usan métodos y técnicas para analizar que se esta diseñando. ¿Quién va ausar el sistema? Es iterativo, se va air mejorando en cada cilco.
+
+
 ## Fases:
 
-1. Análisis. Entendiendo a los usuarios y sus necesidades
+1. **Análisis**: entendiendo a los usuarios y sus necesidades
 
-2. Diseño. Proyecto una solución que satisfaga las necesidades
+2. **Diseño**:proyecto una solución que satisfaga las necesidades
 
-3. Validación. Compruebo el valor que estoy agregando a los usuarios
+3. **Validación**:  Compruebo el valor que estoy agregando a los usuarios
 
 ---
 
 ### Experiencia casual y experiencia diseñada
 
-En la **experiencia casual o accidental** es cuando vemos una comunicación que no tiene diseño aplicado, probablemente no fue hecha por un diseñador, y no tiene criterio visual.
+- En la **experiencia casual o accidental** es cuando vemos una comunicación que no tiene diseño aplicado, probablemente no fue hecha por un diseñador, y no tiene criterio visual.
 
 ○ Genera confusión y malestar en el usuario.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942010-91528ddc-d8cd-4009-915f-ca5ec26d2692.png)
 
 
-En la **experiencia diseñada** ningún detalle fue dejado al azar, hay coherencia en sus elementos, es intuitivo y claro para el usuario.
+- En la **experiencia diseñada** ningún detalle fue dejado al azar, hay coherencia en sus elementos, es intuitivo y claro para el usuario.
 
 ○ Genera satisfacción en el usuario.
 
@@ -312,8 +324,7 @@ En la **experiencia diseñada** ningún detalle fue dejado al azar, hay coherenc
 
 ## ¿Qué es Design Thinking? 
 
-Design Thinking es una metodología orientada al usuario, que se enfoca en detectar y entender las necesidades de los mismos, con el objetivo de generar soluciones innovadoras en un determinado marco
-de trabajo.
+Design Thinking es una metodología orientada al usuario, que se enfoca en detectar y entender las necesidades de los mismos, con el objetivo de generar soluciones innovadoras en un determinado marco de trabajo.
 
 Aquellos productos y servicios diseñados de manera adecuada a través de este método aportan valor a las personas.
 
@@ -332,7 +343,6 @@ El proceso de Design Thinking se compone de 5 etapas o fases.
 
 - **Prototipar**: Damos forma de manera rápida y simplificada a aquellas ideas que seleccionemos. Al construir prototipos, rápidamente obtendremos feedback de nuestros usuarios para poder realizar cambios y mejoras antes de llegar al resultado final.
 
-- **Testear**: En esta última etapa, mostramos el prototipo diseñado para obtener devoluciones de nuestros usuarios. No estamos vendiendo sino aprendiendo del feedback que recibimos. Dado que Design Thinking es un proceso iterativo, nos permite volver a las etapas anteriores para realizar cambios y mejoras en
-nuestro producto.
+- **Testear**: En esta última etapa, mostramos el prototipo diseñado para obtener devoluciones de nuestros usuarios. No estamos vendiendo sino aprendiendo del feedback que recibimos. Dado que Design Thinking es un proceso iterativo, nos permite volver a las etapas anteriores para realizar cambios y mejoras en nuestro producto.
 
 
