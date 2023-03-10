@@ -8,7 +8,7 @@
 
 - [**Clase 2** : 08 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase02.md) - ¿Qué es el diseño? / Retórica de la imágen /  Diseño gráfico y Diseño UX /  Diseño UI /  Usabilidad /  Metodología: Diseño centrado en el usuario /  Metodología: Design Thinking
 
-- **Clase 3** : Impacto de la imagen /  Fotografía /  Leyes Compositivas /  Puntos de interés /  Composición en el diseño /  Imagen en diseño web /  Leyes Gestálticas
+- [**Clase 3** : 10 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase03.md)) - Impacto de la imagen /  Fotografía /  Leyes Compositivas /  Puntos de interés /  Composición en el diseño /  Imagen en diseño web /  Leyes Gestálticas
 
 - **Clase 4**
 
