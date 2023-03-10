@@ -303,9 +303,18 @@ El trabajo del diseñador incluye saber cómo combinar uniformemente estos eleme
 
 **"Los símbolos sencillos y económicos funcionan mejor y de forma más universal que los cargados de detalles."**  - Susan Kare.
 
+-> Diseño los primeros iconos que usana Apple en la **Macintosh**. Son iconos sencillos.
+
+
+![image](https://user-images.githubusercontent.com/72580574/224437456-bc903fe0-d018-45d2-8d96-cab3dcdf71b1.png)
+
+-> Las formas simples se conjugan mejor y entineden mejor.
+
+-> :tv: [https://www.flaticon.es/](https://www.flaticon.es/) y [https://icons8.com/icons/](https://icons8.com/icons/) deben ser iconos simples pero sin perder caracter, por eso las empresas pelean por diferenciarse, no son lo mismo los emojis del iPhone que del Android
+
  ---
  
- ## Diseño Web
+ ## :star:  Diseño Web
  
 La información está por todas partes, y por eso es extremadamente importante que los diseñadores piensen en hacer diseños claros. Las piezas del diseño tienen que atraer la atención de los usuarios, ya sea mientras compran en una tienda online, leen un blog o, simplemente, navegan por internet.
 
@@ -314,6 +323,9 @@ El diseño web debe ser fácil de leer y de entender.
 Debemos recordar que optar por un diseño sencillo en lugar de uno recargado es clave para mantener interesados a los lectores. Una gran cantidad de elementos, imágenes, colores, y formas diferentes en una página pueden hacer que una web se vea más "barroca", lo cual distraerá la atención del usuario.
 
 Una buena forma de crear una experiencia agradable en la web es recordar que menos es más.
+ 
+ 
+ -> Debe ser simple, sin perder el caracter, que el usuario mantenga la atención. EL usuario esta sobrecargado de información, hay pandallas, teles y celulares en todos lados todo el tiempo; por lo que la gente prefiere estimulos tranquilos, la pagina sin publicidad, recetas escritas en vez de un video.
  
  
  ---
@@ -340,9 +352,7 @@ La definición más generalizada que tenemos es cuando funciona como representac
 El punto de vista subyacente de la psicología Gestalt, tal como la define von Ehrehfels,
 afirma que:
 
-"si tenemos doce observadores y cada uno de ellos escucha uno de los doce tonos
-de una melodía, la suma de sus experiencias no correspondería a lo que se
-percibiría si alguien escuchase la melodía entera"…
+**"si tenemos doce observadores y cada uno de ellos escucha uno de los doce tonos de una melodía, la suma de sus experiencias no correspondería a lo que se percibiría si alguien escuchase la melodía entera"…**
 
 En todos los estímulos visuales y a todos los niveles de inteligencia visual, el significado
 no solo reside en los datos representacionales, en la información ambiental o en los
@@ -353,6 +363,8 @@ Cualquier acontecimiento visual es una forma con contenido, pero el contenido es
 intensamente influido por la significancia de las partes constituyentes, como el
 color, el tono, la textura, la dimensión, la proporción y sus relaciones compositivas
 con el significado.
+
+
 
 ---
 
