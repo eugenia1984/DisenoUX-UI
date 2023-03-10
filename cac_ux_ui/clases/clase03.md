@@ -4,19 +4,19 @@
 
 ## :book: Temas
 
-● Impacto de la imagen
+● 1 - Impacto de la imagen
 
-● Fotografía
+● 2 - Fotografía
 
-● Leyes Compositivas
+● 3 - Leyes Compositivas
 
-● Puntos de interés
+● 4 - Puntos de interés
 
-● Composición en el diseño
+● 5 - Composición en el diseño
 
-● Imagen en diseño web
+● 6 - Imagen en diseño web
 
-● Leyes Gestálticas
+●  7- Leyes Gestálticas
 
 ---
 
@@ -34,7 +34,7 @@ Llamativas, Atractivas, Buena calidad, Profesionales, Tratamiento Digital, Coher
 
 ---
 
-### Impacto de la Imagen
+## :star: 1 - Impacto de la Imagen :star:
 
 El impacto de las imágenes es vital tanto para el medio impreso como el virtual.
 
@@ -88,6 +88,8 @@ hacemos del personaje infantil que quieras y el envío es gratis!”
 La imagen aporta datos que no teníamos, como en este caso la habilidad decorativa del pastelero
 
 ---
+
+## :star: 2 - Fotografía :star:
 
 ###  Un poco sobre fotografía
 
@@ -324,20 +326,18 @@ con el significado.
 
 ---
 
-## Las leyes de la Gestalt
+## :star: 7 - Las leyes de la Gestalt :star:
 
-“La mente configura, por medio de ciertas leyes, los elementos que
-llegan a través de los canales sensoriales o de la memoria
-(pensamiento, inteligencia y resolución de problemas), es decir la
-percepción.
+“La mente configura, por medio de ciertas leyes, los elementos que llegan a través de los canales sensoriales o de la memoria (pensamiento, inteligencia y resolución de problemas), es decir la percepción.
 
 La palabra Gestalt hace referencia a figura, forma u organización.
-La Gestalt analizó diversas áreas de la psicología (actitudes, el
-aprendizaje, la motivación, etc.) pero se centró en la percepción.
-No percibimos como elementos aislados, sino que por el contrario
-percibimos como globalidad o conjunto organizado.”
+
+La Gestalt analizó diversas áreas de la psicología (actitudes, el aprendizaje, la motivación, etc.) pero se centró en la percepción.
+
+No percibimos como elementos aislados, sino que por el contrario percibimos como globalidad o conjunto organizado.”
 
 “El todo es más que la suma de las partes”
+
 
 ### Ley de la Buena Forma o Pregnancia
 
