@@ -4,23 +4,26 @@
 
 ## :book: Temas
 
-● 1 - Impacto de la imagen
+- 1 - Impacto de la imagen
 
-● 2 - Fotografía
+- 2 - Fotografía
 
-● 3 - Leyes Compositivas
+- 3 - Leyes Compositivas
 
-● 4 - Puntos de interés
+- 4 - Puntos de interés
 
-● 5 - Composición en el diseño
+- 5 - Composición en el diseño
 
-● 6 - Imagen en diseño web
+- 6 - Imagen en diseño web
 
-●  7- Leyes Gestálticas
+-  7- Leyes Gestálticas
+
 
 ---
+---
 
-## Ejercicio clase 2  - ¿Qué tienen en común las siguientes páginas web?
+
+## :stars:Ejercicio clase 2  - ¿Qué tienen en común las siguientes páginas web?:stars:
 
 ![image](https://user-images.githubusercontent.com/72580574/222942138-d08c510c-89c3-447c-aea3-6f1dd8923d2e.png)
 
@@ -34,7 +37,9 @@ Llamativas, Atractivas, Buena calidad, Profesionales, Tratamiento Digital, Coher
 
 ---
 
-## :star: 1 - Impacto de la Imagen :star:
+## :star:1 - Impacto de la Imagen:star:
+
+
 
 El impacto de las imágenes es vital tanto para el medio impreso como el virtual.
 
@@ -54,6 +59,15 @@ Esto quiere decir que el usuario hace juicios rápidos basándose solamente en e
 
 ![image](https://user-images.githubusercontent.com/72580574/222942192-3628e866-0585-40e6-a462-551e44014035.png)
 
+-> Como antes en el puesto de diario que tenia el diario con la piedra y se pispeaba rapido para elegir cual comprar.
+
+Ahora en las páginas webs lo que tiene de mayor preponderancia el la **HOME PAGE** y adentro la **Hero image**. Como las paginas de los celulares de iPhone y de Samsung: una imagen con un texto corto, el fondo no llama la atencion asi uno ve el producto.
+
+---
+
+-> imagenes: infografia, grabado, fotos, imagenes, pintura, etc, todo lo que acormpaña el texto, y nos ayuda a generar **ritmo**(ritmo de lectura que se genera con: imagenes, textos, titulos, subtitulos)
+
+-> Las imágenes facilitan la lectura, como en los manuales de ciencia que se refieren a la infografía.
 
 ---
 
@@ -61,12 +75,11 @@ Esto quiere decir que el usuario hace juicios rápidos basándose solamente en e
 
 ● Conforman todos los elementos gráficos que se transforman en iconos: fotos, pinturas, caricaturas, pictogramas, esquemas, gráficos, infografías y grabados.
 
-● Ayudan a generar un ritmo dinámico en la puesta en página y conectan el texto con dicha ilustración.
+● Ayudan a generar un **ritmo dinámico** en la puesta en página y conectan el texto con dicha ilustración.
 
 ● Son una forma de contenido que informa ya que brindan testimonios de forma gráfica.
 
-● Con las fotografías se aporta una información que con el texto muchas veces es difícil de comunicar o en otros casos al lector le facilita la lectura porque entiende mejor el
-tema y le aporta más datos.
+● Con las fotografías se aporta una información que con el texto muchas veces es difícil de comunicar o en otros casos al lector le facilita la lectura porque entiende mejor el tema y le aporta más datos.
 
 ● A su vez, las infografías pueden ser más eficaces y son un buen recurso para mostrar datos de una forma más atractiva.
 
@@ -74,12 +87,14 @@ tema y le aporta más datos.
 
 ● Por último las ilustraciones y caricaturas pueden ofrecer humor a las publicaciones y también enriquecer visualmente la información.
 
+
 ---
 
 ## Texto: 
 
-“Vendemos tortas de cumpleaños para fiestas infantiles, con relleno de chocolate con cobertura sabor frambuesa. Las
-hacemos del personaje infantil que quieras y el envío es gratis!”
+
+“Vendemos tortas de cumpleaños para fiestas infantiles, con relleno de chocolate con cobertura sabor frambuesa. Las hacemos del personaje infantil que quieras y el envío es gratis!”
+
 
 ## Imagen:
 
@@ -87,9 +102,12 @@ hacemos del personaje infantil que quieras y el envío es gratis!”
 
 La imagen aporta datos que no teníamos, como en este caso la habilidad decorativa del pastelero
 
+-> Un ejemplo son las imagenes, como las hamburguesas de Mc Donald que se prepara, se pegan las papas fritas y todo para comunicar.
+
+
 ---
 
-## :star: 2 - Fotografía :star:
+## :star:2 - Fotografía:star:
 
 ###  Un poco sobre fotografía
 
@@ -102,24 +120,34 @@ si la imagen está nítida, si el foco está en el lugar adecuado, si está sobr
 
 ![image](https://user-images.githubusercontent.com/72580574/222942266-3de38ce2-4f03-44db-82c0-7780f1b92fc1.png)
 
+-> Hay que saber reconocer una buena fotografía de una mala. TIP: la foto debería ser...
+
+... nítida, que no se vea toda borrosa
+
+... que esté enfocado el objeto que necestio
+
+... que no este ni muy clara(sobreexpuesta a la luz) ni muy oscura
+
+... que no haya manchas
+
+Pero depende que quiero comunicar, por ejemplo para Halloween va a ser todo oscuro.
 
 ---
 
-Una buena imagen es nítida, sin manchas, reflejos o marcas de agua, no se encuentra sobreexpuesta o
-subexpuesta, ni deformada.
+**Una buena imagen es nítida, sin manchas, reflejos o marcas de agua, no se encuentra sobreexpuesta o subexpuesta, ni deformada.**
 
-Se entiende perfectamente lo que se quiere mostrar.
+**Se entiende perfectamente lo que se quiere mostrar.**
 
 ---
 
 ### Regla de los tercios
 
-En las artes visuales como la pintura, fotografía y diseño, la regla de los tercios es una forma de composición para ordenar objetos dentro de
-la imagen.
+En las artes visuales como la pintura, fotografía y diseño, la regla de los tercios es una forma de composición para ordenar objetos dentro de la imagen.
 
-Esta regla divide una imagen en nueve partes iguales, utilizando dos líneas imaginarias paralelas y equiespaciadas de forma horizontal
-y dos más de las mismas características de forma vertical, y los puntos de intersección permiten ubicar los elementos en el centro de
+Esta regla divide una imagen en **nueve partes iguales**, utilizando dos líneas imaginarias paralelas y equiespaciadas de forma horizontal y dos más de las mismas características de forma vertical, y los puntos de intersección permiten ubicar los elementos en el centro de
 atención de la composición y así crear una imagen con equilibrio visual.
+
+El ojo busca las cosas más cerca de los bordes, por eso se trata de ubicar el objeto a destacar en uno de los tercios, como la imagen del pajaro que esta hacia abajo y a la izquierda, tiene espacio y parece que va a salir a volar. En el caso de las flores están equilibradas, se ubican los objetos más pesados hacia la izquierda.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942286-e18b699d-4250-4012-aa86-835e75624800.png)
 
@@ -128,13 +156,17 @@ atención de la composición y así crear una imagen con equilibrio visual.
 
 ###  Ley de Horizonte y de la Mirada
 
-● El horizonte debe ubicarse en el tercio superior o en el tercio inferior del cuadro para romper con el excesivo equilibrio que se
-generaría si lo ubicamos a la mitad del encuadre.
+● El **horizonte** debe ubicarse en el **tercio superior** o en el **tercio inferior** del cuadro para romper con el excesivo equilibrio que se generaría si lo ubicamos a la mitad del encuadre.
 
-● La mirada del sujeto (u objeto) debe estar dirigida a la parte de la fotografía donde haya más ‘aire’ para dirigir la atención del
-espectador hacia adentro de la fotografía
+● La mirada del sujeto (u objeto) debe estar dirigida a la parte de la fotografía donde haya **más ‘aire’** para dirigir la atención del espectador hacia adentro de la fotografía.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942296-42c70d3b-230f-45c7-bdcf-b830c7ad6b09.png)
+
+
+-> La línea del horizonte esta en el tercio superior, y se destaca el mar. 
+
+![image](https://user-images.githubusercontent.com/72580574/224432658-b613e2bc-82bb-48f4-8522-10fcc0f0a6bd.png)
+
 
 ---
 
@@ -142,13 +174,11 @@ espectador hacia adentro de la fotografía
 
 En la teoría de la Gestalt, muchas de sus aplicaciones son a base de la ley de pregnancia y buena forma.
 
-Muy utilizado en las artes visuales, ya que trata de que las personas tendemos a organizar nuestro entorno buscando estabilidad,
-equilibrio, significado, seguridad, etcétera y nos sentimos más confortables cuando lo que percibimos es comprensible.
+Muy utilizado en las artes visuales, ya que trata de que **las personas tendemos a organizar nuestro entorno buscando estabilidad, equilibrio, significado, seguridad, etcétera y nos sentimos más confortables cuando lo que percibimos es comprensible**.
 
-La imagen es pregnante cuando es recordable, como “magnética”.
+La imagen es pregnante cuando es **recordable**, como **“magnética”**.
 
-En las imágenes fotográficas, se utiliza muchas veces esta ley como base de composición, ya que es normativa que las imágenes sean
-pregnantes y atractivas.
+En las imágenes fotográficas, se utiliza muchas veces esta ley como base de composición, ya que es normativa que las imágenes sean pregnantes y atractivas.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942312-8dddffa6-3b81-4bd0-a387-ca1bd9a243aa.png)
 
@@ -156,68 +186,78 @@ pregnantes y atractivas.
 
 ---
 
+La **mirada** siempre debe estar  dentro de la foto o hacia afuera de la misma, como la imagen en Ley de Horizonte y de la Mirada que la chica está viendo hacia el horizonte, hace el punto a donde va la perspectiva. Hacia afuera se usa mucho en la moda, cuando la modelo ve hacia el fotografo.
+
+---
+
 ## Equilibrio o Ley de la Balanza
 
-Al igual que el peso físico en una balanza, el equilibrio compositivo es la apreciación subjetiva del peso visual en una imagen.
+Al igual que el peso físico en una balanza, el equilibrio compositivo es **la apreciación subjetiva del peso visual en una imagen**.
 
 Cuando situamos el mismo peso a ambos lados de una balanza, ésta queda equilibrada.
 
-Cabe aclarar que equilibrio visual no es sinónimo de simetría; más bien lo contrario: la composición de los elementos, con todas sus
-variables de orden y forma, es un juego de equilibrios.
+Cabe aclarar que equilibrio visual no es sinónimo de simetría; más bien lo contrario: la composición de los elementos, con todas sus variables de orden y forma, es un juego de equilibrios.
 
-Ley De La Compensación De Masas: Se compone con formas de diferente tamaño, diferente color, forma o importancia para
-compensar la composición.
+**Ley De La Compensación De Masas**: Se compone con formas de diferente tamaño, diferente color, forma o importancia para compensar la composición.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942329-b7eecb3e-08c8-4c90-87c2-c829815768e2.png)
 
 
-##Tipos de equilibrio
+
+-> Leemos de Izquierda a Derecha, todo lo que tiene más peso lo mandamos hacia la izquierda. Los árabes que escriben de derecha a izquierda lo ven al revez.
+
+
+-> La simetria genera que se vea mas rápido, que no se le preste atención al detalle, se usa como imagen de fondo que acompañe al texto(el texto es el que va a resaltar). Como en el ejemplo el edificio.
+
+
+### Tipos de equilibrio
 
 ![image](https://user-images.githubusercontent.com/72580574/222942332-e816482f-4fef-4686-bec9-0309b55c2350.png)
+
+
+Cuando se va a equilibrar el menu de navegación
 
 ---
 
 ## Punto de Interés
 
-El punto de interés es la capacidad que tiene un elemento de una composición en atraer la mirada del espectador.
+El punto de interés es **la capacidad que tiene un elemento de una composición en atraer la mirada del espectador**.
 
-Si los elementos principales se encuentran situados dentro de la ley de los tercios, será una imagen aún más atractiva.
+Si los elementos principales se encuentran situados dentro de la **ley de los tercios**, será una imagen aún más atractiva.
 
-Para esto, es fundamental reconocer qué es lo importante de la escena y justamente encuadrar sobre aquel punto y eliminar aquellas superficies que no
-aportan y distraen la atención.
+Para esto, es fundamental reconocer qué es lo importante de la escena y justamente encuadrar sobre aquel punto y eliminar aquellas superficies que no aportan y distraen la atención.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942344-4a059910-83a8-4b17-9b50-10410c9fc740.png)
 
+-> Todo es de fondo azul, por eso resalta la flor con el bicho verde
+
+-> Las escaleras con el señor que esta **bajando** y está **yendose** porque esta casi al final, si fuera una pelicula en unos cuadros más desaparece de la imagen.
+
+-> Es lo interesante en la foto.
 
 ---
 
  ## Recorrido Visual
  
-La sumatoria de varios puntos de interés forma el recorrido visual.
+La **sumatoria de varios puntos de interés** forma el recorrido visual.
 
-Recorrido que es sugerido por los puntos de interés ubicados de modo estratégico, para que sean recorridos con la mirada, uno por uno, y al finalizar
-retomar el primero nuevamente haciendo una secuencia continúa. Ese camino continuo es lo que se conoce como recorrido visual.
+Recorrido que es sugerido por los puntos de interés ubicados de modo estratégico, para que sean recorridos con la mirada, uno por uno, y al finalizar retomar el primero nuevamente haciendo una secuencia continúa. Ese camino continuo es lo que se conoce como recorrido visual.
 
 De estos elementos (cada uno con su forma y color) será tan importante su particularidad como también su ubicación y la relación entre ellos.
-Según nuestra cultura occidental, leemos de izquierda a derecha y de arriba abajo
+
+Según nuestra cultura occidental, leemos de izquierda a derecha y de arriba abajo.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942361-15273f88-f126-4c8b-a793-cc3cd3979d18.png)
 
+-> Leemos en F de izquierda a derecha y de arriba hacia abajo.
 
 ---
 
 ## Proporción o Sección Áurea
 
-A la proporción áurea se le han asignado muchas definiciones y
-nombres. Si revisamos viejos textos, podremos encontrar referencias y
-denominaciones como: el número de oro, el número áureo, el número
-dorado, el número phi (que no es el número pi), la sección áurea, la
-medida áurea o la divina proporción.
+A la proporción áurea se le han asignado muchas definiciones y nombres. Si revisamos viejos textos, podremos encontrar referencias y denominaciones como: el **número de oro**, el **número áureo**, el número dorado, el número phi (que no es el número pi), la sección áurea, la medida áurea o la divina proporción.
 
-El descubrimiento de esta proporción o número (1,618034) causó todo
-un revuelo en las ciencias y las artes y ha obsesionado a artistas,
-diseñadores, arquitectos, y todo tipo de profesionales en busca de la
-perfección visual, durante siglos.
+El descubrimiento de esta proporción o número (1,618034) causó todo un revuelo en las ciencias y las artes y ha obsesionado a artistas, diseñadores, arquitectos, y todo tipo de profesionales en busca de la perfección visual, durante siglos.
 
 ![image](https://user-images.githubusercontent.com/72580574/222942375-bef94206-a63e-4e55-a610-2a6830b39850.png)
 
@@ -226,20 +266,15 @@ perfección visual, durante siglos.
 ![image](https://user-images.githubusercontent.com/72580574/222942384-6da3b09e-17ee-42b1-b80e-62b2f697a54d.png)
 
 
+-> Fibonacci, se ve en los caracoles.
+
 ---
 
 ## Composición en el Diseño Gráfico
 
-En diseño gráfico, una composición es la parte donde todos los
-elementos separados se unen para formar un todo. Cuando todas
-tus letras, tus imágenes, tus gráficos y colores se unen para formar un
-diseño cohesivo.
+En diseño gráfico, una composición es la parte donde todos los elementos separados se unen para formar un todo. Cuando todas tus letras, tus imágenes, tus gráficos y colores se unen para formar un diseño cohesivo.
 
-Es un conjunto de elementos visuales cuya interacción y orden dan
-paso a una idea. Dichos elementos están contenidos en un “Marco de
-referencia” el cual señala (física o virtualmente) los límites del diseño,
-además de definir el centro de la composición y las sensaciones de
-espacio.
+Es un conjunto de elementos visuales cuya interacción y orden dan paso a una idea. Dichos elementos están contenidos en un “Marco de referencia” el cual señala (física o virtualmente) los límites del diseño, además de definir el centro de la composición y las sensaciones de espacio.
 
 
 ---
@@ -248,51 +283,46 @@ espacio.
 
 Existen 6 elementos gráficos que son la base del Diseño:
 
-● La grilla/estructura (márgenes, calles, columnas, etc.)
+● La **grilla/estructura** (márgenes, calles, columnas, etc.)
 
-● la tipografía (estilo del texto)
+● la **tipografía** (estilo del texto)
 
-● las misceláneas (caracteres tipográficos no alfabéticos)
+● las **misceláneas** (caracteres tipográficos no alfabéticos)
 
-● Las imágenes o ilustraciones (fotografías, dibujos, gráficos, etc.)
+● Las **imágenes** o **ilustraciones** (fotografías, dibujos, gráficos, etc.)
 
-● El color
+● El **color**
 
-● El reparto de blancos (espacios de aire entre gráficos, imágenes, columnas y otros)
+● El **reparto de blancos** (espacios de aire entre gráficos, imágenes, columnas y otros) -el aire-
 
-El trabajo del diseñador incluye saber cómo combinar uniformemente
-estos elementos para poder lograr un producto ordenado y claro.
+
+El trabajo del diseñador incluye saber cómo combinar uniformemente estos elementos para poder lograr un producto ordenado y claro.
 
 
 ---
 
-"Los símbolos sencillos y económicos funcionan mejor y de forma más universal que los cargados de detalles."  - Susan Kare.
+**"Los símbolos sencillos y económicos funcionan mejor y de forma más universal que los cargados de detalles."**  - Susan Kare.
 
  ---
  
  ## Diseño Web
  
-La información está por todas partes, y por eso es extremadamente importante que
-los diseñadores piensen en hacer diseños claros. Las piezas del diseño tienen que
-atraer la atención de los usuarios, ya sea mientras compran en una tienda online,
-leen un blog o, simplemente, navegan por internet.
+La información está por todas partes, y por eso es extremadamente importante que los diseñadores piensen en hacer diseños claros. Las piezas del diseño tienen que atraer la atención de los usuarios, ya sea mientras compran en una tienda online, leen un blog o, simplemente, navegan por internet.
 
 El diseño web debe ser fácil de leer y de entender.
 
-Debemos recordar que optar por un diseño sencillo en lugar de uno recargado es
-clave para mantener interesados a los lectores. Una gran cantidad de elementos,
-imágenes, colores, y formas diferentes en una página pueden hacer que una web se
-vea más "barroca", lo cual distraerá la atención del usuario.
+Debemos recordar que optar por un diseño sencillo en lugar de uno recargado es clave para mantener interesados a los lectores. Una gran cantidad de elementos, imágenes, colores, y formas diferentes en una página pueden hacer que una web se vea más "barroca", lo cual distraerá la atención del usuario.
 
-Una buena forma de crear una experiencia agradable en la web es recordar que
-menos es más.
+Una buena forma de crear una experiencia agradable en la web es recordar que menos es más.
  
  
  ---
  
  ## La Imagen
  
+ 
 Según Villafañe definir lo que es una imagen es más complejo de lo que parece a simple vista.
+
 
 La definición más generalizada que tenemos es cuando funciona como representación de un objeto o una idea, sin embargo, el concepto de imagen implica procesos como el pensamiento, la percepción, la memoria y la conducta… Por lo tanto propone definir las imagenes como lo que primariamente posee las siguientes tres características:
 
@@ -341,24 +371,31 @@ No percibimos como elementos aislados, sino que por el contrario percibimos como
 
 ### Ley de la Buena Forma o Pregnancia
 
-La Ley de Pregnancia fue establecida por la Psicología de la Gestalt y adoptada
-por la Escuela de la Bauhaus.
 
-Nuestra percepción tiene la capacidad de organizar los elementos de formas
-sencillas para nuestro entendimiento. El cerebro disfruta las composiciones
-armónicas y agradables para nuestros sentidos, esto lo hacemos simplificando
-lo que percibimos y preferimos lo sencillo.
+La Ley de Pregnancia fue establecida por la Psicología de la Gestalt y adoptada por la Escuela de la Bauhaus.
 
-Pregnancia se refiere a la capacidad de una imagen o parte de ella de llamar
-nuestra atención y permanecer en nuestra memoria debido a su simpleza.
+
+Nuestra percepción tiene la capacidad de **organizar los elementos de formas sencillas para nuestro entendimiento**. El cerebro disfruta las **composiciones armónicas y agradables para nuestros sentidos**, esto lo hacemos simplificando lo que percibimos y preferimos lo sencillo.
+
+
+Pregnancia se refiere a la capacidad de una imagen o parte de ella de llamar nuestra atención y permanecer en nuestra memoria debido a su simpleza.
+
 
 ![image](https://user-images.githubusercontent.com/72580574/222942456-097e2c16-1737-4512-821c-f2126486c055.png)
 
 
+-> La bandera de Japon, el recuadro blanco con el circulo rojo en el medio. -> Tiene la habilidad de ser **pregnante** es : RECORDABLE; tiene FORMA SENCILLA y el cerebro lo guarda, y además usa un COLOR PRIMARIO.
+
+-> Otro ejemplo es a bandera de Nepal, que son dos triangulos, es rara a todas qeu son un rectangulo, es **pregnante a su forma**
+
+-> **Siempre hay que buscar como UX la PREGNACIA**, buscamos que la gente se acuerde del producto y lo recomiende.
+
+
+
 ### Ley de Cierre
 
-La Ley de cierre es la tendencia de la percepción a completar con la
-imaginación la parte faltante de una imagen.
+La Ley de cierre es **la tendencia de la percepción a completar con la
+imaginación la parte faltante de una imagen**.
 
 Cuando un objeto está incompleto o es un espacio que no está completamente
 cerrado, el cerebro se encarga de activar unos mecanismos para completar la
@@ -370,8 +407,7 @@ figura mediante la adhesión de la información faltante.
 ### Ley de Semejanza
 
 Según la ley de semejanza, nuestra mente agrupa los elementos que
-comparten características visuales y los unifica. La semejanza depende de la
-forma, el tamaño y el color.
+comparten características visuales y los unifica. La semejanza depende de la forma, el tamaño y el color.
 
 Elementos similares tienden a ser percibidos como parte del mismo
 conjunto.
@@ -385,15 +421,12 @@ El principio de la simetría se basa en nuestra búsqueda de simplicidad,
 estabilidad y orden.
 
 Dictamina que las imágenes simétricas son percibidas como un solo elemento
-(tal vez requiera ver con un poco de distancia). Va más allá del campo de la
-percepción de las formas y representa uno de los fenómenos básicos de la
+(tal vez requiera ver con un poco de distancia). Va más allá del campo de la percepción de las formas y representa uno de los fenómenos básicos de la
 naturaleza. La simetría utiliza figuras divididas de forma geométricamente
 perfecta, lo que genera la aparición de una variable importantísima: el
 equilibrio.
 
-Tipos de simetría: por reflejo (percibida como si se reflejara la imagen), por
-rotación (percibida como giratoria) o por traslación (donde un módulo se
-repite).
+Tipos de simetría: por reflejo (percibida como si se reflejara la imagen), por rotación (percibida como giratoria) o por traslación (donde un módulo se repite).
 
 ![image](https://user-images.githubusercontent.com/72580574/222942492-646a2413-3516-4a97-96ac-9bec937e368d.png)
 
