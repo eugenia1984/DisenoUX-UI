@@ -18,44 +18,30 @@ En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/mai
 
 ● Introducción al Diseño UX/UI ● Relación entre el diseño gráfico y el Diseño UX/UI ● Usabilidad ● Diseño Centrado en el Usuario ● Experiencias diseñadas y accidentales
 
-**2) Nociones de Diseño Gráfico, Imagen y Marketing**
-
-● Comunicación visual ● Características del diseñador ● Retórica de la imagen ● Imágenes en el Diseño ● Leyes compositivas ● Leyes Gestálticas ● Mapa de Bits vs Gráfico vectorial ● Resolución y Formatos de archivo ● Moodboard ● El color en el Diseño (Teoria del color y Psicología del color) ● Tipografía ● Marca y Logo
+**2) Nociones de Diseño Gráfico, Imagen y Marketing**: Comunicación visual ● Características del diseñador ● Retórica de la imagen ● Imágenes en el Diseño ● Leyes compositivas ● Leyes Gestálticas ● Mapa de Bits vs Gráfico vectorial ● Resolución y Formatos de archivo ● Moodboard ● El color en el Diseño (Teoria del color y Psicología del color) ● Tipografía ● Marca y Logo
 
 
-**3) Nociones básicas de softwares de edición de Imagen**
+**3) Nociones básicas de softwares de edición de Imagen**:  Photoshop ● Illustrator
 
-● Photoshop ● Illustrator
-
-**4) Técnicas de Investigación y Validación de hipótesis**
-
-● Desk Research ● Benchmarking ● User persona ● Entrevistas ● MVP ● Evaluación Heurística
+**4) Técnicas de Investigación y Validación de hipótesis**:  Desk Research ● Benchmarking ● User persona ● Entrevistas ● MVP ● Evaluación Heurística
 
 
-**5) Técnicas para contar historias**
-
-● POV ● Storytelling ● Storyboard ● Elevator Pitch 
+**5) Técnicas para contar historias**:  POV ● Storytelling ● Storyboard ● Elevator Pitch 
 
 #### :stars: MÓDULO II: Arquitectura de la información
 
-**1) Estructuras**
-
-● Cardsorting y resultados ● Mapa de sitio ● Task flow ● Happy path ● User flow
+**1) Estructuras**:  Cardsorting y resultados ● Mapa de sitio ● Task flow ● Happy path ● User flow
 
 
 
 #### :stars: MÓDULO III: Prototipado y Pruebas de Usabilidad
 
-**1) Software Figma**
-
-● Prototipo a mano y Digital. ● Patrones de Diseño ● Prototipo Funcional ● Pruebas de Usabilidad y Métricas ● Atomic Design ● Aplicación de Grillas ● Guidelines (Android y IOS) ● Ui Kit ● Motion ● Accesibilidad
+**1) Software Figma**:  Prototipo a mano y Digital. ● Patrones de Diseño ● Prototipo Funcional ● Pruebas de Usabilidad y Métricas ● Atomic Design ● Aplicación de Grillas ● Guidelines (Android y IOS) ● Ui Kit ● Motion ● Accesibilidad
 
 
 #### :stars: MÓDULO IV: Proyecto Final y Exposiciones
 
-**1) Reporte UX y Portfolio**
-
-● Presentación del trabajo grupal (Desarrollo de habilidades blandas) ● Presentación correcta de la investigación y los estudios de validación de hipótesis ● Desarrollo de la temática y correcta redacción de los descubrimientos y conclusiones ● Presentación de estructuras del sitio por medio de diagramas ● Presentación de los wireframes y su evolución (Cambios de Fidelidad y uso de mockups) ● Presentación del prototipo funcional en alta fidelidad 
+**1) Reporte UX y Portfolio**:  Presentación del trabajo grupal (Desarrollo de habilidades blandas) ● Presentación correcta de la investigación y los estudios de validación de hipótesis ● Desarrollo de la temática y correcta redacción de los descubrimientos y conclusiones ● Presentación de estructuras del sitio por medio de diagramas ● Presentación de los wireframes y su evolución (Cambios de Fidelidad y uso de mockups) ● Presentación del prototipo funcional en alta fidelidad 
 
 ---
 ---
@@ -95,29 +81,16 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 ###  TEMAS A DESARROLLAR:
 
-#### [Módulo 1 | Introducción al UX/UI](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI)
-
-●  Qué es UX. Breve reseña histórica ●  Por qué es importante incorporarlo? ●  Qué es UI? ●  Qué hace un diseñador UX/UI? ●  Rol en la industria digital ●  Diferencia y relación entre UX y UI ●  Qué es IxD. 
+- [**Módulo 1 | Introducción al UX/UI**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI):  Qué es UX. Breve reseña histórica ●  Por qué es importante incorporarlo? ●  Qué es UI? ●  Qué hace un diseñador UX/UI? ●  Rol en la industria digital ●  Diferencia y relación entre UX y UI ●  Qué es IxD. 
 
 
-#### [Módulo 2 | Usabilidad y Accesibilidad](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad)
+- [**Módulo 2 | Usabilidad y Accesibilidad**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad):  Evaluación Heurística ●  Jackob Nielsen ●  Donald Norman ●  Concepto de accesibilidad Introducción al proceso UX ●   Planificación y organización previa
 
-● Evaluación Heurística ●  Jackob Nielsen ●  Donald Norman ●  Concepto de accesibilidad Introducción al proceso UX ●   Planificación y organización previa
+- [**Módulo 3 | Proceso UX/UI - Introducción a la investigación**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo3_design_thinking_lean_ux):  El diseño gráfico como proceso ● Design Thinking ● Antecedente del método científico ● Lean Ux ● Research (investigación) ● - Benchmark ● Entrevistas ● Detectando y definiendo el problema ● Creación de user Persona ● Customer Journey Map ●  User Experience Map
 
-#### [Módulo 3 | Proceso UX/UI - Introducción a la investigación](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo3_design_thinking_lean_ux)
+- [**Módulo 4 | Definición, ideación y prototipado**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado):  Filtramos información ● Detectamos problemas y los definimos ● Insights ● Técnicas de ideación ● Arquitectura de información ● Prototipos de distintos grados de fidelidad ● Bocetos ● Wireframes ● Mockups ●  Diagramas de flujo
 
-●  El diseño gráfico como proceso ● Design Thinking ● Antecedente del método científico ● Lean Ux ● Research (investigación) ● - Benchmark ● Entrevistas ● Detectando y definiendo el problema ● Creación de user Persona ● Customer Journey Map ●  User Experience Map
-
-
-
-#### [Módulo 4 | Definición, ideación y prototipado](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado)
-
-● Filtramos información ● Detectamos problemas y los definimos ● Insights ● Técnicas de ideación ● Arquitectura de información ● Prototipos de distintos grados de fidelidad ● Bocetos ● Wireframes ● Mockups ●  Diagramas de flujo
-
-
-#### [Módulo 5 | Pruebas e Implementación - Cierre](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo5%20_pruebas_implementacion_cierre)
-
-●  Contraste y Legibilidad ● Pruebas de usuario Pruebas A/B ● Concepto de iteración ● Trabajando con desarrolladores ● Design system ●   Cierre del curso con una puesta en común sobre todo el proceso de diseño de un producto digital ● Caso de estudio para ver en la práctica todo lo aprendido
+- [**Módulo 5 | Pruebas e Implementación - Cierre**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo5%20_pruebas_implementacion_cierre):  Contraste y Legibilidad ● Pruebas de usuario Pruebas A/B ● Concepto de iteración ● Trabajando con desarrolladores ● Design system ●  Cierre del curso con una puesta en común sobre todo el proceso de diseño de un producto digital ● Caso de estudio para ver en la práctica todo lo aprendido
 
 
 ---
