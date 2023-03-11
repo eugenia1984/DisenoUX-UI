@@ -60,7 +60,7 @@ We're recommending ADPList to get mentored for FREE at our own will. This isn't 
 
 ---
 
-## :star: 1.3 Slack :star
+## :star: 1.3 Slack :star:
 
 🎯 LESSON OBJECTIVE: By the end of this checkpoint, you should be able to join UX/UI Open's Slack community.
 
@@ -257,17 +257,10 @@ Head over to the slack channel **#uxui-assignment01** and let us know your answe
 
 ---
 
-- ¿Por qué cursa este programa?
+Mi Slack
 
-Porque trabajo como FrontEnd y tener conocimientos de UX UI va a ayudarme a tener un mejor trabajo.
+![image](https://user-images.githubusercontent.com/72580574/224461382-8d7360f4-c8eb-470f-8b56-675d10eceea3.png)
 
-- ¿Cómo crees que cambiará tu vida al aprender las habilidades específicas de tu programa?
-
-Espero poder conseguir un nuevo trabajo, donde pueda combinar mis concimeintos de FRontEnd con los adquiridos de UX UI y tener un trabajo que sea mejor remunerado y con muchas posibilidades de seguir creciendo.
-
-- ¿Cómo describiría su carrera ideal?
-
-Ayudar en el proceso de diseñars web y app que sean utilizadas por mucha gente, pudiendo darles soluciones. Y poder crecer profesionalmente
 
 
 ---
