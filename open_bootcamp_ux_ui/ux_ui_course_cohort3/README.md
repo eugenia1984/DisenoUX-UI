@@ -14,7 +14,7 @@ We've explained everything in the modules. Good luck 👍 😊
 
 ## Modules
 
-- 01 - Irientation
+- [**01 - Orientation**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/ux_ui_course_cohort3/01_orientation.md)
 
 - 02 - UX Fundamentals
 
