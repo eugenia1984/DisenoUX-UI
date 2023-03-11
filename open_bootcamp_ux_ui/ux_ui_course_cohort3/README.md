@@ -16,7 +16,7 @@ We've explained everything in the modules. Good luck 👍 😊
 
 - [**01 - Orientation**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/ux_ui_course_cohort3/01_orientation.md)
 
-- 02 - UX Fundamentals
+- [**02 - UX Fundamentals**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/ux_ui_course_cohort3/02_ux_fundamentals.md)
 
 - 03 - User Centered Design
 
