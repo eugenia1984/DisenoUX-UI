@@ -12,7 +12,23 @@ We've explained everything in the modules. Good luck 👍 😊
 
 ---
 
-## Modules
+### :stars:This program is divided into six key sections:
+
+- Fundamentals (Module 2-4)
+
+- UX Intensive (Module 5-8)
+
+- Team design (Module 9-11)
+
+- Portfolio I & II (Module 12 & 26)
+
+- Visual Design (Module 13-21)
+
+- Capstone (Module 22-25)
+
+---
+
+## :book: Modules
 
 - [**01 - Orientation**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/open_bootcamp_ux_ui/ux_ui_course_cohort3/01_orientation.md)
 
