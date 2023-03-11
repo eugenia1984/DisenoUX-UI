@@ -4,7 +4,7 @@
 
 ## :book: Clases
 
-- [**Clase 1** - 03 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase01.md)
+- [**Clase 1** - 03 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase01.md) / Plan de estudio / Sobre Codo a Codo / Requisitos y Modalidad / Cronograma / Portafolio de egresados / Motivos para Estudiar Diseño UX / Empleo IT: las 10 carreras con salida laboral de 2021 / Diferentes **roles dentro de UX UI** - Empleo IT / Datos importantes / Clases en vivo / Validación de la vacante / Encuesta diagnóstica Estudiantes de Diseño UX/UI / Proyecto Final Grupal Obligatorio /
 
 - [**Clase 2** : 08 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase02.md) - ¿Qué es el diseño? / Retórica de la imágen /  Diseño gráfico y Diseño UX /  Diseño UI /  Usabilidad /  Metodología: Diseño centrado en el usuario /  Metodología: Design Thinking
 
