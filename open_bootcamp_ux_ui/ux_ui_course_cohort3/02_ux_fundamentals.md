@@ -4,7 +4,7 @@
 
 ## :book: Lessons
 
-- 2.1 - The way of the Ddesigner
+- 2.1 - The way of the Designer
 
 - 2.2 - Your Career
 
