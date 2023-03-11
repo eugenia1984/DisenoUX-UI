@@ -212,13 +212,15 @@ Make sure you add the design journal template.
 1. In your design journal workspace, create a new Note for this checkpoint and title it "UX Fundamentals, Checkpoint 1: The way of the designer."
 
 2. Add some notes from this checkpoint and list your impressions, thoughts, or questions. Make it appealing if you want. You'll be using this journal throughout the bootcamp.
-E
-3. nable link sharing by clicking Share to the web. This will ensure that the graders and other members of Open Bootcamp team can access your journal when you submit your work.
+
+3. Enable link sharing by clicking Share to the web. This will ensure that the graders and other members of Open Bootcamp team can access your journal when you submit your work.
 
 
 ### Submission
 
 Paste your notion journal link in the slack channel **#uxui-assignment02**.
+
+:tv: -> [This is my link](https://therapeutic-land-13b.notion.site/Intro-f1f4f4c13d78451fa24612b0af711e92)
 
 ---
 
