@@ -140,6 +140,11 @@ imprescindibles en el diseño UX/UI.
 [**Diseño de Interfaz -UI-**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/disen%CC%83o_de_interfaz_ui)
 
 
+---
+
+## GLOSARIO
+
+[Haciendo click aca se va al glosario](https://github.com/eugenia1984/DisenoUX-UI/blob/main/glosario.md)
 
 ---
 ---
