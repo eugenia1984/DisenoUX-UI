@@ -14,9 +14,7 @@ En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/mai
 
 #### :stars: MÓDULO I: Nociones de Diseño UX/UI
 
-**1) Diseño UX/UI - DCU**
-
-● Introducción al Diseño UX/UI ● Relación entre el diseño gráfico y el Diseño UX/UI ● Usabilidad ● Diseño Centrado en el Usuario ● Experiencias diseñadas y accidentales
+**1) Diseño UX/UI - DCU**: Introducción al Diseño UX/UI ● Relación entre el diseño gráfico y el Diseño UX/UI ● Usabilidad ● Diseño Centrado en el Usuario ● Experiencias diseñadas y accidentales
 
 **2) Nociones de Diseño Gráfico, Imagen y Marketing**: Comunicación visual ● Características del diseñador ● Retórica de la imagen ● Imágenes en el Diseño ● Leyes compositivas ● Leyes Gestálticas ● Mapa de Bits vs Gráfico vectorial ● Resolución y Formatos de archivo ● Moodboard ● El color en el Diseño (Teoria del color y Psicología del color) ● Tipografía ● Marca y Logo
 
