@@ -340,7 +340,133 @@ In addition to core technical and analytical skills, there are also some soft sk
 
 ##  The UX designer at work
 
+What does a UX designer actually do? There's still a lot of confusion surrounding the field of UX, and you may need to address this confusion when you're starting a new job as a UX designer. In fact, your first task may be to clearly explain the value that you bring to the company and how you'll realize that value. Advocacy for your job will be at the core of your work as a UX designer. You'll need to highlight the important value you bring by incorporating the user and their needs into every project.
 
+A user experience designer is often a generalist; they may have some or all of these skills listed above. Usually, a UX designer works on a team. And depending on the size and type of the company, the team may be large or small. At some small start-up companies, there is only one lead UX designer for the entire company. And if a company is lean, it means that they want to streamline and focus on delivery and rapid iteration, instead of allocating resources to in-depth research and multiple specialized team members. In cases like this, generalists, such as versatile UX designers, can be very valuable.
+
+The titles below capture many of the current UX roles that exist across industries. However, over the years, the terms and positions have changed and evolved, and they will invariably continue to change and evolve. It's important to keep these shifts in mind as you carve out your own path as a UX designer.
+
+### User experience researcher
+
+A user experience researcher is someone who empathizes with the user and tries to understand their needs, behaviors, and motivations. A UX researcher is a multiteam player. They usually work alongside an array of other people, from business analysts to marketing teams, as they strive to align organizational goals and user needs. UX researchers often work on diverse teams that include UI and UX designers as well.
+
+- Key skills to know: User interviews, survey design, data analysis, usability testing
+
+### Information architect
+Information architects are the blueprint makers and information organizers of a product design team. They work to organize information and determine how it should be arranged and displayed, with ease of access and user flow as their guiding principles. Information architecture is a unique field that comes from information and library sciences. This job, which helps to define product strategy, is becoming more and more in demand.
+
+- Key skills to know: Card sorting, understanding of cognitive psychology, library sciences, user research analysis
+
+### Interaction designer
+Interaction designers focus on how a user interacts with a product and how they experience using it. This role focuses on designing the details of an interface, including movement, animation, user flows, and visual aesthetics.
+
+- Key skills to know: Visual design, HTML, CSS, and JavaScript, animation
+
+### User interface designer
+User interface (UI) design establishes the look, feel, and experience of a product. From layout and placement to the visual nitty-gritty such as buttons, colors, and fonts, UI designers occupy a unique niche under the user experience canopy. Many organizations combine UX and UI design into a single role.
+
+- Key skills to know: Visual design, user interface patterns, typography, layout best practices, color theory
+
+### Product designer
+Product designer is an ambiguous role that varies from workplace to workplace. It tends to include all aspects of product design, from user experience to interface design. Product designers and UX designers often hold the same responsibilities and need the same skill sets.
+
+- Key skills to know: Content strategy, sketching, prototyping, high-fidelity prototyping, storyboarding, scope definition, user interviews, survey design, data analysis, usability testing
+
+### Frontend designer
+Frontend web development brings together programming and layout in order to create a website's visual identity and interactions. A frontend designer programs the interface that UX and UI designers ideated, sketched, and prototyped. Frontend designers often work on diverse teams with UX and UI designers, and they are integral to realizing the UX/UI work.
+
+- Key skills to know: HTML, CSS, JavaScript, JavaScript frameworks
+
+### UX engineer
+
+The UX engineer is an emerging, multiskilled role that bridges UX design with frontend development. It is similar to the frontend designer, with a slightly different emphasis. Although most UX designers won't do any major development work, the UX engineer is likely a frontend developer, first and foremost, who has developed their UX skills. (In fact, sometimes the terms "frontend developer" and "UX engineer" are interchangeable.) They usually prototype in HTML and CSS, and they're able to easily communicate and transcribe UX work to development teams and vice versa.
+
+- Key skills to know: Strong frontend development expertise, such as HTML, CSS, and JavaScript
+
+### UX designer
+
+UX designers often perform some or all of the above roles, depending on the size of the company and team structure. It is a multifaceted job title that presents unique challenges. UX designers act as intermediaries; they advocate between different departments, teams, and stakeholders. They communicate complex concepts in terms that others can understand. A UX designer is responsible for knowing how a website or application functions, as well as how a user interacts with it. They must be able to communicate with end users, listen and respond with empathy, and quickly change strategy based on feedback. They are armed with some basic knowledge of information architecture, frontend code, and the capabilities of backend. And they must bridge the gap between functionality and visual design, while responding with agility to critique and remaining flexible and open minded to different solutions.
+
+---
+
+## User experience design careers
+
+![image](https://user-images.githubusercontent.com/72580574/224464145-3a1ca5f8-0ca8-4c11-aa90-e181a6c7a345.png)
+
+The most desirable product designers have a T-shaped set of skills and experience. In other words, they have an arsenal of skills and depth in one discipline but a breadth of experience across other disciplines. The successful T-shaped designer might be a super-skilled UX researcher who also knows enough frontend and UI that they can work alongside their diverse team of colleagues and help where needed.
+
+They have a principal skill that describes the vertical leg of the T—they're mechanical engineers or industrial designers. But they are so empathetic that they can branch out into other skills, such as anthropology, and do them as well. - Tim Brown
+
+In this program, you will develop a breadth of skills across UX/UI design and develop additional depth in the Visual Design Specialization. It's important to acquire all the general skills and to refine your visual design chops. You want to make yourself marketable and keep yourself open to possibilities that might surprise you, so don't shortchange sections that don't call to you as much at first.
+
+### User experience design landscape
+
+![image](https://user-images.githubusercontent.com/72580574/224464169-33311f81-93cd-4081-8ed5-e06e1d1db6e4.png)
+
+UX design careers consistently rate among the highest for job satisfaction, and the day-to-day work is generally challenging, fulfilling, and well paid.
+
+Based on research from The Creative Group, the current salary data for UX-trained job searchers looks promising: Offcourse the salary varies as per location, these have been primarily remote and non-remote roles across the US
+
+UX designer: 1–3 years: $75,000–$96,250 / 5+ years: $118,000–$148,000
+
+UI designer: 1–3 years: $65,000–$80,000 / 5+ years: $97,500–$128,750
+
+Product designer: 1-3 years: $66,250–$87,000 / 5+ years: $109,750–$131,500
+
+Graphic designer: 1-3 years: $43,250–$56,750 /5+ years: $67,250–$89,000
+
+Visual designer: 5+ years: $64,500–$108,250
+
+Frontend web developer: 3+ years: $81,750–$132,000 
+
+Web designer: 5+ years: $85,000–$104,500
+
+Interaction designer: 5+ years: $89,000–$123,250
+
+UX researcher: 5+ years: $114,000-$135,000
+
+---
+
+###  Summary
+With the growing awareness of the importance of UX, companies of all sizes are seeking talent to improve their products and best practices. Demand for specialized professionals outweighs supply, as there are not enough designers to fill the roles. The average salary for a UX designer is higher than that of a graphic designer and other types of designers with similar experience. The field is growing, and there are no signs of demand slowing any time soon. UX is a rewarding career with high rates of satisfaction among professionals. The role is challenging and requires a willingness to make mistakes and learn from them. The first step is getting started—so well done!
+
+In this checkpoint, you have gained a broad understanding of UX, including a glossary of terms and a breakdown of the components that comprise best practices. You've been introduced to the skills and standardized information that you'll use throughout your career, and you've explored the various roles available within the field. You've explored the differences between each role, including the differences between UI and UX.
+
+You are aware of cross-functional roles and the T-shaped designer analogy. A good UX/UI designer has a solid grasp of both information architecture and the nomenclature for the underlying structures in the app that they are visually designing for. A UX/UI designer must also have some sense of visual design and layout to be able to successfully convey concepts. You do not have to be an artist or even particularly good at drawing. But you do need to be able to at least draw simple concepts that are easy for a team to understand. A UX/UI designer will need to make the occasional on-the-fly whiteboard sketch to explain an idea to their team.
+
+You have been armed with the latest and most accurate salary information, which is published yearly by industry specialists. You know what is possible, and you're aware that many exciting opportunities await creative professionals. A good UX designer constantly stays up to date with information, forecasts, and trends in their chosen field. This is a profession in which you should never rest on your laurels. Design leaders stay ahead of the information curve and constantly apply new knowledge to their craft. Make sure to bookmark and revisit the following list of resources regularly
+
+---
+
+## Additional resources
+
+Because UX develops constantly, and web and usability standards are always evolving, it's very important to stay up to date with information from trustworthy sources. While there are many thought leaders and resources in UX, there are a few who set the standard. Here are some good starting points:
+
+- [Nielsen Norman Group](https://www.nngroup.com/) is an industry-leading consulting firm that has evaluated thousands of websites and applications in virtually every industry for the last 20 years. Its founders are Jakob Nielsen, an early champion of usability testing, and Don Norman, who coined the term "user experience" in his early days at Apple and wrote the watershed book The Design of Everyday Things.
+
+- [Usability.gov](https://www.usability.gov/) is the leading resource for user experience best practices and guidelines, serving practitioners and students in the public and private sectors. The site provides overviews of the [user-centered design process](https://www.usability.gov/how-to-and-tools/resources/ucd-map.html) and [various UX disciplines](https://www.usability.gov/what-and-why/user-experience.html). It also covers the related information on [methodology and tools](https://www.usability.gov/how-to-and-tools/index.html) for making digital content more usable and useful.
+
+- [WebAIM](https://webaim.org/) (Web Accessibility In Mind) has provided comprehensive web accessibility solutions since 1999. These years of experience have made WebAIM one of the leading providers internationally for web accessibility expertise. WebAIM is a nonprofit organization based at the Center for Persons with Disabilities at Utah State University.
+
+- [HHS](https://www.hhs.gov/accessibility.html) (the US Department of Health and Human Services) is committed to making federal websites accessible to the widest possible audience, including individuals with disabilities. In keeping with its mission, HHS implements the regulations of Section 508 of the Rehabilitation Act](https://www.section508.gov/manage/laws-and-policies) and the implementation policy for Section 508.
+
+- [IDEO](https://www.ideo.com/) is a global design company that creates positive impact through design. IDEO is credited with popularizing the concept of human-centered design.
+
+- [Smashing Magazine](https://www.smashingmagazine.com/category/ux-design/), which was founded in Germany in 2006, delivers reliable, useful, and practical articles to web designers and developers.
+
+- [A List Apart](https://alistapart.com/) explores the design, development, and meaning of web content, with a focus on web standards and best practices.
+
+- [UIE](https://www.uie.com/) (User Interface Engineering), was started by design expert Jared Spool in 1988. Jared is the author of Web Usability: A Designer's Guide and coauthor of Web Anatomy: Interaction Design Frameworks that Work. He has more than 20 years of experience conducting usability evaluations on a variety of products, and is an expert in low-fidelity prototyping techniques.
+
+- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) has in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms. This site is an important industry-standard reference for mobile design as well.
+
+Don't forget to bookmark your own favorite designers, organizations, and resources that you discover throughout this program and add them to your Notion workspace.
+
+---
+
+### Homework
+
+Create flash cards based on the key terms from this checkpoint. Just like when you learn a new language, you'll need to be well versed in UX design language.
 ---
 ---
 
