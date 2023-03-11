@@ -10,9 +10,9 @@
 En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/cac_ux_ui) está toda la teoría y prácticas realizadas en el curso **Diseño UX UI** de **Codo a Codo**.
 
 
-## :computer: PLAN DE ESTUDIO  :computer:
+### 🚀 PLAN DE ESTUDIO  🚀
 
-### :stars: MÓDULO I: Nociones de Diseño UX/UI
+#### :stars: MÓDULO I: Nociones de Diseño UX/UI
 
 **1) Diseño UX/UI - DCU**
 
@@ -68,7 +68,7 @@ En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/mai
 ● Elevator Pitch
 ```
 
-### :stars: MÓDULO II: Arquitectura de la información
+#### :stars: MÓDULO II: Arquitectura de la información
 
 **1) Estructuras**
 
@@ -81,7 +81,7 @@ En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/mai
 ```
 
 
-### :stars: MÓDULO III: Prototipado y Pruebas de Usabilidad
+#### :stars: MÓDULO III: Prototipado y Pruebas de Usabilidad
 
 **1) Software Figma**
 
@@ -99,7 +99,7 @@ En la capeta [**cac_ux_ui**](https://github.com/eugenia1984/DisenoUX-UI/tree/mai
 ```
 
 
-### :stars: MÓDULO IV: Proyecto Final y Exposiciones
+#### :stars: MÓDULO IV: Proyecto Final y Exposiciones
 
 **1) Reporte UX y Portfolio**
 
