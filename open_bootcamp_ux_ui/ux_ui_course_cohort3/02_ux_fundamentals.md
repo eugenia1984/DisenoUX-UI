@@ -223,10 +223,125 @@ Paste your notion journal link in the slack channel **#uxui-assignment02**.
 :tv: -> [This is my link](https://therapeutic-land-13b.notion.site/Intro-f1f4f4c13d78451fa24612b0af711e92)
 
 ---
+---
 
 ## :star: 2.2 - Your Career
 
+---
 
+LEARNING OBJECTIVE: By the end of this checkpoint, you will be able to identify the essential user experience design components. You will also be able to compare and contrast different career tracks available within the industry
+---
+
+User experience (UX) is a term that is becoming increasingly common as more industries start to recognize the value and impact that good UX design can provide. With so many options available to end users, companies can no longer afford to ignore the user experience of their products. A frustrating or confusing user experience will lead to the loss of customers and will directly affect earnings.
+
+But what is user experience design? How does it differ from user experience research or interaction design? It can be confusing to sort through all of the information available on UX, particularly since it is a constantly evolving term that is applied broadly in various contexts.
+
+In this module, you will learn how to sort through the noise. You'll define what user experience is and what a UX designer does, and you'll begin to explore the paths that you can take in your own career.
+
+At the end of this checkpoint, you'll complete a homework:
+
+Search for job listings and identify the skill sets required for each role.
+Reflect on your career values and determine which roles appeal to you.
+Complete a career roadmap exercise.
+During this homework, you'll see some key UX vocabulary terms in use and relate them back to your interests and career path.
+
+---
+
+## Key terms
+
+- UX design
+
+- UX research
+
+- Visual design
+
+- Information architecture
+
+- Content strategy
+
+- Wireframing
+
+- Prototyping
+
+- Usability testing
+
+- Accessibility
+
+- Information architect
+
+- Interaction designer
+
+- User interface designer
+
+- Product designer
+
+- Frontend designer
+
+- T-shaped designer
+
+---
+
+## Getting started with UX design
+
+In his classic book **The Elements of User Experience**, author **Jesse James Garrett** conceptualizes the **five planes of UX as parts of an iceberg*+. He explores their varying levels of complexity and how they build on each other.
+
+The bottom of the iceberg is **research and strategy**. A UX designer begins by gathering all of the information that they can about the user for whom they are designing a product. Their goal is to understand the problem thoroughly before starting to design a solution. The next plane of the iceberg is **scope**. In this plane, a UX designer's goal is to translate user needs and business objectives into specific requirements for the content and functionality that the product will offer to users. **Structure** refers to the site map, which is an organized hierarchy and flow of pages on a site. Next is **skeleton**, which is composed of wireframes. These are the concept sketches that are presented before the designer invests too much detail or effort. And finally, **surface**, or visual design, is the interface that the user will interact with.
+
+![image](https://user-images.githubusercontent.com/72580574/224463451-cdbdc082-a69c-47eb-9e8e-96448058d984.png)
+
+
+---
+
+## Defining UX design
+
+**User experience** can be defined as **the overall experience of a person using a product or service, such as a website or a computer app**. User experience is especially concerned with how easy the product or service is to use.
+
+A user experience designer has a challenging and complex role; they act as a valuable liaison between different departments and team members. User experience is often used as a general term that refers to multiple disciplines, so job descriptions may vary widely based on the skill set and focus that an employer is searching for.
+
+It's important to learn the skills and components of UX. Below is an overview of many of the key areas that you will be exploring in this program. Don't get too bogged down with trying to memorize and deeply understand them at this point. For now, you'll focus on beginning to build your awareness of these areas. You will develop and apply them in future checkpoints.
+
+
+### Key components and core skills of UX
+
+![image](https://user-images.githubusercontent.com/72580574/224463807-59acf2fc-e245-4cc1-8739-31f47adf8ac2.png)
+
+
+As you review these skills, begin to take notes for yourself about what excites you. The joy of the UX/UI field is the wide variety of options that you will have. Explore the domains that light you up. Think about what propensities you have now and what new skills you might want to acquire.
+Research and analysis: Before ever designing a screen or interface, it's important to understand the problem being solved and figure out who the users are. Gathering requirements is a part of the beginning of every project.
+
+Information architecture: Information architecture encompasses structural design, organization, and labeling of websites, intranets, mobile applications, and social media software. Information architecture aims to organize content so that it is easy to find and use.
+
+Content strategy: Content strategy refers to satisfying business requirements through content creation and distribution. This includes the words on the page as well as the images and multimedia.
+
+- **Wireframing**: A wireframe is a simple illustration of a page's interface. It focuses on the layout, content, function, and behavior. Wireframes should be quick to make and quick to revise, so they do not typically include any styling, color, or graphics.
+
+- **Prototyping**: A prototype is a preliminary version or draft of a product that allows a user to click through the product. It simulates how the software will work before money and time is invested in developing the actual product. A prototype can be either low fidelity with linked-together wireframes, or high fidelity with pixel-perfect mockups.
+
+- **Usability testing**: Usability testing entails evaluating a product or service by testing it with different users. Participants will try to complete tasks while the UX designer observes, takes notes, and sometimes asks questions. Testing the product with a prototype allows usability issues to be identified and fixed before the product is built.
+
+- **Accessibility**: Accessibility is about designing for everyone. Evaluating accessibility will involve analyzing how well products, devices, services, or environments have been designed for people who experience disabilities. A good UX designer makes sure that their designs are usable by as many people as possible.
+
+- **Visual design**: Visual design includes the aesthetics of a site and strategic implementation of images, colors, typography, and other elements. Successful visual design engages users and helps to build trust and interest in the brand.
+
+### Soft skills
+
+
+In addition to core technical and analytical skills, there are also some soft skills that UXers use regularly:
+
+- **Communication**: Communication is vital in any UX/UI role. Designers are responsible for explaining and defending design decisions to their own team as well as to other departments.
+
+- **Flexibility**: Flexibility is vital; you will encounter differing points of view, and feedback and revisions are part of the process. Don't get too attached to your first design, because there may be a better solution or a technical limitation that makes an idea difficult.
+
+- **Empathy**: Empathy is an important skill for any UXer. You'll need to understand what a user's goals are and explore how to help them accomplish their goals.
+
+- **Curiosity**: Curiosity is crucial because learning will be an ongoing process and it's helpful to keep an open mind. UX designers are constantly learning and adapting to new standards and information.
+
+---
+
+##  The UX designer at work
+
+
+---
 ---
 
 ## :star: 2.3 - Design Thinking
