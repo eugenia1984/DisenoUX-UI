@@ -10,9 +10,9 @@
 
 - [**Clase 3** : 10 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase03.md) - Impacto de la imagen /  Fotografía /  Leyes Compositivas /  Puntos de interés /  Composición en el diseño /  Imagen en diseño web /  Leyes Gestálticas
 
-- **Clase 4**
+- [**Clase 4**: 15 MAR]((https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase04.md)) - **Gráfico Vectorial vs. Mapa de Bits**: Diferenciación / Resoluciones /  Adobe Photoshop /  Formatos de imágenes /  Ejercicio de práctica
 
-- **Clase 5**
+- [**Clase 5**: 17 MAR]((https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase05.md)) - **Research y Benchmarking** : ¿Qué significa iterar? /  UX Research /  Insights /  Benchmarking /  Tarea para el Proyecto Final
 
 - **Clase 6**
 
