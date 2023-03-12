@@ -188,39 +188,38 @@ En la información de herramientas que se muestra debajo del puntero aparece el 
 
 ### Barra de Herramientas:
 
-1. Herramientas de selección: permite seleccionar y aislar una parte de la imagen para poder
-editarla independientemente del resto de ella.
+1. **Herramientas de selección**: permite seleccionar y aislar una parte de la imagen para poder editarla independientemente del resto de ella.
 
-2. Herramientas de recorte y creación de sectores: las herramientas de recorte nos permiten
+2. **Herramientas de recorte y creación de sectores**: las herramientas de recorte nos permiten
 recortar la imagen. La diferencia con las selecciones es que la zona excluida es eliminada del
 archivo. Los sectores, por otra parte, son espacios rectangulares en la imagen que pueden
 contener propiedades web, como enlaces, botones rollover y animaciones.
 
-3. Herramientas de medida: estas nos permiten medir las dimensiones de partes del
+3. **Herramientas de medida**: estas nos permiten medir las dimensiones de partes del
 documento. También podemos medir la información de color de un píxel, tomar muestras y
 crear notas.
 
-4. Herramientas de retoque: aquí encontramos todas las herramientas que nos permiten
+4. **Herramientas de retoque**: aquí encontramos todas las herramientas que nos permiten
 modificar los píxeles de la imagen.
 
-5. Herramientas de pintura: ellas nos permiten pintar, borrar y colorear sobre una imagen.
+5. **Herramientas de pintura**: ellas nos permiten pintar, borrar y colorear sobre una imagen.
 
-6. Herramientas de texto y dibujo: aquí encontramos instrumentos de creación y modificación
+6. **Herramientas de texto y dibujo**: aquí encontramos instrumentos de creación y modificación
 de textos. Las herramientas de dibujo de este grupo son de dibujo vectorial, similares a las de
 Adobe Illustrator, y las formas básicas, como rectángulos, elipses y líneas.
 
-7. Herramientas de navegación: estas nos permiten desplazarnos libremente por el documento,
+7. **Herramientas de navegación**: estas nos permiten desplazarnos libremente por el documento,
 hacer zoom o rotar la vista.
 
 ### Utilizaremos:
 
 #### Menú Herramientas
 
-1. Selección. Con estas herramientas podemos seleccionar la parte de la imagen que queremos editar.
+1. **Selección**: cn estas herramientas podemos seleccionar la parte de la imagen que queremos editar.
 
-2. Crop. Con esta herramienta vamos a poder recortar la imagen al tamaño que deseemos.
+2. **Crop**: con esta herramienta vamos a poder recortar la imagen al tamaño que deseemos.
 
-3. Retoque. Con estas herramientas podemos corregir defectos, borrar elementos no deseados o suavizar la apariencia de la
+3. **Retoque**: con estas herramientas podemos corregir defectos, borrar elementos no deseados o suavizar la apariencia de la
 imagen, etc.
 
 
@@ -228,10 +227,10 @@ imagen, etc.
 
 #### Panel Capa
 
-El software funciona por medio de capas que se superponen unas con otras, el orden de estas va a determinar qué elemento aparece
-sobre cual.
+El software funciona por medio de capas que se superponen unas con otras, el orden de estas va a determinar qué elemento aparece sobre cual.
 
 El panel Capas de Photoshop contiene todas las capas, grupos de capas y efectos de capa de una imagen.
+
 Puede utilizar el panel Capas para mostrar y ocultar capas, crear capas nuevas y trabajar con grupos de capas.
 
 ### Utilizaremos:
@@ -251,24 +250,15 @@ Puede utilizar el panel Capas para mostrar y ocultar capas, crear capas nuevas y
 
 ###  Ajustes
 
-1. Brillo/contraste: según la opción utilizada, permite modificar la cantidad de luz u oscuridad en una
-imagen o el contraste entre los tonos oscuros y claros y permite alejarlos o acercarlos.
+1. **Brillo/contraste**: según la opción utilizada, permite modificar la cantidad de luz u oscuridad en una imagen o el contraste entre los tonos oscuros y claros y permite alejarlos o acercarlos.
 
-2. Niveles: corrige la gama tonal y el equilibrio de color de una imagen ajustando los niveles de intensidad de
-las sombras, los medios tonos y las iluminaciones de la imagen mediante la utilización de un gráfico
-denominado histograma. Resulta ideal para corregir problemas de subexposición y sobreexposición. Los
-ajustes se pueden guardar y cargar nuevamente en otro documento.
+2. **Niveles**: corrige la gama tonal y el equilibrio de color de una imagen ajustando los niveles de intensidad de las sombras, los medios tonos y las iluminaciones de la imagen mediante la utilización de un gráfico denominado histograma. Resulta ideal para corregir problemas de subexposición y sobreexposición. Los ajustes se pueden guardar y cargar nuevamente en otro documento.
 
-3. Intensidad: permite ajustar la intensidad o saturación del color global de una imagen. La intensidad puede
-aumentar o disminuir la fuerza de los colores de forma equilibrada y proporcional y sin afectar los tonos
-pieles. La saturación, por el contrario, es más agresiva con el cambio.
+3. **Intensidad**: permite ajustar la intensidad o saturación del color global de una imagen. La intensidad puede aumentar o disminuir la fuerza de los colores de forma equilibrada y proporcional y sin afectar los tonos pieles. La saturación, por el contrario, es más agresiva con el cambio.
 
-4. Tono/saturación: esta opción es más completa y compleja que la anterior. Posibilita ajustar valores de
-tono, saturación y luminosidad de toda la imagen o de componentes de color individuales. También posee
-una opción llamada colorear, que se utiliza para aplicar un color uniforme sobre toda la fotografía,
-transformándola en una imagen monocroma.
-5. Equilibrio de color: modifica la mezcla global de los colores de una imagen. Permite modificar la
-temperatura de color de la imagen, crear o eliminar dominantes de color o acentuar algún color
+4. **Tono/saturación**: esta opción es más completa y compleja que la anterior. Posibilita ajustar valores de tono, saturación y luminosidad de toda la imagen o de componentes de color individuales. También posee una opción llamada colorear, que se utiliza para aplicar un color uniforme sobre toda la fotografía, transformándola en una imagen monocroma.
+
+5. **Equilibrio de color**: modifica la mezcla global de los colores de una imagen. Permite modificar la temperatura de color de la imagen, crear o eliminar dominantes de color o acentuar algún color
 
 
 ### Formatos
@@ -292,40 +282,26 @@ administración del color.
 
 ### Formatos
 
-PSD - Es el formato por defecto del editor de imágenes Adobe Photoshop y por tanto es un formato adecuado para editar
+- **PSD** - Es el formato por defecto del editor de imágenes Adobe Photoshop y por tanto es un formato adecuado para editar
 imágenes con este programa y otros compatibles.
 
-GIF - El famoso .GIF (Graphics Interchange Format), si bien es de baja calidad y ofrece una escasa profundidad de colores,
+- **GIF** - El famoso .GIF (Graphics Interchange Format), si bien es de baja calidad y ofrece una escasa profundidad de colores,
 permite unir varios cuadros para formar una animación. Pesa poco porque sacrifica la calidad de imagen.
 
-SVG - Un formato menos conocido es .SVG (Scalable Vector Graphics), un formato estándar en el diseño web, que trabaja en XML
-describiendo imágenes tanto estáticas como animadas. Con la llegada del lenguaje HTML5 ha hecho que caiga en desuso. Como
-cualquier imagen vectorial, su ventaja era ser totalmente escalable sin ningún tipo de pérdida de calidad.
+- **SVG** - Un formato menos conocido es .SVG (Scalable Vector Graphics), un formato estándar en el diseño web, que trabaja en XML describiendo imágenes tanto estáticas como animadas. Con la llegada del lenguaje HTML5 ha hecho que caiga en desuso. Como cualquier imagen vectorial, su ventaja era ser totalmente escalable sin ningún tipo de pérdida de calidad.
 
-BMP - Cuando hablamos de imágenes estamos refiriéndonos generalmente a un “mapa de bits”, y por eso .BMP es la extensión
-otorgada por Windows a esos archivos. El formato padre de varios de los ya nombrados, obviamente depende 100% de los píxeles
-y su información, por lo que no se puede comprimir, y preferentemente tampoco se debería escalar (si buscamos mantener
-calidad).
+**BMP** - Cuando hablamos de imágenes estamos refiriéndonos generalmente a un “mapa de bits”, y por eso .BMP es la extensión otorgada por Windows a esos archivos. El formato padre de varios de los ya nombrados, obviamente depende 100% de los píxeles y su información, por lo que no se puede comprimir, y preferentemente tampoco se debería escalar (si buscamos mantener calidad).
 
-RAW - Formato “en bruto” o “crudo”, esto quiere decir que contiene todos los píxeles de la imagen captada, tal y como se han
-tomado. Es el formato que ofrece la mayor calidad fotográfica y suele ser admitido por cámaras de gama media y alta (réflex, y
-compactas) indicadas para fotógrafos aficionados avanzados y profesionales.
+**RAW** - Formato “en bruto” o “crudo”, esto quiere decir que contiene todos los píxeles de la imagen captada, tal y como se han tomado. Es el formato que ofrece la mayor calidad fotográfica y suele ser admitido por cámaras de gama media y alta (réflex, y compactas) indicadas para fotógrafos aficionados avanzados y profesionales.
 
-TIFF - El formato .TIFF (Tagged Image File Format) es el favorito a la hora de almacenar o utilizar imágenes en altísima resolución
-y estupenda calidad, ya sea en la industria del diseño o la publicidad.
+**TIFF** - El formato .TIFF (Tagged Image File Format) es el favorito a la hora de almacenar o utilizar imágenes en altísima resolución y estupenda calidad, ya sea en la industria del diseño o la publicidad.
 
 
 ### Guardar y Exportar:
 
-Para guardar un archivo de Photoshop o PSD: vaya al menú Archivo y
-seleccione cualquiera de los comandos de guardado: Guardar, Guardar
-como o Guardar una copia. Al seleccionar un comando de guardado, se
-abre el cuadro de diálogo Guardar en el ordenador o en los documentos en
-la nube.
+Para guardar un archivo de Photoshop o PSD: vaya al menú Archivo y seleccione cualquiera de los comandos de guardado: Guardar, Guardar como o Guardar una copia. Al seleccionar un comando de guardado, se abre el cuadro de diálogo Guardar en el ordenador o en los documentos en la nube.
 
-Para exportar puede utilizar las opciones Exportación rápida cómo y
-Exportar como para exportar un documento, mesas de trabajo, capas y
-grupos de capas de Photoshop en los formatos de archivo PNG, JPG, y GIF.
+Para exportar puede utilizar las opciones Exportación rápida cómo y Exportar como para exportar un documento, mesas de trabajo, capas y grupos de capas de Photoshop en los formatos de archivo PNG, JPG, y GIF.
 
 
 Vaya a Archivo > Exportar > Exportación rápida como [formato de imagen].
