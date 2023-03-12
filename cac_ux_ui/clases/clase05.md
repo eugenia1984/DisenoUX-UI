@@ -1,4 +1,4 @@
-# :star: CLASE 03 - 17 MAR - Research y Benchmarking
+# :star: CLASE 05 - 17 MAR - Research y Benchmarking
 
 ---
 
