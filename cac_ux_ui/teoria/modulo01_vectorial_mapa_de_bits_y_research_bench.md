@@ -5,21 +5,21 @@
 ## :book:Temas:book:
 
 
-- 1. Mapa de bits vs Gráfico vectorial
+- 1 - Mapa de bits vs Gráfico vectorial
 
--1.1. Resolución
+-1.1 - Resolución
 
-1.2. ¿Qué es Photoshop?
+-1.2 -¿Qué es Photoshop?
 
-- 2. Research y Benchmarking
+- 2 - Research y Benchmarking
 
--2.1. ¿Qué significa iterar?
+-2.1 - ¿Qué significa iterar?
 
--2.2. ¿Qué es un insight?
+-2.2 - ¿Qué es un insight?
 
--2.3. ¿Qué es Benchmarking?
+-2.3 -  ¿Qué es Benchmarking?
 
--2.4. Proyecto final
+-2.4 -  Proyecto final
 
 ---
 
