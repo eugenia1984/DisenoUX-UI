@@ -177,7 +177,7 @@ Equilibrio de color
 - **Equilibrio de color**: modifica la mezcla global de los colores de una imagen. Permite modificar la temperatura de color de la imagen, crear o eliminar dominantes de color o acentuar algún color.
 
 
-###  ormatos:
+###  Formatos:
 
 - **JPEG - Es el formato más popular**: El formato .JPEG (Joint Photographic Experts Group) destaca por el alto nivel de compresión que ofrece y, que se basa en la pérdida de calidad. Es por eso que este formato sacrifica valores imperceptibles por el ojo humano para bajar el peso final, así como lo hace un archivo .MP3 con el sonido. No son muy utilizadas entre quienes requieren fotos en alta calidad.
 
