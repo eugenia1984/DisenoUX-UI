@@ -319,6 +319,8 @@ Si quieres vivir una vida creativa y artística, no debes mirar demasiado hacia 
 basura cualquier cosa que hiciste. - Steve Jobs
 
 ---
+---
+
 
 ## :star: Ejercicio - Clase 3
 
@@ -327,5 +329,41 @@ Práctica en Ps:
 Editar una imagen, quitarle el fondo, cambiar sus colores, cambiar ajustes, cortarla, etc.
 
 
+
+---
+---
+
+
+## :star: CLASE CON EL PROFE
+
+130pixeles/inch -> imprimir gran tamaño, como los carteles de los costados de las rutas, si nos acercaramos los vemos pixelados, pero se ven de lejos siempre.
+
+Se trata de usar la resolución minima aceptable para que las imágenes no pesen tanto.
+
+---
+
+Ps es pago.
+
+Otra alternativa, que es gratuita: GIMP 
+
+![image](https://user-images.githubusercontent.com/72580574/225451254-5964ba0c-dfcc-49d1-b0aa-57f3b5b8969d.png)
+
+Para edición de imágenes:  **snapseed** , **pixlr**, **krita** que es software libre ò **inkscape**
+
+Para arte: **paint studio**, **my paint**, **corel painting**, **sketchbook** y **procreate**
+
+Vectorial: **inkstudio**(es gratis y muy facil)
+
+[https://www.photopea.com/](https://www.photopea.com/)
+
+---
+
+## Ps
+
+![image](https://user-images.githubusercontent.com/72580574/225449439-2e4454d5-480b-4190-b93f-f6a90d75f8ed.png)
+
+PS funciona en capaz, que se superponen unas con otras. -> Se usa el **panel de capas**.
+
+![image](https://user-images.githubusercontent.com/72580574/225451082-5af7fcea-9f74-40cf-abd6-eb0d64dcd3c8.png)
 
 ---
