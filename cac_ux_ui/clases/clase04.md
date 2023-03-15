@@ -342,17 +342,17 @@ Se trata de usar la resolución minima aceptable para que las imágenes no pesen
 
 ---
 
-Ps es pago.
+- Ps es pago.
 
-Otra alternativa, que es gratuita: GIMP 
+- Alternativas:
 
-![image](https://user-images.githubusercontent.com/72580574/225451254-5964ba0c-dfcc-49d1-b0aa-57f3b5b8969d.png)
+-GIMP 
 
-Para edición de imágenes:  **snapseed** , **pixlr**, **krita** que es software libre ò **inkscape**
+-Para edición de imágenes:  **snapseed** , **pixlr**, **krita** que es software libre ò **inkscape**
 
-Para arte: **paint studio**, **my paint**, **corel painting**, **sketchbook** y **procreate**
+-Para arte: **paint studio**, **my paint**, **corel painting**, **sketchbook** y **procreate**
 
-Vectorial: **inkstudio**(es gratis y muy facil)
+-Vectorial: **inkstudio**(es gratis y muy facil)
 
 [https://www.photopea.com/](https://www.photopea.com/)
 
@@ -365,5 +365,17 @@ Vectorial: **inkstudio**(es gratis y muy facil)
 PS funciona en capaz, que se superponen unas con otras. -> Se usa el **panel de capas**.
 
 ![image](https://user-images.githubusercontent.com/72580574/225451082-5af7fcea-9f74-40cf-abd6-eb0d64dcd3c8.png)
+
+-> TAMPON DE CLONAR -> se usa mucho
+
+![image](https://user-images.githubusercontent.com/72580574/225453519-aa5bcfda-2244-42d3-88f8-630f1f4ea301.png)
+
+-> Se usa mucho para **borrar** cosas, como en realidad se clona a veces se nota.
+
+![image](https://user-images.githubusercontent.com/72580574/225453652-d97d0238-9ec5-48aa-9ee2-086e60315dd8.png)
+
+![image](https://user-images.githubusercontent.com/72580574/225453881-b47e8eb0-4717-471a-b347-72a10a386cc2.png)
+
+Para borrar lo que falta se copia el piso gris y se le va borrando los zapatos y luego se clona el pasto y se va borrando.
 
 ---
