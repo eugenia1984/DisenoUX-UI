@@ -378,4 +378,37 @@ PS funciona en capaz, que se superponen unas con otras. -> Se usa el **panel de 
 
 Para borrar lo que falta se copia el piso gris y se le va borrando los zapatos y luego se clona el pasto y se va borrando.
 
+-> También se puede borrar y rellenar según el contenido.
+
+
+
+---
+
+Para tener imagenes gratuitas:
+
+[https://www.pexels.com/](https://www.pexels.com/)
+
+---
+Formatos
+
+JPEG -> comprime más las fotos si tiene 4 pixeles iguales, crea un grupo.
+
+PNG -> permite **transparencia**, como el grafiti que usamos.
+
+GIF -> una imagen atras de la otra, como si fuera una animaciòn, de muy maa calidad
+
+SVG -> archivo de vectores, grafico vectorial escalable.
+
+BMP -> mapa de bit, la información sin comprimir en absoluto, se usa muy poco en el mundo digital.
+
+TIFF -> trata de guardar todo, incluso la informaciòn de capas, se usa en imprenta
+
+RAW -> las camaras de fotos reflex, cada empresa teien su propio formato, saca la foto pero la deja abierta, se le puede agregar mas iluminacion, saturacion, etc. Los fotografos sacan en formato crudo y luego ajustan, pero es mucho mas pesado.
+
+WEBP -> Formato creado para la web es la mezcla entre JPG y PNG, comrime mas que el JPG sin perder la claridad, y permite el canal alpha, la tranparencia. Consume menos datos, es recomendable para web, pesa menos en el servidor (mas barato de mantener).
+
+---
+
+No hay que tener problemas de ego, hay que poder tirar a la basura lo que se hizo.
+
 ---
