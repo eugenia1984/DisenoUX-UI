@@ -88,7 +88,7 @@ No existe un enfoque único para construir una práctica de investigación porqu
 Algunos datos siempre son mejores que ninguno, pero saber cuándo recopilarlos y qué tipo de
 datos necesita comienza por comprender el objetivo.
 
-Behzod Sirjani, fundador de Yet Another Studio y exjefe de operaciones de investigación y
+                                                                                      zod Sirjani, fundador de Yet Another Studio y exjefe de operaciones de investigación y
 análisis de Slack, dice que debe intentar investigar cada vez que desee aumentar su confianza en una decisión:
 
 La investigación siempre debe orientarse en torno a una decisión porque saber lo que está tratando de decidir lo ayudará a comprender lo que está tratando de ver y cómo realmente va a
@@ -264,7 +264,58 @@ Finalmente realizar un **breve informe** con las conclusiones que obtenemos del 
 
 **UX Research** -> se **investiga** al **usuario**, tenemos que conocer a quien ayudamos? A quien le resolvemos el problema? 
 
-Y ¿de que forma? -> charlar / hacer encuestas 
+Y ¿de que forma? -> charlar / hacer encuestas -> **observar**
 
+PROBLEMA vs. NECESIDAD -> el **problema** es algo **urgente**
+
+Priimero buscamos a un **usuario**, lo conocemos, y luego le encontramos el **problema**
+
+Una vez que tenemos el **problema**, lo bajamos a tierra.
+
+La gente quiere que esa **solución** sea **Cercana**, se logra con **La forma de hablar**, para que la genta la sienta cercana y la quiera usar.
+
+**BENSHMARKING** -> comparo a mis competidores y busco...
+
+...¿que hacen bien? Para igualarlo o mejorarlo 
+
+...¿Que hacen mal? Para no hacerlo
+
+-> Hay 3 tipos de benchmarking, el que nos interesa es el **competitivo**, superar al mejor o si no se puede lo igualamos
+
+-> El Benchmarking no es copia.
+
+-> Siempre es algo positivo.
+
+-> El ejemplo de Pepsi que te daba a probar los dos vasos y despues de elegir por el gusto te mostraban cual elegiste.
+
+---
+
+**Recomendación del proofe**: ir haciendo las tareas semana asemana, asi no se juntatodo y nos atrasamos.
+
+Research:
+
+-Del **usuario***:
+
+- hacer muchas preguntas
+
+- guardar todo
+
+-Algo que valide la investigacion
+
+![image](https://user-images.githubusercontent.com/72580574/226060212-39d5db90-05c2-4721-aa76-e037f98961aa.png)
+
+-> El profe nos da como ejemplo:
+
+![image](https://user-images.githubusercontent.com/72580574/226060655-61f5811c-5a9b-43c0-923f-8ea94617b8fe.png)
+
+![image](https://user-images.githubusercontent.com/72580574/226060748-ae435f8c-f06f-420f-8767-d2fdf423989c.png)
+
+-> Benchmarking
+
+![image](https://user-images.githubusercontent.com/72580574/226060831-c7dff5e1-53b6-4812-b328-1d7cc97161ae.png)
+
+-> Cuanndo hagamos nuestra app, vamos a tener la misma cantidad de pasos o menos
+
+-> comparar la misma accion para las 3 apps
 
 ---
