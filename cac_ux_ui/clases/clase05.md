@@ -331,3 +331,13 @@ Research:
 
 
 ---
+
+## Ejemplo del profe en Figma
+
+[Ejemplo dle profe](https://www.figma.com/file/lTpg8vdJ5GDmdDoD8HyqDH/Pedidos-Despues?node-id=0%3A1&t=sBYZaG0Hx84l4rYK-1)
+
+*recomendacion*  -> usar Figma para ir aprendeindo con el uso
+
+[uxcristopher](https://www.youtube.com/c/uxcristopher) tiene videos en youtube de Figma
+
+---
