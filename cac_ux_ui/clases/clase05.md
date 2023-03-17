@@ -256,3 +256,15 @@ Finalmente realizar un **breve informe** con las conclusiones que obtenemos del 
 
 (¿Quién es mi competencia?, ¿quiénes son sus usuarios?, ¿Cómo les hablan?, ¿En qué se diferencian?, ¿Qué puedo ofrecer en mi App que ellos no tengan?, ¿Cómo puedo superar su propuesta?).
 
+---
+---
+
+## :star: CLASE DEL PROFE
+
+
+**UX Research** -> se **investiga** al **usuario**, tenemos que conocer a quien ayudamos? A quien le resolvemos el problema? 
+
+Y ¿de que forma? -> charlar / hacer encuestas 
+
+
+---
