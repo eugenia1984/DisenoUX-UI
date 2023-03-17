@@ -88,7 +88,7 @@ No existe un enfoque único para construir una práctica de investigación porqu
 Algunos datos siempre son mejores que ninguno, pero saber cuándo recopilarlos y qué tipo de
 datos necesita comienza por comprender el objetivo.
 
-                                                                                      zod Sirjani, fundador de Yet Another Studio y exjefe de operaciones de investigación y
+Sirjani, fundador de Yet Another Studio y exjefe de operaciones de investigación y
 análisis de Slack, dice que debe intentar investigar cada vez que desee aumentar su confianza en una decisión:
 
 La investigación siempre debe orientarse en torno a una decisión porque saber lo que está tratando de decidir lo ayudará a comprender lo que está tratando de ver y cómo realmente va a
@@ -314,8 +314,20 @@ Research:
 
 ![image](https://user-images.githubusercontent.com/72580574/226060831-c7dff5e1-53b6-4812-b328-1d7cc97161ae.png)
 
--> Cuanndo hagamos nuestra app, vamos a tener la misma cantidad de pasos o menos
+-> Cuando hagamos nuestra app, vamos a tener la misma cantidad de pasos o menos
 
 -> comparar la misma accion para las 3 apps
+![image](https://user-images.githubusercontent.com/72580574/226061496-d5055107-4945-4178-a94c-45c0e37658fb.png)
+
+![image](https://user-images.githubusercontent.com/72580574/226061521-96536896-d896-46a2-a9e2-c9dcb4fd78d3.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/226061670-091cbe55-00ca-469c-8982-2b4c32029e75.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/226061776-a2cc72d5-491c-48a9-a5ff-e80ffa71df98.png)
+
+![image](https://user-images.githubusercontent.com/72580574/226061794-baf88a49-3e1b-4eab-8001-5f3e613fe03f.png)
+
 
 ---
