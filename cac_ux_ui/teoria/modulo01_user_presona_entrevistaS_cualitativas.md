@@ -303,16 +303,196 @@ Las tareas se entregan mediante **una presentación de Google Slides por equipo*
 Proyecto Final: Fecha de la 1ra Pre entrega:
 
 
+---
+---
+
+# ⭐DISEÑO UX/UI - Entrevistas Cualitativas⭐
+
+---
+
+## 📖 Temas:
+
+● ¿Qué es una entrevista?
+
+● Tipos de entrevista
+
+● Etapas de una entrevista
+
+● Tarea para el Proyecto Final
+
+---
+
+## :stars:¿Qué es una entrevista?
+
+Es una técnica de gran utilidad en la investigación cualitativa para recabar datos; se define como una conversación que se propone un fin determinado distinto al simple hecho de conversar. Es un instrumento técnico que adopta la forma de un diálogo coloquial.
+
+Una persona pregunta y la otra responde, no hay ida y vuelta.
+
+---
+
+![image](https://user-images.githubusercontent.com/72580574/226189784-8e65d2c3-69d2-4ed6-a739-ebfef1834b71.png)
 
 
+---
+
+##  Entrevista:
+
+Tiene como propósito obtener información en relación con un **tema determinado**.
+
+Se busca que la información recabada sea lo más **precisa** posible.
+
+Se pretende conseguir los **significados** que los informantes atribuyen a los
+temas en cuestión.
+
+El **entrevistador** debe mantener una actitud activa durante el desarrollo de
+la entrevista, en la que la **interpretación** sea continua con la finalidad de
+obtener una comprensión profunda del discurso del entrevistado.
+
+---
+
+## :stars: Tipos de entrevistas:
+
+**Estructuradas - Semiestructuradas - Flexibles**
+
+Se considera que las entrevistas **semiestructuradas** son las que ofrecen un grado de flexibilidad aceptable, a la vez que mantienen la suficiente uniformidad para alcanzar interpretaciones acordes con los propósitos del estudio.
+
+Se asocia con la expectativa de que es más probable que los sujetos **entrevistados expresen sus puntos de vista** de manera relativamente abierta, que en una entrevista estandarizada o un
+cuestionario.
+
+###  Consejos para realizar una entrevista exitosa:
+
+1. Contar con una **guía de entrevista**, con preguntas agrupadas por temas o categorías, **con base en los objetivos del estudio**.
+
+2. Elegir un **lugar agradable** que favorezca un diálogo profundo con el entrevistado y sin ruidos que entorpezcan la entrevista y la grabación.
+
+3. Explicar al entrevistado los propósitos de la entrevista y solicitar autorización para grabarla.
+
+4. Tomar los datos del entrevistado que se consideren apropiados para los fines de la investigación.
+
+5. El entrevistador debe tener una actitud receptiva y sensible, no mostrar desaprobación en los testimonios.
+
+6. Seguir la guía de preguntas de manera que el entrevistado hable de manera libre y espontánea, si es necesario se modifica el orden y contenido de las preguntas acorde al proceso de la entrevista.
+
+7. **No interrumpir** el curso del pensamiento del entrevistado y dar libertad de tratar otros temas que el entrevistador perciba relacionados con las preguntas.
+
+8. Con prudencia y sin presión invitar al entrevistado a **explicar, profundizar o aclarar** aspectos relevantes para el propósito del estudio.
 
 
+**Objetivos**: Se expresan en **verbos en infinitivo**, es decir que finalizan en ar er ir.
+
+Por ejemplo: El objetivo de mi entrevista es validar la proto persona “nombre”.
+Conocer los gustos y costumbres de mis usuarios. Entender sus motivaciones y
+frustraciones al momento de contratar servicios (relacionado a mi proyecto).
+
+![image](https://user-images.githubusercontent.com/72580574/226190074-0271b94b-68c0-4969-a023-c64fbfeb9844.png)
+
+Otra manera de denominar a la entrevista semiestructurada es:
+**entrevista etnográfica** (identidad, cultura y estilos de vida de grupos
+de personas).
+
+Se puede definir como una “conversación amistosa” entre informante
+y entrevistador, convirtiéndose este último en un oidor, **alguien que escucha con atención, no impone ni interpretaciones ni respuestas, guiando el curso de la entrevista hacia los temas que a él le interesan**.
+
+Su propósito es realizar un trabajo de campo para comprender la vida social y cultural de diversos grupos, y así lograr explicar sus conductas.
+
+---
+
+## :stars:  Fases de la entrevista
+
+1. **Preparación**. Es el momento previo a la entrevista, en el cual se planifican los aspectos organizativos de la misma como son los objetivos, redacción de preguntas guía y convocatoria.
+
+2. **Apertura**. Es la fase cuando se está con el entrevistado en el lugar de la cita, en el que se plantean los objetivos que se pretenden con la entrevista, el tiempo de duración.
+
+También, es el momento oportuno para solicitar el consentimiento de grabar o
+filmar la conversación.
+
+3. **Desarrollo**. Constituye el núcleo de la entrevista, en el que se realiza el intercambio de información siguiendo la guía de preguntas con flexibilidad. Es cuando el entrevistador hace uso de sus recursos para obtener la información que se requiere.
+
+4. **Cierre**. Es el momento en el que conviene anticipar el final de la entrevista para que el entrevistado recapitule mentalmente lo que ha dicho y provocar en él la oportunidad de que profundice o exprese ideas que no ha mencionado. Se hace una síntesis de la conversación para puntualizar la información obtenida y finalmente se agradece al entrevistado su participación en el estudio.
 
 
+![image](https://user-images.githubusercontent.com/72580574/226190206-69ad0374-9c24-4fab-8c1a-1bdd24c5ad52.png)
 
 
+### Que NO hacer cuando realizamos la entrevista
 
+1. No debemos preguntar **presuponiendo** la respuesta.
 
+2. No debemos **guiar** una respuesta determinada.
+
+3. No debemos **interrumpir o apresurar** al entrevistado.
+
+4. No debemos hacer **preguntas confusas** o que puedan interpretarse de otra forma.
+
+5. No debemos hacer **preguntas largas o varias preguntas dentro de una misma**.
+
+6. No debemos **pedir directamente que confirmen nuestra hipótesis, problemática o solució**n.
+
+7. No debemos **olvidar realizar preguntas para validar la proto persona**. Son para saber si esa persona es un posible usuario, si su perfil está representado en la proto persona que creamos, para saber si su entrevista nos sirve realmente.
+
+---
+
+## :star: Ejercicio - Clase 6
+
+Vamos a practicar en clase algunas preguntas de validación de nuestras proto
+personas.
+
+### Entrevista
+
+Este es un ejemplo de cómo puedes preparar un script para una entrevista. Lo más importante es que generes empatía con el usuario, que no lo interrumpas y que grabes todo. Si un usuario te da una respuesta muy corta o cerrada, siempre es bueno preguntar ¿por qué?
+
+1. ¿Cuál es tu nombre?
+
+2. ¿Qué edad tienes?
+
+3. ¿A qué te dedicas?
+
+4. ¿Con quién vives?
+
+5. ¿Es la primera vez que buscas departamento? ¿Por qué lo buscas?
+
+6. ¿Cómo han sido tus experiencias anteriores a la hora de buscar un departamento? ¿Por qué?
+
+7. Cuéntame cual es tu proceso para buscar un departamento…
+
+8. ¿Qué es lo más importante para ti a la hora de buscar un departamento?
+
+9. ¿Has usado sitios para encontrar departamento? ¿Cuáles? ¿Cuál es tu favorito?
+
+10. ¿Qué es lo que más te preocupa al buscar un departamento en internet?
+
+### Interpretación:
+
+Una vez que las entrevistas han sido efectuadas y grabadas, se
+transcriben para realizar su correspondiente análisis e interpretación;
+por último, se redacta el informe de investigación.
+
+Lo importante de realizar un análisis de los datos obtenidos es generar
+una comprensión que emerge de las preguntas y los testimonios de
+la investigación.
+
+Luego de realizar las entrevistas podremos validar la proto persona
+que será a partir de ese momento una User persona.
+
+---
+
+## :star: Tarea para el Proyecto Final
+
+Para continuar con el Proyecto Final que vamos a desarrollar durante todo este curso:
+
+Vamos a realizar 5 entrevistas, esto nos permitirá recopilar datos e insights sobre los usuarios, empatizar con ellos, validar la proto persona y transformarla en una user persona.
+
+Para elegir a los entrevistados tendremos en cuenta:
+
+● Que sea mayor de 18 años.
+
+● Que entren en el grupo de usuarios que necesitamos validar (proto persona)
+
+● Que la problemática de mi proyecto los atraviesa directamente (¿la solución que voy a brindar en mi app influye en la vida de esta persona?)
+
+● Que tenga disponibilidad para realizar la entrevista presencial o virtual (dentro de un tiempo razonable) y permita que la misma sea grabada (sino la entrevista no será válida).
+
+Realizar un informe: sobre los resultados de las entrevistas, los datos recopilados, los insights que consiguieron descubrir (si es que los hay), especificar de qué forma los entrevistados validaron a la proto persona y se transformaron en user personas de ahora en más.
 
 ---
 ---
