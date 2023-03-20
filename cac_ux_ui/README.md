@@ -11,7 +11,12 @@ En la carpeta [**teoría**](https://github.com/eugenia1984/DisenoUX-UI/tree/main
 
 En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/guia_del_estudiante.md)  esta toda la información de la cursada.
 
+---
+
+
 ## :computer: PLAN DE ESTUDIO * Codo a Codo 4.0 2023 * Curso Diseño UX/UI :computer:
+
+---
 
 ### :stars: MÓDULO I: Nociones de Diseño UX/UI
 
@@ -69,6 +74,9 @@ En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob
 ● Elevator Pitch
 ```
 
+---
+
+
 ### :stars: MÓDULO II: Arquitectura de la información
 
 **1) Estructuras**
@@ -80,6 +88,8 @@ En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob
 ● Happy path
 ● User flow
 ```
+
+---
 
 
 ### :stars: MÓDULO III: Prototipado y Pruebas de Usabilidad
@@ -98,6 +108,8 @@ En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob
 ● Motion
 ● Accesibilidad
 ```
+
+---
 
 
 ### :stars: MÓDULO IV: Proyecto Final y Exposiciones
