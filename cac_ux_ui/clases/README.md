@@ -14,7 +14,7 @@
 
 - [**Clase 5**: 17 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase05.md) - **Research y Benchmarking** : ¿Qué significa iterar? /  UX Research /  Insights /  Benchmarking /  Tarea para el Proyecto Final
 
-- [**Clase 6**: 22 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase06.md)
+- [**Clase 6**: 22 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase06.md) - **Entrevistas cualitativas**
 
 - **Clase 7**
 
