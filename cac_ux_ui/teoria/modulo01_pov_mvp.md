@@ -51,7 +51,7 @@ Para elaborar un “Punto de Vista” tenemos que pensar en una **historia (brev
 
 ## :stars: Recursos: Storytelling y Storyboard
 
-### Storytelling en UX
+## :star: Storytelling en UX
 
 Estas técnicas narrativas son herramientas muy útiles para el diseño de servicios y productos digitales.
 
@@ -160,12 +160,91 @@ El hombre lo miró con asombro y le dijo:
 
 ## :stars: ¿Qué es un MVP?
 
----
+**Minimum Viable Product** - **Producto Mínimo Viable**.
+
+En desarrollo de producto, el producto viable mínimo es un **producto con suficientes características para satisfacer a los clientes iniciales, y proporcionar retroalimentación para el desarrollo futuro**.
+
+En desarrollo de startups (empresas emergentes altamente innovadoras), para garantizar que una startup tenga éxito, se necesita **desarrollar productos escalables**, que deben introducirse gradualmente. Esta práctica es muy funcional para reducir riesgos y evitar gastos excesivos. Se basa en una validación real, **basada en pruebas y feedbacks de los clientes**.
+
+![image](https://user-images.githubusercontent.com/72580574/227750649-3eaa3481-7662-4cd6-9b5f-d912132db90e.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/227750658-9c6b9426-3a66-4387-b2ec-45a3ecdeb014.png)
+
+
+Es la versión de un nuevo producto que permite a un equipo recolectar, con el menor esfuerzo posible, **la máxima cantidad de conocimiento validado sobre sus potenciales clientes**.
+
+Se utiliza para obtener un conocimiento rápido y cuantitativo del mercado de un producto, o de algunas funcionalidades en particular.
+
+**Tiene solamente aquellas funcionalidades que permiten que el producto sea lanzado*+.
+
+Al pensar en un nuevo servicio, producto o canal, se suelen establecer hipótesis o pequeños supuestos acerca de **lo que se necesita para solucionar una necesidad**.
+
 
 ## :stars: Listado de funcionalidades
 
+Un **ejercicio para determinar el producto mínimo viable**, permite establecer **qué ideas son válidas y cuáles deben descartarse** antes de iniciar la producción.
+
+Para lograrlo necesitamos:
+
+● **Listado de tareas**
+
+● Determinar cuales son **prioridad, imprescindible**.
+
+● Determinar futuras versiones, **deseable**.
+
+![image](https://user-images.githubusercontent.com/72580574/227750717-a6510900-0e36-421e-bce3-d41057281775.png)
+
+
 ---
 
-## :stars: Tarea para el Proyecto Final
+## :stars: Tarea para el Proyecto
+
+Para continuar con el Proyecto Final que vamos a desarrollar durante todo este curso:
+
+Vamos a realizar un POV aplicando las técnicas de Storytelling y Storyboard, esto nos permitirá a nosotros y a otros/as comprender y empatizar con nuestros usuarios.
+
+Para ello realizaremos las siguientes tareas:
+
+● POV - Completar la frase: Usuario - Necesita - Porque.
+
+● Storytelling - Crear una narración sobre nuestro proyecto que cuente con un:
+
+Inicio - Nudo - Desenlace, que cree una conexión emocional con nuestra User Persona. Que sea persuasiva y tenga relación con nuestros usuarios.
+
+● Storyboard - Representar visualmente la narración. Ilustrando los momentos clave de la historia (6 dibujos máximo).
+
+Recuerden que no es necesario saber dibujar “bien” sino que se entienda la idea.
+
+Puede ser a mano o digital, si es a mano deberán pasarlo a tinta y escanearlo con buena calidad y buena luz para que se pueda visualizar correctamente.
+
+Para continuar con el Proyecto Final que vamos a desarrollar durante todo este curso:
+
+Vamos a definir un MVP, esto nos permitirá tener en claro cuales son las funcionalidades básicas que debe tener mi app.
+
+Para hacerlo debemos:
+
+● Redactar una lista de tareas (todas las que se me ocurran relacionadas a mi proyecto).
+
+● Definir prioridades, cuáles tareas son imprescindibles para el funcionamiento de la app.
+
+● Definir cuáles tareas son deseables para versiones más avanzadas de mi app en un futuro (versión 2.0).
+
+● Identificar cuál es la función básica y primordial que mi usuario realizará en mi app, y por qué es deseable para mi usuario.
+
+Realizar un informe sobre las conclusiones del ejercicio, cuáles tareas se desarrollaran primero y por qué (explicar brevemente cada tarea).
+
+---
+
+## Ejemplo de entrega
+
+![image](https://user-images.githubusercontent.com/72580574/227750760-1ee57c90-ed4c-45ea-9c8f-2c2347b2841c.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/227750764-d70e146e-2344-4e09-8059-921b4c12c665.png)
+
+![image](https://user-images.githubusercontent.com/72580574/227750769-dbded2aa-65c1-4911-84d2-ee892451e33d.png)
+
+
 
 ---
