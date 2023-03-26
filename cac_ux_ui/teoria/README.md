@@ -12,7 +12,9 @@
 
 - [POV y MVP](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo01_pov_mvp.md): **4) Técnicas de Investigación y Validación de hipótesis** y **5) Técnicas para contar historias** ¿Qué es un POV? / Recursos: Storytelling y Storyboard / ¿Qué es un MVP? / Listado de funcionalidades / Tarea para el Proyecto Final
 
-## MÓDULO 2
+## MÓDULO 2 Arquitectura de la información
+
+- Arquitectura de la información: **1) Estructuras** :  ¿Qué es un mapa de sitio? /  Cardsorting /  Optimal Workshop /  Whimsical /  Tarea para el Proyecto Final
 
 ## MÓDULO 3
 
