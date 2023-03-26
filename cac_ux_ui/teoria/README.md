@@ -10,6 +10,8 @@
 
 - [User Persona y Entrevistas Cualitativas](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo01_user_presona_entrevistaS_cualitativas.md): **5) Técnicas de Investigación y Validación de hipótesis**: **User persona**:  ¿Qué es una Persona? /  Proto Persona y User Persona /  Mapa de empatía /  Tarea para el Proyecto Final / **Entrevistas Cualitativas**: ¿Qué es una entrevista? / Tipos de entrevista /  Etapas de una entrevista /  Tarea para el Proyecto Final
 
+- [POV y MVP](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo01_pov_mvp.md): **4) Técnicas de Investigación y Validación de hipótesis** y **5) Técnicas para contar historias** ¿Qué es un POV? / Recursos: Storytelling y Storyboard / ¿Qué es un MVP? / Listado de funcionalidades / Tarea para el Proyecto Final
+
 ## MÓDULO 2
 
 ## MÓDULO 3
