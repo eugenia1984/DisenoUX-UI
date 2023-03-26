@@ -14,7 +14,7 @@
 
 ## MÓDULO 2 Arquitectura de la información
 
-- Arquitectura de la información: **1) Estructuras** :  ¿Qué es un mapa de sitio? /  Cardsorting /  Optimal Workshop /  Whimsical /  Tarea para el Proyecto Final
+- [Arquitectura de la información](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo02_arquitectura_de_la_informacion.md): **1) Estructuras** :  ¿Qué es un mapa de sitio? /  Cardsorting /  Optimal Workshop /  Whimsical /  Tarea para el Proyecto Final
 
 ## MÓDULO 3
 
