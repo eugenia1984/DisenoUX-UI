@@ -149,10 +149,127 @@ A partir de estos resultados debemos analizar e interpretar la información, que
 
 ---
 
+![image](https://user-images.githubusercontent.com/72580574/227751132-974304d9-d06b-409f-b433-8f61786abe1b.png)
+
+
+---
+
+## Dendrograma
+
+![image](https://user-images.githubusercontent.com/72580574/227751144-43959ada-f6c4-4e74-aa33-637dee6fdf6c.png)
+
+---
+
+## Mapa de sitio
+
+A partir de los resultados obtenidos del cardsorting y del análisis posterior de sus diagramas, vamos a poder realizar el mapa del sitio, este permitirá ver las relaciones y agrupaciones establecidas entre los contenidos.
+
+En algunas ocasiones será necesario renombrar algunas categorías o incluso permitir el acceso a algún apartado desde distintas categorías.
+
+Allí indicaremos las secciones principales de nuestra app, cómo se conectan a las subsecciones y qué relación hay entre ellas, partiendo de la “Home”.
+
+![image](https://user-images.githubusercontent.com/72580574/227751161-33c28a8c-acd0-4001-8831-30bea8b3ab87.png)
+
+
+---
+
 ## :stars: Whimsical
+
+Es una herramienta online gratuita súper intuitiva y simple de usar, utilizaremos el **“Flowchart”** para diagramar:
+
+![image](https://user-images.githubusercontent.com/72580574/227751167-35a15ae7-ed80-4e17-81fb-a5267a792d6b.png)
+
+
+---
+
+## Ejercicio Práctico Nº8
+
+Consigna: Optimal Workshop y Whimsical
+
+Comenzamos el estudio haciendo click en “Create study” y elegimos Card Sorting.
+
+![image](https://user-images.githubusercontent.com/72580574/227751234-803dde2a-d766-47c3-96cd-28ccd8831da2.png)
+
+
+Agregamos Cards (Tarjetas) que correspondan a las funciones de nuestra app con el botón “Add card”
+
+![image](https://user-images.githubusercontent.com/72580574/227751220-d00a4593-7077-4919-bf46-df33b5735ada.png)
+
+
+Elegimos el tipo de Card Sorting a realizar según los criterios vistos en clase.
+
+![image](https://user-images.githubusercontent.com/72580574/227751211-a3087764-d7db-4929-9561-3419ed129dd1.png)
+
+Definimos los mensajes que van a guiar a la persona durante el ejercicio. Son:
+
+- Welcome screen: Pantalla de bienvenida
+
+- Instructions: Instrucciones
+
+- Thank you screen: Pantalla de agradecimiento
+
+- Closed: Cierre
+
+![image](https://user-images.githubusercontent.com/72580574/227751251-4f99d258-73a1-4172-a4de-dffc4e4c91ee.png)
+
+En este paso podemos agregar preguntas para conocer y entender mejor a las y los participantes:
+
+- Pre-study questions: Preguntas antes del estudio
+
+- Post-study questions: Preguntas al final del estudio
+
+![image](https://user-images.githubusercontent.com/72580574/227751291-a8e717c1-d94a-45e9-a61c-9d8b742d0675.png)
+
+Por último, configuramos el idioma, la duración del estudio y accedemos al link para compartirlo.
+
+![image](https://user-images.githubusercontent.com/72580574/227751306-6b2b5c95-7594-4cad-b88f-790f083db5f5.png)
+
+Haciendo click en “Preview” tenemos una vista previa del estudio. Lo compartimos haciendo click en “Launch”.
+
+![image](https://user-images.githubusercontent.com/72580574/227751313-e37f696a-0ac7-49f2-8893-96d3be0a46f8.png)
+
+
+Una vez que recopilamos todas las respuestas necesarias, en la pestaña de “Analysis” (Análisis) encontramos los resultados del estudio.
+
+![image](https://user-images.githubusercontent.com/72580574/227751334-6bdbe82c-0d01-4dc8-b87a-b3c87e3305f2.png)
+
+Como vimos en clase, nos vamos a focalizar en los siguientes para realizar el informe:
+
+- Similarity matrix: Matriz de similitud
+
+- Dendrograms: Dendrogramas
+
+![image](https://user-images.githubusercontent.com/72580574/227751355-e9c9ab61-910f-4156-ba45-0f6d60e2e282.png)
+
 
 ---
 
 ## :stars: Tarea para el Proyecto Final
+
+Para continuar con el Proyecto Final que vamos a desarrollar durante todo este curso:
+
+Vamos a realizar la Arquitectura de la información de nuestro proyecto aplicando la técnica de Card Sorting Abierto con Optimal Workshop, obtendremos como resultado el Dendrograma y la Matriz de similitud con las que realizaremos un informe de conclusiones.
+
+Para ello realizaremos las siguientes tareas:
+
+● Completar las tarjetas: 20 (tareas que surgen del MVP y Benchmarking)
+
+● Crear una introducción detallada para los participantes, explicando la consigna que deben cumplir con respecto a las tarjetas, realizarles preguntas de segmentación básicas (por ejemplo: nombre, ciudad, edad) y redactar las preguntas finales para los usuarios, para clarificar sus decisiones y ver si comprendieron el lenguaje de las tarjetas.
+
+● Invitar a 10 participantes mínimo (que pertenezcan al grupo de la user persona) y enviarles el link para el cardsorting, debemos recordarles que se realiza desde una PC si o si.
+
+● Analizar e interpretar los resultados (gráficos y respuestas), y realizar un informe con las conclusiones del estudio (aciertos, errores, correcciones realizadas, conclusiones, etc.).
+
+Luego vamos crear el Mapa de sitio, en Whimsical, utilizando la información validada por los usuarios, obtenida del informe del estudio de CardSorting y sus gráficos.
+
+Para hacerlo debemos:
+
+● Ir a Whimsical y seleccionar Flowchart
+
+● Definir cuáles van a ser mis categorías y subcategorías a partir de los resultados dados por los participantes/usuarios (como ellos ordenaron la información)
+
+● Crear el diagrama de mi app, utilizando los recuadros y flechas, en forma vertical, partiendo desde la HOME, siguiendo a las categorías principales y luego desde estas a las subcategorías y dentro las tareas u opciones que se encuentren.
+
+Tener en cuenta que como resultado debe quedar el diagrama de app lo más ordenado y coherente posible. Vamos a tratar de respetar al máximo las preferencias del usuario y también tener en cuenta nuestra interpretación de los resultados (por ej: si en las preguntas finales notamos que varias tarjetas no fueron comprendidas, pudieron ser ubicadas en lugares incorrectos o al azar, y tendremos que renombrarlas para facilitar su comprensión.)
 
 ---
