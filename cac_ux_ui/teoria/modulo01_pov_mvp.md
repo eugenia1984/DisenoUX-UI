@@ -6,7 +6,7 @@
 
 ● ¿Qué es un POV?
 
-● Recursos:Storytelling y Storyboard
+● Recursos: Storytelling y Storyboard
 
 ● ¿Qué es un MVP?
 
