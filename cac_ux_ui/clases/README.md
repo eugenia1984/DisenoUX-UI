@@ -16,7 +16,7 @@
 
 - [**Clase 6**: 22 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase06.md) - **Entrevistas cualitativas**
 
-- **Clase 7**: 29 MAR
+- [**Clase 7**: 29 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase07.md)
 
 - **Clase 8**
 
