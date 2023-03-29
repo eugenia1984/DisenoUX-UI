@@ -43,6 +43,6 @@ En **Canva** también hay storyboard.
 
 ---
 
--> En 4 clases hay pre entrega
+-> En 4 clases hay pre entrega : 12 abril
 
 ---
