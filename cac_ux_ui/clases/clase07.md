@@ -34,3 +34,11 @@ En **Canva** también hay storyboard.
 - **MVP** (Minimo Producto Viable): al desarrollar un producto NO PERDER EL NORTE, no olvidarnos para que la creamos, que no termine siendo un tuti frutti y termian siendo una ensalada.
 
 ---
+
+## Ejemplo como guia
+
+- MVP : imprescindibles / deseables-para el futuro-
+
+![image](https://user-images.githubusercontent.com/72580574/228678518-a2c01ad4-b3d5-4543-8f44-5c13bbb4f606.png)
+
+---
