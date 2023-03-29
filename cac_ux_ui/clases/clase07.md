@@ -20,10 +20,11 @@ Una vez que tenemos una mini historia cone stas tres respuestas armaamos el **st
 
 Es bueno usar datos en la historia, pero tener cuidado con los datos, hay que contarlo de una forma que se recuerde.
 
-Pasamos la historia a un **storyboard**. ¿Cómo hacerlo? Armamos cuadrados y empezamosa  dibujar, se puede hacer en pait, figma, [https://www.storyboardthat.com/es](https://www.storyboardthat.com/es)
+Pasamos la historia a un **storyboard**. ¿Cómo hacerlo? Armamos cuadrados y empezamosa  dibujar, se puede hacer en **PAINT**: 
 
 ![image](https://user-images.githubusercontent.com/72580574/228672542-38883755-8180-486d-8884-440568256326.png)
 
+O en [https://www.storyboardthat.com/es](https://www.storyboardthat.com/es):
 
 ![image](https://user-images.githubusercontent.com/72580574/228673206-3b21c769-4bf4-4da2-9a4d-9f0d4ee56298.png)
 
