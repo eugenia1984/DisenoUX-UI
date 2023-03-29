@@ -28,7 +28,9 @@ O en [https://www.storyboardthat.com/es](https://www.storyboardthat.com/es):
 
 ![image](https://user-images.githubusercontent.com/72580574/228673206-3b21c769-4bf4-4da2-9a4d-9f0d4ee56298.png)
 
+En **Canva** también hay storyboard.
 
-- **MVP**(Minimo Producto Viable)
+
+- **MVP** (Minimo Producto Viable): al desarrollar un producto NO PERDER EL NORTE, no olvidarnos para que la creamos, que no termine siendo un tuti frutti y termian siendo una ensalada.
 
 ---
