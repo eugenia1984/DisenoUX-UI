@@ -42,3 +42,7 @@ En **Canva** también hay storyboard.
 ![image](https://user-images.githubusercontent.com/72580574/228678518-a2c01ad4-b3d5-4543-8f44-5c13bbb4f606.png)
 
 ---
+
+-> En 4 clases hay pre entrega
+
+---
