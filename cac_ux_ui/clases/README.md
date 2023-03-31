@@ -18,7 +18,7 @@
 
 - [**Clase 7**: 29 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase07.md): **POV** y **MVP**
 
-- **Clase 8**
+- [**Clase 8**: 31 MAR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase08.md): **Arquitectura de la información**
 
 - **Clase 9**
 
