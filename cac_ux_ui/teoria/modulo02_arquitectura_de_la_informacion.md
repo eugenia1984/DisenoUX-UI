@@ -4,6 +4,8 @@
 
 ## :book: Temas:
 
+**Estructuras**
+
 ● ¿Qué es un mapa de sitio?
 
 ● Cardsorting
