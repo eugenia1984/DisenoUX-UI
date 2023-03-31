@@ -52,6 +52,29 @@ Muestra que dice la mayoria,  y a partir de que numero es mayoria(52%)
 
 
 
+-> Una vez que se obtiene el Dendograma puede ser que cueste analizar los resultados. **Primero hacer la hipotesis, el MVP** asi tenemso algo que validar.
+
+## Matriz de similitud
+
+![image](https://user-images.githubusercontent.com/72580574/229238262-0f35e7ef-e9fd-452c-91dd-411c0cab0e61.png)
+
+
+
+Estas 4 van juntas:
+
+![image](https://user-images.githubusercontent.com/72580574/229238339-05b89eae-9e9d-4d7c-ab47-26cde083c6c1.png)
+
+
+Estas van juntas:
+
+![image](https://user-images.githubusercontent.com/72580574/229238370-ecbd24ff-834c-48f6-bdb5-ea94fc176865.png)
+
+
+---
+
+El mapa del sitio tambien se puede aramar en Figma
+
+![image](https://user-images.githubusercontent.com/72580574/229240836-134d4220-0099-47f7-94db-56456e62bb90.png)
 
 
 ---
