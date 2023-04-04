@@ -467,11 +467,265 @@ Don't forget to bookmark your own favorite designers, organizations, and resourc
 ### Homework
 
 Create flash cards based on the key terms from this checkpoint. Just like when you learn a new language, you'll need to be well versed in UX design language.
+
 ---
 ---
 
 ## :star: 2.3 - Design Thinking
 
+
+#### LEARNING OBJECTIVE: By the end of this checkpoint, you will be able to define and explain the design process and advocate for the importance of empathy in design. You will demonstrate an initial ability to empathize with a user by producing two empathy maps.
+
+In this checkpoint, you will analyze the design thinking process, which refers to the cognitive, strategic, and practical processes that go into developing design concepts.
+
+You will explore the process, focusing on the key element of empathy. As you walk through the design process, you will be introduced to many new terms and ideas. The purpose of this checkpoint is to give you an overview of a very complex process. Then, when you learn how to do things later, you will be better equipped to understand how it all relates to the bigger picture. For now, focus on trying to understand the overall flow.
+
+At the end of this checkpoint, you'll complete an assignment creating two empathy maps for different user personas, representing your first deliverable as a designer!
+
+Key terms:
+
+- Design thinking
+
+- Deliverables
+
+- Artifacts
+
+- Empathy
+
+- Persona
+
+- Empathy map
+
+- Quantitative survey
+
+- Problem statement
+
+- Competitive analysis report
+
+---
+
+## :star: The design thinking process
+
+![image](https://user-images.githubusercontent.com/72580574/229806766-a0504728-8f35-4af2-b3ea-58159bb29589.png)
+
+
+### What is design thinking?
+
+In design thinking, a UX designer's goal is to understand the user, reframe their problems, and challenge assumptions. They also try to identify alternative design solutions based on the user and their needs. It's a way of thinking, ideating, and producing that includes hands-on methods.
+
+Design thinking revolves around questioning, understanding, and researching the people the products or services are designed for. You can use this process to help with several key tasks:
+
+- Observing and developing empathy with your target audience.
+
+- Engaging in the process of questioning: questioning the problem, questioning the assumptions, and questioning the implications.
+
+- Reframing design problems in a human-centric way, so that you ideate with an open mind and adopt a hands-on approach in prototyping and testing.
+
+- Experimenting in fun and experiential ways, such as sketching, prototyping, testing, and trying out concepts and ideas.
+
+### The five steps for the design thinking process are as follows:
+
+1. Empathize: Fully understand, relate to, and share another person's expressions, needs, and motivations.
+
+2. Define: Analyze and synthesize your observations in order to identify the core problems that you've uncovered in a human-centered way.
+
+3. Ideate: Generate ideas, including out-of-the-box and creative, unconventional solutions to the problem identified in earlier stages.
+
+4. Prototype: Develop an inexpensive, scaled-down version of a product to be shared with users. The prototype should be interactive, and it should simulate how the solution will work when it's built.
+
+5. Test: Investigate and observe users interacting with the prototype, and adjust or iterate based on the user's experience and feedback.
+
+---
+
+## Step 1: Empathize
+
+Empathize is perhaps the most crucial and most often overlooked stage in design. In this checkpoint, you'll focus mostly on this stage. Later in this program, you'll explore the other stages in more detail.
+
+### What exactly is empathy?
+
+Empathy is the ability to fully understand, mirror, then share another person's expressions, needs, and motivations. In UX, empathy enables the designer to understand not only the users' immediate frustrations but also their hopes, fears, abilities, limitations, reasoning, and goals.
+
+Empathy is one of the many soft skills that a great UX designer should have. Empathizing with users is key to understanding how to solve their problems—and ultimately, to building better products based around usable solutions. Empathy allows a designer to step outside of their assumptions so that they can see and experience the products that they're designing from the perspective of their users. This creates well-informed and well-researched products that better serve the end users.
+
+Empathy helps designers to understand and interpret people's emotional and physical needs. Empathic research is primarily concerned with facts about people, their motivations, inspirations, and thoughts. It's inherently subjective, but it still holds validity as another tool in a designer's arsenal of methods for creating usable products.
+
+###  Empathy is not pity or sympathy
+
+Empathy requires people to deeply experience what others experience; the same is not necessarily true of sympathy. Sympathy is often associated with a sense of detachment and superiority; when people sympathize, they tend to feel pity and sorrow for another person.
+
+Sympathy is not just useless in the design thinking process—it can actually be detrimental to good design. Good, user-centered designers are concerned with understanding the people they are designing solutions for, rather than judging them or projecting their own emotions onto their experience.
+
+###  Users don't always tell you what they need
+As a user-centered designer, you need to develop intuition, imagination, emotional sensitivity, and creativity. With these skills, you can extract the right kinds of insights so as to make more meaningful and usable products. People do not always convey all the details or communicate what they need in a standardized way. You'll need to use empathy in order to really understand people.
+
+### Empathy is crucial to business success
+
+![image](https://user-images.githubusercontent.com/72580574/229807891-8d7e6a05-0b23-4991-942b-ee19d42f69a1.png)
+
+here are three key parameters that define a successful product or service: desirability, feasibility, and viability. Considering these parameters is an important part of empathizing with your users.
+
+To be successful, a product or service must be technically feasible to create and maintain. It must turn a profit or offer other benefits so that it is viable from a business perspective. And users need to desire it; they must deeply relate with the solution that you are offering with your design, and be willing to trust the process.
+
+For example, Google Glass was a failure on the company's part because users didn't like the experience and didn't feel good using the product. By contrast, the iPod was very successful at not only providing a technological solution but also providing a completely desirable and profitable experience for the user. As a result, Apple gained a market lead.
+
+Think about a time that you tried a product, and it either didn't meet your needs or was frustrating to use. Did you continue using the product? Or did you move on to a different solution? This is the scenario that UX designers want to avoid by making sure that they understand what users will actually use.
+
+### Examples of empathize deliverables
+
+You may be musing, "All this thinking is good, but what does a UX/UI designer actually do?" Whatever the task at hand, UX professionals need to produce tangible records of their work. These records can include a wide range of items: data, reports, presentations, sketches, wireframes, prototypes, and more. These items are usually referred to as deliverables. Deliverables are the artifacts or other outcomes that a designer produces from the work that they do. Artifacts—the concrete items produced by the designer—can take many forms.
+
+Deliverables help UX designers communicate with various stakeholders and teams, document work, and generate materials for meetings and ideation sessions. They also help create a single source of truth; they can serve as guides and specifications for implementation and reference. Below are some examples of common types of deliverables that might be created during the empathize stage.
+
+1. **Persona**
+
+![image](https://user-images.githubusercontent.com/72580574/229808179-21289494-8579-4680-b414-191864048903.png)
+
+A persona is a fictional user's profile, which is used to communicate and summarize user research. Each persona has defined goals and characteristics, which are representative of the needs of a larger group of users. Designers use personas to represent many users at once because designing with an individual composite "person" is easier than trying to design for thousands of different people.
+
+2. **Empathy map**
+
+![image](https://user-images.githubusercontent.com/72580574/229808341-1ee75b09-8927-4a73-a4f7-65c6ea0ccec1.png)
+
+An empathy map is a graphical tool used to help you imagine things from a user's perspective. It usually asks you to answer some questions from a user's perspective as they encounter a task, such as the following: What do they see and hear? What do they think and feel? What do they say and do? By writing down these imaginings, you can more clearly conceptualize your persona interacting with a problem.
+
+3. **Quantitative survey**
+
+A quantitative survey contains objective questions used to gain detailed insights from respondents about a survey research topic. Results from these surveys are used to gather numerical data and determine statistical results, and the data can share insights about user behavior. Quantitative surveys are also useful for justifying decisions to stakeholders.
+
+---
+
+## Step 2: Define
+
+During the define stage, you connect the dots from the empathize stage. You analyze your observations and describe them so that you can define the core problems that you and your team have identified up to this point.
+
+### Examples of define deliverables
+
+#### Problem statement
+
+In this stage, you should seek to define the problem in a formal problem statement. The final problem statement is a simple but effective way to bring focus to the insights that you've uncovered with your empathy maps. Ultimately, when you're making decisions, you must always return to the question, "Does this solution solve the problem statement?" If the answer is no, you have gotten off course. Ask this question frequently—you don't want to produce a fully developed product and then discover that it didn't actually solve the problem!
+
+In every project that you complete in this program, you will be asked to explain how your solution addresses your problem statement.
+
+#### Competitive analysis report
+
+A competitive analysis report outlines the strengths and weaknesses of your competitors compared to those of your own business. Typically, it contains a description of your business's target market and details about the features of your product compared to your competitor's products. It is beneficial to know what your competitors are offering, what needs you can fill, and what problems you can find solutions for.
+
+However, it's important to note that other types of professionals, like digital marketers, also develop competitive analysis reports to better understand the competitive landscape. A UX designer, by contrast, would likely go further and deeper into the design flaws of a competitor's product. For instance, they may engage in a heuristic analysis, which is a technique used to evaluate the interface and design of a product against specific design standards and principles. (But don't worry—you'll learn more about heuristics later in this program.)
+
+---
+
+## Step 3: Ideate
+
+Ideation is a fancy word for coming up with ideas. By this stage, you've built a solid foundation: you have a clear understanding of who your users are and what they need, what problem you are trying to solve, and what solutions exist out in the world already. Now you can finally start thinking about what you are going to make!
+
+### Some ways to ideate
+
+1. **Brainstorming**: Most people are familiar with brainstorming. To get the most out of brainstorming, set a time limit. Try to focus on quantity over quality and write down as many ideas as you can think of. Do not worry about whether your ideas are practical, too expensive, or unrealistic. Just try to get down as many ideas as you can without judgment. The weirder or more outrageous, the better! This process can be done alone or in a group setting.
+
+2. **Mind mapping**: A mind map is a visual diagram that represents words, tasks, and ideas associated with a central keyword or idea. It doesn't have to be restricted to just words; you can also use drawings or colors. Begin with writing one word that summarizes the problem that you want to solve or the idea that you want to build on. Then, from that word, draw lines out and branch off into new words that relate to the core issue. You can also use other elements, such as color or imagery. Use lines to show connections between ideas and solutions. Create subbranches for ideas related to the main branch's ideas.
+
+### Examples of ideate deliverables
+
+1. **Sketches** : Sketching is a crucial skill in UX design. Be wary of the impulse to skip it! If you can sketch simple shapes—like rectangles, squares, circles, lines, and stick figures—then you can quickly communicate concepts and revise them on the fly. If you can sketch quickly, you can share an idea and immediately influence the outcome of a meeting with stakeholders, instead of taking hours to make wireframes. Also, nothing is more frustrating than spending hours on wireframes and then having to scrap them completely and start over because there wasn't an initial consensus on direction.
+
+2. **User flow**: A user flow is the path that a user typically takes on a website or app to complete a task. The flow leads from the entry point, through a series of steps, and toward a final action such as purchasing a product. User flows are useful to help demonstrate to other team members how a user interacts with an application.
+
+![image](https://user-images.githubusercontent.com/72580574/229809545-df0027e2-f341-4812-a794-d22dde4315ae.png)
+
+3. **User stories**: A user story (also called a use case) is a written description of how users will perform tasks on your website. Each one is a documentation of a sequence of steps, starting with a user's goal and ending when the goal is fulfilled. There can be multiple user stories for one application, depending on what a user is trying to accomplish and whether they're working toward a main or tertiary goal. These user stories should clearly demonstrate how your solution resolves your problem statement.
+
+![image](https://user-images.githubusercontent.com/72580574/229809716-951b9204-760c-452e-9783-c46fbe242720.png)
+
+4. **Storyboards**: In UX, a storyboard is a tool that visually lays out and explores a user's experience with a product—similar to the storyboards that are used in movies. Storyboards are valuable because they provide context about how and why people use products. They provide insight into the users' surroundings and goals, and they build relatable narratives.
+
+
+5. **Mood boards**: Mood boards communicate the artistic direction of a project. They are created through a collection of images, fonts, interactions, features, icons, and UI elements. It can be useful to look at different projects for inspiration about visual design and other features.
+
+---
+
+
+## Step 4: Prototype
+
+In this stage, the design team produces some inexpensive, scaled-down versions of the product. These prototypes are useful for investigating the design solutions generated in the previous stage.
+
+This stage helps the design team get a better idea of the challenges and constraints that are present. It allows internal and external stakeholders to get a better idea of how real users will interact with the end product.
+
+### Examples of prototype deliverables
+
+1. **Wireframes**: Think of a wireframe as a blueprint that provides the basic framework of a website. Some features are included, but they are not very detailed. Wireframes are valuable because they include enough features to conceptualize what the product will look like and how it will function—without spending too much time on visual details like color and typography.
+
+![image](https://user-images.githubusercontent.com/72580574/229810148-56d27347-42bd-43af-a8b2-dd75ddb4b788.png)
+
+2. **Prototypes**: A prototype is a clickable series of connected mockups that simulates how the solution will work when it's built. Sometimes it is difficult to explain a concept to team members; a clickable prototype that functions like the real software can help with clarification.
+
+![image](https://user-images.githubusercontent.com/72580574/229810315-54ac7a68-bdc9-4213-a3e7-8582f99a72dd.png)
+
+
+---
+
+## Step 5: Test
+
+In this stage, designers or evaluators go through the process of real-time testing. Although this can seem like the last stage before a product is sent over to the developers, design thinking is actually an iterative process. The results generated during the testing phase are often used to define pain points in a product's design. Then the team might go back to the prototype stage and work through these issues before retesting the product.
+
+### Examples of test deliverables
+
+1. **Usability report**: A usability report is a document that allows you to gain insight into user expectations and frustrations. It can be crucial in evaluating your product's success. It provides insight into user frustrations and behavior, which can provide feedback and improve the product.
+
+2. **Analytics report**: An analytics report is a custom report with dimensions and metrics that you decide. It's a good way to explore custom information and deeper targeted metrics about your product.
+
+---
+
+### Summary
+
+In this checkpoint, you explored the design thinking process, which consists of the cognitive, strategic, and practical processes that go into developing design concepts.
+
+Throughout this checkpoint, you focused on the key element of empathy. Empathize is the first stage of the design thinking process, but designing with empathy is essential throughout all five steps of the process. Empathy is crucial to a human-centered design process because it helps design thinkers to set aside their own assumptions about the world in order to gain insight into their users and their needs.
+
+As you learned, UX designers do a lot of different things on a daily basis. In this checkpoint, you also evaluated UX deliverables. Whatever the task at hand, UX professionals need to communicate design ideas and research findings to a range of audiences. They use deliverables for that purpose.
+
+---
+
+## :star:  Assignment 3 ⭐
+
+### Empathy mapping, mind mapping, and brainstorming
+
+This exercise will demonstrate the value of empathy mapping and understanding different users. It will help you to get to know two personas better, and it can help to fill in any knowledge gaps that you may have overlooked initially.
+
+For this activity, you are going to make two empathy maps for two personas. These personas represent different people who are purchasing a car. The goal is to use empathy to find out more about each user, and then apply the findings toward making the experience better for both of them. This activity and mode of thinking can be applied to any type of product or service, including digital interfaces. Whether you're empathy mapping for a vehicle-purchasing journey or for someone using an app, the same methodology applies.
+
+1. Make a copy of the empathy map template.
+
+2. Consider the simple personas below:
+
+- The first user is Maria, a 72-year-old retired woman with an upper-middle-class income. She sometimes cares for her three grandchildren, who are all under the age of eight.
+
+- The second user is Seth, a 23-year-old working-class student who works full time. He attends night classes to work toward his associate's degree in music studies.
+
+3. Spend about ten minutes on each persona. Fill out the sections and imagine the perspective of each user. See if you are able to make some connections that weren't immediately obvious. Don't be afraid to include any idea, no matter how far-fetched it may seem. Sometimes out-of-the-box ideas end up being quite valuable. Include at least 5-10 items in each box. Use the questions below to help you.
+
+- What would their fears be? Their concerns?
+
+- What would they want as part of their experience?
+
+- What would they try to avoid based on their individual sets of circumstances?
+
+- How would each user prefer to research their choices? Online? In person?
+
+- Which persona is more likely to care about the stereo system? About safety and security?
+
+- What other features might each user want in their ideal car?
+
+4. On the recommendations page of your template, answer the following question:
+
+- If you were hired by the car dealership to improve the user experience, how would you improve their process based on empathizing with these two different users?
+
+---
+
+## Submission
+
+Share your excel sheets with us. Paste your link in the slack channel #uxui-assignment03. Don't forgt to solve save them in your design journal.
+
+---
 ---
 
 ## :star: 2.4 - Understanding Users
