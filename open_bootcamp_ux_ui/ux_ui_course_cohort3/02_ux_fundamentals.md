@@ -730,20 +730,198 @@ Share your excel sheets with us. Paste your link in the slack channel #uxui-assi
 
 ## :star: 2.4 - Understanding Users
 
+### LEARNING OBJECTIVE: By the end of this checkpoint, you will be able to advocate for the value of user research. You will also be able to explain the history of human-centered design and describe how it applies to user research.
+
+In the previous checkpoint, you completed an empathy mapping project. You sought to understand users, as represented by two personas, and began thinking about solutions. In this checkpoint, you'll delve deeper into empathy and complete a design thinking challenge centered around social change.
+
+You will also look at the value of user research for understanding the user, and you'll take a tour of what a user researcher does in their career.
+
+### Key terms
+
+- Human-centered design (HCD)
+
+- User research
+
+- Empathy
+
+- Empathy mapping
+
+---
+
+## :star: Human-centered design
+
+Human-centered design (HCD), which is also called user-centered design, is an approach to problem-solving that is commonly used in design frameworks. To create solutions, HCD uses the human perspective in all steps of the problem-solving process.
+
+How does HCD work in the real world? Typically, you and your team will observe a problem within a particular context, brainstorm and ideate, conceptualize, and develop a solution to implement.
+
+![image](https://user-images.githubusercontent.com/72580574/229812643-63c8bec7-09f4-480f-842b-dad2b0cc870d.png)
+
+There are three phases of human-centered design: inspiration, ideation, and implementation. You may be wondering, "Didn't I just learn a similar-sounding set of phases in design thinking?" There is indeed a lot of overlap; HCD and design thinking are often used together. Design thinking is a process that is used to go from problem to product, while HCD is a philosophy that can be applied along the way. Design thinking and HCD can work together to help you develop empathy in every part of the process.
+
+These ideas may seem muddy at first, and that's okay. They are difficult to grasp because they are less about following rules and more about shifting the way that you think. The more that you engage with these ideas along the way, the more that you will start to develop your own design point of view and see how these ideas inform practical activities.
+
+### Overview
+
+![image](https://user-images.githubusercontent.com/72580574/229812761-5a8407be-7873-4d58-b3ae-3cf4bde93eeb.png)
+
+Here's an overview of each stage in HCD:
+
+1. The inspiration stage requires research. In this stage, designers engage directly with the target audience to understand their biggest problems and pain points.
+
+2. The ideation stage is a brainstorming session. It requires designers and researchers to create a long list and tweak it, take good ideas and make them better, and then refine and revise as necessary.
+
+3. The implementation stage is the time to market the product. Using empathy, designers imagine themselves in their users' shoes and market to them from that point of view. Designers must keep in mind how they would want to be marketed to if they were the end user.
+
+An example of a human-centered product is the electric toothbrush. The streaming service Spotify provides another example; it addressed specific user pain points: music was too expensive, too hard to find in stores, and often required a cumbersome ordering process.
+
+## :star:  History of human-centered design
+
+Design theorist Horst Rittel devised the term wicked problems to describe complex problems that aren't easily solved. He asserted that problem-solving methods should be collaborative, adaptable, and centered on the complexities of human behavior. This concept served as the foundation for human-centered design.
+
+So, what exactly is human-centered design? Human-centered design is a creative problem-solving process that begins with understanding human needs and ends with innovative solutions. HCD was championed by Nobel Prize laureate Herbert Simon, and it was developed and taught by the Stanford University Design School. It was then leveraged by design firm IDEO.
+
+
+![image](https://user-images.githubusercontent.com/72580574/229813010-f86f4754-ac31-4058-94a2-3e8fe8913e83.png)
+
+IDEO is an innovative design firm. It was one of the first firms to focus on creating experiences beyond the screen, and human experience is at the forefront of every product and service that the firm offers. IDEO popularized human-centered design and applied it along with the design thinking approach.
+
+You may have noticed that IDEO has been mentioned several times already in this program. This is because it has had a big impact on shaping the way that modern product design is done. Using HCD processes, IDEO innovated the first computer mouse, which was used by Apple for the Apple Lisa computer. Their first attempt at a mouse was far too expensive and difficult to make. Through feedback and constant revision, they were able to make a working prototype that was affordable and viable—and eventually went on to be mass marketed. The mouse brought about a huge change in the way people interacted with a computer. It made navigating an interface more accessible for the average person, because it made it unnecessary to learn and memorize a bunch of keyboard shortcuts.
+
+IDEO is an international design and consulting firm with three decades of experience and multiple branches in the United States and Asia. As a thought leader in the design industry, the company makes many resources available for free use, including case studies and certifications. IDEO also produced a free book, the HCD ToolKit, that outlines how human-centered design impacts not only designers, but also innovators, entrepreneurs, and educators.
+
+HCD should inform how you approach any role in UX/UI. But it is especially important for UX researchers, who are often the closest to the users.
+
+---
+
+## :star:  User research careers
+
+
+A career in UX research can seem daunting because it is a constantly evolving field with differing schools of thought and flexible parameters. Because UX research encompasses multiple disciplines, there is no simple and linear path to achieve it. Unlike many other tech roles, UX research is best learned from hands-on application and collaboration. Learning UX theory from books is an important step, but learning by doing is absolutely critical. Guidance from experienced designers is also essential. Foundational research skills must be practiced often to encourage growth and maturation of the skill set.
+
+For these reasons, after the Fundamentals modules of this program, everything that you do will be heavily project based. You will receive feedback from experienced designers throughout the UX/UI Open program.
+
+The role of a UX researcher is to discover insights, make connections, and guide the design process early on. Before any slick screens or glossy effects and interactions can be chosen, there needs to be a foundation in place to build upon. A UX researcher has a critical and unique role; they use a combination of data-supported metrics and thoughtful qualitative information to make meaningful correlations and suggestions. Their goal is to represent the users and provide the best possible experience for them. UX researchers also serve as liaisons between multiple departments and stakeholders.
+
+Although tasks and responsibilities vary depending on the size of the team and business, UX researchers are generally responsible for the following:
+
+### Recruitment and planning
+
+- Crafting a well-developed plan with clear goals and objectives
+
+- Developing usability tests, interviews, and surveys
+
+- Recruiting participants for research studies and usability tests
+
+### Information gathering
+
+- Observing moderated usability tests
+
+- Using surveys to gather quantitative data
+
+- Recruiting participants for research studies and usability tests
+
+### Information analysis
+
+- Discovering insights about end users
+
+- Analyzing the findings and translating them into meaningful, actionable ideas
+
+### Insight presentation
+
+- Using journey maps, personas, and other deliverables to present discoveries to other teams
+
+### Action plan
+
+- Gathering information while working with the product team
+
+- Determining research goals and executing the research plan
+
+There are many different methods that can be used throughout the research process. One of the most crucial research tasks is to accurately summarize, capture, and represent users in a persona. A detailed persona will include goals, pain points, and frustrations that users encounter. These should be distributed to other teams and will guide the development of a product based on insights rather than assumptions. Personas, in combination with other assets and deliverables, provide valuable insights that can be used by stakeholders throughout the development process.
+
+The term UX researcher is somewhat nebulous and means different things to different firms. Many companies combine roles and require different responsibilities. Here are some useful links that you can use to get started on your search for UX jobs:
+
+
+UX Jobs Board
+
+User Experience Professionals Association
+
+AIGA Design Jobs
+
+Indeed
+
+Glassdoor
+
+---
+
+
+## :star: Making the case for user-centered design research
+
+
+Part of being a UX practitioner is advocacy. Since not everyone is a UX expert who immediately understands the value that research brings to the table, you will need to share your knowledge with the people around you. It is part of your job to ensure that other people realize the value of research, and to push back against the perception that it is abstract or unnecessary.
+
+You may find yourself wanting to jump straight to solutions and start building the product. But just as a building needs surveys, blueprints, and a solid foundation before it's time to start picking out the wallpaper, it's absolutely critical to do the hard work of research before generating solutions.
+
+To communicate the value of research, it can be helpful to put it into more tangible terms. Try to connect it to the results that stakeholders are looking for. For example, to show how your research will help the company cut costs or increase profits, you can use a metric called return on investment, or ROI. This is a way to justify the time and space needed to conduct research. Often, large enterprise companies find numbers more persuasive than anything else.
+
+The good news is that poor user experience directly affects the bottom line, and you can use this knowledge to your advantage. When you are deciding how to communicate the value that your research can offer, keep in mind that phrasing is important. All of your work can be translated into business-friendly terms. For instance, "brainstorming" can sound a bit superfluous; try translating this into "strategizing and analysis phase" when you're describing the process to stakeholders. Keep action words in mind. The metrics are always there—you just need to learn where to search for them. Try to make connections between current inefficiencies and show where and how UX can improve the process.
+
+
+One example is the time, money, and resources that programmers spend completing avoidable rework. If the organization spends a bit of time up front to conduct usability testing, this labor can be avoided. To get an accurate idea of the numbers, you can simply ask. Or you can observe how much time the development team spent redoing work because of needed changes that went unidentified the first time around. It's not uncommon for the engineering team to spend 50% of their time on such a task. How many hours could you save them by spending four hours on six different usability tests?
+
+Another thing to consider is how long it can take to train someone to use overly complex or nonintuitive software. How can you help save time and labor on training by closing inefficiency gaps up front? As you conduct these tests, document the changes that you make and the time that you save. Keep track of how you document your work and your process, because it is key in communicating with your colleagues and putting it into terms that they can understand.
+
+### Quantity versus quality
+
+The data gathered from conducting research will fall into one of the following two categories: quantitative data is information about quantities or numbers, and qualitative data is descriptive and concerns phenomena that can be observed but not measured. Quantitative data is easier to gather quickly and in large quantities, but it doesn't allow for much nuance or deeper insight. Qualitative data, if done right, can provide much richer information—but it is more difficult and takes longer. During a project, there may be different times to use each approach. In later checkpoints, you will get into how to develop and carry out your research plan.
+
+
+---
+
+## :star:  Market research versus UX research: Why not both?
+
+It is critical that you know the differences between market and UX research. Each is important and contributes to your overall goals in different ways. Generally, market research refers to understanding purchasing behavior and preferences around products and messaging. It is used to gather demographic information and understand the attitudes surrounding a product. The intention behind market research is to provide insight into the viability and market strategy for a product.
+
+While the goal of market research is to sell products, the goal of UX research is to focus on the interaction between customers and products. It identifies the ways in which people use a product, and it explores the problems that they encounter during the process. It also uncovers the needs that aren't being met within the existing model. The information gathered informs design solutions. Then, iterative testing can help ensure that the prototype is aligned with users' needs. By implementing this research before a product is built, redundant work can be avoided, while customer service complaints and low satisfaction scores can be greatly reduced.
+
+![image](https://user-images.githubusercontent.com/72580574/229814087-487da857-30c1-4210-91ba-6019358a99e4.png)
+
+User research is a deeply important skill set that you could build an entire program around. While the program doesn't give you a deep-dive in user research, it does provide a sufficient foundation for your UX/UI career.
+
+---
+
+## Summary
+
+In this checkpoint, you analyzed human-centered design, which is a fundamental principle in UX design. HCD should be learned early on and kept at the forefront of a practitioner's mind. Everything a designer works on, from an interface to a material product, should aim to be useful and improve the lives of other people. Even saving someone a click or a few seconds can make the difference between a purchase or an important decision that could influence their future. As a designer, you should always be thinking about how you can improve things.
+
+You also looked at the value of user research for understanding the user, and you took a tour of what a user researcher does in their career.
+
+---
+
+##  Additional resources
+
+[In this video series from Khan Academy](https://www.khanacademy.org/college-careers-more/career-content/conduct-research/user-experience-researcher/v/aidan-user-experience-researcher-what-i-do-and-how-much-i-make), user experience researcher Aidan Bryant of Google breaks down her overall responsibilities, gives insight on salary expectations, and unpacks the steps that she took to land a UX role at Google.
+
+Another good starting point to give you a flavor of user experience as a field and profession is [The UX Careers Handbook](https://uxcareershandbook.com/) by Cory Lebson. In his book, Lebson offers an insider's look at how to be a successful user experience professional. The book explores comprehensive career pathways; it discusses learning, personal branding, networking skills, building resumes and portfolios, and actually landing a UX job.
+
+---
 ---
 
 ## :star: 2.5 - The Visuals
 
+
+---
 ---
 
 ## :star: 2.6 - Designing for everyone
 
+
+---
 ---
 
 ## :star: 2.7 - Design Process
 
 ---
-
+---
 ## :star: 2.8 - Design Foundations
 
 
