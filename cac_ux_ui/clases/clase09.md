@@ -8,4 +8,15 @@
 
 [Video de ejemplo de la importancia de las tareas para el user flow](https://www.youtube.com/watch?v=cDA3_5982h8&ab_channel=JoshDarnit)
 
+
+Debemos determinar...
+
+... la tarea que quiere realizar el usuario
+
+... saber qué es importante para el usaurio y qué le da confianza
+
+... qué información adicional necesita para realizar la tarea
+
+... que dudas tiene
+
 ---
