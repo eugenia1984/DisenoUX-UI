@@ -219,7 +219,6 @@ Aclaraciones: Deben utilizar las figuras geométricas sugeridas en esta clase co
 
 ![image](https://user-images.githubusercontent.com/72580574/229244244-e551a309-6307-4a66-adde-b8ff1a0574e4.png)
 
-![image](https://user-images.githubusercontent.com/72580574/229244258-dc86b2ea-e3eb-4235-9793-200072102b3e.png)
 
 ---
 
