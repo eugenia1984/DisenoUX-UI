@@ -34,7 +34,7 @@ Definir los flujos de usuario conduce a una mejor experiencia de usuario, ya que
 
 ---
 
-##Ejemplo de User FLow:
+## Ejemplo de User FLow:
 
 ![image](https://user-images.githubusercontent.com/72580574/229243253-e464150f-1ffa-4e99-9a9b-f86c502ccc0c.png)
 
