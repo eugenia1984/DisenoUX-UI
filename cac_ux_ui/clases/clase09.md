@@ -36,6 +36,6 @@ Debemos determinar...
 
 - OTRO PATH CON ERRORES:
 
-![image](https://user-images.githubusercontent.com/72580574/230219678-3e3c840e-41fb-41eb-8bc7-bec1669a11c6.png)
+![image](https://user-images.githubusercontent.com/72580574/230220036-f0fd813a-1cda-446e-82bb-14b5244a70da.png)
 
 ---
