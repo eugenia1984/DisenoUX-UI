@@ -20,3 +20,9 @@ Debemos determinar...
 ... que dudas tiene
 
 ---
+
+## Ejemplo de user flow para registrarse
+
+![image](https://user-images.githubusercontent.com/72580574/230215504-a98b845c-b552-4d3a-8a12-94b3a3b048da.png)
+
+---
