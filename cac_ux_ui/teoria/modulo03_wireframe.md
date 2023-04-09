@@ -122,3 +122,42 @@ En procesos colaborativos de diseño de nuevos productos y servicios, y de mejor
 
 
 ---
+
+
+## :star: 1.2 - ¿Qué es un Wireframe?
+
+Un wireframe, también conocido como un esquema de página o plano de pantalla, es una guía visual que representa la estructura esquelética de un sitio web o aplicación.
+
+Los wireframes se crean con el propósito de organizar los elementos para que estos lleven a cabo, lo mejor posible, su propósito particular.
+
+Con los wireframes nos centraremos en el diseño del contenido.
+
+Normalmente se hacen en escala de grises o en blanco y negro.
+
+
+### Wireframe (Baja)
+
+
+Es la representación de baja fidelidad (lo-fi) de un diseño.
+
+Su objetivo es comunicar la estructura de la solución de diseño que estamos pensando: ¿Dónde estarán los menús? ¿El logo? ¿Qué jerarquía tendrán los distintos grupos de contenido? ¿Los Call To Action principales? (elemento que invita al usuario a realizar una determinada acción por ej: Botón)
+
+Van a ser en escala de grises porque su análisis se centra en lo estructural y no en el contenido, es decir que el contenido de texto e imágenes aún no estará definido. Lo elemental es que se tenga una idea del espacio y jerarquía que ocuparían.
+
+No se recomienda invertir demasiado tiempo en ellos: cuanto más rápido lo hacemos, más rápido nos ponemos de acuerdo sobre qué construir realmente. No deben ponerle detalles, ya que estaremos gastando tiempo de más en una instancia que aún tiene muchos cambios por experimentar.
+
+"El diseño digital es como una pintura al óleo, excepto que la pintura nunca se seca".- Neville Brody.
+
+
+
+Boceto sencillo y esquemático de la estructura y elementos de la interfaz de la app
+
+---
+
+## :star: Ejercicio Clase 11
+
+Realizar el wireframe de la home en papel o a mano. Dibujar 3 opciones de Home.
+
+
+
+---
