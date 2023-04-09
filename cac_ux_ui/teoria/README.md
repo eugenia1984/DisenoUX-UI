@@ -26,7 +26,10 @@
 
 ---
 
-## MÓDULO 3
+## MÓDULO 3: Prototipado y Pruebas de Usabilidad
+
+
+- Wireframes
 
 ---
 
