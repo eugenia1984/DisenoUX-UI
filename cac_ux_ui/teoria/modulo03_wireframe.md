@@ -161,3 +161,58 @@ Realizar el wireframe de la home en papel o a mano. Dibujar 3 opciones de Home.
 
 
 ---
+
+## :star: 1.3 - Wireframe Digital
+
+Al ser digital nos permite agregar un poco más de detalles y prolijidad que en el wireframe a mano, pero sigue siendo un boceto de los elementos que forman la interfaz.
+
+“Es un espacio en donde se articula la interacción entre cuerpo humano, herramienta, y el objeto de acción” Gui Bonsiepe - Del objeto a la interface.
+
+Utilizaremos la herramienta “Figma” que sirve, entre muchas otras funciones, para crear prototipos y wireframes digitales.
+
+
+
+### Wireframes digitales:
+
+
+
+Vamos a pasar a digital los bocetos que hicimos en papel, usando los elementos dados por el/la docente en Figma.
+
+
+
+### Tipos de app
+
+- **App Nativa**: que se descargan e instalan desde el “store”, se diseñan para Android o IOS basándonos en las guías o guidelines de cada una, no requieren internet para funcionar, permiten utilizar el 100% de rendimiento del dispositivo.
+
+- **Web App**: no necesitan instalarse, pueden verse desde el navegador, ni se actualizan, requieren conexión a internet para funcionar, no permiten usar el hardware del teléfono.
+
+- **App Híbrida**: es una combinación entre las anteriores. Se desarrolla primero la web y luego se crea una app nativa. mismo código multiplataforma.
+
+
+---
+
+
+## :star: 1.4 - Proyecto Final
+
+### TAREA PARA EL PROYECTO FINAL
+
+Para comenzar a diseñar la interfaz del prototipo del Proyecto Final que vamos a desarrollar:
+
+Comenzaremos realizando el boceto del Wireframe a mano de nuestro “Happy Path”, es decir el camino feliz que recorre el usuario para solucionar su problema en nuestra app. Empieza por Registrarse en la app, la Home, y luego las siguientes pantallas para completar el happy path. Luego de tener todos los bocetos de las pantallas a mano y usándolos de referencia haremos los Wireframes Digitales en Figma utilizando los elementos provistos para facilitar la tarea.
+
+Para tener claro que pantallas voy a diseñar necesitaremos previamente tener hechos:
+
+- Task Flow
+
+- User Flow
+
+- Mapa de Sitio
+
+- MVP + POV + Storyboard
+
+Aclaración: Los wireframes digitales van a estar en Fidelidad Baja, es decir, en escala de grises, con los elementos dados, sin el contenido de texto específico, ni imágenes aplicadas.
+
+
+
+
+---
