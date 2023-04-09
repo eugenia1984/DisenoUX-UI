@@ -29,7 +29,7 @@
 ## MÓDULO 3: Prototipado y Pruebas de Usabilidad
 
 
-- Wireframes
+- [**Wireframes**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_wireframe.md)
 
 ---
 
