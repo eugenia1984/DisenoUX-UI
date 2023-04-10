@@ -29,11 +29,44 @@
 ## MÓDULO 3: Prototipado y Pruebas de Usabilidad
 
 
-- [**Wireframes**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_wireframe.md)
+- [**Wireframes**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_wireframe.md): **1) Software Figma**: Prototipo a mano y Digital / 
+
+
+● Patrones de Diseño
+
+● Prototipo Funcional
+
+● Pruebas de Usabilidad y Métricas
+
+● Atomic Design
+
+● Aplicación de Grillas
+
+● Guidelines (Android y IOS)
+
+● Ui Kit
+
+● Motion
+
+● Accesibilidad
 
 ---
 
 
-## MÓDULO 4
+## MÓDULO 4 : Proyecto Final y Exposiciones
+
+**1) Reporte UX y Portfolio**
+
+● Presentación del trabajo grupal (Desarrollo de habilidades blandas)
+
+● Presentación correcta de la investigación y los estudios de validación de hipótesis
+
+● Desarrollo de la temática y correcta redacción de los descubrimientos y conclusiones
+
+● Presentación de estructuras del sitio por medio de diagramas
+
+● Presentación de los wireframes y su evolución (Cambios de Fidelidad y uso de mockups)
+
+● Presentación del prototipo funcional en alta fidelidad
 
 ---
