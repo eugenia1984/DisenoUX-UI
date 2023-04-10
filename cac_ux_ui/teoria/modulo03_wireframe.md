@@ -295,4 +295,5 @@ La primera pre entrega de este curso se realiza mediante el link al
 "Para que un equipo funcione, además del talento y el esfuerzo, a sus miembros les tienen que brillar los ojos".-Javier Salvat
 
 "Solos podemos hacer pocoM jintos podemos hacer mucho más."-HElen Keller
+
 ---
