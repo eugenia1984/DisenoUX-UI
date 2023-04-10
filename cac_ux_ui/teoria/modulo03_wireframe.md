@@ -38,7 +38,7 @@ Luego de realizar la investigación previa, de haber interpretado cada uno de lo
 
 - Un prototipo también es un **objeto diseñado para una demostración de cualquier tipo de producto, servicio, software, app**, etc.
 
-Ayudan a** plasmar visualmente** los **objetivos** de negocio y cómo se alinean con las expectativas y **necesidades de los usuarios** y si son **satisfechas a través del producto digital diseñado**.
+Ayudan a **plasmar visualmente** los **objetivos** de negocio y cómo se alinean con las expectativas y **necesidades de los usuarios** y si son **satisfechas a través del producto digital diseñado**.
 
 ---
 
