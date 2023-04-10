@@ -1,16 +1,25 @@
-# :star: MÓDULO III: Prototipado y Pruebas de Usabilidad
+# :star: MÓDULO III: Prototipos y Wireframes
 
 ---
 
 ## :book: Temas
 
-1.1 Prototipado
+1.1 Prototipado. ¿Qué es un prototipo?
 
-1.2 Qué es un framewares?
+1.2 ¿ Qué es un framewares?. Wireframes en baja/media/alta. Bocetos a mano.
 
-1.3 Wireframe Digital
+1.3 Wireframe Digital, Figma
 
 1.4 Proyecto final
+
+1.5 Preentrega
+
+---
+
+## ¿En que etapa estamos?
+
+![image](https://user-images.githubusercontent.com/72580574/230811522-8e9fe8b1-ba56-48e4-8610-223b1725920f.png)
+
 
 ---
 
@@ -215,4 +224,32 @@ Aclaración: Los wireframes digitales van a estar en Fidelidad Baja, es decir, e
 
 
 
+---
+
+## :star: Preentrega
+
+### Primera Preentrega del Proyecto Final Obligatorio
+
+La primera pre entrega de este curso se realiza mediante el link al
+“Formulario de Primera Preentrega”.
+
+1 solo representante del equipo debe completar en el formulario:
+
+● Nombre del equipo
+
+● Nombre completo de los integrantes del equipo
+
+● Link al Proyecto en formato Google Slides
+
+● Responder si o no en el listado de tareas
+
+---
+
+**¡Felicitaciones! Ya completaron la primera parte del curso: Diseño UX/UI**
+
+## Les compartimos algunas frases sobre motivación y trabajo en equipo:
+
+"Para que un equipo funcione, además del talento y el esfuerzo, a sus miembros les tienen que brillar los ojos".-Javier Salvat
+
+"Solos podemos hacer pocoM jintos podemos hacer mucho más."-HElen Keller
 ---
