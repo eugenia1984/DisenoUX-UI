@@ -175,13 +175,6 @@ Boceto sencillo y esquemático de la estructura y elementos de la interfaz de la
 
 ---
 
-## :star: Ejercicio Clase 11
-
-Realizar el wireframe de la home en papel o a mano. Dibujar 3 opciones de Home.
-
-
-
----
 
 ## :star: Ejercicio Clase 12
 
