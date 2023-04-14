@@ -22,7 +22,7 @@
 
 - [**Clase 9**: 05 Mayo](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase09.md): **User Flow**
 
-- **Clase 10**
+- **Clase 10**:  07 Maayo: **Clase de repaso**
 
 - **Clase 11**
 
