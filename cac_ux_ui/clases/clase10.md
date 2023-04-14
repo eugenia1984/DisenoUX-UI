@@ -71,13 +71,96 @@
 
 - Entrevistas:
 
-![image](https://user-images.githubusercontent.com/72580574/232159464-ba70fdb8-acf3-4022-a025-8da02446e119.png)
+![image](https://user-images.githubusercontent.com/72580574/232159726-01cae202-e170-4131-a6f2-28415e65807a.png)
+
 
 - Research:
+
+![image](https://user-images.githubusercontent.com/72580574/232159757-a29389ad-3c99-4c7e-beaf-bdb1c958118e.png)
 
 
 - POV - StoryTelling:
 
+![image](https://user-images.githubusercontent.com/72580574/232159464-ba70fdb8-acf3-4022-a025-8da02446e119.png)
+
+- Storyboard
+
+![image](https://user-images.githubusercontent.com/72580574/232159822-43b71259-687b-4b04-8282-73e0d23acaa5.png)
+
+- MVP:
+
+![image](https://user-images.githubusercontent.com/72580574/232159870-33b62e3e-2640-46f0-add9-a1513c2b62ae.png)
+
+- Arquitectura d ela informacion
+
+![image](https://user-images.githubusercontent.com/72580574/232160116-ba6fb187-f74b-4a8f-bbff-51d8da655d2a.png)
+
+- Cardsorting
+
+![image](https://user-images.githubusercontent.com/72580574/232160149-d348dc8d-b3cb-4c5f-a7f1-bd431bad5580.png)
+
+- Matriz de similitud
+
+![image](https://user-images.githubusercontent.com/72580574/232160191-33939f18-97af-4c84-aa8c-469071e43fd8.png)
+
+- Dendograma - conclusiones:
+
+![image](https://user-images.githubusercontent.com/72580574/232160253-becc42c7-90c4-4808-8589-c5e2847fdd60.png)
+
+
+- Estructura de la información:
+
+![image](https://user-images.githubusercontent.com/72580574/232160306-18ed2afc-485a-4ba0-8b4e-b58e2ffe8f6a.png)
+
+
+- Task Flow - User Flow - Happy Path:
+
+![image](https://user-images.githubusercontent.com/72580574/232160364-5d9607c5-4a3d-4ef4-97d4-c62ae9ae6103.png)
+
+![image](https://user-images.githubusercontent.com/72580574/232160386-83658df8-a976-4311-a9b4-263496af9971.png)
+
+- WireFRames digitales en baja fidelidad
+
+![image](https://user-images.githubusercontent.com/72580574/232160487-555fd6d6-f11a-40fc-aa03-09edb85f9d5b.png)
+
+- WireFrames en fidelidad media:
+
+![image](https://user-images.githubusercontent.com/72580574/232160536-9739fc85-9939-4f84-9f48-2dd24df44b28.png)
+
+
+- Pototipo Funcional:
+
+![image](https://user-images.githubusercontent.com/72580574/232160582-c8473ce2-3c16-4391-a7f6-e77e8a6a58ab.png)
+
+- Prueba de usabilidad con 5 usuarios
+
+![image](https://user-images.githubusercontent.com/72580574/232161484-e51bbfcd-c1fa-4206-ae2c-65876bedaa4d.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/232161512-d41a96df-879f-4db3-a430-0647d030fb82.png)
+
+
+- Pruebas de usabilidad - Metricas de satisfaccion:
+
+![image](https://user-images.githubusercontent.com/72580574/232161585-a4799a74-f87e-4cbb-a349-8c87bd330513.png)
+
+
+
+- Pruebas de usabilidad - conclusiones:
+
+![image](https://user-images.githubusercontent.com/72580574/232161639-97a39b8b-ecbf-4563-b2ce-b0a3bc31cb5c.png)
+
+- Grillas y estructuras
+
+![image](https://user-images.githubusercontent.com/72580574/232161684-f4dd7ac7-4fa0-4659-9ec7-3a54cbac4baf.png)
+
+- Guidelines - logo:
+
+![image](https://user-images.githubusercontent.com/72580574/232161786-74ed6e42-3f5d-42af-8b39-7a7e7125be57.png)
+
+
+
+- Guidelines - colores
 
 
 ---
