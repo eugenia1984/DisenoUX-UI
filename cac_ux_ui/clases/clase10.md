@@ -220,10 +220,65 @@
 
 ## Retórica de la imagen
 
-- la **denotación**, el significado:
+- la **denotación**, el significado, lo que se ve:
 
 ![image](https://user-images.githubusercontent.com/72580574/232169204-024404b1-50ab-4897-b3ed-e93edad3d334.png)
+
+- lo **connotado**, las ideas, sentimiento
+
+---
+
+## Diseño UX
+
+- UX - USER EXPERIENCIE - EXPERIENCIA DE USUARIO
+
+valioso - útil - deseable - accesible - creible - ubicable - usable 
+
+---
+
+## Usabilidad
+
+- capacidad de uso ¿cuán fácil de usarla es?
+
+... capacidad de aprendizaje (user flow)
+
+... eficiencia
+
+... cualidad de ser recordado
+
+... eficiencia ¿cuántos erores tienen los usuarios?
+
+... satifacción ¿cuán agradable es usar el producto?
+
+---
+
+## Design Thinking
+
+5 etapas: empatizar(conocemos al usuario) y definir(el problema) / idear / prototipar y testear(obtener feed de los usuarios para mejorar, el benchmarking de nuestra aplicación).
+
+Siempre es iterativo (mejora continua)
+
+---
+
+## DCU
+
+Diseño centrado en el usuario
+
+3 fases: análisis(usuario y necesidad) / diseño(prototipado) / validación(testeo)
 
 
 ---
 
+### Imagen y fotografía
+
+La importancia de la imagen, que se vea bien, este centrada, no tenga manchas de agua.
+
+- Leyes de la Gestalt: el todo es màs que la suma de las partes.
+
+---
+
+## Diseño web y apps
+
+Que atraiga al usuario, que casi ni lee, scanea.
+
+---
