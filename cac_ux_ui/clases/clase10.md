@@ -175,5 +175,55 @@
 
 
 
+---
+
+
+## ¿ Que es el diseño ? 
+
+- la **solución** a un **problema
+
+- Tiene dos cosas: **estética** y **funcionabilidad**
 
 ---
+
+## El diseño como forma de comunicar
+
+- comunicación visual orientada a un público específico
+
+- transmitir un mensaje específico despojado de rasgos personales.
+
+- la tranformación de una realidad existente por una deseada
+
+---
+
+## Comunicación visual
+
+- emisor: el cliente
+
+- receptor: el usuario
+
+- mensaje: con **significado** y **significante**(la idea de lo que mando)
+
+---
+
+## Reglas de un diseñador
+
+- menos es más, el diseñador no adorna
+
+- estético pero también funcional
+
+- el diseñador es un intérprete
+
+- el diseño forma parte de la vida diaria
+
+---
+
+## Retórica de la imagen
+
+- la **denotación**, el significado:
+
+![image](https://user-images.githubusercontent.com/72580574/232169204-024404b1-50ab-4897-b3ed-e93edad3d334.png)
+
+
+---
+
