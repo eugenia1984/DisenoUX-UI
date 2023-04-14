@@ -162,5 +162,18 @@
 
 - Guidelines - colores
 
+![image](https://user-images.githubusercontent.com/72580574/232161826-d52ad411-b0ef-4415-bacc-fb452bb3a029.png)
+
+
+- Moodboard:
+
+![image](https://user-images.githubusercontent.com/72580574/232161871-48a19e52-812a-4389-832d-d287a08c2950.png)
+
+- UI Kit - Atomic Design
+
+![image](https://user-images.githubusercontent.com/72580574/232161920-dbf3dd0e-68d9-4132-aa32-548851e16e0c.png)
+
+
+
 
 ---
