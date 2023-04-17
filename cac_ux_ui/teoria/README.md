@@ -35,9 +35,6 @@
 
 - [Prototipo Funcional y Métricas](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_prototipo_funconal_metricas.md): Métricas UX /  Prototipo funcional /  Demostración en Figma /  Tarea para el Proyecto Final
 
-
-● Pruebas de Usabilidad y Métricas
-
 ● Atomic Design
 
 ● Aplicación de Grillas
