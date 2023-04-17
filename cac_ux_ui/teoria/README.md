@@ -29,9 +29,9 @@
 ## MÓDULO 3: Prototipado y Pruebas de Usabilidad
 
 
-- [**1) Software Figma**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_wireframe.md): **Wireframes** - Prototipo a mano y Digital: Prototipado. ¿Qué es un prototipo? ¿ Qué es un framewares?. Wireframes en baja/media/alta. Bocetos a mano. Wireframe Digital, Figma. Proyecto final. Preentrega
+- [**1) Software Figma**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_wireframe.md): **Wireframes** - Prototipo a mano y Digital: Prototipado. / ¿Qué es un prototipo? / ¿ Qué es un framewares? / Wireframes en baja/media/alta. / Bocetos a mano / Wireframe Digital, Figma / Proyecto final / Preentrega
 
-- [Patrones de Diseño](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_patrones.md):  ¿Qué son los patrones de diseño? /  UX Writing / ● Material Design / Human Interface /  Patrones de navegación /  Patrones de interacción /  Tarea para el ProyectoFinal
+- [Patrones de Diseño](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_patrones.md):  ¿Qué son los patrones de diseño? /  UX Writing / Material Design / Human Interface /  Patrones de navegación /  Patrones de interacción /  Tarea para el ProyectoFinal
 
 - [Prototipo Funcional y Métricas](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_prototipo_funconal_metricas.md): Métricas UX /  Prototipo funcional /  Demostración en Figma /  Tarea para el Proyecto Final
 
