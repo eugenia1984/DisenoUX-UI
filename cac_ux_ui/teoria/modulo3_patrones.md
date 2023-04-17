@@ -315,6 +315,69 @@ micrófonos que también podrán ser un input de datos para una
 
 ![image](https://user-images.githubusercontent.com/72580574/232350259-fd6bf097-7297-428a-a173-93c1e174999d.png)
 
+## :star: IOS - Apple: Human Interface
+
+![image](https://user-images.githubusercontent.com/72580574/232351561-a838b23c-89a1-42a3-a147-5b821fce6e4a.png)
+
+
+---
+
+## :star:  Tarea para el Proyecto Final
+Para continuar diseñando la interfaz del prototipo del Proyecto Final que vamos a desarrollar:
+
+A partir de los Wireframes digitales (pantallas sencillas), vamos a incorporar los Patrones de Diseño (los de navegación y luego los de interacción) vistos en clase. En este punto debemos decidir si
+diseñamos para IOS o para Android según la preferencia de nuestra User persona.
+
+Para realizar esta tarea necesitaremos previamente tener hechos los:
+
+● Mapa de sitio
+
+● User Flow
+
+● Wireframes a mano
+
+● Wireframes digitales
+
+Aclaraciones: Guarden todo el proceso, es decir guarden los wireframes digitales y luego sobre una copia incorporen los patrones de diseño. Para esta tarea utilizaremos el Anexo de la clase 13.
+
+---
+
+
+### Ejemplo de entrega
+
+
+#### Evolución del producto
+
+1. Login 
+
+![image](https://user-images.githubusercontent.com/72580574/232351638-0097b13b-5c4c-449b-ba67-469a53759140.png)
+
+2. Sign in
+
+![image](https://user-images.githubusercontent.com/72580574/232351649-e34c0dec-9d27-4040-9e21-8961350365a7.png)
+
+
+3. Home
+
+![image](https://user-images.githubusercontent.com/72580574/232351660-de720f42-dac0-4599-9933-9393a78a83df.png)
+
+
+4. Buscador 
+
+![image](https://user-images.githubusercontent.com/72580574/232351748-dd2217e4-eac0-4f52-b40a-7bbf0d25ff3d.png)
+
+5. Resultados
+
+![image](https://user-images.githubusercontent.com/72580574/232351785-46ff6f00-5dc7-42e0-a5bb-7b912df32aca.png)
+
+6. Reseña
+
+![image](https://user-images.githubusercontent.com/72580574/232351809-138cfd66-6902-447d-9baf-f66454fc60b9.png)
+
+7. Agenda
+
+![image](https://user-images.githubusercontent.com/72580574/232351829-f06702c2-8b7f-4a7d-b49e-41ba9f8df54f.png)
+
 
 
 ---
