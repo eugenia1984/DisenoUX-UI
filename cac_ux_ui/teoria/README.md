@@ -35,19 +35,17 @@
 
 - [Prototipo Funcional y Métricas](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_prototipo_funcional_metricas.md): Métricas UX /  Prototipo funcional /  Demostración en Figma /  Tarea para el Proyecto Final
 
-- [Pruebas de usabilidad](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_pruebas_usabilidad.md): Pasos para realizar las pruebas de usabilidad / Proyecto final
-
-- Atomic Design
+- [Pruebas de usabilidad](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_pruebas_usabilidad.md): ¿En qué consisten? / ¿Para qué sirven y cuándo llevarlas a cabo? /  Tipos de prueba y pasos para realizarlas / Roles /  Tarea para el Proyecto Final
 
 
+- [Atomic Design](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_atomic_design.md): ¿Qué es un sistema de diseño? / Atomic Design /  Resumen de los elementos de Atomic Design /  Componentes /  UI Kit /  Tarea para el Proyecto
+Final
 
 ● Accesibilidad
 
 ● Aplicación de Grillas
 
 ● Guidelines (Android y IOS)
-
-● Ui Kit
 
 ● Motion
 
