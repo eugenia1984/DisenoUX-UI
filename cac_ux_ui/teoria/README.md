@@ -33,11 +33,15 @@
 
 - [Patrones de Diseño](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_patrones.md):  ¿Qué son los patrones de diseño? /  UX Writing / Material Design / Human Interface /  Patrones de navegación /  Patrones de interacción /  Tarea para el ProyectoFinal
 
-- [Prototipo Funcional y Métricas](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_prototipo_funconal_metricas.md): Métricas UX /  Prototipo funcional /  Demostración en Figma /  Tarea para el Proyecto Final
+- [Prototipo Funcional y Métricas](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_prototipo_funcional_metricas.md): Métricas UX /  Prototipo funcional /  Demostración en Figma /  Tarea para el Proyecto Final
 
-● Pruebas de Accesibilidad
+- [Pruebas de usabilidad](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_pruebas_usabilidad.md): Pasos para realizar las pruebas de usabilidad / Proyecto final
 
-● Atomic Design
+- Atomic Design
+
+
+
+● Accesibilidad
 
 ● Aplicación de Grillas
 
