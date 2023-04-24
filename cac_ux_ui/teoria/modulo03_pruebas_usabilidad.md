@@ -1,4 +1,4 @@
-# :star:MÓDULO 3 - PRUEBAS DE ACCESIBILIDAD:star:
+# :star:MÓDULO 3 - PRUEBAS DE USABILIDAD:star:
 
 ---
 
