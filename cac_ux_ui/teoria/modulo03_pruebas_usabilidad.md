@@ -18,7 +18,7 @@
 
 ---
 
-## ¿En donde estamos?
+## :star: ¿En donde estamos?
 
 ![image](https://user-images.githubusercontent.com/72580574/233893938-cd1c1106-1efa-43d3-8ea6-4fa078c3d611.png)
 
@@ -33,9 +33,13 @@ La prueba de usabilidad por parte del usuario es una técnica usada en el diseñ
 
 Esto puede ser visto como una práctica de usabilidad irreemplazable, dado que entrega información directa de cómo los usuarios reales utilizan el sistema.
 
+---
+
 ### Definición
 
 La Norma ISO 9241-11 define usabilidad como “el grado en que un producto puede ser utilizado por usuarios específicos para lograr los objetivos específicos con efectividad, eficiencia y satisfacción en un contexto de uso”.
+
+---
 
 ### ¿En qué consisten estas pruebas?
 
@@ -46,11 +50,15 @@ No es necesario que se trate de una aplicación completamente terminada, pudiend
 
 ![image](https://user-images.githubusercontent.com/72580574/233894129-cc3f3dc2-a3ad-486d-9054-1abc6d984943.png)
 
+---
+
 ### ¿Para qué sirven?
 
 ● Validar si los usuarios logran realizar tareas sobre un prototipo o sistema.
 
 ● Detectar problemas de usabilidad (qué tan fácil es el uso de una determinada interfaz).
+
+---
 
 ### ¿Para qué no sirven?
 
@@ -60,21 +68,25 @@ No es necesario que se trate de una aplicación completamente terminada, pudiend
 
 **Test A/B**: como el propio término indica, se comparan dos versiones (A y B), que son idénticas salvo por una variación que puede afectar al comportamiento del usuario. Por ejemplo, en una página web de comercio electrónico, el proceso de compra es normalmente un buen candidato para realizar un test A/B, dado que, incluso mejoras marginales en la tasa de abandono, pueden implicar incrementos significativos en las ventas.
 
+---
 
 ### ¿Cuándo llevarlas a cabo?
 
-● Cuanto más temprano mejor: como toda evaluación, cuanto más esperamos para su realización, más costoso resultará la reparación de los errores de diseño descubiertos. Es importante destacar que las pruebas de
+● **Cuanto más temprano mejor**: como toda evaluación, cuanto más esperamos para su realización, más costoso resultará la reparación de los errores de diseño descubiertos. Es importante destacar que las pruebas de
 usabilidad pueden realizarse durante todo el proceso de elaboración de un producto.
 
-● Se puede realizar varias pruebas de usabilidad: se puede y se deberían realizar varias pruebas de usabilidad sobre un mismo producto a medida que se realizan cambios en el mismo para así poder mejorarlo
+● **Se puede realizar varias pruebas de usabilidad**: se puede y se deberían realizar varias pruebas de usabilidad sobre un mismo producto a medida que se realizan cambios en el mismo para así poder mejorarlo
 continuamente
 
+---
 
 ### Evaluación heurística
 
 ● La evaluación heurística es una variante de la inspección de usabilidad donde los especialistas en usabilidad juzgan si cada elemento de la interfaz de usuario sigue los principios de usabilidad establecidos.
 
 ● Un análisis heurístico se puede realizar en cualquier etapa avanzada del proceso de diseño (Obviamente, no sería productivo hacerlo demasiado pronto). Con los nuevos productos, un análisis heurístico suele realizarse más tarde en la fase de diseño, después de hacer wireframes y prototipos, y antes de que comience el diseño visual y el desarrollo de la interfaz de usuario.
+
+---
 
 ### Tipos de prueba
 
@@ -83,6 +95,8 @@ continuamente
 ● Pruebas de usabilidad presenciales
 
 ● Pruebas de usabilidad presenciales en contexto de uso
+
+---
 
 ### ¿Cuántos usuarios necesitamos?
 
@@ -96,9 +110,11 @@ El aumento de los participantes en un prueba de usabilidad, da lugar a un aument
 
 Pero como pauta general, con un presupuesto chico, 5 es un buen número para empezar
 
+---
+
 ### ¿Qué es lo mínimo que debemos tener presente al realizar las pruebas?
 
-● Antes
+● **Antes**:
 
 ○ Definir el objetivo de la prueba
 
@@ -114,7 +130,7 @@ Pero como pauta general, con un presupuesto chico, 5 es un buen número para emp
 
 
 
-● Durante
+● **Durante**:
 
 ○ Locación: remoto, presencial (en contexto de uso o no).
 
@@ -124,13 +140,14 @@ Pero como pauta general, con un presupuesto chico, 5 es un buen número para emp
 
 
 
-● Después
+● **Después**:
 
 ○ Cómo ordenar y priorizar los hallazgos.
 
 ○ Presentación de resultados.
 
 ○ Aplicación de mejoras
+
 
 ---
 
@@ -168,8 +185,7 @@ mismas, evitando posibles sesgos.
 
 Elementos a considerar:
 
-● Introducción y firma de consentimiento informado, esto último,
-recomendado en un contexto de investigación de mercado/científica).
+● Introducción y firma de consentimiento informado, esto último, recomendado en un contexto de investigación de mercado/científica).
 
 ● Preguntas previas.
 
@@ -188,42 +204,30 @@ recomendado en un contexto de investigación de mercado/científica).
 
 ○ Introducir a lo que serán las pruebas de usabilidad.
 
-○ Es el momento para hacer las aclaraciones necesarias (grabación de la conversación,
-dudas, etc.).
+○ Es el momento para hacer las aclaraciones necesarias (grabación de la conversación, dudas, etc.).
 
-○ Ejemplo para la app Buscador de Psicólogo: “Mi nombre es Irina y estamos
-haciendo el diseño para una aplicación. Te agradecemos por participar. Te solicito
-permiso para grabar tu interacción con el sistema.”
+○ Ejemplo para la app Buscador de Psicólogo: “Mi nombre es Irina y estamos haciendo el diseño para una aplicación. Te agradecemos por participar. Te solicito permiso para grabar tu interacción con el sistema.”
 
 ○ Importante que diga en voz alta lo que vaya haciendo/pensando.
 
-○ Ejemplo: “A medida que vayas avanzando, te pedimos que vayas relatando lo que
-vayas haciendo y pensando.”
+○ Ejemplo: “A medida que vayas avanzando, te pedimos que vayas relatando lo que vayas haciendo y pensando.”
 
 ○ Indicarle que no hay respuestas buenas o malas, correctas o incorrectas.
 
 ● Preguntas previas de validación
 
-○ El objetivo es validar que son los usuarios que necesitamos (user personas).
-Ejemplo: “Decime por favor tu nombre y edad. Comentame si podrías actualmente
-afrontar una terapia y si alguna vez fuiste a terapia.”
+○ El objetivo es validar que son los usuarios que necesitamos (user personas). Ejemplo: “Decime por favor tu nombre y edad. Comentame si podrías actualmente afrontar una terapia y si alguna vez fuiste a terapia.”
 
 
 **3.B Escribir el guión de la prueba**
 
 ● Tareas y escenario hipotético
 
-○ Listado de tareas a realizar con un criterio claro para determinar el éxito/fracaso. Es
-importante tener presente este criterio (cuál es el camino ideal o simple para completar la
-tarea).
+○ Listado de tareas a realizar con un criterio claro para determinar el éxito/fracaso. Es importante tener presente este criterio (cuál es el camino ideal o simple para completar la tarea).
 
-○ Para pensar el listado de tareas podés utilizar como guía el MVP o lo que tengas diseñado
-hasta el momento en tu sistema.
+○ Para pensar el listado de tareas podés utilizar como guía el MVP o lo que tengas diseñado hasta el momento en tu sistema.
 
-○ Ejemplo escenario hipotético: “Imaginate que te llamas Pilar, que terminás con tu pareja,
-te sentís triste y pensás que tendrías que hablar de tus problemas con un profesional por
-lo que necesitas encontrar un terapeuta, y encontrás en la Play Store una app que te
-puede ayudar.”
+○ Ejemplo escenario hipotético: “Imaginate que te llamas Pilar, que terminás con tu pareja, te sentís triste y pensás que tendrías que hablar de tus problemas con un profesional por lo que necesitas encontrar un terapeuta, y encontrás en la Play Store una app que te puede ayudar.”
 
 ● Preguntas posteriores
 
@@ -231,8 +235,7 @@ puede ayudar.”
 
 ○ Hacemos preguntas en cuanto a la satisfacción del usuario.
 
-○ Para esto podemos enviarle un formulario de Google para que responda a nuestras
-preguntas ahí. Ejemplo: métricas de satisfacción.
+○ Para esto podemos enviarle un formulario de Google para que responda a nuestras preguntas ahí. Ejemplo: métricas de satisfacción.
 
 ● Cierre y agradecimiento
 
@@ -240,11 +243,9 @@ preguntas ahí. Ejemplo: métricas de satisfacción.
 
 **4. Evaluar las tareas realizadas**
 
-La evaluación de las tareas asignadas a los usuarios deben considerar una tabla con criterios específicos de evaluación con una rúbrica clara y establecida según los criterios de usabilidad definidos al momento de
-diseñar la app.
+La evaluación de las tareas asignadas a los usuarios deben considerar una tabla con criterios específicos de evaluación con una rúbrica clara y establecida según los criterios de usabilidad definidos al momento de diseñar la app.
 
-La tabla de evaluación contempla los criterios necesarios para dar por lograda o no lograda una tarea y sus
-subtareas.
+La tabla de evaluación contempla los criterios necesarios para dar por lograda o no lograda una tarea y sus subtareas.
 
 ![image](https://user-images.githubusercontent.com/72580574/233894744-31b217b4-fcb6-48ab-a2bb-65776b5d5815.png)
 
@@ -259,19 +260,11 @@ Con toda la información recolectada lo que debemos hacer es analizar y sintetiz
 
 ## :star: Roles
 
-● Moderador: un miembro activo de nuestro equipo. Debe hacer sentir
-cómodos a los participantes. Poner a grabar luego de que el usuario
-acepte. Asegurar la validez del estudio.
+● **Moderador**: un miembro activo de nuestro equipo. Debe hacer sentir cómodos a los participantes. Poner a grabar luego de que el usuario acepte. Asegurar la validez del estudio.
 
-● Usuario: alguien que nunca haya escuchado hablar de nuestro proyecto
-(neutral).
+● **Usuario**: alguien que nunca haya escuchado hablar de nuestro proyecto (neutral).
 
-● Observador: un miembro pasivo de nuestro equipo. Asistente del
-moderador. Debe registrar problemas que enfrentan los participantes en el
-test, éxito/fracaso de cada tarea, cantidad de pasos que demora en realizar
-cada tarea y tiempo de demora en cada una. Puede registrar reacciones u
-otros comentarios realizados durante la prueba. Al finalizar, comparte sus
-notas con el equipo.
+● **Observador: un miembro pasivo de nuestro equipo**. Asistente del moderador. Debe registrar problemas que enfrentan los participantes en el test, éxito/fracaso de cada tarea, cantidad de pasos que demora en realizar cada tarea y tiempo de demora en cada una. Puede registrar reacciones u otros comentarios realizados durante la prueba. Al finalizar, comparte sus notas con el equipo.
 
 
 ---
@@ -282,18 +275,15 @@ notas con el equipo.
 
 ● Entregarle el dispositivo mediante el cual ejecutará la prueba o bien el link.
 
-● Indicarle a la persona que deberá expresar verbalmente cada una de
-sus acciones y pensamientos, mientras utiliza la interfaz.
+● Indicarle a la persona que deberá expresar verbalmente cada una de sus acciones y pensamientos, mientras utiliza la interfaz.
 
-● No decirle al usuario como continuar o que tocar cuando cometa
-errores.
+● No decirle al usuario como continuar o que tocar cuando cometa errores.
 
 ● Dejar fluir la interacción con el sistema.
 
 ● No agregar información o indicios, más allá de lo propuesto en el guión.
 
-● Prestar atención al detalle: reacciones verbales o no, comentarios,
-preguntas realizadas, etc.
+● Prestar atención al detalle: reacciones verbales o no, comentarios, preguntas realizadas, etc.
 
 ---
 
@@ -316,25 +306,6 @@ Escribir una introducción y un escenario hipotético para tus pruebas de usabil
 e incluso citas textuales que permitan entender la experiencia de los usuarios.
 
 ● Recordar siempre: “El diseñador no es el usuario. El usuario no es el diseñador.”
-
----
-
-## :star: 2 - Guía del Moderador
-
----
-
-## :star: 3 - Consejos para realizarla
-
----
-
-## :star: 4 - Guía del Observador
-
----
-
-## :star: 5 - Planillas de Registro
-
-
-
 
 ---
 
