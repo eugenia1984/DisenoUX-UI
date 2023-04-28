@@ -24,7 +24,7 @@
 
 ---
 
-##:book: ANEXO
+## :book: ANEXO
 
 ## Cómo crear un Frame para colocar elementos en él
 
