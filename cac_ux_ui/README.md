@@ -11,6 +11,11 @@ En la carpeta [**teoría**](https://github.com/eugenia1984/DisenoUX-UI/tree/main
 
 En la [**guía del estudiante**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/guia_del_estudiante.md)  esta toda la información de la cursada.
 
+
+:tv: [Tutoriales de los instructores](https://www.youtube.com/playlist?list=PL-fMIk-TE5S4VTJoQj3C76_xB0lLX2dFL)
+
+
+
 ---
 
 
