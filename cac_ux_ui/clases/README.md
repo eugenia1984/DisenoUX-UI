@@ -30,11 +30,11 @@
 
 - [**Clase 13**: 19 APR](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/clases/clase13.md)
 
-- **Clase 14**
+- **Clase 14**: 21 Abril
 
-- **Clase 15**
+- **Clase 15**: 26 Abril
 
-- **Clase 16**
+- **Clase 16**: 28 Abril
 
 - **Clase 17**
 
