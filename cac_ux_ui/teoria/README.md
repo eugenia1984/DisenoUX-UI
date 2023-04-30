@@ -43,7 +43,7 @@ Final
 
 ● Accesibilidad
 
-● Aplicación de Grillas
+● [**Aplicación de Grillas**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_grillas.md): Resolución / Diseño modular /  Aplicación de grillas /  Tarea para el Proyecto Final 
 
 ● Guidelines (Android y IOS)
 
