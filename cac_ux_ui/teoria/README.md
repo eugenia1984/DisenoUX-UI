@@ -43,9 +43,9 @@ Final
 
 ● [**Aplicación de Grillas**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_grillas.md): Resolución / Diseño modular /  Aplicación de grillas /  Tarea para el Proyecto Final 
 
-● [**Practica Figma**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_practica_figma.md)
+● [**Practica Figma**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_practica_figma.md): La plataforma / Principios básicos / Comunidad en Figma /  Exportar e importar archivos /  Componentes y variables / Auto-Layout /  Prototipado funcional
 
-● [**Illustrator y Moodboard**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_illustrator_moodboard.md)
+● [**Illustrator y Moodboard**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_illustrator_moodboard.md): Repaso de mapa de bits / Illustrator / Trabajo con vectores / ● Moodboard /  Armado de moodboard /  Tarea para el Proyecto Final
 
 ● Accesibilidad
 
