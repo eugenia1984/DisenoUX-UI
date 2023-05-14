@@ -48,7 +48,7 @@ Final
 - [**Illustrator y Moodboard**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_illustrator_moodboard.md): Repaso de mapa de bits / Illustrator / Trabajo con vectores / ● Moodboard /  Armado de moodboard /  Tarea para el Proyecto Final
 
 - [**Color y Tipografía**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo03_color_y_tipografia.md): :star: **color**: Principios básicos / Psicología del color / Esquemas y paletas de
-colores / Herramientas / Tarea para el Proyecto Final / :star: **Tipografía**: Principios básicos / Psicología del color / ● Esquemas y paletas de colores /  Herramientas /  Tarea para el Proyecto / Final
+colores / Herramientas / Tarea para el Proyecto Final / :star: **Tipografía**:  Tipos de tipografía / Familias tipográficas /  Jerarquías tipográficas / Legibilidad /  Tarea para el Proyecto Final
 
 ● Accesibilidad
 
