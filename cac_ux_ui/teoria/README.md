@@ -51,7 +51,7 @@ Final
 
 - [**UI Kit**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_ui_kit.md):  ¿Qué es un UI Kit? / Elementos que lo componen /  Librerías en Figma / ¿Qué es un Sistema de Diseño? /  Alta Fidelidad /  Tarea para el Proyecto Final
 
--  [Alta fidelidad y Logo**]: ¿Qué es logo? / Logotipo, Isotipo, Imagotipo e Isologo / Características y función de los logos / Diseñador UX/UI y Diseñador gráfico / ● Tarea para el Proyecto Final
+-  [**Alta fidelidad y Logo**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_logo.md): ¿Qué es logo? / Logotipo, Isotipo, Imagotipo e Isologo / Características y función de los logos / Diseñador UX/UI y Diseñador gráfico / ● Tarea para el Proyecto Final
  
 ● Accesibilidad
 
