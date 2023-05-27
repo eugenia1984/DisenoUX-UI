@@ -53,6 +53,9 @@ Final
 
 -  [**Alta fidelidad y Logo**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_logo.md): ¿Qué es logo? / Logotipo, Isotipo, Imagotipo e Isologo / Características y función de los logos / Diseñador UX/UI y Diseñador gráfico / ● Tarea para el Proyecto Final
  
+- [**Branding**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_branding.md): ¿Qué es branding? / ¿Qué es marca ? / Steve Jobs /  Estrategia de Branding /  Tarea para el Proyecto Final  / :book: Pre-entrega
+
+
 ● Accesibilidad
 
 ● Guidelines (Android y IOS)
