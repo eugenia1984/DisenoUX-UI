@@ -55,6 +55,10 @@ Final
  
 - [**Branding**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_branding.md): ¿Qué es branding? / ¿Qué es marca ? / Steve Jobs /  Estrategia de Branding /  Tarea para el Proyecto Final  / :book: Pre-entrega
 
+- [**Elevator Pitch**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_elevator_pitch.md): ¿Qué es y para qué sirve? / Ejemplos en clase / Estructura del elevator pitch / Storytelling / Tarea para el Proyecto Final
+
+- **Motion**: ¿Qué es el Motion? / 12 principios de UX en Motion / Anatomía de las
+transiciones / Microinteracciones / Tarea para el Proyecto Final
 
 ● Accesibilidad
 
