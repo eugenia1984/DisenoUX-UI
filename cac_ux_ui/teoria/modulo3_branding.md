@@ -127,9 +127,7 @@ más auténtica de llegar a su mercado objetivo a nivel emocional.
 
 ![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9a375415-fa40-49d8-867d-6e436fae5e36)
 
-## Una estrategia para branding debe tener en cuenta
-
-varios aspectos:
+## Una estrategia para branding debe tener en cuenta varios aspectos:
 
 ● Madurez de la empresa: Es decir, en qué etapa de desarrollo se encuentra la empresa. No es lo mismo crear una marca para una empresa nueva que renovar una marca que ya lleva varios años en el mercado y ya posee un cierto número de seguidores.
 
