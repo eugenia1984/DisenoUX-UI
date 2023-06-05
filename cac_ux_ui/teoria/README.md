@@ -57,10 +57,11 @@ Final
 
 - [**Elevator Pitch**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_elevator_pitch.md): ¿Qué es y para qué sirve? / Ejemplos en clase / Estructura del elevator pitch / Storytelling / Tarea para el Proyecto Final
 
-- **Motion**: ¿Qué es el Motion? / 12 principios de UX en Motion / Anatomía de las
+- [**Motion**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_motion.md): ¿Qué es el Motion? / 12 principios de UX en Motion / Anatomía de las
 transiciones / Microinteracciones / Tarea para el Proyecto Final
 
-● Accesibilidad
+● Accesibilidad: ¿Qué significa accesibilidad? / Principios de accesibilidad
+web / Niveles de conformidad /  Plugins útiles /  Tarea para el Proyecto Final
 
 ● Guidelines (Android y IOS)
 
