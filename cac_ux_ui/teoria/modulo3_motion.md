@@ -39,7 +39,7 @@ usuario y el producto: el **Diseño de Interacción** (Interaction Design o IxD)
 
 ## Beneficios de su aplicación
 
-Cuando diseñamos una interfaz estática, no se termina de** comunicar la interacción que tendrá la misma**. Para ello, necesitamos crearla a partir de un prototipo dinámico que nos ayudará a:
+Cuando diseñamos una interfaz estática, no se termina de **comunicar la interacción que tendrá la misma**. Para ello, necesitamos crearla a partir de un prototipo dinámico que nos ayudará a:
 
 1. Orientar a los usuarios
 
