@@ -129,18 +129,121 @@ Tenemos que establecer los nombres de las secciones y señales que describen cor
 
 
 
-## :star:
+## :star: 2. Diseño operable
+
+El usuario debe poder manejar los componentes de la interfaz y la navegación.
+
+● **Accesibilidad por teclado**: Es necesario ofrecer una forma de controlar las funciones desde el teclado, sin requerir tiempos específicos para llevar a cabo acciones.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/cec146e2-1f22-46b7-8af5-e4cf707d53d1)
+
+
+● **Tiempo suficiente**: Hay que darle a los usuarios el tiempo necesario para usar e interactuar con el contenido. Cada persona tiene un ritmo
+distinto, por lo que no es recomendable el uso de secuencias automáticas de pantallas o vídeos.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/7b62b23c-c7fd-45e9-9e94-1e3e3f7acee0)
+
+● **Evitar destellos**: Evitar destellos y animaciones rápidas que puedan afectar a personas con desórdenes neurológicos. Algunas personas pueden
+padecer la existencia de destellos en pantalla.
+
+● **Navegabilidad**: Guiar la navegación de los usuarios por nuestra app, facilitando el cumplimiento de tareas y destacando los elementos
+necesarios.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2644ddf8-35c2-4cf9-865d-b1ba7d9b8557)
+
+
+## :star: 3. Diseño comprensible
+
+Garantizar información y acciones fáciles de entender por parte de nuestros usuarios.
+
+● **Legible**: Las palabras y textos que se utilizan en la interfaz deben reflejar las acciones, poder identificarse y leerse fácilmente, para garantizar una buena experiencia de usuario.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/b236f297-da17-466a-850f-e64ea98f4f95)
+
+
+● **Predecible**: La apariencia y la forma de utilizar las interfaces digitales debe ser previsible. Debemos mantener la consistencia entre los
+componentes que comparten funciones similares y las acciones relacionadas. También es necesario advertir acciones decisivas.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/68598435-3a8c-4b16-a0a7-af8c8219334e)
+
+● **Entrada de datos asistida**: Es muy importante guiar la entrada de datos por parte de los usuarios y señalar errores.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/b072c844-79ad-4c83-b494-109aa6257634)
+
+
+## :star: Diseño robusto
+
+Tanto el diseño como el contenido debe ser robusto. Lo suficientemente firme y consistente para ser bien interpretado.
+
+● **Compatibilidad**: Es fundamental que haya una correlación en el orden entre la web visible y el código desarrollado, para facilitar la interpretación de textos alternativos a través del lector de pantalla. Cuanto más compatibles sean, mayor será la fidelidad de la lectura.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a78be446-b8ae-4e66-8e52-df13b3c9a6b0)
+
 
 ---
 
 ## :star:  Niveles de conformidad
 
+## Niveles de conformidad y prioridades
+
+Si nos abocamos a hacer accesibles algunas pantallas, componentes o trabajar sobre algunos rasgos en particular de nuestro prototipo, dándole mayor prioridad a la cuestión, podemos pasar rápidamente a niveles altos de accesibilidad. Por ejemplo, empezando por evaluar los contrastes, la legibilidad de los textos y la consistencia del diseño.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/dfe8d3b0-9458-4eff-a159-f22e9c2fe5ec)
+
+## Pautas WCAG
+
+En este sentido, si evaluamos las prioridades en torno a la accesibilidad del prototipo, podemos entender si cumplimos o no con las Pautas WCAG. Lo ideal es manejarse siempre con una accesibilidad media o alta (AA o AAA).
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/da25003d-b9ab-40f1-aace-4cee59209984)
+
 ---
 
 ## :star:  Plugins útiles
 
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/06b4e281-43ee-430d-9e8d-5004e6dbc216)
+
+## A11y
+
+Siguiendo los niveles de conformidad y prioridades, asociados con las pautas WCAG, este plugin revisa y nivela el uso correcto de colores y contrastes, y la legibilidad del contenido de texto, en base a las jerarquías y estilos de texto propuestos.
+
+Nos responde con sugerencias y posibles mejoras a realizar para aumentar la accesibilidad de nuestro prototipo.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/1e14e812-02b3-4fe1-9588-98ac688a6b95)
+
+
+## Color Blind
+
+Este plugin nos muestra nuestro prototipo desde el punto de vista de 8 falencias asociadas a la visión.
+
+Nos responde con las diferentes formas de ver el color según la persona, los colores y matices que puede percibir de nuestra app.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d2e16ebd-f8b6-4196-804c-770a521a5d35)
+
+
 ---
 
 ## :star:  Tarea para el Proyecto Final
+
+Para ir finalizando con el Proyecto Final que estamos desarrollando:
+
+Revisar el proyecto para cumplir con los estándares de Accesibilidad vistos.
+
+Tener en cuenta:
+
+● Colores y contrastes que no dificulten la visualización
+
+● Jerarquías de texto bien definidas
+
+● Consistencia entre componentes y pantallas
+
+● Orden de lectura que garantice la navegabilidad
+
+● Carga de datos asistida con mensajes o alertas claras
+
+● Evitar brillos y animaciones rápidas
+
+En lo que respecta a los colores, les sugerimos revisar las pantallas con los plugins vistos en clase.
+
+
 
 ---
