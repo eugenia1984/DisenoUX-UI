@@ -66,7 +66,7 @@ transiciones / Microinteracciones / Tarea para el Proyecto Final
 
 - [Autoevaluación](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_autoevaluacion.md)
 
-- Portfolio y Reporte UX
+- [Portfolio y Reporte UX](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_portafolio_reporte_ux.md)
 
 
 ---
