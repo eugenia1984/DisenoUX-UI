@@ -64,11 +64,9 @@ transiciones / Microinteracciones / Tarea para el Proyecto Final
 
 - [Heurística](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_heuristica.md): Evaluación heurística / Los 10 principios de Jakob Nielsen /  Tarea para el Proyecto Final
 
+- [Autoevaluación](https://github.com/eugenia1984/DisenoUX-UI/blob/main/cac_ux_ui/teoria/modulo3_autoevaluacion.md)
 
-● Guidelines (Android y IOS)
-
-● Motion
-
+- Portfolio y Reporte UX
 
 
 ---
