@@ -379,6 +379,10 @@ Al comienzo de sus carreras, los diseñadores de UX de nivel básico realizan mu
 
 Estos son algunos ejemplos de esquemas que he creado. Este es de una página web sobre el Informe de transparencia de Google. 
 
+<img src="https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2765ed9b-193c-4f0d-a6de-8407df7d5bb9" width="500" alt="wireframes">
+
+
+
 ¿Ves que solo tiene dibujos básicos? Pero te dice dónde va cada cosa. Estos esquemas se diseñaron para demostrar la estructura básica de la página y lograr el apoyo de los principales interesados, quienes tienen un interés comercial en el producto final.
 
 Un diseñador de UX también crea prototipos. Un prototipo es un modelo preliminar de un producto. Muestra la funcionalidad, al igual que un esquema, pero es mucho más avanzado. Mientras que un esquema da una idea general de dónde van las cosas y cómo funcionará el producto, un prototipo ilustra el paso de una pantalla a la siguiente. Podemos dibujar los prototipos en papel, crear prototipos físicos o generar prototipos digitales. Este es un prototipo que creé para el Informe de transparencia de Google y esta es la versión final.
