@@ -395,7 +395,16 @@ El propósito de los esquemas y los prototipos es **identificar el mejor diseño
 
 Tus tareas exactas podrían variar según dónde trabajes y qué tan especializado debas ser en tu puesto. 
 
+---
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
+
+Hola, me llamo Dane y soy diseñador visual en Google. 
+
+La vida de un diseñador de UX en Google es bastante interesante y muy divertida. Cuando trabajas en un producto, tus tareas consisten en esbozar nuevas soluciones o funciones para ese producto, o bien en tomar algo que ya existe y encontrar formas de mejorarlo. El primer paso es identificar los problemas. ¿Qué problemas tiene este producto? ¿Por qué buscamos mejorar una función o introducir una nueva? Tan pronto como encuentras esos problemas, comienzas a hacerte una idea de cuál es la solución y por qué tiene que hacerse de cierta manera. Hablas con tu equipo para ver qué soluciones podrían ser factibles y te pones a trabajar. Tienes que interactuar con todo el equipo. Hay otros diseñadores visuales con quienes puedes conversar. Hay investigadores que pueden decirte qué se ha decidido en el pasado y qué cosas no se han explorado aún. También hay diseñadores de interacción, que pueden decirte «Esta página debería moverse de esta manera» o «Esto debería ocurrir tan pronto como se pulsa este botón». Esta es una oportunidad para recibir los comentarios que necesitas para que tu proyecto tenga éxito.
+
+En algún momento, tendrás una sesión de crítica de la UX, donde presentarás tu solución al equipo y comenzarás a recibir comentarios de muy alto nivel sobre la interacción y qué cambios o mejoras podrías hacer para que el producto tenga éxito. Si eres diseñador de UX a tiempo completo, recibirás muchas críticas que contribuirán al éxito del producto. Pero es muy importante que recuerdes que las críticas no tienen que ver contigo como diseñador, sino con la solución y cómo podemos asegurarnos como equipo de que sea lo mejor posible. Tan pronto como tienes una solución, debes ir a hablar con tus superiores y con clientes potenciales para ver si está lista para su implementación. Una vez que obtengas el visto bueno para ello, comenzarás a transmitir la solución a los ingenieros, quienes la desarrollarán y la harán cobrar vida. Como diseñador visual, es gratificante poder crear algo que tenga un impacto en la vida de otras personas todos los días. Yo me centro en lo que verá el cliente, por lo que mi tarea es decidir qué aspecto tendrá y cómo funcionará. Creo que causar ese impacto y ocupar ese lugar es muy importante y bastante trascendente como diseñador de UX.
+
+---
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Especialistan, generalistas y diseñadores generalistas -especializados
 
