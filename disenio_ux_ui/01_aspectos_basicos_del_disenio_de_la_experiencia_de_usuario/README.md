@@ -36,7 +36,7 @@ En el mundo de la tecnología, la **experiencia d eusuario** se centra en **cóm
 
 ## <img width="30" height="30" src="https://img.icons8.com/quill/30/bookmark--v2.png" alt="bookmark--v2"/> ¿Qué hay por delante?
 
-- **Semana 1: Introducción al diseño de la experiencia del usuario**:
+- [**Semana 1: Introducción al diseño de la experiencia del usuario**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/disenio_ux_ui/01_aspectos_basicos_del_disenio_de_la_experiencia_de_usuario/semana01.md):
 
 Empezarás a explorar el mundo de la UX y los factores que contribuyen a crear buenos diseños de la experiencia del usuario en aplicaciones móviles, sitios web y otros productos. Comprenderás las responsabilidades de los diseñadores y equipos de UX con los que suelen trabajar los diseñadores de UX. También explorarás las oportunidades laborales y las trayectorias profesionales con las que podrías encontrarte al finalizar este programa de certificados.
 
