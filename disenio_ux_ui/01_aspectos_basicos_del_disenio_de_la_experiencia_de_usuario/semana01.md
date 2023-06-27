@@ -509,6 +509,15 @@ Puedes tomar muchos caminos diferentes en el campo del diseño de UX. Una vez qu
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Trabajar en un equipo multidisciplinario
 
+
+Imagina que trabajas en el desarrollo de una aplicación para pedir comida. Tú y tu equipo agregarán una función que muestre qué restaurantes ofrecen comidas sin alérgenos. El **director del producto** decidirá el alcance del proyecto, el **investigador de UX** analizará si los usuarios confiarán en la información sobre alérgenos o siquiera en la propia aplicación. El **diseñador de interacciones** delineará el flujo para pedir y cómo filtrar las comidas sin alérgenos en la búsqueda. El **diseñador visual** pensará en cómo facilitar la búsqueda de comidas sin alérgenos. Estos **diseñadores de UX** crearán esquemas y prototipos para mostrar la experiencia que los usuarios tendrán en la aplicación.
+
+Los **ingenieros** darán vida a estos esquemas y prototipos y permitirán a los restaurantes informar sus opciones sin alérgenos. Como verás, es importante que los diseñadores de UX colaboren con los ingenieros, que son quienes crean el producto final. Esta colaboración ocurre durante todo el proceso.
+
+Hay muchas oportunidades para que i**ngenieros** y **diseñadores de UX** se hagan comentarios mutuamente y realicen cambios juntos. Hay muchos aspectos dinámicos. El **gerente del programa** es quien garantiza una comunicación clara y oportuna en el equipo, de modo que la creación de aplicaciones avance sin problemas de principio a fin. Cada equipo y cada miembro tiene una tarea diferente, pero, al final, todos tienen el mismo objetivo: crear un producto que sea fácil de usar, útil, equitativo y agradable para los usuarios y las empresas. Luego, veremos en qué tipos de empresas trabajan los diseñadores de UX. Te alegrará saber cuántas opciones tienes.
+
+---
+
 ## :book: Interactuar con miembros de un equipo multidisciplinario
 
 
