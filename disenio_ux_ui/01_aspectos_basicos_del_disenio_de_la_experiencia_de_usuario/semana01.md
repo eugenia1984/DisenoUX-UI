@@ -292,3 +292,39 @@ Por ejemplo, una aplicación de compras sirve para comprar cosas. Si pones un pa
 Comienza a prestar atención a las cosas que usas cada día: en qué dirección tienes que girar los grifos de la bañera, cómo se abotonan los pijamas de tu bebé, qué significan los mensajes de error en tu teléfono, y de qué manera se abren las puertas. Si lo haces, empezarás a reconocer aspectos positivos y negativos de cada diseño. Utiliza tus propias experiencias para pensar en qué hace que un diseño sea bueno o malo. ¿Qué cosas podrían mejorarse? ¿Qué cosas ya funcionan bien? 
 
 ---
+
+
+## :book: Características de una buena experiencia del usuario
+
+Todos sabemos intuitivamente cuándo un diseño es bueno, pero no siempre es fácil identificar el porqué. ¿Qué es exactamente lo que hace que un producto sea efectivo para sus usuarios? ¿Es cuestión de simplicidad, estructura o funcionalidad? La respuesta depende del producto en cuestión.
+
+En un video anterior, «Aspectos básicos del diseño de UX», te presentamos algunas características importantes de una buena experiencia del usuario. Estas características de un producto —fácil de usar, equitativo, agradable y útil— pueden ayudarte a evaluar el diseño. En este material de lectura, aprenderás más sobre cada una de las características anteriores y por qué son importantes. 
+
+## USABLE (fácil de usar)
+
+Si un producto es fácil de usar, significa que el diseño, la estructura y el propósito del producto son claros y que el producto es fácil de entender. A la hora de evaluar cuán fácil de usar es un producto, puedes hacerte preguntas como estas: ¿Todas las partes del diseño son fáciles de encontrar? ¿Es fácil entender la funcionalidad del diseño? ¿Pueden los usuarios realizar tareas específicas dentro del diseño? Durante tu evaluación, estas preguntas pueden ayudarte a determinar si el diseño es fácil de usar. 
+
+Imagina que estás evaluando cuán fácil de usar es la aplicación de una aerolínea. Si el objetivo principal de esta aplicación es reservar un vuelo, el diseño debería proporcionar una forma clara y sencilla de realizar esa tarea. Por ejemplo, una sección en la que el usuario pueda introducir fácilmente los detalles del itinerario y del vuelo en la página principal sería un ejemplo de facilidad de uso.
+
+## EQUITABLE (equitativo)
+
+Si un producto es equitativo, significa que su diseño es útil para personas con diversas capacidades y antecedentes. En otras palabras, el diseño del producto responde a las necesidades de un público diverso y garantiza una experiencia de alta calidad a todos los usuarios, independientemente de su origen, género, raza o nivel de habilidad. La equidad consiste en proporcionar a las personas las herramientas que necesitan para alcanzar sus objetivos y tener una mejor calidad de vida. La equidad no se reduce solo a la igualdad —dar a todos los mismos recursos— porque, a menudo, las personas necesitan herramientas y apoyo diferentes según sus necesidades. Esto es especialmente importante para quienes pertenecen a grupos que suelen ser excluidos. A la hora de evaluar la equidad de la UX de un producto, podrías hacerte preguntas como estas: ¿Se tienen en cuenta las necesidades de un grupo diverso de usuarios? ¿Aborda el diseño del producto las necesidades de los grupos tradicionalmente subrepresentados y excluidos? Estas preguntas pueden ayudarte a determinar si el diseño ofrece una experiencia equitativa. 
+
+Imagina que estás evaluando cuán equitativa es una aplicación de mensajería social. Podrías considerar que el diseño es más equitativo si la lista de emojis del teclado incluye avatares con diferentes tonos de piel y neutrales en cuanto al género.
+
+
+## ENJOYABLE (agredable)
+
+Si un producto es agradable, significa que el diseño deleita al usuario. El diseño refleja lo que el usuario piensa o siente y crea una conexión positiva con él. El diseño de un producto no tiene por qué ser agradable para que funcione correctamente. Sin embargo, un diseño agradable complementa un producto ya funcional y puede mejorar la sensación del usuario sobre la experiencia. A la hora de evaluar qué tan agradable es la UX de un producto, podrías hacerte preguntas como estas: ¿Hay aspectos del diseño que tengan en cuenta los sentimientos del usuario?  ¿El diseño deleita al usuario? ¿El diseño mantiene la atención del usuario durante toda su experiencia? Estas preguntas pueden ayudarte a determinar si el diseño ofrece una experiencia agradable. 
+
+Imagina que estás evaluando cuán agradable es una aplicación de streaming de video. Algunos aspectos del diseño que podrían hacer más agradable el producto son las recomendaciones personalizadas basadas en los canales que el usuario vio anteriormente o la capacidad de personalizar el aspecto de la cuenta.
+
+## USEFUL (útil)
+
+Si un producto es útil, significa que resuelve los problemas del usuario. En otras palabras, el diseño resuelve intencionalmente un problema del usuario que el diseñador ha identificado. Es importante tener en cuenta que, aunque están relacionados, los conceptos «útil» y «fácil de usar» tienen significados diferentes. Un producto útil no siempre es fácil de usar, ni viceversa. La distinción entre ambos es que «fácil de usar» se refiere a que el producto funciona bien y es simple de usar, mientras que «útil» se refiere específicamente a la capacidad de resolver los problemas del usuario. A la hora de evaluar qué tan útil es la UX de un producto, podrías hacerte preguntas como estas: ¿El diseño añade valor a la experiencia del usuario? ¿Soluciona el diseño un problema del usuario? ¿El diseño ayuda al usuario a alcanzar un objetivo específico? Estas preguntas pueden ayudarte a determinar si el diseño ofrece una experiencia útil. 
+
+Imagina que tienes que evaluar cuán útil es una aplicación bancaria. Los usuarios suelen descargar estas aplicaciones porque necesitan un lugar donde administrar su dinero. Si se tiene esto en cuenta, algunos aspectos de la aplicación que podrían considerarse útiles son las funciones que se pueden usar para transferir dinero entre cuentas y pagar facturas.
+
+[Leer este articulo sobre el buen diseño](https://design.google/library/good-design)
+
+---
