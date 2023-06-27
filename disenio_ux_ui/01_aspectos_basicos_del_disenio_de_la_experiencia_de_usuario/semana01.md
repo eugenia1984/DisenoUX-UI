@@ -454,7 +454,58 @@ He sido tanto una generalista como una especialista y disfruté mucho de ambas c
 Sin dudas, tanto ser generalista como ser especialista tiene sus ventajas, sobre todo si eres generalista cuando empiezas.
 
 ---
-## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> El papel de un diseñador UX principiante
+## :book: El papel de un diseñador de UX principiante
+
+Ahora que das tus primeros pasos como diseñador de UX, probablemente te preguntes qué podría implicar exactamente tu trabajo. Aquí, exploraremos las diferentes responsabilidades que los diseñadores de UX de nivel básico suelen asumir durante un proyecto. También conocerás las diferencias entre diseñadores de UX generalistas, especialistas y generalistas-especializados.
+
+Pero primero, un comentario: probablemente te encuentres con mucho vocabulario nuevo y términos desconocidos en este material de lectura. No te preocupes. Aprenderás más a fondo cada uno de estos conceptos a lo largo del programa de certificados. También habrá un glosario de términos importantes y sus definiciones al final de cada semana de contenido.
+
+### Responsabilidades de un diseñador de UX de nivel básico
+Como diseñador de UX de nivel básico, tendrás muchas oportunidades emocionantes para adquirir experiencia. Cuando comiences, probablemente debas asumir muchos roles y responsabilidades diferentes. 
+
+- **Investigación de usuarios**: la investigación de usuarios trata de comprender a las personas que usan un producto. A través de la investigación, aprenderás sobre los antecedentes, los aspectos demográficos, las motivaciones, las dificultades, las emociones y los objetivos de los usuarios. Los métodos de investigación pueden incluir encuestas, observaciones y entrevistas. Exploraremos la investigación de usuarios con mucho más detalle en un próximo curso. 
+
+- **Arquitectura de la información**: la arquitectura de la información (IA) implica decidir cómo está organizado y estructurado un producto. Puedes pensar que la IA es como un esqueleto que describe cómo interactúan los usuarios con tu producto. Todo lo que tu producto contiene debe organizarse de manera que tenga sentido para el usuario y cumpla con sus expectativas.
+
+- **Creación de esquemas**: un esquema es un bosquejo o boceto básico de un producto o una pantalla, como una aplicación o un sitio web. Los esquemas también se conocen a veces como «modelos de alambre», ya que parecen hechos con simples alambres. Consisten principalmente en líneas y formas, con algo de texto. Los esquemas pueden dibujarse a mano o crearse digitalmente mediante software. Crear esquemas te ayuda a dar vida a tus ideas de diseño para que otras personas de tu equipo puedan hacer comentarios. 
+
+- **Prototipado**: un prototipo es un modelo inicial de un producto que demuestra su funcionalidad. Los prototipos pueden estar en formatos físicos o digitales y pueden tener distintos grados de complejidad. A veces, se crea un prototipo para demostrar una característica específica de un producto, como la transición entre pantallas o el aspecto físico del producto y la interacción con él. Se suelen hacer varios prototipos de un producto dado a lo largo del proceso del diseño.
+
+- **Diseño visual**:el diseño visual se centra en la apariencia del producto o la tecnología. Como diseñador de UX, debes comprender los fundamentos del diseño visual para comunicar a los usuarios la relación entre la funcionalidad de un producto y su apariencia. Aprenderás algunos de los principios más importantes del diseño visual a lo largo de este programa de certificados. 
+
+- **Comunicación efectiva**: la comunicación efectiva como diseñador de UX implica conectarte con tus colegas a través de correos electrónicos, reuniones, presentaciones y software de diseño. El diseño de UX es un campo muy colaborativo, por lo que es importante que puedas comunicarte bien con tus compañeros de equipo, tanto digitalmente como cara a cara. También es importante que sepas escuchar, seas abierto a los comentarios y compartas tus ideas de forma clara.
+
+### Diseñadores especialistas y generalistas
+
+Cuando avances en tu carrera, podrías optar por especializarte en un área determinada del diseño de UX o bien mantener un conjunto de destrezas amplio. ¿Cuáles son exactamente las diferencias entre los diseñadores de UX especialistas y los generalistas? ¡Sigue leyendo para obtener más información!
+
+- **Especialista**: un especialista profundiza en un tipo específico de diseño de UX, como el diseño de interacción, el diseño visual o el diseño de movimiento, y se convierte en un experto en este campo. Los diseñadores de UX especialistas son comunes en las grandes empresas que tienen muchos diseñadores, como Google. Estos son algunos de los beneficios de convertirse en especialista:
+
+Centrarte en un tipo de diseño que disfrutes más que otros.
+
+Adquirir un profundo conocimiento de un tipo de diseño.
+
+Ser conocido en la industria por tu experiencia en un tipo particular de diseño.
+
+- **Generalista**: un generalista tiene un amplio número de responsabilidades. La mayoría de los trabajos de diseño de UX son puestos generalistas, especialmente en las empresas que tienen pocos diseñadores de UX. Por lo general, los diseñadores de UX de nivel básico trabajan en roles generalistas y algunas personas optan por permanecer en funciones de este tipo durante toda su carrera profesional. Ser diseñador de UX generalista tiene muchos beneficios, como los siguientes: 
+
+Ampliar tus destrezas en muchos tipos diferentes de trabajos de UX.
+
+Probar una variedad de responsabilidades y encontrar un área de experiencia del usuario que te apasione particularmente. 
+
+Mantener tu trabajo fresco y renovado mientras realizas una variedad de tareas.
+
+- **Generalista-especializado**: un diseñador generalista-especializado es un diseñador especialista que también tiene muchas capacidades en otras áreas. También se los conoce como «diseñadores en forma de T», donde la línea vertical de la «T» representa su experiencia en un área específica, mientras que la línea horizontal simboliza sus habilidades complementarias en muchas otras áreas. Es genial tener diseñadores generalistas-especializados en tu equipo, ya que combinan las ventajas de los especialistas y los generalistas. 
+
+Todos los diseñadores tienden a tener algo de generalistas y especialistas en sus destrezas, incluso al comienzo de su carrera. A medida que trabajes en más y más proyectos, empezarás a notar dónde se encuentran tus fortalezas e intereses. Conforme adquieras más habilidad en un área del diseño, probablemente acabes trabajando en esa parte de los proyectos de diseño con más frecuencia, lo que te ayudará a seguir mejorando en esa área.
+
+También puedes dirigir el crecimiento de tu «T» y desarrollar habilidades específicas que te abrirán la puerta a futuras oportunidades laborales. Por ejemplo, si pones más empeño en tus habilidades de creación de prototipos, además de tus habilidades generales de diseño de UX, esto podría abrirte las puertas a nuevas experiencias y oportunidades de crecimiento profesional.
+
+### Tu futuro como diseñador de UX
+
+Puedes tomar muchos caminos diferentes en el campo del diseño de UX. Una vez que consigas tu primer trabajo de nivel básico y comiences a trabajar en proyectos reales, tendrás una mejor idea de si deseas ser un diseñador de UX generalista o bien especializarte en un tipo de diseño específico. Cada una de las opciones (ser diseñador generalista, especialista o generalista-especializado) tiene muchos beneficios, por lo que se trata de encontrar lo que te dé resultado a ti.
+
+---
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Trabajar en un equipo multidisciplinario
 
