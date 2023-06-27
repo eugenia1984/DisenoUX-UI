@@ -328,3 +328,11 @@ Imagina que tienes que evaluar cuán útil es una aplicación bancaria. Los usua
 [Leer este articulo sobre el buen diseño](https://design.google/library/good-design)
 
 ---
+
+##Actividad
+
+<img src="https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9aa8d1b1-ebc7-4f06-8a36-98dcbe4baabd" width="600" >
+
+
+
+---
