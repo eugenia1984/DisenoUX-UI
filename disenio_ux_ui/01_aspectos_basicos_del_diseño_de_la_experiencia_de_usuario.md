@@ -14,4 +14,8 @@
 
 - Los diñadores UX/UI vienen con distintos backgrounds, no se necesita tener un certificado para comenzar a trabajar, con este curso vas a adquirir todas las habilidades necesarias para un Diseñador UX/UI.
 
+- ¿Qué se verá?
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/b77e4492-5ec9-4b96-88df-e9198a1cb310)
+
 ---
