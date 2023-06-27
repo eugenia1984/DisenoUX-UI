@@ -9,11 +9,11 @@ También explorarás las oportunidades laborales y las trayectorias profesionale
 ---
 ---
 
-## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Conoce el campo del diseño de la experiencia del usuario
+## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/> Conoce el campo del diseño de la experiencia del usuario
 
 ---
 
-### Aspectos básicos del diseño de la experiencia del usuario
+### <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Aspectos básicos del diseño de la experiencia del usuario
 
 - **UX(User Experience - Experiencia de Usuario)**: es la forma en que una persona (usuario) se siente cuando interactúa con un producto o lo experimienta.
 
@@ -35,7 +35,7 @@ Cuando a las personas les gusta un producto, lo usan mucho y lo reocmiendan a su
 
 ---
 
-### Trabajos en el campo de la experiencia del usuario
+### <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Trabajos en el campo de la experiencia del usuario
 
 Las **características** de quienes son **diseñadore ux** son:
 
@@ -75,7 +75,7 @@ Hay un campo amplio:
 
 ---
 
-### Carreras profesionales en el campo de la experiencia del usuario
+### <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Carreras profesionales en el campo de la experiencia del usuario
 
 ## Diseñador de interacción
 
@@ -165,7 +165,7 @@ Los diseñadores de conversaciones responden preguntas como las siguientes: ¿Cu
 
 ---
 
-## El ciclo de desarrollo de un producto
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> El ciclo de desarrollo de un producto
 
 Es el proceso que consiste en transformar una idea en realidad. 
 
@@ -266,7 +266,7 @@ Si se trata de un producto físico, la fase de lanzamiento podría ser el fin de
 
 ---
 
-## Diseñar para una buena experiencia del usuario
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Diseñar para una buena experiencia del usuario
 
 ¿Alguna vez creaste una cuenta en una aplicación y no supiste qué hacer a continuación? 
  
@@ -330,7 +330,7 @@ Imagina que tienes que evaluar cuán útil es una aplicación bancaria. Los usua
 
 ---
 
-## Actividad
+## :computer: Actividad
 
 <img src="https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9aa8d1b1-ebc7-4f06-8a36-98dcbe4baabd" width="600" >
 
@@ -355,21 +355,21 @@ Ahora que viste las pantallas de FoodieLand, completa al menos un aspecto de la 
 ---
 ---
 
-## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Conocer trabajos comunes en el campo de la experiencia de usario
+## <img width="50" height="50" src="https://img.icons8.com/bubbles/50/web.png" alt="web"/> Conocer trabajos comunes en el campo de la experiencia de usario
 
 
-## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Tareas de los diseñadores de UX de nivel básico
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Tareas de los diseñadores de UX de nivel básico
 
 
-## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
 
-## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Especialistan, generalistas y diseñadores generalistas -especializados
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Especialistan, generalistas y diseñadores generalistas -especializados
 
-## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Erika: diseñadora generalista o especializada
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Erika: diseñadora generalista o especializada
 
-## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> El papel de un diseñador UX principiante
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> El papel de un diseñador UX principiante
 
-## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Trabajar en un equipo multidisciplinario
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Trabajar en un equipo multidisciplinario
 
 ## :book: Interactuar con miembros de un equipo multidisciplinario
 
