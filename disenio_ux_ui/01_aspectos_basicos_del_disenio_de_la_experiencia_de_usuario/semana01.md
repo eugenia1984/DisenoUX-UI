@@ -78,11 +78,16 @@ Hay un campo amplio:
 
 ## Diseñador de interacción
 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/125b1488-0158-431b-ad1d-c4b98e33faf8)
+
 Los diseñadores de interacción se centran en diseñar la experiencia de uso de un producto y cómo funciona. Se esfuerzan por comprender el flujo de los usuarios, es decir, la ruta que el usuario promedio toma para realizar una tarea en una aplicación, un sitio web u otra plataforma. En Google y en muchas otras empresas, los diseñadores de interacción son un tipo especializado de diseñador de UX.
 
 El trabajo de un diseñador de interacción es responder preguntas como las siguientes: ¿Qué debería ocurrir si un usuario toca este botón? ¿Cómo hacemos que realizar esta acción sea más fácil para los usuarios? ¿Cómo se presentan los elementos de diseño dentro del sitio web? Los diseñadores de interacción no se centran tanto en la apariencia del producto, sino, más bien, en hacer que sea fácil navegar por este e interactuar con él.
 
 ## Diseñador visual
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a77c7572-1c14-45b7-bfc8-96888c8a91c6)
 
 Los diseñadores visuales se centran en cómo se ve un producto o una tecnología. A menudo, son responsables de diseñar logotipos, ilustraciones e íconos, así como de decidir el color, el tamaño y la ubicación de la fuente. Los diseñadores visuales se centran en el diseño de cada página o pantalla y hacen que todos los elementos del diseño encajen de forma visualmente atractiva. En Google y en muchas otras empresas, los diseñadores visuales son un tipo especializado de diseñador de UX.
 
@@ -90,11 +95,16 @@ El trabajo de un diseñador visual incluye responder preguntas como las siguient
 
 ## Diseñador de movimiento
 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/27d76447-8905-4bea-a94c-abf99e8e04d1)
+
 Los diseñadores de movimiento analizan qué siente un usuario al desplazarse por un producto y cómo crear transiciones fluidas entre distintas páginas de una aplicación o un sitio web. También pueden crear animaciones o efectos visuales para dar vida a sus ideas de diseño. En Google y en muchas otras empresas, los diseñadores de movimiento son un tipo especializado de diseñador de UX.
 
 El trabajo de un diseñador de movimiento es responder preguntas como las siguientes: ¿Cómo debe ser la transición entre distintas páginas de una aplicación? ¿Cómo mostramos la conexión entre estas acciones? ¿Cómo podemos crear una animación atractiva que nos ayude a contar nuestra historia? Los diseñadores de movimiento se centran en los elementos del diseño que se mueven, en lugar de los diseños estáticos tradicionales.
 
 ## Diseñador de VR/AR
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/b0e0b225-a94d-44b0-8a87-90ad51ebc1d8)
 
 Los diseñadores de realidad virtual (VR) y realidad aumentada (AR) crean productos que proporcionan a los usuarios experiencias envolventes que transgreden los límites del mundo físico. En la realidad virtual, se emplea un visor que reemplaza la visión natural del usuario, bloquea su entorno físico y lo sumerge en un mundo completamente virtual. Por ejemplo, si usas un casco de realidad virtual, podrías sentir que entras en el escenario de un mundo mágico imaginario.
 
@@ -104,11 +114,15 @@ El trabajo de un diseñador de VR o AR consiste en responder preguntas como las 
 
 ## Investigador de UX
 
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/c7daede1-1e33-495a-b632-b5e6ec088ecc)
+
 Los investigadores de UX llevan a cabo estudios o entrevistas que analizan cómo las personas usan un producto. A menudo, los investigadores de UX identifican las dificultades que experimentan los usuarios y exploran cómo los productos pueden ayudar a resolverlas. También investigan cuán fáciles de usar son los productos actuales, por ejemplo, al pedir a los usuarios que realicen determinadas tareas en una aplicación o un sitio web.
 
 Los investigadores de UX responden preguntas como las siguientes: ¿Qué problemas enfrentan los usuarios? ¿El diseño de este producto es fácil de usar? ¿Estaría interesada la gente en esta nueva función de diseño? El objetivo de los investigadores de UX suele ser entender cómo un producto puede proporcionar una solución a un problema real que tienen los usuarios.
 
 ##  Escritor de UX
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2c4376f2-9bab-4c83-8c4a-4d245460d2ac)
 
 Los escritores de UX piensan en cómo hacer que el texto que se usa en un producto sea más claro, de modo que la experiencia del usuario sea más intuitiva. Los escritores de UX también ayudan a definir la voz y la personalidad de una marca. El trabajo de los escritores de UX suele incluir tareas como escribir las etiquetas de los botones y determinar el tono del texto que se usa en una aplicación o un sitio web.
 
@@ -116,17 +130,26 @@ Los escritores de UX se centran en responder preguntas como las siguientes: ¿Qu
 
 ## Gerente de programas de UX
 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/f6ee135f-24c8-46b9-bf05-e6bc171462f1)
+
 Los gerentes de programas de UX garantizan una comunicación clara y oportuna para que el proceso de creación de un producto útil avance sin problemas de principio a fin. Esto podría incluir tareas como definir objetivos, redactar planes de proyectos y asignar los recursos del equipo.
 
 Los gerentes de programas de UX responden preguntas como las siguientes: ¿Cuáles son los objetivos generales de este proyecto y cuál es el plan para alcanzarlos? ¿Cómo podemos crear y mejorar los procesos dentro del equipo? Los gerentes de programas de UX trabajan en todos los departamentos para asegurarse de que la experiencia del usuario se tenga en cuenta a lo largo de todo el ciclo de vida del proyecto.
 
 ## Ingeniero de UX
 
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/87c568d7-cd8c-408d-a015-b646e2e8638e)
+
+
 Los ingenieros de UX traducen la intención del diseño en una experiencia funcional, como una aplicación o un sitio web. También ayudan a los equipos de UX a saber si los diseños son intuitivos y técnicamente factibles.
 
 Los ingenieros de UX responden preguntas como las siguientes: ¿Cómo implementamos cada interacción? ¿Cómo materializamos este diseño de forma que se mantenga fiel a su intención original? ¿Cómo podemos explorar alternativas para determinar la forma de ofrecer la mejor experiencia al usuario? Los ingenieros de UX materializan el diseño y el desarrollo y dan vida a productos conceptuales. 
 
 ## Diseñador de conversaciones
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/b5d3b12e-98fc-4b57-ae8a-634aadcf0e4f)
+
 
 Las interfaces de conversación están en todas partes, desde los asistentes virtuales inteligentes como Google Assistant y Siri, hasta los sistemas de respuesta de voz interactivos, como los sistemas de asistencia al cliente con los que puedes hablar. Estas interfaces incluso incluyen chatbots y sistemas de navegación para automóviles. El diseño de conversaciones incorpora comportamientos de conversación naturales y reales en las interacciones entre los usuarios y estos sistemas.
 
