@@ -396,17 +396,48 @@ El propósito de los esquemas y los prototipos es **identificar el mejor diseño
 Tus tareas exactas podrían variar según dónde trabajes y qué tan especializado debas ser en tu puesto. 
 
 ---
-## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Dane: Un día en la vide de un diseñador UX nivel basico
 
 Hola, me llamo Dane y soy diseñador visual en Google. 
 
-La vida de un diseñador de UX en Google es bastante interesante y muy divertida. Cuando trabajas en un producto, tus tareas consisten en esbozar nuevas soluciones o funciones para ese producto, o bien en tomar algo que ya existe y encontrar formas de mejorarlo. El primer paso es identificar los problemas. ¿Qué problemas tiene este producto? ¿Por qué buscamos mejorar una función o introducir una nueva? Tan pronto como encuentras esos problemas, comienzas a hacerte una idea de cuál es la solución y por qué tiene que hacerse de cierta manera. Hablas con tu equipo para ver qué soluciones podrían ser factibles y te pones a trabajar. Tienes que interactuar con todo el equipo. Hay otros diseñadores visuales con quienes puedes conversar. Hay investigadores que pueden decirte qué se ha decidido en el pasado y qué cosas no se han explorado aún. También hay diseñadores de interacción, que pueden decirte «Esta página debería moverse de esta manera» o «Esto debería ocurrir tan pronto como se pulsa este botón». Esta es una oportunidad para recibir los comentarios que necesitas para que tu proyecto tenga éxito.
+La vida de un diseñador de UX en Google es bastante interesante y muy divertida. Cuando trabajas en un producto, tus tareas consisten en esbozar nuevas soluciones o funciones para ese producto, o bien en tomar algo que ya existe y encontrar formas de mejorarlo. El primer paso es identificar los problemas. ¿Qué problemas tiene este producto? ¿Por qué buscamos mejorar una función o introducir una nueva? Tan pronto como encuentras esos problemas, comienzas a hacerte una idea de cuál es la solución y por qué tiene que hacerse de cierta manera. Hablas con tu equipo para ver qué soluciones podrían ser factibles y te pones a trabajar. Tienes que interactuar con todo el equipo. Hay otros diseñadores visuales con quienes puedes conversar. Hay investigadores que pueden decirte qué se ha decidido en el pasado y qué cosas no se han explorado aún. También hay diseñadores de interacción, que pueden decirte **«Esta página debería moverse de esta manera»** o **«Esto debería ocurrir tan pronto como se pulsa este botón»**. Esta es una oportunidad para recibir los comentarios que necesitas para que tu proyecto tenga éxito.
 
-En algún momento, tendrás una sesión de crítica de la UX, donde presentarás tu solución al equipo y comenzarás a recibir comentarios de muy alto nivel sobre la interacción y qué cambios o mejoras podrías hacer para que el producto tenga éxito. Si eres diseñador de UX a tiempo completo, recibirás muchas críticas que contribuirán al éxito del producto. Pero es muy importante que recuerdes que las críticas no tienen que ver contigo como diseñador, sino con la solución y cómo podemos asegurarnos como equipo de que sea lo mejor posible. Tan pronto como tienes una solución, debes ir a hablar con tus superiores y con clientes potenciales para ver si está lista para su implementación. Una vez que obtengas el visto bueno para ello, comenzarás a transmitir la solución a los ingenieros, quienes la desarrollarán y la harán cobrar vida. Como diseñador visual, es gratificante poder crear algo que tenga un impacto en la vida de otras personas todos los días. Yo me centro en lo que verá el cliente, por lo que mi tarea es decidir qué aspecto tendrá y cómo funcionará. Creo que causar ese impacto y ocupar ese lugar es muy importante y bastante trascendente como diseñador de UX.
+En algún momento, tendrás una **sesión de crítica de la UX**, donde presentarás tu solución al equipo y comenzarás a recibir comentarios de muy alto nivel sobre la interacción y qué cambios o mejoras podrías hacer para que el producto tenga éxito. Si eres diseñador de UX a tiempo completo, **recibirás muchas críticas que contribuirán al éxito del producto**. Pero es muy importante que recuerdes que las críticas no tienen que ver contigo como diseñador, sino con la solución y cómo podemos asegurarnos como equipo de que sea lo mejor posible. Tan pronto como tienes una solución, debes ir a hablar con tus superiores y con clientes potenciales para ver si está lista para su implementación. Una vez que obtengas el visto bueno para ello, comenzarás a transmitir la solución a los ingenieros, quienes la desarrollarán y la harán cobrar vida. Como diseñador visual, es gratificante poder crear algo que tenga un impacto en la vida de otras personas todos los días. Yo me centro en lo que verá el cliente, por lo que mi tarea es decidir qué aspecto tendrá y cómo funcionará. Creo que causar ese impacto y ocupar ese lugar es muy importante y bastante trascendente como diseñador de UX.
 
 ---
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Especialistan, generalistas y diseñadores generalistas -especializados
+
+
+- Un **diseñador de UX generalista(Generalist)** es aquel que realiza muchas tareas distintas. Así comienza su carrera la mayoría de los diseñadores de UX: realizando diversas tareas. 
+
+```
+coding - prototyping - visual design - ux research - writing
+```
+
+Por ejemplo, podrías hacer un poco de diseño de interacción, un poco de diseño visual y otras cosas. Una ventaja de ser generalista es que puedes probar varios roles hasta encontrar una especialidad que te apasione.
+
+Los diseñadores de UX generalistas son comunes en las empresas pequeñas con pocos empleados, que no suelen tener grandes departamentos de diseño. Posiblemente debas realizar muchas tareas. 
+
+Un generalista podría participar en la investigación de usuarios, en el branding, en la definición de flujos de usuarios, en la escritura de UX, en el diseño visual, en la creación de prototipos, en el diseño de producción, en la arquitectura de la información y en las pruebas de facilidad de uso, entre otras cosas. 
+
+Al comienzo, la mayoría de los generalistas conoce uno o dos de estos temas. 
+
+Aprenden sobre otras áreas en el trabajo, con ayuda de sus colegas o mentores. Los generalistas de UX también pueden seguir aprendiendo con actividades de desarrollo profesional, investigando por su cuenta para mantenerse al día con las tendencias del sector y participando en comunidades de UX en línea para aprender de otros diseñadores.
+
+- Por otro lado, si te interesas mucho en una parte del diseño de UX, podrías encontrar un nicho como **especialista**. Un especialista **se sumerge en profundidad en un rol específico del diseño de UX**, como el diseño de interacción, visual o de movimiento. Un generalista tiene un conocimiento más amplio, en tanto que un especialista tiene un conocimiento más profundo sobre un tipo de diseño de UX. Los especialistas suelen trabajar en **grandes empresas**, que pueden permitirse tener un gran equipo de diseñadores de UX.
+
+Google tiene miles de diseñadores de UX especializados. Yo soy un ejemplo. Me especializo en diseño de interacción. 
+
+- A medida que avances en tu carrera, podrías convertirte en un **diseñador generalista especializado(T-shaped designer)**. Estos diseñadores **se especializan en un tipo de diseño de UX, pero también tienen conocimientos de muchos otros ámbitos**. También se los llama «diseñadores en forma de T», pues sus destrezas se asemejan a una T mayúscula, donde la línea vertical es el tipo de diseño de UX en que se especializan, como el diseño visual, y la línea horizontal representa sus destrezas complementarias. Estas destrezas podrían provenir de campos que se crucen con tus especialidades, como el diseño de interacción, o de destrezas que te ayuden a ser más eficaz. Convertirse en especialista o generalista no siempre es una elección consciente. Esto podría basarse enteramente en dónde trabajes y qué habilidades se necesiten. 
+
+Cuando me inicié en el diseño de UX, fui diseñador de gráficos de movimiento. Luego, trabajé en videojuegos, aplicaciones para empresas y aplicaciones sobre tecnología financiera. Ahora que trabajo en Google, soy diseñador de interacción y me centro en la privacidad. 
+
+Cuanta más experiencia obtengas en la industria, más amplia será tu perspectiva. Estarás expuesto a muchas empresas, principios de diseño, y estilos de trabajo diferentes, y descubrirás que todos pueden mejorar tus diseños de algún modo. 
+
+Como diseñador de UX, siempre hay espacio para crecer y oportunidades de cambio. Sea que te conviertas en generalista o especialista, hay muchas opciones.
+
+---
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Erika: diseñadora generalista o especializada
 
