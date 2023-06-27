@@ -16,11 +16,11 @@ Human Computer Interaction | Eesearch and Design | User Experience | Business Ps
 
 ## 🚀 PLAN DE ESTUDIO 🚀
 
-- **Aspectos básicos del diseño de la experiencia de usuario**: dentificar algunas de las responsabilidades laborales más comunes de los diseñadores de UX de nivel básico | Comprender algunos conceptos básicos del diseño de UX, como el diseño centrado en el usuario, el proceso de diseño, la accesibilidad, etc. | Explicar por qué los sprints de diseño son una parte importante y útil del trabajo de un diseñador de UX. | Empezar a crear un portfolio en línea donde puedas mostrar tus próximos trabajos.
+- **Aspectos básicos del diseño de la experiencia de usuario**: identificar algunas de las responsabilidades laborales más comunes de los diseñadores de UX de nivel básico | Comprender algunos conceptos básicos del diseño de UX, como el diseño centrado en el usuario, el proceso de diseño, la accesibilidad, etc. | Explicar por qué los sprints de diseño son una parte importante y útil del trabajo de un diseñador de UX. | Empezar a crear un portfolio en línea donde puedas mostrar tus próximos trabajos.
 
 - **Primeros pasos en el proceso de diseño UX: Empatizar, definir e idear**: Describir métodos comunes de investigación en UX | Empatizar con los usuarios para comprender sus necesidades y dificultades | Desarrollar declaraciones de problemas para definir las necesidades del usuario | Generar ideas de posibles soluciones a los problemas de los usuarios | Crear esquemas de páginas y prototipos de baja fidelidad
 
-- **Crear esqeumas de página y prototipos de baja fidelidad**: Crea guiones gráficos para pensar ideas sobre soluciones para las necesidades de los usuarios | Crea esquemas de página en papel y digitales en la herramienta de diseño Figma | Construye prototipos en papel para crear diseños interactivos | Diseña prototipos de baja fidelidad en Figma
+- **Crear esquemas de página y prototipos de baja fidelidad**: Crea guiones gráficos para pensar ideas sobre soluciones para las necesidades de los usuarios | Crea esquemas de página en papel y digitales en la herramienta de diseño Figma | Construye prototipos en papel para crear diseños interactivos | Diseña prototipos de baja fidelidad en Figma
 
 - **Llevar a cabo investigaciones en UX**: Planificar y realizar estudios de usabilidad moderados y no moderados | Sintetizar las observaciones de los estudios de usabilidad y sacar conclusiones | Compartir la metodología de la investigación y las conclusiones por medio de habilidades de presentación persuasivas | Modificar los diseños de baja fidelidad en función de las conclusiones de la investigación
 
