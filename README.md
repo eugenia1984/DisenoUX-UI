@@ -79,16 +79,16 @@ Al finalizar el curso, el estudiante contará con los conocimientos básicos par
 
 ###  TEMAS A DESARROLLAR:
 
-- [**Módulo 1 | Introducción al UX/UI**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI):  Qué es UX. Breve reseña histórica ●  Por qué es importante incorporarlo? ●  Qué es UI? ●  Qué hace un diseñador UX/UI? ●  Rol en la industria digital ●  Diferencia y relación entre UX y UI ●  Qué es IxD. 
+- [**Módulo 1 | Introducción al UX/UI**](https://github.com/eugenia1984/introduccion_disenio_ux_ui/DisenoUX-UI/tree/main/Modulo_1_introduccion_al_UX_UI):  ¿Qué es UX? - Breve reseña histórica - ¿Por qué es importante incorporarlo? - ¿Qué es UI? - ¿Qué hace un diseñador UX/UI? - Rol en la industria digital - Diferencia y relación entre UX y UI - ¿Qué es IxD? 
 
 
-- [**Módulo 2 | Usabilidad y Accesibilidad**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad):  Evaluación Heurística ●  Jackob Nielsen ●  Donald Norman ●  Concepto de accesibilidad Introducción al proceso UX ●   Planificación y organización previa
+- [**Módulo 2 | Usabilidad y Accesibilidad**](https://github.com/eugenia1984/introduccion_disenio_ux_ui/DisenoUX-UI/tree/main/Modulo2_usabilidad_accesibilidad):  Evaluación Heurística - Jackob Nielsen - Donald Norman - Concepto de accesibilidad Introducción al proceso UX - Planificación y organización previa
 
-- [**Módulo 3 | Proceso UX/UI - Introducción a la investigación**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo3_design_thinking_lean_ux):  El diseño gráfico como proceso ● Design Thinking ● Antecedente del método científico ● Lean Ux ● Research (investigación) ● - Benchmark ● Entrevistas ● Detectando y definiendo el problema ● Creación de user Persona ● Customer Journey Map ●  User Experience Map
+- [**Módulo 3 | Proceso UX/UI - Introducción a la investigación**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/introduccion_disenio_ux_ui/modulo3_design_thinking_lean_ux): El diseño gráfico como proceso - Design Thinking - Antecedente del método científico - Lean Ux - Research (investigación) - Benchmark - Entrevistas - Detectando y definiendo el problema - Creación de user Persona - Customer Journey Map -  User Experience Map
 
-- [**Módulo 4 | Definición, ideación y prototipado**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado):  Filtramos información ● Detectamos problemas y los definimos ● Insights ● Técnicas de ideación ● Arquitectura de información ● Prototipos de distintos grados de fidelidad ● Bocetos ● Wireframes ● Mockups ●  Diagramas de flujo
+- [**Módulo 4 | Definición, ideación y prototipado**](https://github.com/eugenia1984/introduccion_disenio_ux_ui/DisenoUX-UI/tree/main/modulo4_definicion_ideacion_prototipado):  Filtramos información - Detectamos problemas y los definimos - Insights - Técnicas de ideación - Arquitectura de información - Prototipos de distintos grados de fidelidad - Bocetos - Wireframes - Mockups - Diagramas de flujo
 
-- [**Módulo 5 | Pruebas e Implementación - Cierre**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/modulo5%20_pruebas_implementacion_cierre):  Contraste y Legibilidad ● Pruebas de usuario Pruebas A/B ● Concepto de iteración ● Trabajando con desarrolladores ● Design system ●  Cierre del curso con una puesta en común sobre todo el proceso de diseño de un producto digital ● Caso de estudio para ver en la práctica todo lo aprendido
+- [**Módulo 5 | Pruebas e Implementación - Cierre**](https://github.com/eugenia1984/introduccion_disenio_ux_ui/DisenoUX-UI/tree/main/modulo5_pruebas_implementacion_cierre):  Contraste y Legibilidad - ruebas de usuario Pruebas A/B - Concepto de iteración - Trabajando con desarrolladores - Design system - Cierre del curso con una puesta en común sobre todo el proceso de diseño de un producto digital - Caso de estudio para ver en la práctica todo lo aprendido
 
 
 ---
