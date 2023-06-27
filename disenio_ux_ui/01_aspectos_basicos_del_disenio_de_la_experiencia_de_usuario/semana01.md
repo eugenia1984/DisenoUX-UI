@@ -383,13 +383,17 @@ Estos son algunos ejemplos de esquemas que he creado. Este es de una página web
 
 
 
-¿Ves que solo tiene dibujos básicos? Pero te dice dónde va cada cosa. Estos esquemas se diseñaron para demostrar la estructura básica de la página y lograr el apoyo de los principales interesados, quienes tienen un interés comercial en el producto final.
+¿Ves que solo tiene dibujos básicos? Pero te dice dónde va cada cosa. Estos esquemas se diseñaron para demostrar la **estructura básica de la página** y **lograr el apoyo de los principales interesados**, quienes tienen un interés comercial en el producto final.
 
-Un diseñador de UX también crea prototipos. Un prototipo es un modelo preliminar de un producto. Muestra la funcionalidad, al igual que un esquema, pero es mucho más avanzado. Mientras que un esquema da una idea general de dónde van las cosas y cómo funcionará el producto, un prototipo ilustra el paso de una pantalla a la siguiente. Podemos dibujar los prototipos en papel, crear prototipos físicos o generar prototipos digitales. Este es un prototipo que creé para el Informe de transparencia de Google y esta es la versión final.
+- Un diseñador de UX también crea **prototipos**. Un prototipo es un modelo preliminar de un producto. Muestra la funcionalidad, al igual que un esquema, pero es mucho más avanzado. Mientras que un esquema da una idea general de dónde van las cosas y cómo funcionará el producto, un prototipo **ilustra el paso de una pantalla a la siguiente**. Podemos dibujar los prototipos en papel, crear prototipos físicos o generar prototipos digitales. Este es un prototipo que creé para el Informe de transparencia de Google y esta es la versión final.
 
-El propósito de los esquemas y los prototipos es identificar el mejor diseño para un producto de forma económica y rápida. Otra tarea de un diseñador de UX de nivel básico podría ser crear la arquitectura de la información, que es el framework de un sitio web: cómo está organizado, categorizado y estructurado. Por ejemplo, cuando haces clic en el menú «Archivo» de una aplicación de procesamiento de texto, como Google Docs, esperas que se muestren ciertas opciones, como «Nuevo» o «Imprimir», en el menú desplegable. Cuando accedes a la página de inicio de una empresa, esperas encontrar un enlace del tipo «Quiénes somos». Esta estructura constituye la arquitectura de la información del sitio.
+El propósito de los esquemas y los prototipos es **identificar el mejor diseño para un producto de forma económica y rápida**. 
 
-Por último, el trabajo de diseñador de UX, como muchos otros, requiere mucha comunicación: reuniones con colegas, escribir correos, crear propuestas o hacer presentaciones ante clientes. En resumen, los diseñadores de UX de nivel básico deberían saber cómo investigar, crear esquemas y prototipos, definir la arquitectura de la información, y comunicarse de forma efectiva. Tus tareas exactas podrían variar según dónde trabajes y qué tan especializado debas ser en tu puesto. A continuación, hablaremos sobre ser generalista o especialista y sus implicancias para tu carrera profesional. ¿Te intriga? ¡Vamos!
+- Otra tarea de un diseñador de UX de nivel básico podría ser **crear la arquitectura de la información, que es el framework de un sitio web**: cómo está organizado, categorizado y estructurado. Por ejemplo, cuando haces clic en el menú «Archivo» de una aplicación de procesamiento de texto, como Google Docs, esperas que se muestren ciertas opciones, como «Nuevo» o «Imprimir», en el menú desplegable. Cuando accedes a la página de inicio de una empresa, esperas encontrar un enlace del tipo «Quiénes somos». Esta estructura constituye la arquitectura de la información del sitio.
+
+- Por último, el trabajo de diseñador de UX, como muchos otros, requiere mucha **comunicación**: reuniones con colegas, escribir correos, crear propuestas o hacer presentaciones ante clientes. En resumen, los diseñadores de UX de nivel básico deberían saber cómo investigar, crear esquemas y prototipos, definir la arquitectura de la información, y comunicarse de forma efectiva. 
+
+Tus tareas exactas podrían variar según dónde trabajes y qué tan especializado debas ser en tu puesto. 
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
 
