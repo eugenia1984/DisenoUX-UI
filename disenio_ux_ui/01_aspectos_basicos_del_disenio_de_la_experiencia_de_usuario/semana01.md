@@ -359,7 +359,33 @@ Ahora que viste las pantallas de FoodieLand, completa al menos un aspecto de la 
 
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Tareas de los diseñadores de UX de nivel básico
+Para empezar, veamos algunas de las responsabilidades comunes de los diseñadores de UX de nivel básico: 
 
+- **investigar**
+
+- **wireframing**(crear esquemas)
+
+- **prototiping**(prototipos)
+
+- **definir la arquitectura de la información**
+
+- **comunicarse eficazmente**
+
+Al comienzo de sus carreras, los diseñadores de UX de nivel básico realizan muchas tareas para **aprender lo básico**, como por ejemplo:
+
+- **Investigar**: los diseñadores de UX investigan para entender al público y conocer sus contextos, sus perfiles demográficos, como su edad y ubicación, sus motivaciones, sus dificultades, sus emociones y sus objetivos de vida. Hay mucho que aprender sobre los **usuarios** y sus **preferencias**, y los diseñadores UX buscan descubrir tanto como puedan para diseñar mejor sus productos. 
+
+- Un diseñador de nivel básico también crea esquemas(**wireframes**): un esquema es un **esbozo** o **boceto** de un producto o una pantalla. Ayuda al diseñador a entender cómo se organiza una página, cómo encaja cada pieza de un producto con las demás y cómo interactuarán los usuarios con el producto. Definir un esquema es uno de los primeros pasos a la hora de crear un producto o una función nuevos. Esto se hace después de la investigación o junto con ella. Los esquemas pueden crearse a mano o digitalmente en una computadora. 
+
+Estos son algunos ejemplos de esquemas que he creado. Este es de una página web sobre el Informe de transparencia de Google. 
+
+¿Ves que solo tiene dibujos básicos? Pero te dice dónde va cada cosa. Estos esquemas se diseñaron para demostrar la estructura básica de la página y lograr el apoyo de los principales interesados, quienes tienen un interés comercial en el producto final.
+
+Un diseñador de UX también crea prototipos. Un prototipo es un modelo preliminar de un producto. Muestra la funcionalidad, al igual que un esquema, pero es mucho más avanzado. Mientras que un esquema da una idea general de dónde van las cosas y cómo funcionará el producto, un prototipo ilustra el paso de una pantalla a la siguiente. Podemos dibujar los prototipos en papel, crear prototipos físicos o generar prototipos digitales. Este es un prototipo que creé para el Informe de transparencia de Google y esta es la versión final.
+
+El propósito de los esquemas y los prototipos es identificar el mejor diseño para un producto de forma económica y rápida. Otra tarea de un diseñador de UX de nivel básico podría ser crear la arquitectura de la información, que es el framework de un sitio web: cómo está organizado, categorizado y estructurado. Por ejemplo, cuando haces clic en el menú «Archivo» de una aplicación de procesamiento de texto, como Google Docs, esperas que se muestren ciertas opciones, como «Nuevo» o «Imprimir», en el menú desplegable. Cuando accedes a la página de inicio de una empresa, esperas encontrar un enlace del tipo «Quiénes somos». Esta estructura constituye la arquitectura de la información del sitio.
+
+Por último, el trabajo de diseñador de UX, como muchos otros, requiere mucha comunicación: reuniones con colegas, escribir correos, crear propuestas o hacer presentaciones ante clientes. En resumen, los diseñadores de UX de nivel básico deberían saber cómo investigar, crear esquemas y prototipos, definir la arquitectura de la información, y comunicarse de forma efectiva. Tus tareas exactas podrían variar según dónde trabajes y qué tan especializado debas ser en tu puesto. A continuación, hablaremos sobre ser generalista o especialista y sus implicancias para tu carrera profesional. ¿Te intriga? ¡Vamos!
 
 ## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
 
