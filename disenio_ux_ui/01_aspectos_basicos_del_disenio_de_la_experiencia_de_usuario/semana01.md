@@ -562,6 +562,132 @@ Muchos otros diseñadores de UX empiezan como freelancers. Los freelancers traba
 Por último, podrías ser diseñador de UX en una gran empresa, como Google. Estas empresas tienen miles de empleados que trabajan en muchos proyectos diferentes. En ellas, los diseñadores de UX suelen especializarse y centrarse en un proyecto de principio a fin. Esta es una excelente manera de conocer una especialización dentro del diseño de UX. Además, puedes aprender de otros expertos. Lo malo es que probablemente tendrás menos opciones para adquirir habilidades fuera de tu función específica, por lo que el deseo de especializarse es clave. Ahora que sabes qué opciones hay, ¿en qué tipos de empresas te entusiasma más trabajar? Si estás inspirado, compártelo en el foro de debate.
 
 ---
+
+## :book: La influencia del tamaño de la empresa y la industria
+
+¿Siempre has soñado con trabajar con un grupo unido en una startup? ¿O conseguir un trabajo en tu empresa favorita? Según dónde termines trabajando, tu trabajo como diseñador de UX podría ser bastante diferente. En este material de lectura, explorarás cómo los roles de diseño de UX pueden variar según el tamaño y el sector de la empresa. 
+
+## Startups y pequeñas empresas
+
+Las startups son empresas nuevas que desean desarrollar un producto o servicio único y llevarlo al mercado. Las pequeñas empresas son empresas privadas con pocos empleados. A muchos diseñadores de UX les entusiasma la idea de trabajar en startups o pequeñas empresas porque pueden ver el impacto de su trabajo más rápidamente y desarrollar una gama más amplia de destrezas.
+
+#### Ventajas
+
+**Tamaño del equipo**: equipo unido y capaz de relacionarse directamente con la alta dirección.
+
+**Crecimiento**: hay muchas oportunidades para crecer, ya que los diseñadores asumen muchas responsabilidades (diseño visual, diseño de interacción e investigación de usuarios, entre otras).
+
+**Creatividad**: por lo general, estas empresas ofrecen más libertad creativa y tienen menos pautas y procesos.
+
+**Impacto**: gran impacto en los productos finales, ya que pocas personas trabajan en cada proyecto.
+
+### Desventajas
+
+**Mentoría**: en una empresa más pequeña, hay pocos mentores entre los que elegir.
+
+**Responsabilidad**: la mayor parte de la responsabilidad de un proyecto de UX recae exclusivamente en ti, lo que puede ser estresante si tienes poca experiencia en UX.
+
+**Velocidad**: debes sentirte cómodo para trabajar rápidamente y entregar trabajos que no sean perfectos, con poca supervisión.
+
+## Grandes empresas
+
+En una gran empresa, como Google, es probable que trabajes en equipo en un proyecto específico. Muchos diseñadores de UX quieren trabajar en grandes empresas junto con las personas que desarrollaron algunos de los productos más conocidos del mundo. Los equipos de UX de las grandes empresas tienden a estar más compartimentados por especialización, lo que hace que sea más fácil especializarse en un área particular de la UX.
+
+
+#### Ventajas
+
+**Mentoría**: estarás expuesto a muchos diseñadores experimentados y otros expertos en UX de los que aprender.
+
+**Crecimiento**: tendrás muchas oportunidades de crecimiento, porque hay muchos niveles de diseñadores y de gestión.
+
+**Directrices**: directrices más claras para mantener los productos uniformes y coherentes con la marca.
+
+**Tamaño del equipo**: muchas personas trabajan en un proyecto, lo que significa que puedes centrarte mejor en tus responsabilidades específicas. 
+
+
+**Especialización**: oportunidad de centrarte en un área particular del diseño.
+
+
+#### Desventajas
+
+**Tamaño del equipo**: si colaboras con muchos otros diseñadores en el proyecto, podrías sentir que no eres tan importante o que no tienes tanto impacto.
+
+**Impacto**: podrías «sentirte pequeño» en una empresa con tantas características y productos.
+
+**Directrices**: las directrices definidas pueden restringir la creatividad.
+
+## Agencias de diseño
+
+Una agencia de diseño proporciona servicios integrales relacionados con el aspecto de marcas, productos y servicios. Trabajar en una agencia de diseño suele ser similar de alguna manera a trabajar en una pequeña empresa o una startup, excepto que tendrás varias empresas como clientes. Muchas agencias tienden a trabajar en una amplia gama de productos, por lo que podrás explorar muchos tipos de estilos y enfoques para el diseño de UX.
+
+#### Ventajas
+
+**Impacto**: tendrás un gran impacto en los proyectos si eres el único diseñador de UX del equipo.
+
+**Vinculación**: tendrás la oportunidad de trabajar con interesados sénior, diferentes equipos y diversos clientes.
+
+**Exposición**: estarás expuesto a muchas empresas e industrias con diferentes clientes. 
+
+**Currículum**: podrás trabajar con grandes marcas y exhibir ese trabajo en tu portfolio.
+
+
+#### Desventajas
+
+**Mentoría**: si eres el único diseñador de UX en un proyecto, no tendrás un mentor.
+
+**Monotonía**: según la agencia, quizás trabajes siempre en proyectos del mismo tipo.
+
+**Continuidad**: quizás no puedas trabajar en un proyecto de principio a fin.
+
+**Producto terminado**: de acuerdo con las prioridades del cliente, algunos de los productos en los que trabajes podrían no llegar a la etapa de lanzamiento.
+
+
+## Agencias publicitarias
+
+Muchos diseñadores de UX trabajan en agencias publicitarias, que son equipos creativos contratados por los clientes para crear campañas de marketing. Estos diseñadores, a veces denominados «tecnólogos creativos», trabajan a fin de crear anuncios para marcas mediante la aplicación de los principios de UX. Esta es una excelente opción si estás dispuesto a adquirir algunas destrezas interesantes fuera de un rol básico de diseño de UX.
+
+#### Ventajas
+
+**Autonomía**: el hecho de que haya poco o nada de gerencia intermedia implica que tendrás más autonomía en tu trabajo.
+
+**Aprendizaje**: tendrás la oportunidad de conocer otras disciplinas, como el branding, el marketing y el diseño gráfico. 
+
+**Variedad**: cada proyecto será diferente según el cliente.
+
+**Vinculación**: trabajarás con un montón de marcas, clientes y equipos diferentes.
+
+#### Desventajas
+
+**Especialización**: habrá mucha variabilidad en los proyectos, por lo que quizás no puedas perfeccionar habilidades específicas fácilmente.
+
+**Relevancia**: el trabajo suele implicar branding y marketing, y es posible que no se centre en el diseño de UX.
+
+
+## Freelancers
+
+Los freelancers son diseñadores de UX autónomos que ofrecen sus servicios a distintos clientes de forma independiente. Ser freelancer te da mucha libertad y, si recién te inicias como diseñador de UX, es una excelente manera de adquirir experiencia práctica y añadir trabajos a tu portfolio. 
+
+#### Ventajas
+
+**Horario**: trabajarás por tu cuenta, por lo que podrás definir tu propio horario de trabajo.
+
+**Flexibilidad**: puedes trabajar como freelancer mientras tienes otro empleo o buscar un equilibrio entre distintas prioridades personales o profesionales.
+
+**Autonomía**: puedes elegir el trabajo que quieres hacer.
+
+**Experiencia**: podrás expandir tu portfolio, especialmente si no tienes un trabajo de UX a tiempo completo.
+
+#### Desventajas
+
+**Estructura**: no tendrás ningún superior, lo que significa que tú serás el único responsable de hacer el trabajo a tiempo.
+
+**Estabilidad**: es menos estable que trabajar para una empresa o agencia, ya que el trabajo no está garantizado.
+
+**Negocio**: deberás administrar la logística de tu propio negocio (presentar declaraciones de impuestos, encargarte de la facturación, etc.).
+
+**Mentoría**: no tendrás mentores, ya que trabajarás solo.
+
+---
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Empezar una carrera en diseño UX UI
