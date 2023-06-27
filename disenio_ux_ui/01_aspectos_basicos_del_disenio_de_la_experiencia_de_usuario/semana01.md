@@ -329,10 +329,26 @@ Imagina que tienes que evaluar cuán útil es una aplicación bancaria. Los usua
 
 ---
 
-##Actividad
+## Actividad
 
 <img src="https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9aa8d1b1-ebc7-4f06-8a36-98dcbe4baabd" width="600" >
 
+Ahora que viste las pantallas de FoodieLand, completa al menos un aspecto de la apilcación que demuestre que el diseño es...
 
+... fácil de usar: diseño simple.
+
+-> Los botones “Agregar al carrito”, “Volver a explorar” y “Finalizar la compra” de la aplicación Foodieland son ejemplos de un diseño fácil de usar porque indican de manera clara qué sucederá cuando los usuarios los presionen. 
+
+... equitativo: tiene la opción de escuchar para quien tenga dificultad de visiòn, tiene buen contraste de colores lo que no genera inconveniente con los daltónicos.
+
+-> La función de traducción de la aplicación Foodieland es un ejemplo de diseño equitativo porque ayuda a las personas que hablan diferentes idiomas.
+
+... agradable: colores que conrastan, letras claras, poco texto, imagenes que ayudan
+
+-> Las imágenes de la aplicación Foodieland son ejemplos de un diseño agradable porque son atractivas visualmente y ayudan al usuario a entender lo que está ordenando. 
+
+.... útil: en 3 pasos se puede hacer la compra
+
+-> La función de filtro de la aplicación Foodieland permite a los usuarios acotar su búsqueda. Este es un ejemplo de diseño útil porque ayuda al usuario a seleccionar fácilmente una pizza para ordenar. 
 
 ---
