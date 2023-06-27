@@ -264,3 +264,31 @@ Los gerentes de programas también se reúnen con el equipo multidisciplinario p
 Si se trata de un producto físico, la fase de lanzamiento podría ser el fin del ciclo de desarrollo. En cambio, en el caso de un producto digital, como una aplicación o un sitio web, presentar el producto ante un público más amplio brinda otra oportunidad de mejorar la experiencia del usuario. Los nuevos usuarios podrían encontrar problemas con la funcionalidad del producto o características para mejorar que nadie había notado antes. Por lo tanto, después de la fase de lanzamiento, los equipos suelen volver a las fases de diseño y pruebas para empezar a trabajar en la próxima versión de un producto digital.
 
 ---
+
+## Diseñar para una buena experiencia del usuario
+
+¿Alguna vez creaste una cuenta en una aplicación y no supiste qué hacer a continuación? 
+ 
+¿O presionaste un botón y finalmente no ocurrió lo que esperabas que ocurriera? 
+ 
+Predecir los obstáculos de los usuarios y los posibles contratiempos es clave para un buen diseño de UX. 
+
+Piensa en un producto tan simple como una puerta. ¿Alguna vez intentaste salir de una habitación y tiraste de la manija, pero la puerta no se movió? Quizás era porque se suponía que empujaras, no que tiraras. Como diseñadores, tenemos que pensar en cómo mejorar la experiencia del usuario para que pueda salir y entrar fácilmente. Las puertas que tienen este problema se conocen como **puertas de Norman**. ¿Recuerdas a Don Norman, el que inventó el término «UX»? En su libro, «The Design of Everyday Things», describe el fenómeno y explica que la experiencia del usuario no siempre se tiene en cuenta al diseñar un producto.
+
+Las puertas son solo un ejemplo de la experiencia del usuario. Piensa en el **diseño de UX en el mundo de la tecnología**. Las aplicaciones bien diseñadas buscan ahorrar espacio en pantalla mediante íconos en lugar de texto, para que quepa más información. Los **íconos** también son agradables a la vista y fáciles de entender, sin importar el idioma nativo del usuario. Pero, a veces, el significado de un ícono es indescifrable a menos que lo toques. En ese caso, usar texto sería mucho más claro. Un buen diseño tiene en cuenta las necesidades del usuario. Para que el usuario tenga una buena experiencia, el producto debe ser:
+
+-  fácil de usar
+
+- equitativo
+
+- agradable 
+
+- útil
+
+entre otras cosas.
+
+Por ejemplo, una aplicación de compras sirve para comprar cosas. Si pones un par de zapatos en tu carrito de compras virtual, esperas poder comprarlos. Si, cuando añades los zapatos a tu carrito de compras, te dicen que están agotados, no tendrás una buena experiencia de usuario. Para ofrecer una buena experiencia de usuario, **un producto debe ser intuitivo y fácil de usar**. Cada producto debe estar diseñado para hacer que el usuario se sienta de cierta manera. Una tarea clave de los diseñadores de UX es **asociar una emoción específica a la experiencia de usar el producto**.
+
+Comienza a prestar atención a las cosas que usas cada día: en qué dirección tienes que girar los grifos de la bañera, cómo se abotonan los pijamas de tu bebé, qué significan los mensajes de error en tu teléfono, y de qué manera se abren las puertas. Si lo haces, empezarás a reconocer aspectos positivos y negativos de cada diseño. Utiliza tus propias experiencias para pensar en qué hace que un diseño sea bueno o malo. ¿Qué cosas podrían mejorarse? ¿Qué cosas ya funcionan bien? 
+
+---
