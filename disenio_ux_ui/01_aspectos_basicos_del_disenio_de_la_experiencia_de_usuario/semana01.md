@@ -520,6 +520,32 @@ Hay muchas oportunidades para que i**ngenieros** y **diseñadores de UX** se hag
 
 ## :book: Interactuar con miembros de un equipo multidisciplinario
 
+El diseño de UX es un campo altamente colaborativo, en el que los diseñadores suelen trabajar en equipos multidisciplinarios. Tus futuros compañeros de equipo podrían ser ingenieros, investigadores de UX, gerentes de programas, directores de productos y compañeros diseñadores, entre otros. Trabajar con un grupo diverso de personas de distintas funciones te ayuda a aprender de sus respectivas áreas de especialización y explorar otros dominios dentro del campo de la UX. En este material de lectura, aprenderás sobre los miembros de un equipo multidisciplinario con los que probablemente trabajarás cuando te inicies como diseñador de UX. 
+
+### Equipos con los que trabajan los diseñadores de UX 
+
+Existen equipos multidisciplinarios de muchas formas y tamaños, según la organización para la que trabajes y el proyecto en cuestión. Sin embargo, hay ciertos miembros clave del equipo con los que probablemente trabajarás como diseñador de UX.
+
+### Ingeniero (Engineer)
+
+Los ingenieros traducen los diseños en una experiencia funcional, como una aplicación o un sitio web. Ayudan a los equipos de UX a averiguar si los diseños son factibles desde un punto de vista técnico y a dar vida a las ideas. Trabajar en estrecha colaboración con los ingenieros e involucrarlos al principio del proceso de diseño es fundamental para garantizar que tu proyecto esté preparado para el éxito.
+
+### Investigador de UX (UX Research)
+
+La investigación en UX consiste en comprender qué necesitan y esperan los usuarios de un producto. Los investigadores de UX emplean métodos como la observación, las entrevistas y las encuestas para comprender las perspectivas únicas de los usuarios. Los hallazgos de la investigación pueden servir de base para tomar decisiones de diseño en cada paso del proceso. Si trabajas en una startup o en una pequeña empresa, probablemente tengas que llevar a cabo tu propia investigación de UX. En cambio, en empresas más grandes, podría haber investigadores de UX especializados que se encarguen de la investigación y te comuniquen sus hallazgos para guiar tu trabajo de diseño. 
+### Gerente del programa (Program Manager)
+
+Los gerentes de programas de UX garantizan una comunicación clara y oportuna entre todos los miembros del equipo para que el proceso de creación de un producto útil avance sin problemas de principio a fin. Los gerentes de programas supervisan el proyecto en su conjunto, lo apoyan y le dan seguimiento. Los gerentes asignan tareas a los miembros del equipo, supervisan el presupuesto del proyecto y administran plazos, entre otras cosas. El gerente del programa será tu fuente de apoyo principal cuando te enfrentes a cualquier contratiempo o problema en tu trabajo.
+
+
+### Director del producto (Product Lead)
+
+Los directores de productos se encargan de garantizar el éxito del producto final y comunicarse con los interesados. El director del producto definirá los objetivos principales y los resultados del proyecto, para que tú puedas concentrarte en crear soluciones de diseño innovadoras. En algunas empresas, los directores de productos se conocen como gerentes de productos.
+
+### Otros diseñadores de UX (Other UX Designers)
+
+En muchos casos, no serás el único diseñador que trabaje en un proyecto determinado, especialmente si trabajas en una empresa grande y eres un diseñador nuevo. Por ejemplo, como diseñador de UX de nivel básico, podrías colaborar con un diseñador visual más experimentado que se asegure de que tus diseños se ajusten a los estándares de marca de la empresa en términos de cuestiones como el color y la fuente. Trabajar con otros diseñadores es una gran oportunidad para aprender y hacer preguntas.
+
 
 ---
 ---
