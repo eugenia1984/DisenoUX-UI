@@ -16,7 +16,7 @@ Human Computer Interaction | Eesearch and Design | User Experience | Business Ps
 
 ## 🚀 PLAN DE ESTUDIO 🚀
 
-- **Aspectos básicos del diseño de la experiencia de usuario**: identificar algunas de las responsabilidades laborales más comunes de los diseñadores de UX de nivel básico | Comprender algunos conceptos básicos del diseño de UX, como el diseño centrado en el usuario, el proceso de diseño, la accesibilidad, etc. | Explicar por qué los sprints de diseño son una parte importante y útil del trabajo de un diseñador de UX. | Empezar a crear un portfolio en línea donde puedas mostrar tus próximos trabajos.
+- [**Aspectos básicos del diseño de la experiencia de usuario**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/01_aspectos_basicos_del_dise%C3%B1o_de_la_experiencia_de_usuario.md): identificar algunas de las responsabilidades laborales más comunes de los diseñadores de UX de nivel básico | Comprender algunos conceptos básicos del diseño de UX, como el diseño centrado en el usuario, el proceso de diseño, la accesibilidad, etc. | Explicar por qué los sprints de diseño son una parte importante y útil del trabajo de un diseñador de UX. | Empezar a crear un portfolio en línea donde puedas mostrar tus próximos trabajos.
 
 - **Primeros pasos en el proceso de diseño UX: Empatizar, definir e idear**: Describir métodos comunes de investigación en UX | Empatizar con los usuarios para comprender sus necesidades y dificultades | Desarrollar declaraciones de problemas para definir las necesidades del usuario | Generar ideas de posibles soluciones a los problemas de los usuarios | Crear esquemas de páginas y prototipos de baja fidelidad
 
