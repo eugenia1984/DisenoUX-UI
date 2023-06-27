@@ -7,6 +7,7 @@ Comprenderás las responsabilidades de los diseñadores y equipos de UX con los 
 También explorarás las oportunidades laborales y las trayectorias profesionales con las que podrías encontrarte al finalizar este programa de certificados.
 
 ---
+---
 
 ## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Conoce el campo del diseño de la experiencia del usuario
 
@@ -343,7 +344,7 @@ Ahora que viste las pantallas de FoodieLand, completa al menos un aspecto de la 
 
 -> La función de traducción de la aplicación Foodieland es un ejemplo de diseño equitativo porque ayuda a las personas que hablan diferentes idiomas.
 
-... agradable: colores que conrastan, letras claras, poco texto, imagenes que ayudan
+... agradable: colores que contrastan, letras claras, poco texto, imagenes que ayudan
 
 -> Las imágenes de la aplicación Foodieland son ejemplos de un diseño agradable porque son atractivas visualmente y ayudan al usuario a entender lo que está ordenando. 
 
@@ -351,4 +352,37 @@ Ahora que viste las pantallas de FoodieLand, completa al menos un aspecto de la 
 
 -> La función de filtro de la aplicación Foodieland permite a los usuarios acotar su búsqueda. Este es un ejemplo de diseño útil porque ayuda al usuario a seleccionar fácilmente una pizza para ordenar. 
 
+---
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Conocer trabajos comunes en el campo de la experiencia de usario
+
+
+## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Tareas de los diseñadores de UX de nivel básico
+
+
+## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Dane: Undía en la vide de un diseñador UX nivel basico
+
+## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Especialistan, generalistas y diseñadores generalistas -especializados
+
+## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Erika: diseñadora generalista o especializada
+
+## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> El papel de un diseñador UX principiante
+
+## <img width="30" height="30" src="https://img.icons8.com/dusk/30/web-design.png" alt="web-design"/> Trabajar en un equipo multidisciplinario
+
+## :book: Interactuar con miembros de un equipo multidisciplinario
+
+
+---
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Comprender los tipos de empresas que contratan diseñadores UX UI
+
+---
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Empezar una carrera en diseño UX UI
+
+---
 ---
