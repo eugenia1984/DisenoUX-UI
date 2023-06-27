@@ -163,3 +163,31 @@ La tarea de los diseñadores de conversaciones es que los usuarios tengan conver
 Los diseñadores de conversaciones responden preguntas como las siguientes: ¿Cuál es el texto y el flujo ideal en función de los usuarios del producto, la tarea a realizar y el contexto de la conversación? ¿La personalidad del asistente virtual parece genuina y atractiva y refleja los valores de la marca? ¿Cómo se integra la conversación con los elementos que se muestran en pantalla? ¿Ofrece el asistente virtual una experiencia coherente, fácil de usar y útil en cada paso del proceso?
 
 ---
+
+## El ciclo de desarrollo de un producto
+
+Es el proceso que consiste en transformar una idea en realidad. 
+
+Las tareas que realizas durante un proyecto pertenecen a distintas etapas de este ciclo. 
+
+- **PROBLEMA**: el equipo intenta resolver algún problema, se desarrolla un producto que le ofrezca al usuario una buena experiencia. 
+
+#### Hay cinco etapas en el ciclo de desarrollo de un producto. 
+
+1. **lluvia de ideas(Brainstorm)**: una etapa de descubrimiento activo cuyo objetivo es generar ideas sobre el usuario y sus posibles necesidades o desafíos. El equipo genera ideas para resolver un problema, busca entender al público de destino e identifica sus posibles necesidades o desafíos. La **investigación** es clave en esta primera etapa porque se trata de explorar formas de conocer al público de destino. Los **investigadores y escritores de UX** son fundamentales en esta etapa, en la que el equipo realiza entrevistas con usuarios potenciales u otras investigaciones. 
+
+2. **definición(DEfine)**: se usan los hallazgos de la lluvia de ideas para enfocar el proceso. En la etapa de definición, el equipo identifica formas concretas en las que el producto afectará al usuario. Como **diseñador de UX**, empezarás a analizar detalles específicos del producto, a quién está destinado, qué debería hacer y qué características debería incluir para tener éxito. El objetivo central de esta etapa es **esbozar los objetivos o los problemas a los que dará respuesta el diseño del producto**. 
+
+3. **diseño(Design)**: comienza el desarrollo activo de las ideas y se comprueba que las especificaciones de la etapa anterior sean realistas. 
+
+Las dos primeras etapas son de **preparación** y **planificación**. Te permiten comprender quién es el usuario, qué quiere y qué problemas o desafíos resuelve el diseño. 
+
+Con los hallazgos de las dos primeras etapas, los diseñadores de UX generan **diseños centrados en el usuario**. En este etapa, crearás distintos recursos, como guiones gráficos, que son **bocetos** para explorar la experiencia del usuario, o **esquemas(sketch)**, que esbozan la distribución del contenido. También podrías crear **prototipos**, que son modelos con los cuales los diseñadores de UX prueban la funcionalidad del diseño. 
+
+4. **prueba(TEst)**: el equipo **evalúa el diseño del producto a la luz de los comentarios de los usuarios potenciales**. **Probar los diseños con usuarios reales** es muy importante, porque ayuda al equipo a centrarse primero en el usuario y luego en los diseños. Las pruebas revelan áreas donde refinar o mejorar el diseño También sirven para evaluar cuán interactivo es. Esta etapa implica mucha interacción entre **diseñadores de UX** e **ingenieros de front-end** para encontrar formas de crear un producto final que satisfaga las necesidades de los usuarios y sea práctico y funcional. Analizan, por ejemplo, si el color o la fuente van bien con la marca o si los prototipos de diseño son comprensibles. 
+
+5. **lanzar o compartir una versión terminada con el público(Launch)**: Esto podría implicar publicar una aplicación en **Google Play Store** o en el **App Store de Apple**, poner un **sitio web en línea**, o llevar un **producto físico a las tiendas**. El lanzamiento puede ser muy satisfactorio para ti y tu equipo porque les permitirá entender qué acogida tendrán sus diseños en el mundo real. Pero el trabajo no termina con el lanzamiento. 
+
+Aún podrías identificar oportunidades para mejorar los diseños o entender mejor la experiencia del usuario a partir de los comentarios. Podrías tener que volver a las etapas de prueba y de diseño para saber cómo producir una versión mejor del producto. 
+
+---
