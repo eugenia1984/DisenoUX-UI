@@ -130,6 +130,106 @@ Los cinco elementos del diseño de UX son un framework de pasos que los diseñad
 [los cinco elementos de la experiencia del usuario](https://medium.com/omarelgabrys-blog/ux-a-quick-glance-about-the-5-elements-of-user-experience-part-2-a0da8798cd52)
 
 ---
+
+### Design Thinking 
+
+Design Thinking es un método centrado en el usuario para la resolución de problemas. Ayuda a los diseñadores a crear soluciones que aborden un problema real del usuario y que sean funcionales y razonables. Hay cinco fases en el proceso de diseño: empatizar, definir, pensar, crear prototipos y probar.
+
+- Durante la fase empatizar, el objetivo es comprender las necesidades de los usuarios y cómo piensan y sienten. Esto implica mucha investigación de usuarios, como la realización de encuestas, entrevistas y sesiones de observación, para que puedas obtener una imagen clara de quiénes son tus usuarios y los desafíos a los que se enfrentan.
+
+- En la fase definir, crearás una declaración clara del problema o una descripción de la necesidad de los usuarios que abordarán tus diseños según los hallazgos de tu investigación. Esto conducirá a tu equipo hacia un objetivo claro para el diseño del producto.
+
+- Cuando hayas encontrado un problema de los usuarios y definido por qué es importante resolverlo, es hora de la fase pensar. El objetivo de esta es proponer la mayor cantidad de soluciones de diseño que sea posible.  
+
+- Cuando sepas cómo resolver el problema, tendrás todo listo para pasar a la fase crear prototipos. Un prototipo es un modelo inicial de un producto que demuestra su funcionalidad. 
+
+- Durante la fase probar, los usuarios te harán comentarios sobre tus diseños antes de que los ingenieros desarrollen el producto y lo lancen al público. Puedes usar estos comentarios para realizar cambios y mejoras en tus diseños todas las veces que sea necesario.
+
+Según los comentarios que recibas en la fase probar, quizás debas volver al principio del proceso de diseño, pensar en nuevas ideas para soluciones o desarrollar prototipos nuevos. Eventualmente, el objetivo de Design Thinking, como cualquier framework de diseño, es implementar el tuyo, lo que significa crearlo y compartirlo con el mundo. Para obtener más detalles sobre las cinco fases del proceso de diseño, consulta la guía [Proceso de diseño de UX](https://xd.adobe.com/ideas/guides/ux-design-process-steps/):  Todo lo que necesitas saber de Adobe XD Ideas.
+
+---
+
+### Piensa como diseñador: Lean UX y Double Diamond
+
+Ahora que conoces tres frameworks populares utilizados por los diseñadores de UX, es hora de explorar otros dos: Lean UX y Double Diamond.  Quizás descubras que te interesa un framework en particular o tu equipo termine utilizando una estrategia diferente según el proyecto. Cada diseñador y cada equipo son diferentes, pero es importante tener una base sólida con muchas estrategias diversas antes de comenzar a diseñar. ¡Aquí vamos!
+
+#### Lean UX 
+
+El proceso de Lean UX se centra en reducir el tiempo y los recursos desperdiciados y en producir un producto viable lo antes posible. El proceso es iterativo, es decir, el equipo continúa actualizando y revisando el producto a medida que se recopilan la investigación de los usuarios y los comentarios de los interesados.
+
+El proceso de Lean UX se divide en tres pasos: 
+
+- Pensar. Explora los problemas que están experimentando los usuarios y piensa cómo podrías resolverlos con tu diseño. Este paso se trata de recopilar investigaciones para que tengas una idea clara de para quién es el producto y cómo lo ayudará.
+
+- Hacer. Empieza a diseñar el producto creando bocetos, esquemas de página y prototipos. También crearás un producto mínimo viable (MVP), un prototipo simple de tus diseños que puedes probar con el público objetivo. ¡Prepárate para volver y actualizar tu prototipo a medida que recopilas comentarios!
+
+- Revisar. Descubre cómo responden a tu diseño los usuarios y recopila comentarios de los interesados en proyecto. Realiza los ajustes necesarios y repite los tres pasos nuevamente, de ser necesario.
+
+Estos pasos deben repetirse tantas veces como sea necesario, hasta que tu equipo llegue al producto final deseado. El proceso de Lean UX fomenta la productividad y la colaboración. Los equipos de Lean UX suelen ser multifuncionales, es decir que trabajarás junto con miembros del equipo como ingenieros e investigadores de UX. 
+
+Hay seis principios que debes tener en cuenta al usar el proceso de Lean UX: 
+
+1. Avanza. Concéntrate solo en los elementos y las características del diseño que hacen que el proceso avance hacia un objetivo en particular. No te distraigas con "cosas que sería lindo tener". 
+
+2. Mantén la curiosidad. Lean UX se trata de utilizar los comentarios de los usuarios y los interesados para revisar y mejorar tus diseños. Busca continuamente comentarios para comprender por qué ciertas opciones de diseño funcionan o no.
+
+3. Prueba ideas en el mundo real. Lean UX incentiva a los diseñadores a probar sus ideas (por ejemplo, usando prototipos) fuera de la sala de reuniones y con usuarios potenciales.
+
+E4. xterioriza tus ideas. En lugar de debatir y analizar internamente si una idea va a funcionar o no, convierte tus ideas en algo físico, visible y comprobable mientras todavía están frescas en tu mente. De esta manera, recibirás comentarios sobre tus diseños en las primeras etapas, cuando las perspectivas diversas y los comentarios son más útiles. 
+
+5. Reformula los entregables como resultados. Concéntrate en crear productos utilizables y disfrutables que los usuarios realmente deseen y necesiten. Siempre ten en cuenta que, principalmente, estás diseñando para tus usuarios y no para los interesados en el proyecto.
+
+6. Adopta una transparencia radical. Siéntete cómodo hablando con honestidad con todos los miembros del equipo (y espera lo mismo a cambio), ya que dependerás de las percepciones de los demás. Así todos pueden tomar decisiones fundadas sobre cómo avanzar y evitarán perder tiempo y energía.
+
+El proceso de Lean UX se trata de mantener la mente abierta a comentarios y a revisiones constantes a través de la colaboración.
+
+---
+
+### Double Diamond 
+
+Double Diamond es un proceso de UX más tradicional, que divide el diseño de UX en dos fases principales (o "diamantes"): investigación y diseño. Cada fase tiene dos pasos. Cuando se combinan, estos son los cuatro pasos:
+
+1. Descubrir el problema. Reúne información sobre posibles problemas a los que se enfrentan los usuarios. 
+
+2. Definir el problema. Filtra los datos y concéntrate en el problema principal que tu producto pretende resolver.
+
+3. Desarrolla soluciones para el problema. Comienza a diseñar tu producto como un trabajo en progreso. Aquí es cuando entran en juego los esquemas de página y los prototipos.
+
+4. Entregar el producto. Revisa y prueba tu producto para prepararlo para su lanzamiento.
+
+Desafío: 
+
+[Investigación] 
+
+1. Descubrir: centrarse en el usuario.
+
+2. Definir: comunicar (visual e inclusivamente).
+
+[Diseño] 
+
+3. Desarrollar: colaborar.
+ 
+4. Entregar: iterar.
+
+Como muchos de los frameworks de diseño que mencionamos, Double Diamond es iterativo, no lineal. Cada sprint lleva al equipo a nuevas ideas que se utilizan para mejorar el diseño del producto. Luego, el proceso se reinicia con una nueva iteración. 
+
+Double Diamond también fomenta el trabajo en equipo en toda la organización, por lo que el equipo de diseño no se centra únicamente en este. Para tener éxito, todo el equipo debe saber cómo incorporar los principios y métodos de diseño, estrategias de participación del usuario y principios de liderazgo. Prepárate para asumir varios roles y responsabilidades, según sea necesario.
+
+Hay cuatro principios que conforman el proceso Doble Diamante:  
+
+1. Centrarse en el usuario. Como siempre ocurre en el diseño de UX, el usuario es la máxima prioridad.
+
+2. Comunicarse. Comunícate visualmente, a través de imágenes y opciones de diseño que complementen el texto. También debes asegurarte de que la comunicación de tu diseño sea equitativa y accesible, sobre lo que aprenderás más en esta parte del programa.
+
+3. Colaborar. Una de las características particulares del proceso Double Diamond es que fomenta la colaboración creativa y la creación conjunta con los miembros de tu equipo. 
+
+4. Iterar. Acepta que el diseño es un trabajo en progreso y no se completará de inmediato. La magia está en la revisión. Con cada iteración, le ofreces al usuario una nueva experiencia.
+
+Ambos frameworks, Lean UX y Double Diamond, son útiles para que los diseñadores de UX de nivel básico los comprendan. Incluso si tu equipo no sigue uno de estos procesos, es invaluable comprender cómo funciona cada uno y por qué se utiliza. 
+
+Ten en cuenta que el certificado de diseño de UX de Google se creó teniendo en cuenta el proceso de diseño. Cada curso sigue estos pasos: empatizar, definir, pensar, crear prototipos y probar. ¡Buen trabajo, sigue así!
+
+---
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/>  Pensar en los proximos mil millones de usuarios
