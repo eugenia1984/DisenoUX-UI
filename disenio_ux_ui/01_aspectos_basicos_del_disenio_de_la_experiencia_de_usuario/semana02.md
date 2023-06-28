@@ -84,13 +84,8 @@ En cambio, verás la **superficie**, que es el nivel superior de la experiencia 
 
 Un segundo framework común es el **design thinking**. El design thinking **es una forma de crear soluciones que abordan el problema de un usuario real y son funcionales y asequibles**. El design thinking consta de cinco pasos por seguir: 
 
-```
--empatizar
--definir
--pensar
--crear un prototipo
--probar
-```
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/66ae91ad-79f2-413b-b623-5ef8159cff57)
+
 
 El primer paso es **empatizar**, que consiste en descubrir lo que realmente los usuarios finales necesitan y aprender a pensar y sentir como ellos. Podrías realizar encuestas, entrevistas o sesiones de observación para hacerte una idea clara de quiénes son tus usuarios finales y los desafíos a los que se enfrentan.
 
