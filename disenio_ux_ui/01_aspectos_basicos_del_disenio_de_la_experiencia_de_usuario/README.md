@@ -40,7 +40,7 @@ En el mundo de la tecnología, la **experiencia d eusuario** se centra en **cóm
 
 Empezarás a explorar el mundo de la UX y los factores que contribuyen a crear buenos diseños de la experiencia del usuario en aplicaciones móviles, sitios web y otros productos. Comprenderás las responsabilidades de los diseñadores y equipos de UX con los que suelen trabajar los diseñadores de UX. También explorarás las oportunidades laborales y las trayectorias profesionales con las que podrías encontrarte al finalizar este programa de certificados.
 
-- [**Semana 2: Términos, herramientas y frameworks comunes en el diseño de UX**]((https://github.com/eugenia1984/DisenoUX-UI/tree/main/disenio_ux_ui/01_aspectos_basicos_del_disenio_de_la_experiencia_de_usuario/semana02.md)):
+- [**Semana 2: Términos, herramientas y frameworks comunes en el diseño de UX**](https://github.com/eugenia1984/DisenoUX-UI/tree/main/disenio_ux_ui/01_aspectos_basicos_del_disenio_de_la_experiencia_de_usuario/semana02.md):
 
 Para los diseñadores de UX, el usuario siempre es la prioridad. En esta parte del curso, presentaremos el diseño centrado en el usuario y otros frameworks comunes que los diseñadores de UX usan en el trabajo, como el proceso de diseño y los cinco elementos del diseño de UX. También aprenderás sobre la importancia de la equidad y la accesibilidad a la hora de diseñar. Además, aprenderás a tener una mentalidad «multiplataforma», a fin de diseñar experiencias de usuario fluidas.
 
