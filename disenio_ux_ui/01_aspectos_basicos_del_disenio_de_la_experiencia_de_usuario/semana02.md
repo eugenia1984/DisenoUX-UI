@@ -54,7 +54,53 @@ Es importante tener en cuenta que, a lo largo de este proceso, **la iteración e
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/>  Piensa como diseñador de UX
 
 
-### <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/>
+### <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Frameworks clave en el diseño de UX
+
+Un **framework** **crea la estructura básica que se centra y apoya el problema que se intenta resolver**. Podrías pensar en los frameworks como **los bosquejos para un proyecto**. Hay muchos frameworks de diseño de UX y, con el tiempo, estos evolucionan o se vuelven obsoletos gracias a la rápida evolución del mundo de la tecnología.
+
+Ya hemos hablado del proceso de diseño centrado en el usuario. Ahora revisemos otros dos frameworks que podrías usar: el **framework de los cinco elementos** y el **framework del design thinking**. 
+
+- **Los cinco elementos del diseño de UX son un framework de pasos que un diseñador sigue para convertir una idea en un producto que funcione**. Este framework consta de, esperen, cinco elementos:
+
+ ```
+-estrategia
+-alcance
+-estructura
+-esqueleto
+-superficie
+```
+
+Cada elemento se refiere a una capa específica que participa en la creación de la experiencia del usuario, y cada capa depende de la que está por debajo. 
+
+La capa inferior es la **estrategia**. Aquí es donde definirás las necesidades y los objetivos empresariales. 
+
+La siguiente capa es el **alcance**. Aquí es donde determinarás lo que vas a construir. Decidirás las características y el contenido que se incluirán en el producto.
+
+La tercera capa es la **estructura**. Descubrirás cómo organizar tu diseño y cómo el usuario interactuará con él. 
+
+La siguiente capa es el **esqueleto**, que es básicamente la disposición de los elementos. Al igual que la disposición de nuestros huesos dan forma a nuestra piel, esta capa ayuda a detallar cómo funciona el diseño, pero, al igual que nuestros huesos, el usuario no verá este funcionamiento interno. 
+
+En cambio, verás la **superficie**, que es el nivel superior de la experiencia del usuario. La superficie es la forma en que el producto se ve para el usuario. Así que, para recapitular, tenemos estrategia, alcance, estructura, esqueleto y superficie. En conjunto, estas capas componen el framework de los cinco elementos.
+
+Un segundo framework común es el **design thinking**. El design thinking **es una forma de crear soluciones que abordan el problema de un usuario real y son funcionales y asequibles**. El design thinking consta de cinco pasos por seguir: 
+
+```
+-empatizar
+-definir
+-pensar
+-crear un prototipo
+-probar
+```
+
+El primer paso es **empatizar**, que consiste en descubrir lo que realmente los usuarios finales necesitan y aprender a pensar y sentir como ellos. Podrías realizar encuestas, entrevistas o sesiones de observación para hacerte una idea clara de quiénes son tus usuarios finales y los desafíos a los que se enfrentan.
+
+El siguiente paso es **definir** el problema creando un planteamiento claro. El planteamiento del problema es una descripción clara de la necesidad del usuario a la que hay que dar respuesta. El planteamiento del problema debería basarse en la investigación de los usuarios y centra al equipo en un objetivo claro. Más adelante hablaremos de los planteamientos del problema con más detalle. 
+
+Una vez definido el problema, podemos empezar a **pensar** o a hacer una lluvia de ideas sobre las soluciones. El objetivo es que se te ocurran tantas ideas como sea posible. Al centrarse en la cantidad de ideas, y no en la calidad, es más probable que se te ocurran soluciones innovadoras. Con el tiempo, tenemos que limitarnos a unas pocas ideas y crear **prototipos**. Un prototipo es una versión reducida de un producto que muestra funciones importantes. Deberías tener en mente un objetivo claro para tu prototipo.
+
+Y, por último, **probamos los prototipos con los usuarios**. Las pruebas mantienen al usuario en el primer plano, ya que les brindan la oportunidad de proporcionar comentarios antes de que se construya el producto. Basándote en los comentarios de los usuarios, puedes realizar cambios y mejoras o se te puede ocurrir una idea completamente nueva. Bien, ahora ya conoces tres de los frameworks más usados en el diseño de UX, el proceso de diseño centrado en el usuario, el framework de los cinco elementos y el framework del design thinking. Es realmente importante adaptar cualquiera de estos frameworks para satisfacer tus necesidades específicas de diseño. Según la empresa, el equipo o el proyecto en el que trabajes, no usarás el mismo framework cada vez. 
+
+### :book:
 
 ---
 ---
