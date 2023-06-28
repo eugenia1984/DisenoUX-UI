@@ -235,7 +235,7 @@ Ten en cuenta que el certificado de diseño de UX de Google se creó teniendo en
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/>  Pensar en los proximos mil millones de usuarios
 
 
-## <img width="20" height="20" src="https://img.icons8.com/bubbles/20/web.png" alt="web"/> Diseñar para los próximos mil millones de usuarios
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Diseñar para los próximos mil millones de usuarios
 
 a experiencia del usuario no simplemente se centra en la experiencia de los usuarios existentes; sino que también presta especial atención a las personas que están a punto de convertirse en usuarios de Internet. Estas son **las personas de todo el mundo que se conectan a Internet por primera vez**. ¿Sabías que en todo el mundo hay mil millones de personas ahora mismo que recién comienzan a utilizar Internet? A estas personas las llamamos los próximos mil millones de usuarios, o NBU. En este video, explicaremos por qué entender a los próximos mil millones de usuarios es crucial como diseñador de UX y cómo entrar en la mentalidad de las personas que son nuevas en Internet.
 
@@ -264,7 +264,7 @@ Ahora ya sabes cuáles son los problemas que los próximos mil millones de usuar
 
 
 
-## <img width="20" height="20" src="https://img.icons8.com/bubbles/20/web.png" alt="web"/> Akhil: una perspectiva sobre los próximos mil millones de usuarios
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Akhil: una perspectiva sobre los próximos mil millones de usuarios
 
 Mi nombre es Akhil y soy diseñador de UX en Google. Soy parte del equipo de los próximos mil millones de usuarios. Diseñamos productos para usuarios que se conectan por primera vez. En mi trabajo, me aseguro de que las personas puedan interactuar sin problemas con la tecnología. Un ejemplo de ello sería que, por ejemplo, quieres enviar un mensaje de texto a tu madre y el teléfono tiene la capacidad de enviar un mensaje de texto. Mi trabajo es superar esa brecha y asegurarme de que puedas decirle al teléfono que envíe un mensaje de texto a tu madre. Si se hace bien, no te volverás loco.
 
@@ -277,10 +277,125 @@ Creo que cuando la tecnología se construye correctamente, puede ser una herrami
 
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/>  Diseñar en todas las plataformas
 
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Conocer las plataformas
+
+Una **plataforma** es **el medio en el que los usuarios experimentan tu producto como, por ejemplo, en escritorio, web móvil, aplicaciones móviles, tabletas, wearables, televisores, pantallas inteligentes y más**. Es importante diseñar con múltiples plataformas en mente, porque los usuarios quieren que un producto se vea y se sienta similar, sin importar qué plataforma estén utilizando. En el pasado, los diseñadores de UX podrían haberse centrado en la creación de un sitio web solo para una computadora de escritorio. Pero hoy en día, los usuarios pueden mirar ese mismo sitio web en múltiples plataformas, como su teléfono móvil, su reloj inteligente y su televisor.
+
+Los diseñadores de UX ahora tienen que planificar para un número casi infinito de diferentes dispositivos y tamaños de pantalla. Aunque los diseñadores de UX necesitan pensar en todas las plataformas, es importante centrarse en una plataforma primero cuando se construye un nuevo producto. La plataforma que selecciones debe ser la que mejor se adapte a las necesidades de los usuarios finales. Más adelante, puedes diseñar para plataformas adicionales. Además de tener una experiencia de usuario coherente en todas las plataformas, también es importante tener una identidad de marca coherente.
+
+En este caso, la identidad de marca se refiere a la apariencia visual y a la voz de una empresa. Por ejemplo, la Búsqueda de Google debe buscar y examinar lo mismo en tu computadora de escritorio y en tu teléfono móvil. Es importante tener en cuenta que algunas funcionalidades solo existen en determinadas plataformas. Piensa en un asistente de voz, que te permita hacer preguntas o controlar tu teléfono con tu voz. Muy inteligente, ¿verdad? Al principio, solo los teléfonos móviles tenían asistentes de voz. Si el producto que estás diseñando requiere el uso de un asistente de voz, la única plataforma en la que habría funcionado era en un teléfono móvil. Pero avancemos hasta el presente, y los asistentes de voz están integrados en muchas otras plataformas, como computadoras de escritorio, televisores e incluso refrigeradores.
+
+Hoy en día, hay más plataformas que nunca, lo que nos da incluso más oportunidades de diseñar funciones para nuestros usuarios. Definitivamente es un momento emocionante para convertirse en un diseñador de UX. 
+
+---
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Diseñar para diferentes plataformas
+
+Ahora, es momento de **aprender cómo los usuarios se relacionan con diferentes dispositivos**. 
+
+En primer lugar, vamos a discutir **el comportamiento del usuario en teléfonos móviles y computadoras de escritorio**. Luego, pasaremos a **las consideraciones de diseño cuando se diseña para dispositivos móviles**. 
+
+Empecemos con una **visión general del panorama actua**. **Hay una gran diferencia en la cantidad de tiempo que los usuarios pasan en los teléfonos móviles en comparación con las computadoras de escritorio. Una sesión promedio de móvil es de 72 segundos, mientras que la sesión promedio de computadora de escritorio es de 150 segundos, más del doble**. ¿Por qué esto es importante? Porque nos dice que la gente usa diferentes dispositivos de diferentes maneras. **Los usuarios móviles tienden a ser orientados a objetivos, y se centran en completar una sola tarea**. En los teléfonos móviles, gestos como tocar y deslizar ayudan a los usuarios a moverse por la pantalla. Compruébalo tú mismo. La próxima vez que uses un teléfono móvil, piensa en tus propios comportamientos.
+
+¿Recuerdas a los próximos mil millones de usuarios de los que hablamos previamente? Cuando esos usuarios se conectan, en su mayoría acceden a Internet desde dispositivos móviles. Esto significa que la cantidad de tráfico web de computadoras de escritorio en comparación con el tráfico web móvil seguirá cambiando. Es importante que los diseñadores de UX tengan en cuenta las limitaciones de conectividad de los usuarios móviles, como las velocidades de procesamiento más lentas y los tiempos de carga más largos. Para ser inclusivos, tenemos que diseñar para todo tipo de teléfonos, tanto si cuestan USD 50 como USD 500. Los usuarios interactúan con dispositivos de diferentes maneras. Ahora, vamos a repasar las diferencias de diseño que debemos tener en cuenta en función de los dispositivos para los que estamos diseñando. En primer lugar, hablemos sobre la adaptabilidad. En el pasado, la mayoría de los sitios web móviles eran una versión en miniatura del sitio de la computadora de escritorio, lo que a menudo dificultaba el uso de los sitios web para móviles. Ahora, casi todos los sitios web utilizan un diseño web adaptable. El diseño web adaptable permite que un sitio web cambie automáticamente en función del tamaño del dispositivo. Por ejemplo, la página de inicio de un sitio web podría tener varias columnas cuando un usuario lo experimenta en una computadora de escritorio. Con el diseño web adaptable, cuando un usuario visita el mismo sitio web en un teléfono móvil, las múltiples columnas se condensan automáticamente en una sola para adaptarse mejor a una pantalla más pequeña. Todo el contenido sigue ahí y el uso es mucho mejor. La navegación por Internet en computadoras de escritorio existe desde hace más tiempo que en los dispositivos móviles. Pero desde que el uso de los dispositivos móviles está en auge, los diseñadores han tenido que empezar a centrarse en el diseño para móviles. Pensemos en algunas de las mejores prácticas a la hora de diseñar experiencias del usuario móvil.
+
+En primer lugar, los **botones de llamada a la acción** deben colocarse en primer plano, para que el usuario pueda completar fácilmente la tarea deseada, como unirse a una lista de correo electrónico o añadir un artículo a su carrito de compras. En segundo lugar, los menús de navegación deben ser breves y sencillos. Queremos simplificar la experiencia del usuario en dispositivos móviles. Así que las opciones del menú deben destacar únicamente las funciones principales del producto. En tercer lugar, usar gestos que los usuarios ya hacen, como por ejemplo tocar y deslizar. Los gestos deben ser intuitivos y familiares para los usuarios. En cuarto lugar, diseñar para las dos direcciones en las que se puede sostener un teléfono. Tenemos que tener en cuenta la vista vertical y la vista horizontal de un teléfono móvil. Queremos que los usuarios tengan una experiencia eficaz independientemente de cómo sostengan su teléfono. En quinto lugar, reducir la contaminación visual. Los teléfonos móviles tienen tamaños de pantalla más pequeños, por lo que es importante mantener la experiencia visual sencilla.
+
+¡Uf! Eso fue mucha información nueva para asimilar. Recuerda que estos aportes principales: los usuarios comportan de manera diferente dependiendo de su dispositivo. Los diseñadores de UX ayudan a que esa transición se produzca de la mejor forma posible. Es una gran responsabilidad, pero también muy divertida. 
+
+---
+
+## :book: Diseñar experiencias multiplataforma y las cuatro C
+
+Al diseñar un nuevo producto o característica, es importante pensar en los diferentes tipos de plataformas en las que se experimentará el diseño. Como recordatorio, una plataforma es el medio en el que los usuarios experimentan tu producto. Algunas plataformas comunes son:
+
+- Computadoras de escritorio
+
+- Computadoras portátiles
+
+- Teléfonos móviles
+
+- Tabletas
+
+- Wearables, como relojes inteligentes
+
+- Televisores
+
+- Pantallas inteligentes
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/8b9f9a98-1020-47c4-aed9-9ad1dd4e2eea)
+
+Un producto puede experimentarse en incontables plataformas, pero las computadoras de escritorio, las portátiles y los teléfonos móviles son las plataformas más utilizadas para interactuar con aplicaciones y sitios web. Estas son las plataformas en las que te concentrarás más durante este programa de certificación. En este artículo, aprenderás sobre las consideraciones clave que tendrás que tener para diseñar para diferentes plataformas que te ayudarán a que empieces.
+
+## Tamaño de pantalla 
+La primera consideración al diseñar para distintas plataformas es ajustar los elementos de diseño y las características para que se adapten a diferentes tamaños de pantalla. Por ejemplo, cuando diseñas para computadoras de escritorio y portátiles tienes mucho espacio. Pero cuando diseñas para pantallas más pequeñas, como las de los teléfonos móviles, debes decidir cuidadosamente qué partes del diseño incluirás en el espacio limitado. ¡Esto significa hacer que cada palabra, ícono e imagen cuenten!
+
+En los primeros cinco cursos de este programa de certificación, diseñarás una aplicación para teléfono móvil. En el sexto curso del programa, diseñarás sitio web adaptable cuyo diseño cambie automáticamente según el tamaño de la pantalla del dispositivo. Esto significa que aprenderás mucho más sobre diseñar para diferentes tamaños de pantalla más adelante en el programa, así que mantente alerta.
+
+## Interacción
+Además del tamaño de la pantalla, también debes considerar la forma en que los usuarios interactúan con cada plataforma y cómo esto puede afectar a tus decisiones de diseño. 
+
+También es fundamental tener en cuenta la accesibilidad al desarrollar tus diseños en cada punto. Diferentes grupos de personas interactuarán con su producto de diferentes formas, como mediante un lector de pantalla, con subtítulos ocultos o mediante un dispositivo de conmutación. Para comenzar, es útil probar tú mismo algunas de estas tecnologías para comprender cómo pueden interactuar las personas con discapacidades con tu producto en diferentes plataformas. 
+
+## Disposición de contenido
+En el mundo del diseño de UX, la disposición se refiere a la forma en que se organiza la información en la pantalla. Por ejemplo, al diseñar para computadoras de escritorio o portátiles, tienes la ventaja de trabajar con un tamaño estandarizado y familiar: el modo apaisado (horizontal). La pantalla es amplia, el contenido se puede distribuir en columnas y hay mucha más flexibilidad de diseño. 
+
+Por el contrario, el contenido para teléfonos móviles generalmente se presenta en modo retrato (vertical), que es el ideal para desplazarse hacia arriba y abajo. Además, estos a menudo permiten que los usuarios opten por usar el modo apaisado (horizontal) girando su dispositivo. Implementar esto en tus diseños requiere que trabajes más como diseñador, pero les ofrece a los usuarios una gama más amplia de opciones.
+
+Analiza la disposición del contenido en un par de plataformas más: las tabletas combinan la experiencia del usuario de escritorio y de teléfono móvil, lo que significa que puedes incorporar aspectos de estas plataformas en la disposición de tus diseños. Los relojes inteligentes tienden a tener pantallas cuadradas o rectangulares compactas, lo que ofrece muy poco espacio digital para distribuir el contenido. 
+
+## Funcionalidad
+Hay muchas razones por las que los usuarios pueden elegir una plataforma sobre otra, pero la funcionalidad y el tipo de tareas que desean completar son los factores decisivos. Es probable que tus diseños para cada plataforma varíen según cómo y cuándo esperas que los usuarios necesiten el producto.
+
+---
+
+## Las cuatro C del diseño multiplataforma
+
+Diseñar con éxito en todas las plataformas significa ofrecerles a los usuarios una buena experiencia, sin importar qué plataforma que utilicen. Como diseñador de UX, tu trabajo es asegurarte de que tus diseños tengan en cuenta y aprovechen al máximo las características únicas de cada plataforma. Al prepararse para diseñar para distintas plataformas, es útil tener en cuenta las cuatro C: coherencia, continuidad, contexto y complementariedad.  
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/fd7befe0-b54b-4aab-bd74-2d85c98d7126)
+
+- Coherencia: La mayoría de las empresas tienen pautas de diseño específicas que deben seguirse para mantener la coherencia con su identidad de marca, que tiene que ver con la apariencia visual y la voz de una empresa. Al diseñar un producto, es esencial mantenerse fiel a las pautas de marca de la empresa para mantener la coherencia en todas las plataformas e incentivar el conocimiento de la marca. Mantener un diseño coherente ayuda a mejorar la experiencia del usuario y generar confianza, porque los usuarios pueden esperar que el diseño se sienta conocido en todas las plataformas y productos.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a515e4f4-dc36-4d69-9b5a-d22974d2a6c1)
+
+- Continuidad: Para proporcionar a los usuarios una experiencia fluida a medida que usan distintas plataformas, los diseñadores de UX también deben priorizar la continuidad. La continuidad en el diseño significa que los usuarios pueden mantener su progreso a medida que pasan de una plataforma a la otra. La experiencia del usuario en cada plataforma puede ser ligeramente diferente, pero la funcionalidad del producto debe seguir estando conectada. Sin continuidad, los usuarios podrían frustrarse si el progreso de su experiencia no se traslada al resto de las plataformas
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/c4bfedbe-205c-4c7d-9fbe-f96d71df8ebf)
+
+- Contexto: También es importante considerar el contexto de cada plataforma para la que estás diseñando. Esto significa pensar en cuándo y cómo prefieren interactuar los usuarios con ciertas funciones en diferentes plataformas.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d64277f4-2f16-45ee-ade6-5c07dda4bc86)
+
+- Complementariedad: Una forma de crear una excelente experiencia de usuario multiplataforma es asegurarse de que el diseño de cada plataforma le ofrezca algo nuevo al usuario. Tener en cuenta de qué forma cada plataforma podría enriquecer de manera única la experiencia general del usuario es la mejor manera de crear diseños de UX complementarios.
+ 
+## Ejemplos de experiencias multiplataforma
+
+Ahora que has aprendido a diseñar en distintas plataformas, analiza algunos ejemplos del mundo real de productos con experiencias de usuario estelares entre plataformas.  
+
+- YouTube : Para mucha gente, YouTube es una fuente de referencia para ver un sinfín de horas de contenido en video. La experiencia de visualización de YouTube en dispositivos móviles se complementa y transiciona fluidamente desde un navegador de escritorio. 
+
+- WebMD: WebMD es un sitio web de atención médica donde los usuarios pueden obtener información sobre los síntomas, un diagnóstico y tratamientos relacionados con una amplia variedad de afecciones médicas. El “verificador de síntomas” de WebMD les permite a los usuarios hacer clic en ciertas áreas de un mapa corporal y obtener una lista de posibles síntomas asociados con esas partes del cuerpo. 
+
+- Airbnb: Airbnb es una plataforma de alquiler en línea donde los usuarios pueden publicar su propio espacio para alquilar o reservar una estadía en el espacio de otra persona. La experiencia del usuario de Airbnb desde una computadora de escritorio es sencilla y similar a la de otros sitios de alquiler, desde donde puedes filtrar tu búsqueda según tus necesidades. La aplicación móvil integra a la perfección estas mismas funciones y permite la continuidad durante todo el proceso de reserva.  
+
+
+
+
 ---
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/> Diseñar para accesibilidad
+
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/>
+
 
 ---
 ---
