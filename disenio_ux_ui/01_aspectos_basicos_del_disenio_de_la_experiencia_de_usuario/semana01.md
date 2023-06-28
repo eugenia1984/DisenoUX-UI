@@ -49,7 +49,7 @@ Las **características** de quienes son **diseñadore ux** son:
 
 Hay un campo amplio: 
 
-- **diseñadores de interacción**: diseñar la experiencia de un producto y cómo funciona. ¿Cómo conectar las necesidades de los usuarios y los objetivos comerciales con loq ue es factible de construir?
+- **diseñadores de interacción**: diseñar la experiencia de un producto y cómo funciona. ¿Cómo conectar las necesidades de los usuarios y los objetivos comerciales con lo que es factible de construir?
 
 - **diseñadores visuales**: se centran en cómo se verá un producto o una tecnología. Diseñan logos, ilustraciones íconos, las identidades de la marca, el color y tamaño de la funte(branding). 
 
@@ -65,7 +65,7 @@ Hay un campo amplio:
 
 - **escritores de ux**: que el texto que aparece en un producto sea más claro para que el usuario tenga una experiencia más intuitiva.
 
-- **diseñadores de producción**: el puente entre los diseñadores de interacción y los ingenenieros. Se aseguran de que el disño inicial y el final coincidan en cuanto a los materiales dle producto terminado y de que los resursos estén listos para entregarlos al equipo de ingeniería.
+- **diseñadores de producción**: el puente entre los diseñadores de interacción y los ingenenieros. Se aseguran de que el diseño inicial y el final coincidan en cuanto a los materiales dle producto terminado y de que los resursos estén listos para entregarlos al equipo de ingeniería.
 
 **assets(recursos)**: textos, imágenes y especificaciones como font style/color/size/spacing.
 
@@ -185,7 +185,7 @@ Las dos primeras etapas son de **preparación** y **planificación**. Te permite
 
 Con los hallazgos de las dos primeras etapas, los diseñadores de UX generan **diseños centrados en el usuario**. En este etapa, crearás distintos recursos, como guiones gráficos, que son **bocetos** para explorar la experiencia del usuario, o **esquemas(sketch)**, que esbozan la distribución del contenido. También podrías crear **prototipos**, que son modelos con los cuales los diseñadores de UX prueban la funcionalidad del diseño. 
 
-4. **prueba(TEst)**: el equipo **evalúa el diseño del producto a la luz de los comentarios de los usuarios potenciales**. **Probar los diseños con usuarios reales** es muy importante, porque ayuda al equipo a centrarse primero en el usuario y luego en los diseños. Las pruebas revelan áreas donde refinar o mejorar el diseño También sirven para evaluar cuán interactivo es. Esta etapa implica mucha interacción entre **diseñadores de UX** e **ingenieros de front-end** para encontrar formas de crear un producto final que satisfaga las necesidades de los usuarios y sea práctico y funcional. Analizan, por ejemplo, si el color o la fuente van bien con la marca o si los prototipos de diseño son comprensibles. 
+4. **prueba(Test)**: el equipo **evalúa el diseño del producto a la luz de los comentarios de los usuarios potenciales**. **Probar los diseños con usuarios reales** es muy importante, porque ayuda al equipo a centrarse primero en el usuario y luego en los diseños. Las pruebas revelan áreas donde refinar o mejorar el diseño También sirven para evaluar cuán interactivo es. Esta etapa implica mucha interacción entre **diseñadores de UX** e **ingenieros de front-end** para encontrar formas de crear un producto final que satisfaga las necesidades de los usuarios y sea práctico y funcional. Analizan, por ejemplo, si el color o la fuente van bien con la marca o si los prototipos de diseño son comprensibles. 
 
 5. **lanzar o compartir una versión terminada con el público(Launch)**: Esto podría implicar publicar una aplicación en **Google Play Store** o en el **App Store de Apple**, poner un **sitio web en línea**, o llevar un **producto físico a las tiendas**. El lanzamiento puede ser muy satisfactorio para ti y tu equipo porque les permitirá entender qué acogida tendrán sus diseños en el mundo real. Pero el trabajo no termina con el lanzamiento. 
 
@@ -692,5 +692,139 @@ Los freelancers son diseñadores de UX autónomos que ofrecen sus servicios a di
 
 ## <img width="40" height="40" src="https://img.icons8.com/dusk/40/web-design.png" alt="web-design"/> Empezar una carrera en diseño UX UI
 
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Desde el certificado hasta el éxito profesional
+
+Una **pasantía** es genial para empezar tu carrera. Suele tratarse de un trabajo a corto plazo con pocas responsabilidades. A menudo, trabajas con un supervisor para conocer mejor el trabajo o la industria. Es genial para obtener experiencia laboral real. Además, puede convertirse en un trabajo a tiempo completo más adelante.
+
+Otra forma de empezar es una **práctica profesional**. Allí, obtendrás formación en el trabajo para desarrollar habilidades reales.
+
+Las prácticas profesionales son similares a las pasantías, porque trabajas en compañía de un profesional experimentado. Sin embargo, las prácticas profesionales suelen durar más que las pasantías: uno o dos años en lugar de unos meses. Además, las prácticas profesionales siempre son remuneradas.
+
+También podrías trabajar como **freelancer**, como vimos anteriormente. Recordarás que los freelancers trabajan por su cuenta y anuncian sus servicios a empresas para encontrar clientes. Ser freelancer puede darte experiencia en proyectos reales de diseño de UX.
+
+Una buena forma de iniciarte como freelancer es ofrecer servicios a una pequeña empresa o una organización sin fines de lucro para obtener una buena recomendación y un proyecto para tu portfolio. Una vez que tengas algunos proyectos y algunas referencias, puedes empezar a cobrar.
+
+Si te interesa ser freelancer, lo veremos en más detalle al final del programa.
+
+La forma más común de iniciar una carrera en diseño de UX es un **trabajo de nivel básico**, que no requiere experiencia previa. Las destrezas y el portfolio que desarrollarás aquí te ayudarán a iniciarte como diseñador de UX básico. Muchas empresas podrían estar interesadas en contratar a alguien que haya terminado este programa y tenga un portfolio sobresaliente. ¡Alguien como tú!
+
+Incluso si el anuncio pide un año de experiencia, quizás tu certificado y tu portfolio basten para demostrar que tienes las habilidades necesarias. Esto comunica claramente tu valor, así que no te limites.
+
 ---
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Juan: una carrera profesional en diseño de UX
+
+Hola, me llamo Juan. Soy diseñador visual en Google. 
+
+Nací en República Dominicana, en una ciudad pequeña, donde no tenía acceso a Internet. Era muy, muy apasionado por las computadoras e Internet. Cada día, cuando regresaba a casa de la escuela, tomaba mi CPU, me la ponía sobre la cabeza y caminaba más o menos una milla para conectarla en un pequeño laboratorio, que era el único lugar de mi ciudad donde podía tener acceso a Internet. Lo primero que hacía en el laboratorio era abrir Google.com y buscar un tutorial sobre cómo usar Photoshop, el software que estaba de moda para el diseño. Recuerdo que todo eso era muy divertido para mí. Soy inmigrante, me mudé a Estados Unidos hace unos 10 años y, al principio, no podía encontrar trabajo porque no hablaba bien inglés. Incluso ahora, quizás se necesiten subtítulos para entenderme bien, porque todavía no hablo muy bien el inglés. Pero lo intento. Como inmigrantes, cuando venimos de nuestro país a los Estados Unidos, lo primero que nos viene a la mente es trabajar en comida rápida. Recuerdo que, hace 10 años, cuando me mudé a Connecticut, fui a varios restaurantes de comida rápida y nunca conseguía trabajo. Mi primera experiencia laboral en los Estados Unidos fue limpiar inodoros en un hotel. Me encantó ese trabajo. Nunca imaginé que, años después, empezaría una carrera en diseño.
+
+Cómo pasé de hacer tareas de limpieza en un hotel a trabajar en Google es un viaje interesante y alocado. Me postulé a otros estudios de diseño y aprendí mucho haciendo diseños preliminares para agencias digitales. Y después de un par de años de trabajar en la industria, aprendí por mi cuenta, con búsquedas de Google, cómo usar Photoshop, cómo usar Internet, cómo dibujar a mano alzada y cómo usar el software de diseño. Después de eso, un amigo me sugirió: «Oye, creo que deberías trabajar para Google. Tienes el potencial para hacerlo». Pero, en ese momento, yo no creía que pudiera trabajar para Google, porque nunca había ido a la universidad. Todo lo que sé sobre diseño lo aprendí por mi cuenta. Mi amigo me recomendó, pero no conseguí el trabajo. No pasé la segunda llamada del proceso de entrevista. Años más tarde, el reclutador me contactó porque pensó que encajaría bien en la empresa. Recibí un correo que decía: «Saludos de Google» y fue muy interesante porque, al principio, pensé que era spam, pero decidí abrirlo porque soy muy curioso. En el correo, el reclutador me decía: «Oye, creemos que ahora encajarías bien en la empresa y queremos llamarte. ¿Aún quieres trabajar para Google?» Por supuesto, estaba muy nervioso. No podía creer lo que estaba leyendo. Google quería hablar conmigo. Me sentía muy importante y, después de 10 minutos, respiré profundo y decidí responder. El reclutador fue muy humilde. Eso me hizo sentir importante. Fue muy amable conmigo y esa interacción me hizo sentir más confiado. Luego, pasé al segundo paso de la entrevista, donde un diseñador visual me hacía preguntas sobre cómo diseñaba y cuál era mi proceso de diseño. Intentaba entender cómo trabajaba. El siguiente paso fue: «Ve a la oficina y tendrás una entrevista cara a cara con ocho personas». Una vez más, eso fue muy intimidante ya que no hablaba inglés, pero me preparé. Tenía un problema con el idioma, pero sabía que era bueno en el diseño, y me sentía confiado. Hice una presentación asombrosa con mucha interacción, porque quería mostrarles todo mi potencial. Entonces recibí una llamada de que querían contratarme.
+
+Me gusta mucho compartir esto porque, a veces, no creemos que podamos llegar lejos. Yo vengo de un pueblo o una ciudad pequeña en el Caribe sin acceso a Internet y ahora trabajo para Google. Es algo que me hace sentir orgulloso.
+
+---
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Mike: una carrera profesional en diseño de UX
+
+
+Hola, me llamo Mike y soy gerente de diseño en Google. De niño, teníamos una computadora en casa, que usábamos más que nada para jugar y cosas así. Gracias a eso, nos familiarizamos con las PC desde jóvenes.
+
+Cuando estaba en la secundaria, en una clase de dibujo, usábamos computadoras para dibujar. Pasé mucho tiempo extra aprendiendo del profesor fuera del horario de clase y jugando en la computadora. Cerca de esa época, me mudé del noreste. Vivía en las afueras de Filadelfia, en el sur de Nueva Jersey, y me mudé al sur, a Carolina del Norte. Fue un gran cambio cultural para mí y también me desconecté un poco de mis padres. Tenía mucha autonomía o libertad en muchos sentidos. Terminé abandonando la secundaria porque no me sentía cómodo y deambulé por otros rumbos durante un tiempo. Hice varias cosas diferentes. Trabajé en lavaderos de autos. Trabajé en restaurantes. Trabajé en cableado de red. Instalé cables de red en oficinas y edificios. Unos años después compré una computadora y empecé a juguetear con ella de nuevo. Empecé a estudiar herramientas a fin de crear un sitio web para la compañía de mi padre. Entonces tenía una especie de cliente. Y me dediqué a aprender. Aprendí una cosa tras otra. Lo construía, lo diseñaba, lo publicaba. Luego, quise que el sitio hiciera más cosas y que tuviera algunas funciones. Así que empecé a aprender cosas básicas de scripting y seguí creciendo a partir de ahí.
+
+Al principio, aprendes cosas nuevas muy rápido y te emocionas cuando algo funciona. Aprender a hacer un diseño o a manipular colores y fuentes son como pequeñas victorias. Son como pequeños empujones que te motivan a dar el siguiente paso. Con el tiempo, se vuelve más y más difícil y llegas a crear sistemas bastante complejos. Lucho con el síndrome del impostor hasta el día de hoy, y llevo 25 años en la profesión. A veces, no logro hacer que algo funcione y empiezo a caer en el pensamiento negativo: «No puedo hacerlo». Entonces, me motivo a seguir adelante. Es algo así como ética del trabajo. Es clave ser persistente y no tener miedo de preguntar o buscar comentarios y recursos. No puedes hacer y resolver todo por tu cuenta. Se trata de saber cuándo estás atascado y por qué y buscar formas creativas de avanzar. Eso ayuda con el síndrome del impostor, y sigue vigente. Mi trabajo ya no es tan técnico como antes. Cuando me enfrento a algo con lo que no he tratado antes, ya no me siento la persona más informada en la habitación. Escucho o hago preguntas. Intento encontrar otros recursos para estar más informado.
+
+---
+
+## <img width="20" height="20" src="https://img.icons8.com/dusk/20/web-design.png" alt="web-design"/> Repaso de la semana 1
+
+### Actividad de cierre: Introducción al diseño de la experiencia del usuario
+
+Sí que avanzamos mucho esta semana. Repasemos rápido lo que aprendiste.
+
+Vimos cómo funciona este programa, qué es el diseño de UX y por qué es importante para consumidores y empresas, los diferentes roles en el sector de la UX, qué factores definen una buena o mala experiencia, qué hacen los diseñadores de UX de nivel básico, cómo trabajan con equipos multidisciplinarios, cómo varían los trabajos de diseño de UX según la industria y el tamaño de la empresa y cómo empezar a trabajar en diseño de UX.
+
+Tenemos muchos otros temas emocionantes para abordar a medida que avance el programa. Piensa en el tipo de trabajo que podría interesarte cuando hayas terminado. Cada cosa que aprendes aquí te acerca a tu primer trabajo en diseño de UX y, finalmente, al trabajo de tus sueños.
+
+A continuación, veremos conceptos, herramientas y frameworks comunes que los diseñadores de UX deben conocer para destacarse. ¡Buen trabajo, sigue así!
+
+## Glossary - Google UX Design Certificate - Terms and Definitions
+
+## A
+
+- Advertising agencies: Teams of creatives hired by clients to build marketing campaigns
+
+- Apprenticeships: Provides on-the-job training to help people develop real skills
+
+- Assets: Everything from the text and images to the design specifications, like font style, color,
+size, and spacing
+
+## D
+
+- Design Agency: A one-stop shop for the look of brands, products, and services
+
+## F
+
+- Freelancers: Designers who work for themselves and market their services to businesses to find customers
+
+## G
+
+- Generalist: A UX designer with a broad number of responsibilities
+
+- Graphic designers: Create visuals that tell a story or message
+
+## I
+
+- Information architecture: The framework of a website or how it’s organized, categorized, and structured
+
+- Interaction designers: Focus on designing the experience of a product and how it functions
+
+## M
+
+- Motion designers: Think about what it feels like for a user to move through a product
+
+## P
+
+- Product: A good, service, or feature
+
+- Production designers: Make sure first and final designs match in the finished project materials and that the assets are ready to be handed off to engineering team
+
+- Prototype: An early model of a product that demonstrates functionality
+
+## S
+
+- Specialist: A designer who dives deep into one particular type of user experience, like
+interaction design, visual design, or motion design
+
+- Startup: A new business that wants to develop a unique product or service and bring it to
+market
+
+## T
+
+- T-shaped designer: A designer who specializes in one kind of user experience (e.g.,
+interaction, visual, motion) and has a breadth of knowledge in other areas
+
+## U
+
+- User experience: How a person, the user, feels about interacting with, or experiencing, a
+product
+
+- UX engineers: Translate the design’s intent into a functioning experience
+
+- UX program managers: Ensure clear and timely communication so that the process of building a useful product moves smoothly from start to finish
+
+- UX research: Understand users and learn about their backgrounds, demographics, motivations, pain points, emotions, and life goals
+
+- UX researchers: A type of researcher that conducts studies or interviews to learn about the users of a product and how people use a product
+
+- UX writers: Create the language that appears throughout a digital product, like websites or mobile apps
+
+## V
+
+- Visual designers: Focus on how the product or technology looks
+
+## W
+
+- Wireframe: An outline or a sketch of a product or a screen
+
 ---
