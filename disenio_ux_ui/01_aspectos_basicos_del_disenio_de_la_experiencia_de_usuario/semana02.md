@@ -109,9 +109,9 @@ Estos son los pasos clave en el proceso de diseño centrado en el usuario:
 
 - **Especificar las necesidades del usuario**. Según tu investigación, descubre cuáles son los problemas más importantes de los usuarios. 
 
--**Diseñar soluciones a esos problemas**. Piensa muchas ideas de diseños que puedan abordar los problemas de los usuarios que has identificado. Luego, ¡empieza realmente a diseñarlas! 
+- **Diseñar soluciones a esos problemas**. Piensa muchas ideas de diseños que puedan abordar los problemas de los usuarios que has identificado. Luego, ¡empieza realmente a diseñarlas! 
 
--**Analiza las soluciones que diseñaste con respecto a las necesidades de los usuarios**. Pregúntate: "¿El diseño que creé resuelve el problema del usuario?". Para responder a esta pregunta, debes probar el producto con personas reales y recopilar comentarios.
+- **Analiza las soluciones que diseñaste con respecto a las necesidades de los usuarios**. Pregúntate: "¿El diseño que creé resuelve el problema del usuario?". Para responder a esta pregunta, debes probar el producto con personas reales y recopilar comentarios.
 
 ### Los cinco elementos del diseño de UX
 
@@ -233,6 +233,44 @@ Ten en cuenta que el certificado de diseño de UX de Google se creó teniendo en
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/web.png" alt="web"/>  Pensar en los proximos mil millones de usuarios
+
+
+## <img width="20" height="20" src="https://img.icons8.com/bubbles/20/web.png" alt="web"/> Diseñar para los próximos mil millones de usuarios
+
+a experiencia del usuario no simplemente se centra en la experiencia de los usuarios existentes; sino que también presta especial atención a las personas que están a punto de convertirse en usuarios de Internet. Estas son **las personas de todo el mundo que se conectan a Internet por primera vez**. ¿Sabías que en todo el mundo hay mil millones de personas ahora mismo que recién comienzan a utilizar Internet? A estas personas las llamamos los próximos mil millones de usuarios, o NBU. En este video, explicaremos por qué entender a los próximos mil millones de usuarios es crucial como diseñador de UX y cómo entrar en la mentalidad de las personas que son nuevas en Internet.
+
+Para empezar, vamos a analizar los **grandes problemas a los que se enfrentan nuestros próximos mil millones de usuarios y qué significan estos problemas para nosotros como diseñadores**. 
+
+- El primer gran problema es el **costo**. Es posible que las personas no puedan permitirse teléfonos caros con pantallas grandes y mucho almacenamiento.
+ 
+- El siguiente problema es la **conectividad**. Es posible que los usuarios no tengan un acceso a Internet constante o ilimitado.
+
+- La **alfabetización digital** es también un tema crucial. Es posible que **las personas no estén familiarizadas con ciertos patrones de diseño, llamadas a la acción o iconos que damos por sentado**. Por ejemplo, es posible que no sepan lo que significa deslizar en relación con una pantalla táctil. **Es posible que ni siquiera sepan lo que es una pantalla táctil**. Esto puede afectar su confianza y voluntad de explorar nuevas tecnologías. 
+
+- Y el último tema que debemos tener en cuenta es la **alfabetización en general**. Algunos usuarios no pueden leer. Otros podrían necesitar hacer un cambio de idioma según lo que estén tratando de hacer.
+
+Veamos cada uno de estos cuatro desafíos más de cerca. 
+
+-> Comencemos con el **costo**. Por ejemplo, personas con menos recursos tienden a comprar dispositivos menos costosos con poca memoria RAM y almacenamiento limitado. Cuando un teléfono tiene poca memoria RAM, significa que el teléfono podría cargar más lento las páginas web, y las personas podrían tener problemas al intentar descargar archivos. Para resolver este problema, no es probable que una empresa baje su precio estándar. Al contrario, depende de nosotros, los diseñadores de UX, con mucha ayuda de los ingenieros, averiguar cómo mejorar el almacenamiento sin aumentar el precio. La posibilidad de desactivar temporalmente las aplicaciones es una de las formas en que los diseñadores e ingenieros de UX pueden lograrlo.
+
+-> A continuación, hablemos de la **conectividad**. Muchos de nuestros próximos mil millones de usuarios no tienen acceso continuo a Internet. Esto podría deberse a que los datos que compraron se agotaron o porque su cobertura de red es inestable o esporádica. Los diseñadores de UX deberían intentar encontrar formas de hacer que la experiencia sin conexión sea tan enriquecedora como la experiencia con conexión. Por ejemplo, dar a los usuarios la oportunidad de cargar videos sin conexión y asegurarse de que esa función y experiencia estén bien diseñadas. 
+
+-> Pasemos a la **alfabetización digital**. Es importante mencionar que es posible que los usuarios no sepan cómo utilizar un teléfono, descargar una aplicación o configurar una cuenta. Sin una orientación clara, solo podrían utilizar la parte de la aplicación con la que ya están familiarizados o peor aún, podrían dejar de utilizar la aplicación. Al diseñar para nuestros próximos mil millones de usuarios, hazlo de forma simple. Considera ofrecer tutoriales en video para ayudar a los nuevos usuarios a entender cómo instalar y utilizar una aplicación y explorar nuevas funciones con mayor confianza. 
+
+-> Finalmente, está el problema de la **alfabetización en general**. Algunos usuarios no saben leer o escribir, y otros podrían querer hacer un cambio de idioma en sus dispositivos según lo que estén intentando lograr. Por ejemplo, un usuario podría querer leer en hindi, pero escribir utilizando el teclado en inglés. Diseñar una opción de teclado multilingüe, y usar iconos que se entiendan en todo el mundo, como un icono con un signo de moneda para una aplicación bancaria, son solo algunas formas claves que los diseñadores de UX pueden hacerlo más fácil para los próximos mil millones de usuarios. Más allá de estos cuatro desafíos comunes, hay mucho más que necesitas tener en cuenta al diseñar para los próximos mil millones de usuarios. Por ejemplo, si vives en los Estados Unidos, Canadá o Europa Occidental, es posible que tengas ciertos sesgos de diseño, como dejar un espacio en blanco para hacer que un documento parezca menos abarrotado o diseñar para idiomas que se escriben de izquierda a derecha.
+
+Ahora ya sabes cuáles son los problemas que los próximos mil millones de usuarios enfrentan. Nuestro objetivo es **hacer que cada usuario sienta como si hubiéramos diseñado la experiencia simplemente para ellos, sin importar quiénes son, donde viven, cuánto ganan o su nivel de educación**. Comprender a fondo el contexto del usuario es un punto de partida importante, y tú ya estás en camino.
+
+
+
+
+## <img width="20" height="20" src="https://img.icons8.com/bubbles/20/web.png" alt="web"/> Akhil: una perspectiva sobre los próximos mil millones de usuarios
+
+Mi nombre es Akhil y soy diseñador de UX en Google. Soy parte del equipo de los próximos mil millones de usuarios. Diseñamos productos para usuarios que se conectan por primera vez. En mi trabajo, me aseguro de que las personas puedan interactuar sin problemas con la tecnología. Un ejemplo de ello sería que, por ejemplo, quieres enviar un mensaje de texto a tu madre y el teléfono tiene la capacidad de enviar un mensaje de texto. Mi trabajo es superar esa brecha y asegurarme de que puedas decirle al teléfono que envíe un mensaje de texto a tu madre. Si se hace bien, no te volverás loco.
+
+Lo extraño del diseño de UX es que no se nota realmente si es un buen diseño. Solo lo notas cuando es malo. Hay alrededor de mil millones de usuarios que se van a conectar desde países como India, Indonesia, Brasil, México. Estos usuarios tienen restricciones ligeramente diferentes a las de los usuarios para los que diseñamos normalmente. Una de ellas es que muchos de estos usuarios utilizan dispositivos de baja gama. ¿Qué significa eso? Esto podría significar que no tienen suficiente almacenamiento en su teléfono, así que no pueden instalar una aplicación lo suficientemente grande. Ese es un ejemplo de uso de un dispositivo de bajo almacenamiento. A veces no tendrán acceso a los datos o tendrán acceso a datos defectuosos. Debes asegurarte de que tu aplicación funcione fuera de línea tan bien como en línea. Otro ejemplo podría ser la alfabetización. Muchos de estos usuarios no están alfabetizados o no hablan inglés, mientras que gran parte de Internet está al servicio de personas que hablan inglés. Ese es otro tema en el que pensar. ¿Cómo hacer interfaces multilingües? ¿O cómo hacer interfaces que no dependan en absoluto del lenguaje para alguien que no sabe leer? Un ejemplo interesante de esto podría ser el icono de la música. Algo tan simple como un icono musical que damos por sentado. La nota musical es algo que muchas personas no entienden, o no saben lo que significa. Creemos que la razón de ello es que el icono musical es una pieza de iconografía de la música clásica muy occidental. Como muchos usuarios no están en contacto con ese tipo de música, no saben realmente lo que significa ese icono.
+
+Creo que cuando la tecnología se construye correctamente, puede ser una herramienta muy eficaz. Para actividades como navegar a un lugar o encontrar un compañero o buscar información o aprender una nueva habilidad. No creo que tu acceso a estos beneficios deba basarse en cuánto hace que usas la tecnología. Muchos de nuestros usuarios que se conectan por primera vez no suelen sentirse cómodos con la tecnología. Así que no diseñar para ellos y no ayudarlos a tener acceso a Internet y a la tecnología, se siente como un perjuicio para ellos.
 
 ---
 ---
