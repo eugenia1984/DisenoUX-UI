@@ -95,7 +95,39 @@ Una vez definido el problema, podemos empezar a **pensar** o a hacer una lluvia 
 
 Y, por último, **probamos los prototipos con los usuarios**. Las pruebas mantienen al usuario en el primer plano, ya que les brindan la oportunidad de proporcionar comentarios antes de que se construya el producto. Basándote en los comentarios de los usuarios, puedes realizar cambios y mejoras o se te puede ocurrir una idea completamente nueva. Bien, ahora ya conoces tres de los frameworks más usados en el diseño de UX, el proceso de diseño centrado en el usuario, el framework de los cinco elementos y el framework del design thinking. Es realmente importante adaptar cualquiera de estos frameworks para satisfacer tus necesidades específicas de diseño. Según la empresa, el equipo o el proyecto en el que trabajes, no usarás el mismo framework cada vez. 
 
-### :book:
+### :book: Piensa como diseñador: Obtén más información sobre los diferentes frameworks de diseño
+
+La mayoría de los diseñadores de UX siguen un framework o proceso específico al abordar su trabajo, desde la primera idea hasta el lanzamiento final de un producto. Como recordatorio, un framework crea la estructura básica que se enfoca y respalda el problema que estás tratando de resolver, como si fuera el guion de un proyecto. Todos los diseñadores y equipos son diferentes, por lo que es útil tener un conocimiento sólido de cada framework antes de comenzar a diseñar.
+
+### Proceso de diseño centrado en el usuario
+
+Todas las fases del proceso de diseño centrado en el usuario se enfocan en los usuarios y sus necesidades. Es un proceso iterativo, lo que significa que los diseñadores vuelven a ciertas fases varias veces para refinar sus diseños y crear el mejor producto posible para los usuarios previstos.
+
+Estos son los pasos clave en el proceso de diseño centrado en el usuario: 
+
+- **Comprender cómo experimenta el usuario el producto u otros productos similares**. Debes saber cómo se relacionarán los usuarios con tu diseño y también debes conocer el entorno o contexto en el que experimentarán el producto. Comprender esto requiere mucha investigación, como observar a los usuarios en acción y realizar entrevistas, que exploraremos más adelante.
+
+- **Especificar las necesidades del usuario**. Según tu investigación, descubre cuáles son los problemas más importantes de los usuarios. 
+
+-**Diseñar soluciones a esos problemas**. Piensa muchas ideas de diseños que puedan abordar los problemas de los usuarios que has identificado. Luego, ¡empieza realmente a diseñarlas! 
+
+-**Analiza las soluciones que diseñaste con respecto a las necesidades de los usuarios**. Pregúntate: "¿El diseño que creé resuelve el problema del usuario?". Para responder a esta pregunta, debes probar el producto con personas reales y recopilar comentarios.
+
+### Los cinco elementos del diseño de UX
+
+Los cinco elementos del diseño de UX son un framework de pasos que los diseñadores de UX realizan para transformar una idea en un producto funcional. Los cinco elementos son, de abajo hacia arriba: estrategia, alcance, estructura, esqueleto y superficie. Considéralos un conjunto de cinco capas, en el que cada capa depende de la que está debajo.
+
+- **Estrategia**: La capa inferior es la estrategia, donde sientas las bases de tus objetivos de diseño. Estos objetivos se basan en las necesidades de los usuarios y los objetivos comerciales del producto.
+
+- **Alcance**: La siguiente capa es el alcance, donde determinas el tipo de producto que estás creando. En este punto, tendrás en cuenta el tipo de características y contenido que deseas incluir en el producto.
+
+- **Estructura**: La capa intermedia es la estructura. Aquí, descubrirás cómo organizar su diseño y cómo quieres que los usuarios interactúen con el producto.
+
+- **Esqueleto**: El esqueleto es la maquetación del producto. Al igual que la disposición de los huesos le da forma a la piel, la capa de esqueleto detalla cómo funciona tu diseño y, al igual que en uno real, los usuarios no podrán ver su funcionamiento interno. 
+
+- **Superficie**: La capa superior, la superficie, representa la apariencia del producto para los usuarios. La superficie representa la interfaz que los usuarios ven y con la que interactúan. La superficie sería como la ropa o el maquillaje que usas, visibles para el mundo exterior.
+
+[los cinco elementos de la experiencia del usuario](https://medium.com/omarelgabrys-blog/ux-a-quick-glance-about-the-5-elements-of-user-experience-part-2-a0da8798cd52)
 
 ---
 ---
