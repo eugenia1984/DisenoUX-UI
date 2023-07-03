@@ -44,7 +44,7 @@ Empezarás a explorar el mundo de la UX y los factores que contribuyen a crear b
 
 Para los diseñadores de UX, el usuario siempre es la prioridad. En esta parte del curso, presentaremos el diseño centrado en el usuario y otros frameworks comunes que los diseñadores de UX usan en el trabajo, como el proceso de diseño y los cinco elementos del diseño de UX. También aprenderás sobre la importancia de la equidad y la accesibilidad a la hora de diseñar. Además, aprenderás a tener una mentalidad «multiplataforma», a fin de diseñar experiencias de usuario fluidas.
 
-- **Semana 3: Participar en sprints de diseño**:
+- [**Semana 3: Participar en sprints de diseño**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/01_aspectos_basicos_del_disenio_de_la_experiencia_de_usuario/semana03.md):
 
 Los diseñadores de UX suelen organizar sprints de diseño para definir el rumbo de un producto. Aprenderás sobre las fases de un sprint de diseño y cómo planificar uno y participar en él. También aprenderás sobre las sesiones retrospectivas, que son una forma de reflexionar constructivamente sobre un sprint de diseño y mejorar la próxima vez.
 
