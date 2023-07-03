@@ -1,4 +1,4 @@
-#:computer: SEMANA 3 - PARTICIPAR EN LOS SPRITN DE DISEÑO
+# :computer: SEMANA 3 - PARTICIPAR EN LOS SPRITN DE DISEÑO
 
 Los diseñadores de la experiencia de usuario suelen participar en sprints de diseño para definir la dirección de un producto. En esta parte del curso, explorarás el mundo de los sprints de diseño, incluidas las fases de un sprint de diseño y cómo planificar y participar en uno. También aprenderás acerca de las retrospectivas, que son una forma de reflexionar de manera constructiva sobre un sprint de diseño e identificar áreas de mejora para implementar la próxima vez.
 
@@ -21,17 +21,17 @@ Objetivos de aprendizaje
 ---
 ---
 
-## <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/design.png" alt="design"/> Planificar sprints de diseño
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Planificar sprints de diseño
 
 ---
 ---
 
-## <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/design.png" alt="design"/> Participa en sprints de diseño
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Participa en sprints de diseño
 
 ---
 ---
 
-## <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/design.png" alt="design"/> Reflexionar sobra los sprint de diseño
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Reflexionar sobra los sprint de diseño
 
 ---
 ---
