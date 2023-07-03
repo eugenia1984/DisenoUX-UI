@@ -108,7 +108,23 @@ A continuación, explicaremos por qué los sprints de diseño son beneficiosos p
 
 ---
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Beneficios de los sprints de diseño
+
+Desde la tecnología hasta las finanzas y los minoristas, las empresas de futuro en todo tipo de sectores u**san sprints de diseño para resolver problemas complejos**. Es decir, **los sprints son un punto de inflexión**. ¿Por qué son beneficiosos los sprints de diseño? ¿Por qué son tan populares? Esto es lo que experimentados diseñadores de UX nos dicen.
+
+- En primer lugar, en los sprints de diseño, **todo se trata del usuario**. Los participantes de sprints se aseguran de que el desafío del diseño siempre esté centrado en el usuario y sus necesidades. Después de todo, son los usuarios los que deciden en última instancia si el producto tiene éxito, ¿verdad?
+  
+- Segundo, los sprints **valoran a todas las personas**: desde el becario hasta los principales interesados, incluir a personas de muchas disciplinas y niveles de experiencia es una parte clave del proceso. ¿Por qué? Porque considerar todos los ángulos del problema y la solución significa que las mejores ideas serán las que triunfen.
+  
+-  Luego, los sprints **dan al equipo tiempo para centrarse únicamente en un desafío de diseño**. Piénsalo: cinco días hábiles dedicados enteramente a la colaboración creativa sin distracciones, sin teléfonos. Esa es una receta para resolver problemas en serio.
+  
+-  Además, los sprints **reducen el riesgo de fracasar al salir al mercado**. Debido a que el equipo recibe retroalimentación de usuarios reales y puede hacer ajustes críticos antes del lanzamiento del producto.
+  
+-  Y, por último, los sprints **son versátiles porque se pueden programar en cualquier momento del proyecto**. Cuando surge un desafío, siempre tienes la opción del sprint de diseño al alcance de la mano. ¿Crees ya en los beneficios de los sprints de diseño? Excelente. A continuación, vamos a concentrarnos en cómo planificar un sprint eficaz.
+
+---
+
+### :book: Opcional: más información sobre los sprints de diseño
 
 Si estás buscando aprender más sobre los sprints de diseño, ¿por qué no vas a la fuente? Google [Design Sprint Kit](https://designsprintkit.withgoogle.com/) es un recurso de código abierto para cualquier persona que esté aprendiendo sobre sprints de diseño o ejecutándolos. El sitio web incluye [casos prácticos](https://designsprintkit.withgoogle.com/case-studies) sobre sprints de diseño que han resuelto todo tipo de desafíos, [plantillas para tarjetas y actividades](https://designsprintkit.withgoogle.com/resources/overview)  y más.
 
@@ -120,20 +136,16 @@ Si recién estás comenzando como diseñador de la experiencia de usuario, tambi
 
 ¡Felicitaciones por ir aprendiendo todo lo relacionado con los sprints de diseño! Utiliza estos recursos mientras continúas explorando las etapas y el propósito de esta parte clave del trabajo de diseño de la experiencia de usuario.
 
----
-
-### :book: Opcional: más información sobre los sprints de diseño
-
-
-
----
-
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
 
 ---
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Planificar sprints de diseño
+
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
 
 ---
 ---
