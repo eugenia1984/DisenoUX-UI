@@ -562,7 +562,7 @@ Voice control: Allows users to navigate and interact with the buttons and screen
 
 ### W
 
-Wireframe: An outline or a
+Wireframe: An outline or a sketch of a product or a screen
 
 ---
 ---
