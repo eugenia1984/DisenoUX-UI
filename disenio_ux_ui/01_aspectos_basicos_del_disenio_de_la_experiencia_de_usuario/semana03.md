@@ -34,7 +34,7 @@ Por lo general, los sprints de diseño incluyen cinco fases:
 
 - **comprender**
 
-- **pensar**
+- **pensar**(idear)
 
 - **decidir**
 
@@ -142,7 +142,7 @@ Si recién estás comenzando como diseñador de la experiencia de usuario, tambi
 
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Planificar sprints de diseño
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> El rop de un diseñador de nivel basico en un sprint
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> El rol de un diseñador de nivel basico en un sprint
 
 
 Como **diseñador de UX de nivel básico**, no estarás dirigiendo todo lo que sucede, pero tendrás un papel importante al contribuir en cada fase del sprint. Veamos cómo podría ser tu semana de sprint.
@@ -163,9 +163,8 @@ Es el **día de la prueba**. La fase de prueba es la fase final de este proceso,
 
 Has aprendido todo sobre el rol del diseñador de UX de nivel básico en el proceso de sprint de diseño. A medida que vayas llegando al final del proceso de sprint, sentirás como si acabaras de completar una carrera real en una competencia de atletismo. Un sprint exitoso te dejará cansado, pero motivado, repleto de ideas nuevas y con fuego en tu interior para ponerte a trabajar. Todavía recuerdo el primer sprint del que formé parte. Se me ocurrieron algunas ideas geniales, pero también muchas malas ideas. No te preocupes si esto te pasa a ti también. Por ese motivo, validar tus ideas con los usuarios se hace en el proceso de sprint de diseño. Tendrás tus ideas y también las tendrá el resto del equipo. Es decir, no depende únicamente de ti. Es un esfuerzo en equipo, y al final del proceso podrás darte cuenta de si tu idea está funcionando o no antes de implementarla. 
 
----
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Json: todo sobre los sprint de diseño
+
 
 ---
 
@@ -259,6 +258,13 @@ Ahora creemos una introducción al sprint de diseño de cinco días.
 
 Lo único que queda por hacer ahora es poner en marcha el sprint. 
 
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>  JSON: todo sobre los sprint de diseño
+
+Me llamo Jason y soy un diseñador de interacción en Google. El objetivo de un sprint de diseño es tomar problemas muy complejos y juntarte con otras personas de tu equipo, como gerentes de producto, ingenieros y marketing, y tratar de resolver los problemas juntos. Lo haces en el transcurso de una semana. Realizas múltiples actividades de diseño, como esquemas y prototipos y, al final de la semana, pruebas con los usuarios. Es una forma muy buena de conseguir retroalimentación rápida y probar las hipótesis iniciales. Por eso es tan importante reunir a personas con múltiples perspectivas. Entonces, puedes traer esta nueva perspectiva y puedes tener a alguien más con conocimientos previos en este proyecto. Pero también traemos gente de gestión de productos y marketing para combinar sus perspectivas únicas. Creo que esto demuestra que los sprints tienen que ver con la inclusividad.
+
+Realmente queremos acercar a la gente con perspectivas múltiples para que aflore esa multitud de ideas. Siempre es importante entender quiénes son los participantes y asegurarte de que sea una experiencia reflexiva. Pones las necesidades de todos en primer plano. Creo que, en cierto modo, es como tu trabajo con la experiencia del usuario. Cuando diseñas un sprint, los participantes son tus usuarios, y es importante que entiendas sus necesidades y los pongas en primer plano al diseñar un sprint.
 
 ---
 ---
