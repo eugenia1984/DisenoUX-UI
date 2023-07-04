@@ -147,24 +147,94 @@ Si recién estás comenzando como diseñador de la experiencia de usuario, tambi
 
 ### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Planifica sprints de diseño
 
-Como diseñador de UX de nivel básico, probablemente no se espere que lideres un sprint de diseño. Pero sigue siendo útil saber qué es necesario para planificar uno exitoso. Veamos algunas de las ideas básicas. En primer lugar, la investigación de usuarios. Si tienes la suerte de tener un investigador dedicado en tu equipo, puede encargarse de este paso. Si no, podrías encargarte tú mismo. La investigación de usuarios siempre es el primer paso del proceso de planificación del sprint. La investigación debe centrarse en los problemas de los usuarios que estás tratando de resolver durante el sprint. No tienes que detallar un problema específico de inmediato. Pero tener una idea aproximada de en qué se centrará el sprint te ayudará a decidir qué métodos de investigación tienen más sentido. Analizaremos diferentes métodos de investigación con más detalle más adelante. Luego, es hora de llamar a los expertos. Si estás planificando el sprint, depende de ti programar charlas cortas con colegas o expertos de la industria. Escucharás estas charlas llenas de información durante la fase de comprensión del sprint. Una buena charla ayuda a aclarar el problema que el sprint está tratando de resolver. Ten en cuenta que cuantos más expertos convoques, más horarios tendrás que programar. Empieza a planificar temprano; te prometo que valdrá la pena.
 
-Paso 3: Encontrar el espacio adecuado. Suena un poco obvio. Pero créeme, reservar la sala correcta puede ser fundamental. Es importante asegurarte de que el espacio permita que todos realicen su trabajo con igualdad de oportunidades. Hablemos de algunas cosas que debes conseguir. Pizarras para plasmar tus ideas o pegar notas adhesivas, buena acústica para que todos puedan escucharse fácilmente, adaptaciones para quien lo necesite y muebles cómodos que puedas mover con facilidad. Vas a pasar mucho tiempo en esta sala, así que ponte cómodo. Una vez que hayas encontrado el espacio adecuado, es hora de buscar suministros. Si estás planificando el sprint de diseño, es tu trabajo asegurarte de que todos tengan lo que necesitan para participar, así como un maestro entrega los suministros en la escuela. Algunos elementos esenciales son los marcadores, las notas adhesivas, y muchos bocadillos y agua.
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/73e0e92b-2472-49f6-a57d-94fbb643213e)
 
-Sigamos con el paso 5: Establecer las reglas del sprint. Si quieres que esta sea una zona libre de distracciones, sin teléfonos, ahora es el momento de decirlo. Definir las reglas por adelantado marca la pauta para el sprint, hace que todos se pongan de acuerdo y ayuda al equipo a mantenerse concentrado. Ya hiciste la investigación, convocaste a los expertos, encontraste el espacio adecuado, conseguiste los suministros, y estableciste las reglas del sprint. ¿Qué sigue? El paso 6 es la planificación de las presentaciones. Esto puede ser importante, ya que los sprints utilizan equipos multidisciplinarios que tal vez no se conozcan. Romper el hielo puede ser un poco cursi, pero sigue siendo una excelente manera de ayudar a los miembros del equipo a sentirse cómodos entre sí. Además, elegir una manera de romper el hielo que sea adecuada para el sprint puede motivar al equipo y ayudarlos a adoptar la actitud correcta. Aquí hay una idea para romper el hielo. Pide a todos que hablen de alguna vez que se quejaron con atención al cliente. Esto pone al equipo en el lugar de un usuario, exactamente donde quieres que estén al resolver los desafíos de diseño de UX. Llegamos al paso final: la planificación post-sprint. Eso significa pensar en qué sucederá después de que el sprint concluya, por ejemplo, cómo el equipo podría usar lo que han aprendido para alcanzar otras metas. Para hacer esto, necesitas documentación. Asegúrate de sumar a algunas personas para que ayuden a documentar el sprint de diseño y tomen fotos, recopilen notas adhesivas, y anoten ideas.
 
-Ahora, repasemos lo básico de la planificación del sprint. Para prepararte para un sprint de diseño, tendrás que llevar a cabo investigación de usuarios, programar conversaciones con expertos, encontrar el espacio adecuado, buscar suministros, establecer reglas básicas, romper el hielo con el equipo y planificar medidas posteriores al sprint. ¿Suena bien? Excelente. Sigamos adelante. A continuación, veremos una introducción al sprint de diseño.
+Como diseñador de UX de nivel básico, probablemente no se espere que lideres un sprint de diseño. Pero sigue siendo útil saber qué es necesario para planificar uno exitoso. Veamos algunas de las ideas básicas.
+
+- En primer lugar, la **investigación de usuarios**(USER RESEARCH). Si tienes la suerte de tener un **investigador dedicado** en tu equipo, puede encargarse de este paso. Si no, podrías encargarte tú mismo. La investigación de usuarios siempre es el primer paso del proceso de planificación del sprint. La investigación debe centrarse en los **problemas de los usuarios que estás tratando de resolver durante el sprint**. No tienes que detallar un problema específico de inmediato. Pero tener **una idea aproximada de en qué se centrará el sprint te ayudará a decidir qué métodos de investigación tienen más sentido**.
+
+Analizaremos diferentes métodos de investigación con más detalle más adelante. 
+
+- Luego, es hora de **llamar a los expertos**. Si estás planificando el sprint, depende de ti programar **charlas cortas con colegas o expertos de la industria**. **Escucharás estas charlas llenas de información durante la fase de comprensión del sprint**. Una buena charla ayuda a **aclarar el problema** que el sprint está tratando de resolver. Ten en cuenta que cuantos más expertos convoques, más horarios tendrás que programar. Empieza a planificar temprano; te prometo que valdrá la pena.
+
+- Paso 3: **Encontrar el espacio adecuado**. Suena un poco obvio. Pero créeme, reservar la sala correcta puede ser fundamental. Es importante asegurarte de **que el espacio permita que todos realicen su trabajo con igualdad de oportunidades**. Hablemos de algunas cosas que debes conseguir:
+
+-pizarras para plasmar tus ideas o pegar notas adhesivas
+
+-buena acústica para que todos puedan escucharse fácilmente
+
+-adaptaciones para quien lo necesite 
+
+-muebles cómodos que puedas mover con facilidad. 
+
+Vas a pasar mucho tiempo en esta sala, así que ponte cómodo. 
+
+- Una vez que hayas encontrado el espacio adecuado, es hora de **buscar suministros**. Si estás planificando el sprint de diseño, es tu trabajo asegurarte de que todos tengan lo que necesitan para participar, así como un maestro entrega los suministros en la escuela. Algunos elementos esenciales son:
+
+-los marcadores
+
+-las notas adhesivas
+
+-muchos bocadillos y agua.
+
+- Sigamos con el paso 5: **Establecer las reglas del sprint**. Si quieres que esta sea una zona libre de distracciones, sin teléfonos, ahora es el momento de decirlo.** Definir las reglas por adelantado** marca la pauta para el sprint, hace que todos se pongan de acuerdo y ayuda al equipo a mantenerse concentrado. Ya hiciste la investigación, convocaste a los expertos, encontraste el espacio adecuado, conseguiste los suministros, y estableciste las reglas del sprint.
+
+¿Qué sigue? 
+
+- El paso 6 es la **planificación de las presentaciones**. Esto puede ser importante, ya que los sprints utilizan equipos multidisciplinarios que tal vez no se conozcan. **Romper el hielo puede ser un poco cursi, pero sigue siendo una excelente manera de ayudar a los miembros del equipo a sentirse cómodos entre sí**. Además, **elegir una manera de romper el hielo que sea adecuada para el sprint puede motivar al equipo y ayudarlos a adoptar la actitud correcta**. Aquí hay una idea para romper el hielo:
+
+-Pide a todos que hablen de alguna vez que se quejaron con atención al cliente. Esto pone al equipo en el lugar de un usuario, exactamente donde quieres que estén al resolver los desafíos de diseño de UX. 
+
+- Llegamos al paso final: la **planificación post-sprint**. Eso significa **pensar en qué sucederá después de que el sprint concluya**, por ejemplo, cómo el equipo podría usar lo que han aprendido para alcanzar otras metas. Para hacer esto, necesitas **documentación**. Asegúrate de sumar a algunas personas para que ayuden a documentar el sprint de diseño y tomen fotos, recopilen notas adhesivas, y anoten ideas.
+
+Ahora, repasemos lo básico de la planificación del sprint. Para prepararte para un sprint de diseño, tendrás que llevar a cabo **investigación de usuarios**, programar **conversaciones con expertos**, encontrar el **espacio adecuado**, buscar **suministros**, establecer **reglas básicas**, **romper el hielo** con el equipo y planificar **medidas posteriores** al sprint.
 
 ---
 
 ### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> La introducción al sprint de diseño
 
-Hola de nuevo. Ya vimos las ideas básicas de la planificación de sprints, ahora creemos una introducción al sprint de diseño de cinco días. La introducción al sprint es un documento que compartirás con todos los asistentes para ayudarlos a prepararse para el sprint. Veamos los elementos que forman parte de una introducción al sprint de diseño. Comienza con el desafío del sprint de diseño, en el que se presenta al equipo los objetivos del sprint. Piensa en la aplicación de ciclismo de antes. Si creaste una introducción para ese sprint, el desafío de diseño podría ser crear nuevas y emocionantes funciones para la aplicación de ciclismo antes del relanzamiento de este año.
+Ahora creemos una introducción al sprint de diseño de cinco días. 
+
+- La **introducción al sprint** es un documento que compartirás con todos los asistentes para ayudarlos a prepararse para el sprint. Veamos los elementos que forman parte de una introducción al sprint de diseño.
+ 
+-> Comienza con el **desafío del sprint de diseño**, en el que se presenta al equipo los **objetivos** del sprint. Piensa en la aplicación de ciclismo de antes. Si creaste una introducción para ese sprint, el desafío de diseño podría ser crear nuevas y emocionantes funciones para la aplicación de ciclismo antes del relanzamiento de este año.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e48e561c-1af6-4918-8e95-4e1c721150c2)
 
 
-Luego, debes identificar los entregables clave, es decir, lo que el equipo realmente quiere crear al final del sprint. Para la aplicación de ciclismo, podrías decir que queremos tener un prototipo completo con la actualización de funciones.
 
-Luego, pasa a la logística. Primero, todos los que participan en el sprint deben saber dónde se realizará el sprint y cuándo se llevará a cabo. También debes decir quién va a asistir y el nombre del líder del sprint. Por lo general, el líder del sprint es la persona que envía la introducción al equipo. Pero no siempre es así. Si deseas designar un líder de sprint, hazlo antes de enviar la introducción al sprint. Luego, agrega los aprobadores. ¿Hay algunos jefes que deben aprobar el producto antes del lanzamiento? Este es el lugar para anotarlo. Si la aplicación de ciclismo necesita la aprobación oficial del gerente de Aficionados al Ciclismo antes del lanzamiento, la introducción al sprint debería mencionarlo. La introducción al sprint también debe incluir una lista de recursos. Para sprints a corto plazo, probablemente ya haya un equipo asignado al proyecto. Para sprints a largo plazo, tal vez debas crear un plan para conseguir recursos adicionales. Por ejemplo, con la aplicación de ciclismo, es posible que debas asignar recursos de ingeniería para hacer el trabajo necesario para lanzar la nueva función. Luego, tenemos la descripción general del proyecto, donde deberías explicar el estado actual del proyecto, nombrar los obstáculos que se interponen en el camino, declarar victorias tempranas si hay alguna y delinear el plan de lanzamiento estimado. Finalmente, tenemos el cronograma del sprint, un cronograma hora por hora del sprint de cinco días, incluidos los descansos. Esto le permite a la gente saber qué esperar y les da tiempo para prepararse para que puedas mantener las cosas en movimiento durante el sprint. Eso es todo, has planificado el sprint deseado y creado la introducción. Lo único que queda por hacer ahora es poner en marcha el sprint. Si todavía estás un poco confundido sobre qué es la introducción al sprint de diseño, encontrarás algunos buenos ejemplos en las lecturas. A continuación, aprenderemos sobre el papel de un diseñador de UX de nivel básico en el proceso de sprint.
+-> Luego, debes identificar los **entregables clave**, es decir, lo que el equipo realmente quiere crear al final del sprint. Para la aplicación de ciclismo, podrías decir que queremos tener un prototipo completo con la actualización de funciones.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d0b57937-4c42-4447-8122-b8796e36401b)
+
+
+-> Luego, pasa a la **logística**. Primero, todos los que participan en el sprint deben saber **dónde** se realizará el sprint y **cuándo** se llevará a cabo. También debes decir **quién** va a asistir y el nombre del **líder del sprint**. Por lo general, el líder del sprint es la persona que envía la introducción al equipo. Pero no siempre es así. Si deseas designar un líder de sprint, hazlo antes de enviar la introducción al sprint. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/6d9720b1-896f-4be2-a7d8-79db54c64695)
+
+-> Luego, agrega los **aprobadores**. ¿Hay algunos jefes que deben aprobar el producto antes del lanzamiento? Este es el lugar para anotarlo. Si la aplicación de ciclismo necesita la aprobación oficial del gerente de Aficionados al Ciclismo antes del lanzamiento, la introducción al sprint debería mencionarlo. 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/acfd4f87-b27a-4cec-a3f2-1703800b32de)
+
+-> La introducción al sprint también debe incluir una **lista de recursos**. Para sprints a corto plazo, probablemente ya haya un equipo asignado al proyecto. Para sprints a largo plazo, tal vez debas crear un plan para conseguir recursos adicionales. Por ejemplo, con la aplicación de ciclismo, es posible que debas asignar recursos de ingeniería para hacer el trabajo necesario para lanzar la nueva función. 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9991a670-3d13-4278-a41a-8b1ee97e0c1f)
+
+
+-> Luego, tenemos la **descripción general del proyecto**, donde deberías **explicar el estado actual del proyecto**, nombrar los obstáculos que se interponen en el camino, declarar victorias tempranas si hay alguna y delinear el plan de lanzamiento estimado. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a9c5e7ce-a27f-4dcf-968d-bf2e0621f736)
+
+-> Finalmente, tenemos el **cronograma del sprint**, un cronograma hora por hora del sprint de cinco días, incluidos los descansos. Esto le permite a la gente saber qué esperar y les da tiempo para prepararse para que puedas mantener las cosas en movimiento durante el sprint. Eso es todo, has planificado el sprint deseado y creado la introducción. 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e1def803-ea9c-49ef-ada7-5ee8df45f15a)
+
+Lo único que queda por hacer ahora es poner en marcha el sprint. 
+
 
 ---
 ---
