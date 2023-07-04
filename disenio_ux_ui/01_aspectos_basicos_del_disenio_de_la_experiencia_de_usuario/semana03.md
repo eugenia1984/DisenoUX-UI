@@ -293,7 +293,7 @@ Las dos preguntas clave que deseamos responder son: "¿Qué salió bien?" y "¿Q
 
 La persona que lideró el sprint guiará la conversación, y alguien tomará notas para que el equipo pueda usar la retroalimentación y que el próximo sprint sea más productivo. Las retrospectivas son muy útiles. Pueden ayudarte a trabajar mejor como equipo, mejorar la forma en que te comunicas con los clientes e incluso señalar áreas en las que puedes crecer como individuo. Las retrospectivas se tratan de empoderar, no de avergonzar. Si algo no salió bien, esta es tu oportunidad para asegurarte de que tienes recursos y herramientas para hacerlo mejor la próxima vez. Una de las retrospectivas más efectivas de las que participé fue una en la que la gente realmente se sitió cómoda al contribuir, y nos centramos en la mejora continua. 
 
-Hablando de retrospectivas, repasemos lo que aprendimos. Ahora sabemos qué es un sprint de diseño, qué implica cada fase del sprint de diseño y cómo planificar un sprint de diseño. Destacamos dónde tú, como diseñador de UX de nivel básico, encajas en el proceso de sprint de diseño y aprendimos sobre la importancia de las retrospectivas de sprint. A continuación, vamos a centrarnos en cómo construir una presencia profesional, pero, en primer lugar, tenemos tu próxima evaluación. Puedes lograrlo, y, si necesitas refrescar la memoria, puedes repasar. Buena suerte.
+
 
 ---
 
