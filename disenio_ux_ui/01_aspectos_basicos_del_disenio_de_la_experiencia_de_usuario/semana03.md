@@ -130,6 +130,12 @@ Si estás buscando aprender más sobre los sprints de diseño, ¿por qué no vas
 
 Además, consulta este [artículo en Medium sobre la importancia de los sprints de diseño](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09#:~:text=A%20Design%20Sprint%20is%20a,and%20testing%20ideas%20with%20customers.). O bien, para recibir aún más inspiración, lee el libro [Sprint](https://www.thesprintbook.com/book) del creador de los sprints de diseño y ex Googler, Jake Knapp. Presta especial atención a los capítulos “Empezar por el final” para obtener una descripción general de cómo establecer objetivos a largo plazo para un sprint, y “Despegue” para motivarte a comenzar con tu primer sprint. ¡Feliz lectura!
 
+---
+---
+
+
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Participa en sprints de diseño
+
 ### El rol de un diseñador de nivel básico
 
 Si recién estás comenzando como diseñador de la experiencia de usuario, también puede darte curiosidad conocer el rol de un diseñador de la experiencia de usuario de nivel básico en un sprint. ¡Tenemos la mejor información para ti! Consulta esta publicación del BLOG INKONIQ sobre [cómo funciona un sprint de diseño en Google](https://medium.com/inkoniq-blog/inside-a-design-sprint-workshop-at-google-3950b1654f2)  y este artículo en Medium sobre lo que [un diseñador de la experiencia de usuario aprendió de su primer sprint de diseño](https://uxplanet.org/3-things-i-learned-from-my-first-design-sprint-ed5d2113afad).  
@@ -266,10 +272,7 @@ Me llamo Jason y soy un diseñador de interacción en Google. El objetivo de un 
 
 Realmente queremos acercar a la gente con perspectivas múltiples para que aflore esa multitud de ideas. Siempre es importante entender quiénes son los participantes y asegurarte de que sea una experiencia reflexiva. Pones las necesidades de todos en primer plano. Creo que, en cierto modo, es como tu trabajo con la experiencia del usuario. Cuando diseñas un sprint, los participantes son tus usuarios, y es importante que entiendas sus necesidades y los pongas en primer plano al diseñar un sprint.
 
----
----
 
-## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Participa en sprints de diseño
 
 ---
 ---
