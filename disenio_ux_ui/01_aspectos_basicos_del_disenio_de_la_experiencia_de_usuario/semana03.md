@@ -142,6 +142,30 @@ Si recién estás comenzando como diseñador de la experiencia de usuario, tambi
 
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Planificar sprints de diseño
 
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> El rop de un diseñador de nivel basico en un sprint
+
+
+Como **diseñador de UX de nivel básico**, no estarás dirigiendo todo lo que sucede, pero tendrás un papel importante al contribuir en cada fase del sprint. Veamos cómo podría ser tu semana de sprint.
+
+Cuando llegues al espacio de sprint, encontrarás todo lo necesario para hacer tu trabajo. Tendrás materiales de oficina, agua para beber y tal vez algunos bocadillos. El líder del sprint dará la **bienvenida** a todos y explicará algunas **reglas básicas**. Por ejemplo, quizás tendrás que dejar de usar tu teléfono y mantener tu portátil cerrada hasta el final de cada día. También puede haber una **charla en equipo**, como el ejemplo mencionado anteriormente. Una vez que todos estén preparados, es hora de comenzar. 
+
+El **primer día** es la **fase de comprensión**, donde verás un panorama claro del desafío de diseño. Habrá muchas **charlas cortas de de expertos** que están diseñadas para inspirarte. **Toma nota** de cualquier pensamiento que tengas. 
+
+La **fase 2** es la **fase de pensar**. El líder del sprint guiará al equipo en una **lluvia de ideas** para fomentar la creatividad y generar muchas soluciones posibles al desafío de diseño. Tu objetivo principal es que se te ocurran ideas y compartirlas. 
+
+Bienvenido a la **fase 3**, la fase de **decisión**. Felicitaciones, estás a mitad del sprint. El equipo decidirá **qué solución tiene la mayor posibilidad de éxito**. Como diseñador novato de UX, te involucrarás en todas las etapas del proceso de toma de decisiones. Cuando haya varias soluciones potenciales, votarás por la que creas que tiene el mayor potencial. 
+
+Como recordarás, en este punto también debes comenzar la **planificación para las pruebas** o **fase 5** del sprint de diseño. Como diseñador de UX de nivel básico, puedes ayudar a organizar usuarios para las pruebas, crear preguntas de encuestas o entrevistas, y reunir el equipamiento necesario. 
+
+La **fase 4** se trata de **crear un prototipo del producto**. Como diseñador de UX de nivel básico, participarás activamente de crear un prototipo sólido que los usuarios probarán. Harás preguntas, ofrecerás ideas y revisarás el prototipo completado. También puedes confirmar los usuarios para la fase 5. Lo hemos logrado. 
+
+Es el **día de la prueba**. La fase de prueba es la fase final de este proceso, cuando se pone el prototipo a prueba. Te pueden pedir que recibas comentarios de los usuarios mediante observaciones y entrevistas. Estas opiniones ayudan al equipo a saber qué revisar antes de sacar el producto al mercado, y eso es todo. 
+
+Has aprendido todo sobre el rol del diseñador de UX de nivel básico en el proceso de sprint de diseño. A medida que vayas llegando al final del proceso de sprint, sentirás como si acabaras de completar una carrera real en una competencia de atletismo. Un sprint exitoso te dejará cansado, pero motivado, repleto de ideas nuevas y con fuego en tu interior para ponerte a trabajar. Todavía recuerdo el primer sprint del que formé parte. Se me ocurrieron algunas ideas geniales, pero también muchas malas ideas. No te preocupes si esto te pasa a ti también. Por ese motivo, validar tus ideas con los usuarios se hace en el proceso de sprint de diseño. Tendrás tus ideas y también las tendrá el resto del equipo. Es decir, no depende únicamente de ti. Es un esfuerzo en equipo, y al final del proceso podrás darte cuenta de si tu idea está funcionando o no antes de implementarla. 
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Json: todo sobre los sprint de diseño
 
 ---
 
