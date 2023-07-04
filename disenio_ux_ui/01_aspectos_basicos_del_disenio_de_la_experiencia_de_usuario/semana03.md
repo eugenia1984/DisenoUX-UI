@@ -279,6 +279,129 @@ Realmente queremos acercar a la gente con perspectivas múltiples para que aflor
 
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Reflexionar sobra los sprint de diseño
 
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Diseñar retrospectivas de sprints
+
+Buenas noticias: Ahora sabes cómo prepararte para un sprint de diseño y ejecutarlo. Solo queda una etapa por completar: la retrospectiva del sprint. Así que vamos a ver qué es la retrospectiva del sprint, cómo se lleva a cabo y por qué es importante. 
+
+Todos hemos visto a alguien equivocarse una y otra vez. A veces, incluso, hemos sido esa persona. 
+
+¿Y si se pudiera dejar de cometer errores para siempre? 
+
+Eso es exactamente lo que hacen las retrospectivas. La retrospectiva es una crítica colaborativa del sprint de diseño del equipo. Solemos hacer las reuniones de retrospectiva justo después del sprint, para que los pensamientos de todos estén frescos. Las reuniones retrospectivas no tienen una agenda especial. El objetivo es asegurarse de que todos los que formaron parte del sprint puedan dar su retroalimentación. 
+
+Las dos preguntas clave que deseamos responder son: "¿Qué salió bien?" y "¿Qué se puede mejorar?" 
+
+La persona que lideró el sprint guiará la conversación, y alguien tomará notas para que el equipo pueda usar la retroalimentación y que el próximo sprint sea más productivo. Las retrospectivas son muy útiles. Pueden ayudarte a trabajar mejor como equipo, mejorar la forma en que te comunicas con los clientes e incluso señalar áreas en las que puedes crecer como individuo. Las retrospectivas se tratan de empoderar, no de avergonzar. Si algo no salió bien, esta es tu oportunidad para asegurarte de que tienes recursos y herramientas para hacerlo mejor la próxima vez. Una de las retrospectivas más efectivas de las que participé fue una en la que la gente realmente se sitió cómoda al contribuir, y nos centramos en la mejora continua. 
+
+Hablando de retrospectivas, repasemos lo que aprendimos. Ahora sabemos qué es un sprint de diseño, qué implica cada fase del sprint de diseño y cómo planificar un sprint de diseño. Destacamos dónde tú, como diseñador de UX de nivel básico, encajas en el proceso de sprint de diseño y aprendimos sobre la importancia de las retrospectivas de sprint. A continuación, vamos a centrarnos en cómo construir una presencia profesional, pero, en primer lugar, tenemos tu próxima evaluación. Puedes lograrlo, y, si necesitas refrescar la memoria, puedes repasar. Buena suerte.
+
+---
+
+## :book: Preguntas retrospectivas comunes
+
+Cada sprint de diseño es una oportunidad para que tu equipo aprenda algo nuevo. Esto es especialmente útil para los diseñadores de la experiencia de usuario de nivel básico que se unen a un sprint de diseño por primera vez. 
+
+Durante un sprint de diseño, la atención se centra en: 
+
+- Comprender el desafío del diseño 
+
+- Idear soluciones 
+
+- Decidir qué soluciones construir 
+
+- Crear prototipos de algunas soluciones 
+
+- Probar esos prototipos
+
+Inmediatamente después del sprint de diseño, el equipo debe realizar una retrospectiva. Una retrospectiva es una crítica colaborativa del sprint de diseño. El objetivo de una retrospectiva es asegurarte de que todos los que participaron en el sprint tengan la oportunidad de dar su opinión y pensar en formas de mejorar. 
+
+Las preguntas clave para hacer durante una retrospectiva son: 
+
+- ¿Qué salió bien? 
+
+- ¿Qué se puede mejorar? 
+
+Responder estas preguntas los ayudará a trabajar mejor como equipo y como individuos. Asegúrate de que todos se sientan capacitados para compartir sus experiencias y que los identificadores personales, como la raza o el género, no impidan que los miembros sean honestos. Antes de que comience la retrospectiva, dile al grupo que cualquier comentario que hagan se utilizará para reflexionar sobre la experiencia y mejorar el proceso para el próximo sprint. 
+
+
+### ¿Qué salió bien?
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9206557d-a0de-4ba5-8852-95d79f7eeb6e)
+
+Comienza la retrospectiva analizando las partes del sprint de diseño que tuvieron éxito y las áreas en las que el equipo estuvo bien. Quizás se creó un nuevo proceso que podría aplicarse a futuros sprints. O tal vez la incorporación de una nueva herramienta digital mejoró la productividad del equipo. Analiza lo que el equipo hizo bien y piensa cómo podría aplicarse a futuros sprints.
+
+Las preguntas que podrías hacer durante esta parte de la retrospectiva incluyen:
+
+¿Qué herramientas te ahorraron más tiempo y esfuerzo?
+
+¿Cuándo sentiste más satisfacción?
+
+¿Qué te ayudó a hacer tu mejor contribución al equipo durante el sprint?
+
+Este también es un buen momento para reconocer el sólido desempeño de un miembro del equipo. Celebrar los éxitos refuerza las relaciones y aumenta la cohesión y la armonía dentro del equipo.
+
+### ¿Qué se puede mejorar?
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/3cb3d57d-f33f-4331-b88c-1fb7bef96127)
+
+Después de resaltar todo lo que salió bien, es hora de cambiar de marcha y pensar en áreas de mejora. El equipo querrá saber qué salió mal, para que todos puedan hacerlo mejor la próxima vez. 
+
+Anima a todos a participar y compartir qué áreas se pueden mejorar. Incluso pueden formar un círculo y turnarse para agregar desafíos a una lista compartida. Si alguien está nervioso por hablar, invita a cada persona a escribir sus pensamientos de forma anónima en notas adhesivas individuales. Luego, todas las mejoras se pueden revisar juntas. Esto elimina las inquietudes sobre ofender a alguien y reduce la posibilidad de que surja el pensamiento de grupo. El pensamiento de grupo puede ocurrir en una conversación en grupo cuando una persona comparte una opinión y todos acurdan inmediatamente con esta opinión, en lugar de compartir sus propios sentimientos sobre un tema. El pensamiento de grupo impide que cada persona tenga su opinión propia y puede significar que se pasen por alto ciertas áreas de mejora.
+
+Ten en cuenta cada fase del sprint de diseño para estructurar la retroalimentación: comprender, idear, decidir, crear prototipos y probar. ¿En qué momento hubo errores? ¿Qué causó esos desafíos? Comparte tu perspectiva si una fase o dos no salieron según lo planeado. 
+
+Las preguntas que podrías hacer durante esta parte de la retrospectiva incluyen:
+
+- ¿Qué te tomó por sorpresa cuando salió mal?
+
+- ¿Qué problemas surgieron con más frecuencia?
+
+- ¿Cuándo crees que experimentamos el mayor desafío como equipo?
+
+Luego, examina el resultado del sprint o el producto final y haz preguntas como:
+
+- ¿El equipo sobreestimó o subestimó el trabajo requerido para completar el diseño?
+
+- ¿Un factor externo descarriló tu productividad?
+
+Y lo más importante, ¿el diseño final resuelve de verdad el problema del usuario?
+
+Identifica las maneras en que el equipo podría haber encontrado una mejor solución. 
+
+Ten en cuenta que las retrospectivas se tratan de empoderar, no de avergonzar. Este no es el momento de criticar a una persona por un desempeño deficiente. Si tienes problemas con el trabajo de un miembro del equipo, es mejor abordarlos con esa persona en privado, no durante una retrospectiva con todo el equipo.
+
+
+### Lecciones aprendidas
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/b716d50a-56af-4b59-92c5-f83516b53b19)
+
+Al final de la reunión retrospectiva, el equipo comprenderá mejor qué salió bien y qué podría mejorarse. Naturalmente, es recomendable que aproveches las lecciones aprendidas en tu próximo sprint de diseño. 
+
+Antes del próximo sprint, revisa las conclusiones a las que llegaste al final de la última retrospectiva. Las conclusiones deberían influir en cómo llevarás a cabo el próximo sprint. Quizás debas incluir un equipo más diverso, darles más tiempo para idear, o hacer pruebas con usuarios adicionales antes de seguir adelante con un diseño.
+
+Las preguntas que puedes hacer incluyen:
+
+- ¿Qué descubriste durante el sprint que todavía no comprendes?
+
+- ¿Cómo podría el proceso actual impedir que el equipo cree soluciones mejores?
+- 
+
+### Conclusiones
+
+Recuerda: comparte tus sugerencias sobre cómo el próximo sprint de diseño podría ser mejor. No tengas miedo de sugerir algo que crees que mejorará el proyecto o el próximo sprint. ¡La única mala sugerencia es la que no se comparte!
+
+
+
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> 
+
+
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> 
+
 ---
 ---
 
