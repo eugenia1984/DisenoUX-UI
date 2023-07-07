@@ -367,7 +367,13 @@ Algo más a tener en cuenta sobre los casos prácticos es **cuidar de no compart
 9. Y, por último, el **noveno consejo profesional**: **prueba tu sitio web.** Es importante que pruebes tu sitio web en diferentes dispositivos para asegurarte de que funciona correctamente. Por ejemplo, es posible que debas mover los botones o ajustar las imágenes para que se adapten a la versión móvil de tu sitio. No quieres perder el interés de los responsables de contratación porque decidieron abrir tu sitio web en su teléfono en lugar de en su computadora y se encontraron con el texto desalineado. Como ya se mencionó, tener un portfolio con una excelente experiencia del usuario impresionará a los posibles empleadores. Muy bien, eso es todo. Es mucho trabajo crear un portfolio de diseño que cuente tu historia y te conecte con los usuarios. Por eso comenzamos ahora. Si agregas nuevo contenido a tu portfolio a medida que lo desarrollas, estarás en una mejor posición cuando necesites buscar empleo. A fin de estar al día, utiliza el tiempo semanal que dediques a trabajar en tu portfolio para agregar contenido a tu sitio web a medida que completes proyectos y aprendas nuevas habilidades. A continuación, aprenderemos sobre el desarrollo de la marca personal y por qué es tan importante, así puedes ponerte manos a la obra y personalizar tu portfolio.
 
 
+---
 
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/ea19fb4f-ea5c-4f6d-a0c0-82926e9ccc2b)
+
+---
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a7be602f-2023-43f1-9776-1e0a96b6db37)
 
 
 ---
