@@ -86,6 +86,8 @@ Solo necesito ponerme al día con lo último, las herramientas, el software, las
 ##  <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Empezar un portafolio de diseño de UX
 
 
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Introducción a los creadores de sitios web
+
 Te explicaremos cómo crear un portfolio personalizado en línea y te ayudaremos a elegir el generador de sitios web que mejor funcione para ti. Crear un sitio web puede parecen intimidante, pero hay muchas herramientas para ayudarte.
 
 
@@ -142,7 +144,7 @@ A continuación, hablaremos de las prácticas recomendadas y las característica
 
 
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Introducción a los creadores de sitios web
+
 
 ---
 
@@ -202,6 +204,49 @@ Visita la [página de inicio}(https://domains.google/get-started/website-design/
 Tu portfolio es la exposición definitiva de tu trabajo como diseñador de UX. Como parte de este programa de certificación, crearás tres proyectos de diseño de UX, que puedes presentar como casos prácticos en tu sitio web.
 
 Cuando empieces a crear proyectos profesionales como diseñador de UX, actualizarás el sitio web de tu portfolio para incluir estos nuevos proyectos. Sin embargo, por ahora, solo debes seleccionar el creador de sitios web que prefieres usar y empezar con lo básico de la configuración de tu cuenta. Incluiremos más detalles sobre cómo diseñar cada parte del sitio web para tu portfolio a medida que avances en este programa de certificación. ¡Mantente alerta!
+
+---
+
+## :book: Planifica el sitio web de tu portfolio
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/f3435362-79b5-4769-b6d1-a641205cbbaa)
+
+Cuando empiezas tu nueva carrera como diseñador de UX, es muy útil empezar a trabajar en tu portfolio profesional desde el principio. ¡Considéralo un lugar para demostrar tu capacidad para crear una buena experiencia del usuario! Trabajar activamente en tu portfolio cada vez que aprendas algo nuevo o crees un nuevo diseño te ayudará a tener todo listo para comenzar la búsqueda de empleo más adelante. Cuando tengas todo listo, compartirás tu portfolio con los reclutadores para comunicar tu valor y proceso como diseñador de UX.
+
+Ahora que ya seleccionaste un creador de sitios web que te ayude a crear el de tu portfolio, puedes empezar a planificar qué información incluirás en él. ¡Tomarte el tiempo para planificar de antemano te ayudará a tomar decisiones de diseño más fácil luego! El diseño del sitio web de tu portfolio debe resaltar las partes más importantes del trabajo que deseas mostrar. El creador de sitios web que utilices probablemente tendrá plantillas de diseño desde las que puedes trabajar. Al elegir una plantilla, busca un diseño simple que facilite la tarea de encontrar y recorrer el contenido, en especial, tus muestras de trabajo. 
+
+Para ayudarte a empezar, consulta esta lista de elementos a incluir en el sitio web de tu portfolio. Quizás notaste estos consejos en acción cuando revisaste los ejemplos de portfolios de diseñadores de UX principiantes anteriormente en el curso.
+
+
+1. **Nombre y logotipo personal** (si tienes). Incluye con claridad tu nombre en la parte superior del sitio web de tu portfolio para que los visitantes identifiquen fácilmente de quién es el trabajo que están observando. Si tienes un logotipo personal, como un icono simple o una versión estilizada de tus iniciales, también deberías pensar en incluirlo junto a tu nombre.
+
+2. **Menú de navegación**. La navegación significa cómo los usuarios recorren cada página de un sitio web. Mantén la navegación simple y fácil de seguir en el sitio web de tu portfolio. Por ejemplo, los usuarios deben poder acceder a la página de inicio del sitio web de tu portfolio desde cualquier parte y los títulos de navegación deben ser claros y precisos.
+
+3. **Muestras de trabajo**. El objetivo principal del sitio web de tu portfolio es destacar muestras de tu trabajo de diseño de UX. Por ejemplo, crearás tres proyectos durante este programa de certificación que puedes mostrar en el sitio web de tu portfolio. Al planificar el sitio web, ¡asegúrate de elegir un diseño que permita que las muestras de trabajo se destaquen!
+
+4. **"Acerca de mí"**. Planifica crear una página en el sitio web de tu portfolio en la que los visitantes conozcan más sobre sus intereses, experiencias y lo que te apasiona. Crearás una página "Acerca de mí" para el sitio web de tu portfolio en una de las próximas actividades del curso.
+
+5. **Información de contacto**. En el sitio web de tu portfolio, es útil proporcionar información sobre tus medios de contacto. Por ejemplo, debes proporcionar tu dirección de correo electrónico, un enlace a tu currículum y enlaces a tus perfiles profesionales en línea (como LinkedIn), para que los visitantes puedan contactarte sobre posibles oportunidades de trabajo. Siempre que sea posible, intenta usar nombres que suenen profesionales, como una dirección de correo electrónico que sea “[TuNombre]@gmail.com”. Puedes planificar incluir tu información de contacto en diferentes partes del sitio web de tu portfolio, como en una página dedicada o en la parte superior, inferior o lateral.
+
+6. **Esquema de color**. Los colores de tu portfolio pueden proporcionar una experiencia del usuario más atractiva y deben reflejar tu personalidad y marca personal. Te sugerimos seleccionar un pequeño conjunto de colores que funcionen bien juntos, como un color primario y un color que resalte. El objetivo de estos colores es darle apoyo a tu contenido y marca personal, pero no provocar distracciones.
+
+Todavía no es necesario completar el contenido de estos elementos. De hecho, te ayudaremos a hacerlo en diferentes actividades durante este programa de certificación. Por ahora, tu objetivo es simplemente comprender claramente el tipo de información que se incluirá en el sitio web de tu portfolio y comenzar a planificar dónde quieres ubicar cada elemento.
+
+### Opcional: haz un esquema del contenido de tu sitio web
+Un boceto rápido de cómo podría ser el sitio web de tu portfolio podría indicarte qué tipo de plantilla del creador de sitio web deberías usar. Solo necesitas un bolígrafo o un lápiz y papel para hacer un boceto de la disposición general de las páginas importantes. 
+
+Por ejemplo, puedes comenzar esquematizando la página de inicio del sitio web de tu portfolio y dibujando dónde crees que irían tu nombre y logotipo, el menú de navegación y tus muestras de trabajo. O bien, puedes diseñar la página "Acerca de mí" para visualizar dónde quieres incluir tu foto, una descripción de tus intereses y experiencias, e información de contacto.
+
+¡No te preocupes por intentar algo sofisticado! Tu objetivo es simplemente comenzar a imaginar cuál será el diseño de tu sitio web para poder usar plantillas de los creadores de sitios web y aprovechar todo su potencial. ¡Usa tus habilidades creativas y diviértete!
+
+Cuando hagas el esquema del contenido del sitio web de tu portfolio, ten en cuenta estas preguntas:
+
+- ¿Qué incluirás en la página de inicio de tu portfolio? 
+
+- ¿Qué elementos, si los hubiera, quieres incluir juntos?
+
+- ¿Cuántas páginas en general necesitarás y qué título tendrá cada página?
 
 ---
 
