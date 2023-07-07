@@ -264,7 +264,107 @@ Lo más importante es **encontrar la manera de diferenciarte de los demás dise�
 
 También querrás **expresarte de una manera que se ajuste a tus intereses laborales**. Por ejemplo, si estás interesado en especializarte en interacción, o en diseño visual o de movimiento, tu portfolio debe mostrar ese tipo de trabajo. 
 
-1. Primer consejo profesional: **establece tu marca personal**. Tu marca personal **es la forma en la que tu personalidad, habilidades únicas y valores como diseñador se vinculan con tu personalidad pública**. Luego aprenderemos sobre el desarrollo de tu marca. Ahora lo que debes saber es que tu marca personal es la primera impresión que das. Tu marca personal debe mostrar claramente quién eres y qué te hace interesante. Segundo consejo profesional: cuenta una historia. Tu sitio web puede convertirse fácilmente en un compendio de enlaces y fotos, pero, para cautivar a tu público, necesitas contar una historia sobre tu proceso de diseño con un principio, un desarrollo y un desenlace. Esto puede requerir que empieces por una introducción al problema de diseño. Luego podrías mostrar el proceso que seguiste para completar los diseños, como investigación del usuario, bocetos y maquetas. Y podrías terminar con una imagen del diseño pulido y el aval de tu cliente o de otra persona cuya opinión valores. Tercer consejo profesional: sé conciso y usa el texto mínimo para describir tu trabajo y resaltar los conocimientos claves que respaldan tus decisiones. Deja que tu trabajo hable por sí mismo. Si necesitas explicar tu trabajo con más detalle, agrega enlaces a otras páginas o archivos PDF. Cuarto consejo profesional: que la navegación por tu sitio sea simple e intuitiva. La navegación es la forma en que los usuarios van de una página a otra en un sitio web. Los usuarios deben poder acceder a la página de inicio desde cualquier parte de tu sitio y la navegación debe llevarlos de un proyecto a otro. También debería ser fácil para los usuarios navegar hacia la página de contacto. Si quieren comunicarse contigo, tu página de contacto debe incluir tu dirección de correo electrónico, una copia de tu currículum y enlaces a tus cuentas de redes sociales profesionales. Quinto consejo profesional: ve más allá de la plantilla. Si bien los diseños predefinidos de los generadores de sitios web facilitan el inicio, necesitas dar un paso más allá para personalizar tu sitio web para alinearlo con tu marca y la historia que quieres contar. Debes demostrar tus habilidades de diseño y brindar una buena experiencia del usuario. Por ejemplo, elimina el texto que viene precargado en la plantilla y reemplázalo por tu propio contenido. También registra tu propio nombre de dominio para que la dirección de tu sitio web no tenga el nombre del generador del sitio web. Puedes comprar un dominio directamente a los generadores de sitios web o a través de un servicio de terceros. Sexto consejo profesional: incluye una diversidad de proyectos. Debes tener de 3 a 6 proyectos en tu portfolio que muestren tu conjunto de habilidades. Al final de este programa, habrás creado al menos tres proyectos, por lo que estarás preparado. Asegúrate de que cada proyecto muestre una faceta diferente de tus talentos de diseño. Séptimo consejo profesional: muestra casos prácticos. Un caso práctico guía al usuario por tu proceso de diseño de principio a fin. Tu portfolio debe incluir casos prácticos, no solo maquetas de ideas de diseño. Un caso práctico responde a las siguientes preguntas. ¿Cuál era el problema que intentabas resolver? ¿Qué proceso seguiste? ¿En qué acertaste o fallaste? ¿En qué conocimientos se fundaron tus decisiones de diseño en el proceso? ¿Cuál fue la solución definitiva? ¿Por qué crees que esa fue la mejor solución? Para describir casos prácticos, deberías incluir datos como el nombre y la duración del proyecto, tu función en el equipo de diseño, incluidas tus contribuciones personales al proyecto, el objetivo del proyecto, la investigación realizada, el público objetivo, los bocetos o maquetas, los resultados de las pruebas de usuario, el diseño final y una conclusión sobre lo aprendido en el proceso. Aprenderás más sobre cada uno de estos elementos a medida que avances en el programa. Algo más a tener en cuenta sobre los casos prácticos es cuidar de no compartir información de propiedad intelectual o de romper un acuerdo de confidencialidad, si tuvieras uno. Un acuerdo de confidencialidad es un contrato que un empleado firma cuando trabaja para una empresa en el que acuerdan no divulgar información confidencial, como diseños en su proceso de desarrollo. Octavo consejo profesional: asegúrate de que tu sitio web sea adaptable. Recuerda que esto significa que la apariencia de la pantalla del sitio web se adapta al dispositivo del usuario. Ya sea que alguien vea tu sitio web en una computadora de escritorio o un teléfono celular, tendrá una buena experiencia. Y, por último, el noveno consejo profesional: prueba tu sitio web. Es importante que pruebes tu sitio web en diferentes dispositivos para asegurarte de que funciona correctamente. Por ejemplo, es posible que debas mover los botones o ajustar las imágenes para que se adapten a la versión móvil de tu sitio. No quieres perder el interés de los responsables de contratación porque decidieron abrir tu sitio web en su teléfono en lugar de en su computadora y se encontraron con el texto desalineado. Como ya se mencionó, tener un portfolio con una excelente experiencia del usuario impresionará a los posibles empleadores. Muy bien, eso es todo. Es mucho trabajo crear un portfolio de diseño que cuente tu historia y te conecte con los usuarios. Por eso comenzamos ahora. Si agregas nuevo contenido a tu portfolio a medida que lo desarrollas, estarás en una mejor posición cuando necesites buscar empleo. A fin de estar al día, utiliza el tiempo semanal que dediques a trabajar en tu portfolio para agregar contenido a tu sitio web a medida que completes proyectos y aprendas nuevas habilidades. A continuación, aprenderemos sobre el desarrollo de la marca personal y por qué es tan importante, así puedes ponerte manos a la obra y personalizar tu portfolio.
+1. Primer consejo profesional: **establece tu marca personal**. Tu marca personal **es la forma en la que tu personalidad, habilidades únicas y valores como diseñador se vinculan con tu personalidad pública**. Luego aprenderemos sobre el desarrollo de tu marca. Ahora lo que debes saber es que **tu marca personal es la primera impresión que das**. Tu marca personal debe mostrar claramente quién eres y qué te hace interesante.
+ 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/156be630-4b6a-4414-990e-57c787e68341)
+
+2. **Segundo consejo profesional**: **cuenta una historia**. Tu sitio web puede convertirse fácilmente en un compendio de enlaces y fotos, pero, para **cautivar a tu público**, necesitas **contar una historia sobre tu proceso de diseño con un principio, un desarrollo y un desenlace**.
+
+Esto puede requerir que empieces por una introducción al problema de diseño. 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/87703730-8062-4070-81e4-b163bb1feee9)
+
+
+Luego podrías mostrar el proceso que seguiste para completar los diseños, como investigación del usuario, bocetos y maquetas. 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2ee81d7e-1801-4d39-9d8f-d8f8a44a2ea6)
+
+
+Y podrías terminar con una imagen del diseño pulido y el aval de tu cliente o de otra persona cuya opinión valores. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/f00b8318-6a99-4ab4-8783-983f50d43713)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/ef2c6650-b236-4dda-9c2c-01feb02e8a51)
+
+3. **Tercer consejo profesional**: sé **conciso** y usa el **texto mínimo** para **describir tu trabajo** y resaltar los **conocimientos claves** que respaldan tus decisiones. Deja **que tu trabajo hable por sí mismo**. Si necesitas explicar tu trabajo con más detalle, agrega enlaces a otras páginas o archivos PDF.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/c7c3a828-7150-4369-a962-23ac2aca818b)
+
+4. **Cuarto consejo profesional**: que la **navegación por tu sitio sea simple e intuitiva**. La navegación es la forma en que los usuarios van de una página a otra en un sitio web. Los usuarios deben poder acceder a la página de inicio desde cualquier parte de tu sitio y la navegación debe llevarlos de un proyecto a otro.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/69b4385f-e7fc-4250-8bb1-055d3f456ac3)
+  
+También debería ser fácil para los usuarios navegar hacia la página de contacto. 
+
+Si quieren comunicarse contigo, tu página de contacto debe incluir tu dirección de correo electrónico, una copia de tu currículum y enlaces a tus cuentas de redes sociales profesionales.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/f928e26c-1f6b-4ee9-84ec-20d78777b7cc)
+  
+5. **Quinto consejo profesional**: **ve más allá de la plantilla**. Si bien los diseños predefinidos de los generadores de sitios web facilitan el inicio, necesitas **dar un paso más allá para personalizar tu sitio web para alinearlo con tu marca y la historia que quieres contar**. Debes **demostrar tus habilidades de diseño** y brindar una **buena experiencia del usuario**.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/31154687-ebcf-4b22-83e5-e065ca580f6f)
+
+ 
+Por ejemplo, elimina el texto que viene precargado en la plantilla y reemplázalo por tu propio contenido. También registra tu propio nombre de dominio para que la dirección de tu sitio web no tenga el nombre del generador del sitio web. Puedes comprar un dominio directamente a los generadores de sitios web o a través de un servicio de terceros.
+
+8. **Sexto consejo profesional**: incluye una **diversidad de proyectos**. Debes tener de **3 a 6 proyectos en tu portfolio que muestren tu conjunto de habilidades**.
+  
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/940f35b8-e645-46ab-80ac-7c72e1551850)
+  
+  
+Al final de este programa, habrás creado al menos tres proyectos, por lo que estarás preparado. Asegúrate de que cada proyecto muestre una faceta diferente de tus talentos de diseño. 
+
+7. **Séptimo consejo profesional**: muestra **casos prácticos**.
+
+Un caso práctico **guía al usuario por tu proceso de diseño de principio a fin**. 
+
+Tu portfolio debe incluir casos prácticos, no solo maquetas de ideas de diseño. 
+
+Un caso práctico responde a las siguientes preguntas. 
+
+- ¿Cuál era el problema que intentabas resolver?
+
+- ¿Qué proceso seguiste? ¿En qué acertaste o fallaste?
+
+- ¿En qué conocimientos se fundaron tus decisiones de diseño en el proceso?
+
+-  ¿Cuál fue la solución definitiva?
+
+-  ¿Por qué crees que esa fue la mejor solución?
+
+Para describir casos prácticos, deberías **incluir datos** como:
+
+-el nombre y la duración del proyecto
+
+- tu función en el equipo de diseño
+
+- incluidas tus contribuciones personales al proyecto
+
+- el objetivo del proyecto
+
+- la investigación realizada
+
+- el público objetivo
+
+- los bocetos o maquetas
+
+- los resultados de las pruebas de usuario
+
+- el diseño final
+
+- una conclusión sobre lo aprendido en el proceso.
+
+Aprenderás más sobre cada uno de estos elementos a medida que avances en el programa. 
+
+Algo más a tener en cuenta sobre los casos prácticos es **cuidar de no compartir información de propiedad intelectual o de romper un acuerdo de confidencialidad, si tuvieras uno**. Un **acuerdo de confidencialidad** es un **contrato que un empleado firma cuando trabaja para una empresa en el que acuerdan no divulgar información confidencial, como diseños en su proceso de desarrollo**. 
+
+8. **Octavo consejo profesional**: asegúrate de **que tu sitio web sea adaptable**. Recuerda que esto significa que la apariencia de la pantalla del sitio web se adapta al dispositivo del usuario. Ya sea que alguien vea tu sitio web en una computadora de escritorio o un teléfono celular, tendrá una buena experiencia. 
+
+9. Y, por último, el **noveno consejo profesional**: **prueba tu sitio web.** Es importante que pruebes tu sitio web en diferentes dispositivos para asegurarte de que funciona correctamente. Por ejemplo, es posible que debas mover los botones o ajustar las imágenes para que se adapten a la versión móvil de tu sitio. No quieres perder el interés de los responsables de contratación porque decidieron abrir tu sitio web en su teléfono en lugar de en su computadora y se encontraron con el texto desalineado. Como ya se mencionó, tener un portfolio con una excelente experiencia del usuario impresionará a los posibles empleadores. Muy bien, eso es todo. Es mucho trabajo crear un portfolio de diseño que cuente tu historia y te conecte con los usuarios. Por eso comenzamos ahora. Si agregas nuevo contenido a tu portfolio a medida que lo desarrollas, estarás en una mejor posición cuando necesites buscar empleo. A fin de estar al día, utiliza el tiempo semanal que dediques a trabajar en tu portfolio para agregar contenido a tu sitio web a medida que completes proyectos y aprendas nuevas habilidades. A continuación, aprenderemos sobre el desarrollo de la marca personal y por qué es tan importante, así puedes ponerte manos a la obra y personalizar tu portfolio.
 
 
 
