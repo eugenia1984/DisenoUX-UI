@@ -382,7 +382,241 @@ Algo más a tener en cuenta sobre los casos prácticos es **cuidar de no compart
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Empezar a desarrollar una marca personal y presencia en linea
 
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Explorar marcas personales
+
+Hola de nuevo. Dijimos que tu marca personal es la forma en la que tu personalidad, tus habilidades únicas y tus valores como diseñador se enlazan con tu personalidad pública. Tu marca personal es una forma esencial de demostrar tu valor como diseñador y debería ser un aspecto central cuando creas tu portfolio. ¿Por qué son importantes las marcas personales? Investiguemos. Cuando piensas en la palabra marca, inmediatamente nombres de empresas conocidas vienen a tu mente. ¿Qué piensas de una empresa cuando oyes su nombre? ¿Cuál es tu percepción de la marca McDonald's? ¿O Starbucks? ¿Y Apple? Todas estas son grandes marcas con mensajes muy diferentes sobre su negocio, sus productos y el valor que ofrecen a los consumidores. Incluso pueden hacerte sentir algo en particular cuando las piensas, como hambre o emoción. Las marcas no son solo para las grandes empresas. La gente común también piensa en sus marcas. Por ejemplo, las celebridades eligen sus trabajos y las entidades filantrópicas que apadrinan según la marca personal que quieren transmitir.
+
+Tú puedes hacer lo mismo como diseñador de experiencia del usuario. Quieres construir una marca personal que muestre el tipo de trabajo que quieres hacer. Tu marca personal es tu fuente principal de marketing, por eso es tan importante ser auténtico. Entonces, ¿cómo saber qué estilo debería tener tu marca personal? Puedes empezar con unas cuantas preguntas. ¿En qué soy bueno por naturaleza? ¿Qué sé hacer bien? ¿Qué me gusta? ¿Qué valoro? ¿Cómo describen los demás mi persona y mis talentos? ¿Por qué quiero que la gente me reconozca? Si ya estás respondiendo estas preguntas en tu mente, fantástico. Más tarde, vas a completar una hoja de cálculo que te ayudará a responder esas preguntas.
+
+Ahora analicemos por qué la marca personal es importante. Cuando trabajas como diseñador de experiencia del usuario o en cualquier otra función creativa, tu marca personal es una forma de distinguirte del resto. De lo contrario, es fácil perderse en una multitud de solicitantes de empleo. Quieres que los responsables de contratación entiendan de inmediato quién eres y cuáles son tus pasiones y tus fortalezas. Tener una marca personal fuerte también puede ayudarte a relacionarte con las empresas que compartan tus valores. Cuando una empresa busca un diseñador, es útil que entiendan tu marca personal antes de que te contraten. Piensa en cómo compras en una determinada tienda en función de su marca. Por ejemplo, ¿qué marcas te vienen a la mente cuando escuchas las palabras barato o caro? ¿Qué pasa cuando escuchas comida saludable o casera? ¿Qué piensas de las celebridades? ¿A quién describirías como activista social o como persona generosa o humilde? Idealmente, quieres que tanto la forma en la que piensas en ti mismo y la forma en la que los demás te describen sean similares.
+
+Cuando piensas en tu marca personal, es útil hacer una lista de tus talentos y valores. Cuando hagas un ejercicio sobre marca personal, tal vez te des cuenta de que tu percepción difiere de las percepciones públicas. Esto es normal. No es lo ideal cuando intentas proyectar una marca en particular. Así que tal vez debas pensar en cómo puedes acortar la distancia entre tu percepción y la percepción pública. Además, tu marca debería ser coherente en todos los lugares en los que tengas presencia en línea. Eso incluye tus cuentas de redes sociales, tus perfiles en comunidades de diseño de experiencia del usuario, tu currículum y tus tarjetas de presentación.
+
+Si averiguar cómo comunicar tu marca personal de forma escrita te pone nervioso, nosotros te ayudaremos. Luego, repasaremos las prácticas recomendadas para describir tu trabajo por escrito. Sigue trabajando así.
+
+
+---
+
+## :book: Revisar ejemplos de marcas personales sólidas
+
+Tu marca personal es la forma en la que tu personalidad, tus habilidades únicas y tus valores como diseñador se entrelazan con tu personalidad pública. Tu marca debe ser lo más realista y definida posible para que puedas causar impresiones positivas y duraderas, y así destacarte como diseñador. 
+
+Una marca personal sólida debe ser ampliamente reconocida y coherente. ¡Con solo mencionar el nombre de alguien se pueden evocar emociones fuertes! Incluso quizás puedas resumir inmediatamente su trabajo y personalidad en pocas palabras si esa persona tiene una marca personal sólida.
+
+Para entender cómo se aplica este concepto a la vida real, mira tres ejemplos de personas con marcas personales sólidas.
+
+### Oprah Winfrey
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/52a8cb70-1b72-4ea3-8fd4-b84ec1d04b79)
+
+
+Oprah Winfrey ha creado una de las marcas personales más reconocibles de la historia. Se convirtió en un nombre conocido por el uso de una marca coherente en todas sus plataformas y productos, como Oprah Winfrey Show, Oprah Radio y O Magazine. Oprah comparte mensajes inspiradores con su audiencia y logró que las vidas de las personas realmente cambien. Su marca personal le permite a la gente saber que el contenido de Oprah será poderoso y alentador. La simple mención del nombre "Oprah" evoca imágenes de honestidad y empatía.
+
+Mira el [sitio web de Oprah](https://www.oprah.com/index.html) tú mismo. ¿Qué hilos conductores observas en su marca personal? ¿Cómo te hace sentir su contenido? 
+
+
+ ### Sara Cooper
+
+ 
+ ![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/c199ab32-4fd9-4c67-95c8-3f0e8c1d88a9)
+
+Sarah Cooper es una comediante y autora, además de ser exempleada de Google (¡nada menos que de UX!). Su sitio web y su blog reflejan perfectamente su sentido del humor. Todas las fotos del sitio web de Sarah son alegres y se burlan de la vida, como también lo hace en sus sketches de comedia y videos de TikTok. Al igual que Oprah, una de las claves del éxito de Sarah Cooper es que su marca personal es coherente. Su divertida personalidad resalta a través de todo su contenido, desde la biografía en su sitio web, que comienza con un particular "Ay, hola, no te vi", hasta una extravagante galería de autorretratos.
+
+Echa un vistazo al satírico blog de Sarah, [The Cooper Review](https://thecooperreview.com/), y compáralo con su [canal de YouTube](https://www.youtube.com/channel/UCySwUJIFN_tECtGX3xbjAGQ). Observa cómo el tono de sus encabezados demuestra rápidamente que su contenido es cómico. Incluso el lenguaje de su cronograma de subida está escrito en chiste: "nuevos videos cada tanto". ¿Qué más notas sobre la coherencia de su marca personal en estas dos plataformas? 
+
+### Bill Nye
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/8cc65e93-9eed-4dcc-9886-aca1a0b43575)
+
+Bill Nye es un científico e ingeniero famoso por hacer que la ciencia sea divertida y cautivadora. Su marca se consolida gracias a su divertido tema musical para su programa, Bill Nye the Science Guy. Todo su contenido y sus apariciones en televisión se centran en la ciencia, pero la presenta de una manera fácil de entender para todos. 
+
+Mira la [página de Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2FBillNye) de Bill Nye. Observa que usa juegos de palabras en sus tweets, sin dejar de presentar datos interesantes sobre ciencia. La voz con la que tuitea es coherente con su personalidad televisiva y mantiene su marca como el "bobalicón experto en ciencia". Su [sitio web personal](https://www.billnye.com/) usa imágenes divertidas y exageradas (¡hay un globo terráqueo flotante en su página de inicio!) para que el ambiente sea alegre pero siga estando relacionado con la ciencia. 
+
+### El panorama general: desarrollar una marca personal de manera coherente
+Cuando se trata de desarrollar tu marca personal, la coherencia es clave. Ser coherente en la forma en que te presentas personal y profesionalmente comunica autenticidad y genera confianza entre las personas de la comunidad del diseño. 
+
+Desarrollar una marca personal exitosa significa que cada vez que alguien piensa en ti, algunas de esas ideas y palabras claves se les vienen a la mente. Oprah está fuertemente asociada con la inspiración y la esperanza, mientras que Sarah Cooper se vincula con la comedia satírica. Cuando piensas en Bill Nye, inmediatamente piensas en aprender ciencia de una manera divertida. Como diseñador de UX, debes asociarte a ti y a tu trabajo con ciertas palabras, como "prolijo" o "moderno" o "abstracto", para dejar una impresión sólida y duradera. También es útil para que los empleadores tengan una idea de tu estilo de diseño de UX a través de tu marca personal. Si tu estilo coincide con sus necesidades, ¡todos se ven beneficiados!
+
+Tu marca personal es una forma fundamental de demostrar tu valor único como diseñador. Sea cual sea tu marca, asegúrate de que sea específica, clara y, sobre todo, coherente en todo tu trabajo.
+
+
+
+---
+
+## :book: Empieza a desarrollar una marca personal
+
+
+¡Tu originalidad es tu mayor fortaleza! Tu perspectiva es diferente a la del resto y te ayudará a destacarte de otros diseñadores de UX. Desarrollar tu marca personal es una excelente forma de mostrarle a las personas quién eres como diseñador y por qué tu trabajo es especial.
+
+Empieza pensando en algunas palabras y valores fundamentales breves que creas que te describen a ti y a tu trabajo con precisión. Por ejemplo, quizás te gusten los estilos modernos o futuristas, o tal vez tus trabajos son alegres y coloridos. Estas preferencias personales y estilísticas deberían verse reflejadas en tu marca personal.
+
+Tu marca personal debe ser reconocible en toda tu presencia en línea, como en el sitio web de tu portfolio, en LinkedIn y en los perfiles de la comunidad de diseño de UX como Dribbble y Behance, de los que pronto tendrás más información. Estos son algunos consejos profesionales que te ayudarán a empezar a desarrollar tu marca personal.
+
+### Crear un logotipo personal
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9bea5819-eb6e-410a-8b3a-72ca0f393ba4)
+
+Un logotipo que comunique tu trabajo y tu estilo es una excelente manera de proporcionar una imagen rápida de lo que representas. Si bien no es obligatorio tener un logotipo personal, servirá para dejar una impresión duradera y hace que tu marca personal sea fácilmente reconocible. ¡Que tu logotipo sea tan elegante o extravagante como quieras, siempre y cuando te refleje fielmente como diseñador! Por ejemplo, tu logotipo podría basarse en tus iniciales o en un símbolo que represente tu personalidad. Tu logotipo personal debería estar presente en tu portfolio, en tus cuentas de redes sociales y en sus tarjetas de presentación, si tienes. 
+
+### Aprovechar al máximo las fuentes y los colores
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/3a391171-3e92-44df-8e0d-13ee016aa35b)
+
+Las fuentes y los colores influyen fuertemente en la experiencia del usuario con cualquier producto. Piensa en este ejemplo: ¿Cómo te sientes cuando ves el color azul? ¿Te sientes diferente cuando ves el color rojo? Las fuentes y los colores pueden ser controvertidos ¡y lo más probable es que ciertas fuentes o colores te hagan sentir de cierta manera!
+
+Asegúrate de que la fuente y el esquema de color que elijas para representarte combinen con la opinión que quieres que la gente tenga sobre ti como diseñador de UX. Usar las mismas fuentes y colores en el sitio web de tu portfolio, tu logotipo personal, tu currículum y tus perfiles en línea es una buena idea para mantener una coherencia en tu marca personal.
+
+### Lograr un tono de voz coherente
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/43afe4f1-5eef-4849-bf25-cc42c1e9ec5e)
+
+El contenido escrito que aparezca en el sitio web de tu portfolio y en tus perfiles en línea debe tener un tono de voz similar. Quizás tu redacción tenga un tono más profesional en tu perfil de LinkedIn, pero la idea es que suene a que es la misma persona que redactó tu portfolio. Si tu marca es relajada y humorística, no tengas miedo de agregar un poco de ese humor a tus perfiles en línea (cuando corresponda, por supuesto).
+
+### Usar gráficos, animaciones y fotografías 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/408b901b-0697-4f26-952a-aae0703ea3c1)
+
+Las imágenes son otra buena forma de desarrollar tu marca personal. Puedes crear tus propios gráficos y animaciones para sumarle personalidad a tus perfiles en línea y resaltar la información importante. También puedes mostrar tu marca personal a través de fotografías, utilizando un estilo coherente o editando fotos de manera similar.
+
+### Ser tú mismo
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/284d3fd4-29e3-48a8-8a51-81cca8d7795f)
+
+
+
+Ser auténtico contigo mismo significa que es menos probable que hagas o digas cosas que no coincidan con tu marca personal, lo que puede confundir a tu audiencia. Desarrolla tu marca en torno a quién eres y muestra una imagen de tu verdadera identidad. ¡La forma más fácil de hacerlo es no pensar demasiado! Publica lo que te parezca natural y coincida con tus intereses, sin analizar demasiado en cómo mostrarte de cierta forma.
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Usar las mejores prácticas de escritura en un portfolio
+
+Hemos cubierto los aspectos esenciales de un buen portfolio y la importancia de comunicar tu marca personal. A continuación, hablemos de escribir de manera concisa y articulada en tu portfolio. Comunicar a través del diseño y de la escritura son habilidades similares. El objetivo principal cuando escribes tu portfolio es estructurar la información de forma clara y concisa. Concéntrate en resaltar las partes más importantes de tu historia y mantén tu escritura concisa y fácil de leer. La mayoría de los gerentes y reclutadores revisan muchos portfolios por día. Quieres llamar su atención. Comencemos por tu presentación.
+
+Tanto tu presentación como tu portfolio deben estar en la parte superior de la página de inicio de tu sitio web. Esa configuración proviene del diseño de los periódicos tradicionales. Cuando sostienes un periódico doblado al medio en tus manos, la información más importante siempre aparece en la parte superior de la portada, no hay necesidad de que des vuelta o despliegues el periódico para verla. El mismo concepto se aplica en los sitios web. Lo que está en la parte superior es el contenido de un sitio web que no requiere desplazarse hacia abajo. Tu presentación debe ser clara y directa: tu nombre y a qué te dedicas. También puedes incluir algo que establezca tu marca personal. Por ejemplo, "Hola, soy Michael. Creo que la colaboración creativa entre el diseño y la tecnología es la magia que hace que las experiencias pasen de ser buenas a increíbles". Si un reclutador busca un diseñador de movimiento y cuando mira la introducción de tu página de inicio puede darse cuenta de inmediato que es tu especialidad, entonces eso es genial y es más probable que continúe revisando tu portfolio. Si, por el contrario, tu página de inicio utiliza un lenguaje vago o no comunica nada en absoluto, es posible que ni siquiera se tome el trabajo de seguir leyendo.
+
+A continuación, veremos la página Acerca de mí. Es exactamente como suena: una página profesional sobre ti. Intenta leer las páginas Acerca de mí en los sitios web de algunos diseñadores de experiencia del usuario o empresas que admires. Puedes escribir en más detalle en tu página Acerca de mí, ya que quieres que los posibles empleadores y reclutadores sepan más de ti. Puedes incluir qué tipo de trabajos haces; qué es lo que te apasiona o las cosas que valoras; dónde trabajas actualmente; si trabajas en un área relacionada; cuáles son tus credenciales académicas, como este certificado y cualquier otro título adicional; si tienes proyectos notables, clientes, premios; cuál es tu información de contacto, incluida tu dirección de correo electrónico, enlaces a tus perfiles en redes profesionales y tu actual lugar de residencia.
+
+Por último, incluye descripciones de tu trabajo en tu portfolio. Dentro del caso práctico de cada proyecto, deberías escribir sobre los temas que discutimos anteriormente, como tu función en el proyecto, tu proceso y el diseño final. Deja que tus diseños cuenten la historia y pongan de manifiesto tu talento a lo largo de tu portfolio. Para mantener tu escritura concisa y articulada, aquí van algunos consejos. Usa la menor cantidad de palabras posibles para exponer tu punto. Evita usar un lenguaje complicado. No hace falta usar tres adjetivos cuando uno específico es suficiente. Las palabras que elijas deben ser calificativos claros, no palabras de moda. Evita usar jerga. La jerga se compone de términos de la industria que las personas que no trabajan en el diseño de experiencia del usuario pueden no saber. Tu escritura debe ser fácil de entender y accesible. Incluye palabras clave que puedan estar en una descripción de trabajo o conceptos que todo diseñador de experiencia del usuario sabe, como el recorrido del usuario o sprint de diseño. Esta es una buena manera de aumentar la capacidad de detección de tu sitio en los motores de búsqueda. Refleja tu personalidad, sé coloquial. Tu sitio web debe reflejar claramente cómo eres, tu trabajo y la marca que estableciste.
+
+Por último, busca un editor de confianza. Todos, incluso los escritores profesionales, cometen errores. Pídele a un amigo que revise tu escrito para que busque errores ortográficos o gramaticales, o para señalar partes del texto en las que la redacción distraiga al lector de los proyectos que intentas resaltar. Eso es todo, ahora ya cuentas con algunos consejos para redactar tu portfolio. Una buena escritura requiere de práctica. Hacerlo bien puede tomar unos cuantos intentos fallidos. Tendrás la oportunidad de practicar tu redacción en una próxima actividad. Si tienes inconvenientes, ve a los foros de debate y pide consejos a un compañero de clase. Próximamente, hablaremos sobre la creación de una presencia coherente y consistente en línea. Sigamos adelante.
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Empieza a desarrollar un presencia en línea
+
+Hasta ahora, has hecho un muy buen trabajo en tu portfolio. Ya hiciste muchas cosas, como configurar tu sitio web y aprender las mejores prácticas para escribir. En este video, explicaremos cómo construir una presencia en línea coherente y uniforme. Ya abarcamos cómo aplicar tu marca personal a tu portfolio en un video anterior. Tu marca personal debería estar presente en tu portfolio, en las redes sociales, en las comunidades de diseño de UX en línea y en sitios web de búsqueda de empleo. También será útil tener a mano las hojas de trabajo que completaste sobre tu marca personal para poder consultarlas en los próximos videos. Bien, ¿qué significa construir tu presencia profesional en línea? Empieza con tu declaración personal, que fue parte de la hoja de trabajo de desarrollo de marca que completaste. Una declaración personal es una frase de una o dos oraciones que describe lo que haces y lo que representas. Una declaración personal sería como tu propio eslogan o lema. La idea es que tu declaración personal resalte lo que diferencia a tu trabajo del resto. Las mejores declaraciones personales son fáciles de recordar y pegadizas. Analiza incluir una versión de tu declaración personal en la sección Acerca de mí de tu portfolio. Es beneficioso repetir las palabras que usas para describirte y así reforzar los elementos clave de tu marca. También puedes incluir tu declaración personal en tus perfiles de redes sociales o tu currículum. Ten en cuenta que, sea lo que sea que comunique tu declaración personal, esto también se debe reflejar en tu trabajo. Por ejemplo, te describes como alguien organizado, eso debería ser evidente en tus diseños. O si te apasiona trabajar con realidad virtual, deberías incluir el diseño de una experiencia de realidad virtual. Aunque no sea tu diseño propio, puedes escribir por qué te parece inspirador. Además, quizás sepas que debes tener cuidado al publicar fotos tuyas en internet. Como el objetivo es crear una presencia en línea coherente, tu foto debería ser la misma en todas las plataformas, como tu portfolio o tu perfil de LinkedIn. Por ejemplo, usar la misma foto en todos lados puede ayudar a los reclutadores a identificarte en distintas plataformas. Y, cuando seleccionas una foto, esta debe expresar tu estilo, cultura e intereses únicos. Por último, asegúrate de que tu combinación de colores, logotipo, fuente y otros elementos de diseño sean consistentes en todas las plataformas. Esto incluye sitios web, como tu portfolio y cuentas de redes sociales, así como productos físicos, como tarjetas de presentación. Por supuesto, no es posible personalizar mucho las redes sociales, pero intenta mantener una estética y aspecto uniforme siempre que sea posible. Ten en cuenta que tu presencia en línea y marca personal son importantes para conseguir trabajo e impulsar tu carrera. Además, también es una oportunidad para expresar creatividad, así que diviértete. A continuación, exploraremos la utilidad de las marcas personales al crear perfiles en redes sociales o comunidades en línea para diseñadores de UX. Nos vemos pronto.
+
+---
+
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Crear o actualizar perfiles de redes sociales
+
+
+Hola de nuevo. Ahora que definiste tu marca personal y creaste tu propio sitio web, es momento de pensar en las conexiones profesionales en las redes sociales. En este video, vamos a ver cómo puedes usar las redes sociales como herramienta para conectarte con los reclutadores, potenciales empleadores, y colegas en la comunidad del diseño de experiencia del usuario. Es probable que ya tengas un perfil en, al menos, una red social, como Facebook o Instagram, que usas para contactarte con familiares y amigos. Las redes sociales pueden ser una excelente manera de conectarte con potenciales empleadores, aprender nuevos conceptos e ideas, y establecer contactos con otros diseñadores de experiencia del usuario. Ahora vamos a centrarnos en dos de los sitios de redes sociales más populares para diseñadores de experiencia del usuario, LinkedIn y Twitter. LinkedIn es un sitio de redes profesionales en el que puedes conectarte con gente conocida, obtener más información sobre las empresas, leer ideas interesantes, y publicar tu propio contenido. LinkedIn es un excelente lugar para alojar tu currículum y atraer la atención de los reclutadores. Es uno de los principales sitios web que los reclutadores usan para encontrar candidatos. De hecho, por años, muchas de las oportunidades de trabajo que tuve comenzaron con contactos y conexiones a través de LinkedIn. ¿Cómo se crea un perfil en LinkedIn? Primero, vas a la página de inicio de LinkedIn, creas una cuenta y, luego, creas tu perfil. Asegúrate de enumerar tu historial laboral u otras experiencias profesionales junto con descripciones de tu función en cada organización. Una vez que hayas completado tu perfil, estarás listo para conectarte con otras personas. Lo mejor es conectarse con gente que ya conozcas, especialmente personas con las que hayas trabajado. También puedes conectarte con antiguos profesores, entrenadores, compañeros de clase o miembros de la familia. Para agregar una conexión hacer clic en el botón Conectar. Personaliza tu solicitud de conexión con un mensaje corto que le recuerde a la persona de dónde se conocen. Una vez que acepte, tendrás una confirmación que dice estás conectado. También puedes usar LinkedIn para conectarte con reclutadores de la industria del diseño de experiencia del usuario. Agrega una nota a tu solicitud de conexión que diga que te gustaría obtener más información sobre la empresa y posibles vacantes. También puedes considerar conectarte con empleados de la empresa para la que te gustaría trabajar. Explora los perfiles de LinkedIn de las personas asociadas con la empresa. Busca si conoces a alguien que actualmente trabaje o haya trabajado allí. De ser así, no tengas miedo de enviarle un mensaje personalizado. LinkedIn también te dirá si tienes amigos de amigos que trabajen en la empresa. De ser así, contacta a tu amigo para ver si está dispuesto a presentarte a ese amigo que trabaja en la empresa. Si no tienes conexiones con nadie de la empresa, envía un mensaje personalizado a alguien en la empresa cuyo trabajo te impresione. Puedes preguntarle si estaría dispuesto a tener una conversación de 15 minutos contigo sobre su trabajo diario y qué tal es trabajar en esa empresa. Por último, únete a un grupo de LinkedIn. Estos son grupos de personas en una industria en particular o que comparten un interés específico. Hay decenas de grupos dedicados al diseño de experiencia del usuario, así que, únete a uno o dos que te interesen. Participa de las conversaciones grupales y siéntete libre de conectarte con miembros del grupo y comenzar a establecer contactos. También puedes seguir una empresa o hashtag en LinkedIn, como #diseñoUX, aprender sobre nuevas tendencias, leer artículos y chatear con personas que compartan tus intereses. Otro gran lugar para conectarse con profesionales es Twitter. Si no estás familiarizado, Twitter es una plataforma de redes sociales en la que puedes seguir a la gente, interactuar en sus publicaciones, y compartir tus propias ideas. Twitter no se centra tanto en las redes profesionales como LinkedIn y, por lo general, es mejor para leer publicaciones de personas destacadas en la industria del diseño de experiencia del usuario, iniciar conversaciones con colegas, y conocer el pensamiento de los líderes de la industria a un nivel más personal. Está bien si no estás listo para empezar a tuitear sobre tus conocimientos de diseño de experiencia del usuario mientras aprendes sobre esta área. Podrías empezar por seguir a conocedores de la industria, darles Me gusta y retuitear sus publicaciones. Si te sientes audaz, puedes aportar a la conversación respondiendo a sus tuits. También puedes etiquetar a profesionales de la industria en tus propios tuits. Esto es como entablar una conversación en la vida real y, quién sabe, quizás quieran conectarse contigo. Ten en cuenta que LinkedIn y Twitter tienen tonos distintos y es una buena idea mantenerlos de esa manera. Puedes ser más profesional y centrado en LinkedIn, y más abierto y conversacional en Twitter. Eso está perfecto. Da a los reclutadores y otros diseñadores la oportunidad de ver diferentes aspectos de tu personalidad. Recuerda: cualquier cosa que publiques en las redes sociales es público. Incluso los mensajes privados que le envías otros usuarios pueden ser copiados y compartidos, así que sé inteligente acerca de qué publicas y a qué le das Me gusta. Sé inteligente también a la hora de compartir fotos o publicaciones que no se ajusten a la marca personal que estás desarrollando como diseñador de experiencia de usuario. En caso de dudas, pon tus cuentas personales en modo privado. Hay una lectura incluida esta semana que muestra cómo hacer precisamente eso. Muy bien, tienes LinkedIn y Twitter cubiertos. Ahora, sigamos adelante con las comunidades más populares en diseño de experiencia de usuario.
+
+---
+
+## :book:  Las mejores prácticas para desarrollar una presencia en línea
+
+Hay muchas comunidades en línea para que los diseñadores de UX encuentren trabajo y compartan sus diseños. LinkedIn y Twitter son dos de los lugares más comunes para establecer contactos y buscar trabajo de diseño de UX. Además, Medium, Dribbble y Behance están orientados específicamente a que los diseñadores compartan sus trabajos y establezcan contactos. Repasemos la utilidad de cada uno de estos sitios web para ayudarte a introducirte en el campo del diseño de UX. 
+
+### Creación de nuevos perfiles en línea
+Los perfiles en línea son tu primera oportunidad de conocer a otros diseñadores de UX y causar una buena impresión con los reclutadores. Asegúrate de que todos tus perfiles profesionales de redes sociales estén completos e incluyan la siguiente información:
+
+- Tu nombre
+
+- Tu educación, incluido este programa de certificación
+
+- Tu experiencia laboral o intereses 
+
+- Tus habilidades (p. ej., la resolución de problemas, la colaboración, el uso de herramientas como Figma y Adobe XD, y más)
+
+- Una foto profesional tuya
+
+LinkedIn
+ es un sitio importante para establecer redes de contactos y búsquedas laborales. Es probable que los empleadores revisen tu LinkedIn cuando te tengan en cuenta para un trabajo. LinkedIn está diseñado para fines comerciales y establecer redes de contactos, por lo que tu perfil tendrá un espacio para hablar sobre tu experiencia laboral, tus objetivos y tus logros. Si creas un perfil en LinkedIn por primera vez, deberás incluir información de este tipo:
+
+- Tu ubicación
+
+- Enlaces a tu portfolio y currículum
+
+- Tus calificaciones, como experiencias laborales anteriores y el haber finalizado este certificado 
+
+- Logros sobresalientes (p. ej., haber sido empleado del mes, haber recibido un premio o reconocimientos especiales)
+
+Los perfiles de 
+Twitter
+ tienen un espacio limitado, ¡así que mantén tu información breve y al pie! Por más que los caracteres son limitados, puedes hablar de tus objetivos y de lo que haces en el ámbito profesional. Twitter es más una ventana que deja entrever tu personalidad, tu marca personal y tus intereses.
+
+Para empezar:
+
+Ve a la página de inicio de Twitter o descarga la aplicación y navega a la página de inicio. 
+
+Haz clic en el botón para registrarse. 
+
+Crea tu cuenta utilizando el cuadro emergente que aparecerá. Recuerda agregar algunos detalles en tu perfil sobre cualquier interés personal y profesional relacionado con la UX.
+
+Medium, Dribbble y Behance son lugares geniales para hablar con otros diseñadores, recibir comentarios sobre tu trabajo de diseño y buscar trabajo. Medium es un sitio web de blogs, donde puedes publicar artículos de opinión sobre diferentes temas relacionados con el diseño. Dribbble y Behance son sitios donde puedes compartir partes de tu trabajo para mostrar tus habilidades de diseño a otros diseñadores y empleadores. 
+
+Estos sitios pueden complementar tu portfolio. Si tienes tiempo, publicar en estos sitios es una manera excelente de complementar tu historia como diseñador y te ayudará a aprender más sobre el mundo de UX gracias a otros diseñadores increíbles. 
+
+### Actualización de perfiles en línea anteriores
+Quizás ya tengas tus propios perfiles en las redes sociales. En algunos casos, los reclutadores te buscarán en las redes sociales para tener una idea de quién eres como persona. Asegúrate de que todos tus perfiles sean una adición positiva a tu marca personal. Estos son algunos consejos profesionales para que tus perfiles en línea estén en su mejor versión posible durante tu búsqueda laboral.
+
+- Busca en Google tu nombre y revisa los resultados. Puedes ver exactamente qué encontrarán los reclutadores si buscan tu nombre. Si hay algo poco profesional o inapropiado, tenlo en cuenta y haz lo posible por eliminarlo.
+
+- Haz que todas tus fotos de perfil sean profesionales. Debes tener fotos apropiadas para el trabajo en tus perfiles en línea. No es necesario que sea una foto profesional, pero debes elegir una foto clara de ti en la que haya la menor cantidad de elementos de distracción posibles.
+
+- Pon en privado los perfiles y álbumes personales. Puede ser útil separar tus perfiles personales de los profesionales. Intenta que la cantidad de información personal a la que puedan acceder los reclutadores sea mínima.
+
+- Revisa cuidadosamente tu contenido. Presta atención a cualquiera de tus publicaciones que puedan ser inapropiadas o controvertidas y analiza eliminarlas de tus perfiles en línea.
+
+Piensa en qué quieres que los reclutadores o tu nuevo jefe sepa de ti. Si tienes una presencia en línea prolija, esto puede ayudar a que los reclutadores tengan una impresión positiva de ti, ¡incluso antes de conseguir una entrevista! 
+
+
+### Actualización de tu portfolio 
+
+Como probablemente hayas notado, el sitio web de tu portfolio es el lugar principal para mostrar tu trabajo como diseñador de UX. Estas son algunas cosas que puedes agregar a tu portfolio a medida que continúas en este programa de certificación: 
+
+- Incluye tu currículum. Puedes crear una página separada en tu sitio web que incluya tu currículum o puedes incluir un enlace a una versión PDF. No te preocupes mucho por eso ahora, ¡te ayudaremos a diseñar un currículum de UX en un próximo curso!
+
+- Agrega enlaces a perfiles de redes sociales. Muchos diseñadores los incluyen en sus barras de navegación o en la parte inferior de sus sitios web. Esto hace que sea fácil para los reclutadores y otros diseñadores ver tus perfiles en plataformas como LinkedIn, Twitter, Medium, Dribbble y Behance.
+
+- Haz que la información de contacto sea fácil de encontrar. Recomendamos crear una página de "Contacto" en el sitio web de tu portfolio para que los reclutadores puedan comunicarse por correo electrónico o por teléfono. 
+
+
+### Combinación
+
+Tu presencia profesional está compuesta por todos tus perfiles en línea, así que asegúrate de que cada uno añada valor a tu historia como diseñador. Además, cada perfil en línea te da la oportunidad de mostrar un aspecto diferente de tus habilidades de diseño, establecer contactos y recibir comentarios de otros diseñadores. Involucrarse en comunidades de diseño de UX en línea le indica a los empleadores que te apasiona el diseño de UX y también puede ayudarte a crecer como diseñador. 
+
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>  Participar de las comunidades de diseño de UX
+
+
+Acabamos de ver cómo LinkedIn y Twitter son excelentes para establecer contactos con responsables de contratación y profesionales. También hay comunidades en línea específicas para diseñadores de experiencia del usuario. Tener presencia en uno de estos sitios es una forma fantástica de ganar exposición y demostrar tus habilidades en diseño de experiencia del usuario. En este video, hablaremos sobre algunas de las comunidades de diseño de experiencia del usuario más populares: Dribbble, Behance y Medium. Puedes crear cuentas en estos sitios para aprender sobre el diseño de experiencia del usuario en general y de los diseños de otros profesionales. Además, publicar tus propios diseños en estos sitios es una excelente manera de que los diseñadores de experiencia del usuario más experimentados observen tu trabajo. Empecemos con Dribbble.
+
+Dribbble -con tres "B"- es una comunidad de diseñadores que quieren compartir sus trabajos, pedir observaciones, inspirarse y encontrar trabajo. Los diseños que la gente comparte en Dribbble no suelen ser casos prácticos completos como los que están en tu portfolio, sino pequeñas instantáneas del trabajo que resaltan una habilidad o interés, como la marca, el diseño de producto o la tipografía.
+
+Si encuentras un diseño específico que te guste, puedes seguirlo. También es útil ver a los diseñadores con más seguidores para ver tipos populares de diseños y obtener ideas sobre cómo presentarte con eficiencia. Del mismo modo, puedes seguir a equipos en Dribbble. Estos pueden incluir a empresas como Google o grupos de diseño independientes que cuentan con páginas propias.
+
+Además, dar Me gusta y comentar proyectos es excelente para entablar conversaciones con otros diseñadores y hacer contactos en la comunidad de diseño de experiencia del usuario.
+
+Finalmente, Dribbble es una gran comunidad a la que necesitas unirte si buscas trabajo. Dribbble tiene un foro de búsqueda de empleo sólido, que incluye una bolsa de trabajo y un mercado independiente. Los empleadores pagan para publicar sus trabajos y pasantías en este foro, por lo que los puestos publicados son oportunidades reales.
+
+Además, los responsables de contratación buscan diseñadores en Dribbble, por lo que ser un miembro activo es otra forma de demostrar tus habilidades y conseguir empleo.
+
+Una segunda comunidad popular para diseñadores de experiencia del usuario es Behance.
+
+Muchas funciones de Behance son similares a las de Dribbble. Por ejemplo, puedes descubrir diseños de todas partes del mundo y seguir a diseñadores específicos. Behance también tiene una bolsa de trabajo que incluye trabajos de tiempo completo y por cuenta propia, y pasantías. Puedes limitar tu búsqueda en la bolsa de trabajo a áreas muy específicas. Además, los diseñadores con frecuencia transmiten en vivo desde Behance para demostrar sus habilidades en tiempo real. Finalmente, una tercera comunidad en línea para diseñadores de experiencia del usuario es Medium. Es posible que ya estés familiarizado con Medium. Es una popular plataforma de blogs que presenta artículos sobre todo tipo de temas. En Medium, encontrarás una vibrante comunidad de diseño de experiencia del usuario y, específicamente, en UX Collective, un subconjunto del sitio web. Medium es bastante diferente de Dribbble y Behance. Por ejemplo, en Medium tus diseños no son el principal atractivo. La comunidad de Medium se centra en la escritura de formato largo sobre diseño de experiencia del usuario y, a veces, incluye imágenes. Así que empieza a leer. En Medium, hay una gran cantidad de artículos de líderes en diseño de experiencia del usuario, algunos provenientes de Google. Medium es un gran lugar para descubrir los procesos de los mejores diseñadores y aprender sobre las tendencias de la industria. Incluso tenemos una colección de diseños de Google. Ten presente que los artículos publicados en sitios de blogs como Medium deben considerarse artículos de opinión, no de investigación objetiva. Dicho esto, aún puedes aprender mucho de los recursos en Medium, como consejos para usar un software de diseño específico o el modo de incorporar equidad y accesibilidad a tu trabajo. Puedes comunicarte con otros diseñadores si respondes a los artículos en la sección de comentarios o los aplaudes, la forma de dar Me gusta de Medium. También puedes seguir a los diseñadores que te inspiren y suscribirte a sus boletines. Es una excelente manera de ampliar tu red. Incluso puedes hacer tus propias publicaciones en Medium. Medium ofrece muchos recursos para ayudarte a comenzar. Pule tu historia y encuentra tu público. Puedes encontrar más detalles sobre cómo crear un perfil en cada una de estas plataformas en las lecturas del curso. Sé creativo y no tengas miedo de comenzar a publicar tus ideas de diseño, solicitar observaciones y convertirte en un miembro activo de las comunidades de diseño de experiencia del usuario en línea. Lo harás genial. A continuación, explicaremos cómo los responsables de contratación y los entrevistadores podrían verificar tu presencia en línea. Nos vemos ahí.
+
+
+
 
 ---
 ---
