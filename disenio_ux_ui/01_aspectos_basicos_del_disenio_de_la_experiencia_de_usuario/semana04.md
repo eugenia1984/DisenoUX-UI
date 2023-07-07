@@ -50,8 +50,31 @@ Solo necesito ponerme al día con lo último, las herramientas, el software, las
 
 ---
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> 
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Explorar portafolios de diseño en UX
 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/eba61ea9-0d2f-43c7-9dcc-acc3bd6558f0)
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a61d3da2-3909-4c65-846f-4ac1e8a57d98)
+
+[Portfolio comparison template](https://docs.google.com/document/d/13ykqQdRTl61HP7MK27aN2apVdFZQx3CpCRE014ZoacA/template/preview)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/08d4a57f-51e5-4c4b-b957-14543d11450c)
+
+
+[Dane](https://www.danegalbraith.com/)
+
+[Nicolas](https://www.nicolaspellegrino.com/)
+
+[Joshua](https://joshglucas.com/)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/99a0d232-6acb-4a20-853b-fac40fced8ff)
+
+{Penny}(https://pennybanks.com/)
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/bc01ca77-b271-4039-a7eb-74547900876f)
 
 ---
 
