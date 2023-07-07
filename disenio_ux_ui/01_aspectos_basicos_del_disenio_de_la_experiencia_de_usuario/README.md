@@ -48,7 +48,7 @@ Para los diseñadores de UX, el usuario siempre es la prioridad. En esta parte d
 
 Los diseñadores de UX suelen organizar sprints de diseño para definir el rumbo de un producto. Aprenderás sobre las fases de un sprint de diseño y cómo planificar uno y participar en él. También aprenderás sobre las sesiones retrospectivas, que son una forma de reflexionar constructivamente sobre un sprint de diseño y mejorar la próxima vez.
 
-- **Semana 4: Construir una presencia profesional**:
+- [**Semana 4: Construir una presencia profesional**](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/01_aspectos_basicos_del_disenio_de_la_experiencia_de_usuario/semana04.md):
 
 En el contexto de un mundo digital en continua expansión, las empresas dan cada vez más importancia a que sus usuarios tengan una buena experiencia en el uso de sus productos y servicios, lo que explica que el diseño de UX sea un campo laboral de rápido crecimiento y alta demanda. La clave para conseguir un trabajo en diseño de UX es tener un portfolio sólido que muestre tu trabajo. En esta parte del curso, empezarás a crear un sitio web para tu portfolio y a desarrollar una presencia profesional en comunidades de diseño online. También empezarás a crear tu marca personal y vincularte con otros diseñadores de UX.
 
