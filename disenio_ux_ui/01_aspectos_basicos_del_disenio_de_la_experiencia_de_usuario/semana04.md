@@ -18,7 +18,7 @@ A continuación, **crearás tu propio sitio web para mostrar tu futuro portfolio
 
 ¿Suena divertido? Lo es. 
 
-Crear** una vitrina de trabajo y tus destrezas** es una excelente manera de empezar a sentirte parte de la comunidad de diseño de experiencia de usuario. 
+Crear **una vitrina de trabajo y tus destrezas** es una excelente manera de empezar a sentirte parte de la comunidad de diseño de experiencia de usuario. 
 
 Ten en cuenta que ***el diseño del sitio web en sí también es importante**. Tener un sitio web bien diseñado es otra forma de demostrar que entiendes los principios del diseño de experiencia de usuario. 
 
@@ -27,6 +27,35 @@ Algo que no quieres es que tu sitio web ofrezca una mala experiencia del usuario
 Cuando diseñes el sitio web, vas a querer que tu portfolio **cuente una historia que capte la atención del usuario. Esto te ayudará a destacar**. 
 
 En definitiva, el usuario podría ser un reclutador o un cliente interesado en ofrecerte un trabajo. 
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>  Lisa: creación de un portfolio de diseño de UX
+
+Soy Lisa, diseñadora visual en Google. 
+
+Una **diseñadora visual en Google es una diseñadora de experiencia del usuario que se centra en la expresión creativa de una experiencia del usuario**. 
+
+Cuando decidí que quería hacer diseño de experiencia del usuario, no tenía experiencia previa. No había tenido un primer trabajo real. Tenía un portfolio muy tradicional de diseño gráfico y marcas. Tenía proyectos nuevos que había creado en una pasantía de nueve meses. Entonces decidí que quería trabajar en experiencia del usuario y que debía recrear ese portfolio, porque no tenía experiencia laboral en esa área y quería que pareciera que la tenía. 
+
+Cuando me postulaba para trabajos de experiencia del usuario, sabía que quería ser diseñadora visual. Si bien en el fondo todavía no estaba segura de si quería llamarme así, sabía que era importante como estrategia para mi portfolio identificarme como tal, así que dije que era diseñadora visual. 
+
+En cuanto al portfolio, tuve que rehacer todo el diseño. No necesito empezar de cero, ni entrar en pánico, todo está ahí. Solo necesito **redirigir la forma de contar historias y traer algo de estos elementos a la vida real, para que se sienta más como un proyecto de experiencia del usuario**.
+
+**Realmente me centré en la narración y el pensamiento del diseñador de experiencia del usuario**. 
+
+Fue interesante porque cuando entré a Google sentí que estaba bien pensar así.
+
+Solo necesito ponerme al día con lo último, las herramientas, el software, las cosas que la mayoría de la gente sabe antes de entrar, y que, de alguna manera, fingí saber. La parte divertida de esto es que a mi equipo no le pareció importarle que yo no supiera nada de eso. Simplemente estaban felices porque era **curiosa**, **tenía ganas de aprender** y **estaba ansiosa de comenzar un proyecto**. Lo que determinó que consiguiera el trabajo fue la **curiosidad** y las **ganas de aprender**, de **crecer** y de **proyectarme como una diseñadora visual ambiciosa.**
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> 
+
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> 
 
 ---
 
