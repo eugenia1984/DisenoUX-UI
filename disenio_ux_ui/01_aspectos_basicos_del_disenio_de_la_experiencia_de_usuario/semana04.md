@@ -69,10 +69,11 @@ Solo necesito ponerme al día con lo último, las herramientas, el software, las
 
 [Joshua](https://joshglucas.com/)
 
+[Penny](https://pennybanks.com/)
 
 ![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/99a0d232-6acb-4a20-853b-fac40fced8ff)
 
-{Penny}(https://pennybanks.com/)
+
 
 ![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/bc01ca77-b271-4039-a7eb-74547900876f)
 
