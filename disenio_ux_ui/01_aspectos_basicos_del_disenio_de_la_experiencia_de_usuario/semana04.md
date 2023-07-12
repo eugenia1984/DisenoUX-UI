@@ -498,23 +498,75 @@ Hablemos de **escribir de manera concisa y articulada en tu portfolio**. **Comun
 
 - Tanto tu **presentación** como tu **portfolio** deben **estar en la parte superior de la página de inicio de tu sitio web**.
 
-Esa configuración proviene del diseño de los periódicos tradicionales. Cuando sostienes un periódico doblado al medio en tus manos, la información más importante siempre aparece en la parte superior de la portada, no hay necesidad de que des vuelta o despliegues el periódico para verla. 
 
-El mismo concepto se aplica en los sitios web. **Lo que está en la parte superior es el contenido de un sitio web que no requiere desplazarse hacia abajo**. 
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9c9923cb-a59f-4776-bef2-26076bd7abfa)
 
-Tu presentación debe ser **clara y directa**: tu **nombre** y **a qué te dedicas**. También puedes **incluir algo que establezca tu marca personal**. Por ejemplo:
+Esa configuración proviene del diseño de los periódicos tradicionales. Cuando sostienes un periódico doblado al medio en tus manos, **la información más importante siempre aparece en la parte superior de la portada**, no hay necesidad de que des vuelta o despliegues el periódico para verla. 
+
+**El mismo concepto se aplica en los sitios web**. -> **Lo que está en la parte superior es el contenido de un sitio web que no requiere desplazarse hacia abajo**. 
+
+Tu presentación debe ser **clara y directa**: tu **nombre** y **a qué te dedicas**. También puedes **incluir algo que establezca tu marca personal**. 
+
+Por ejemplo:
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/15d0da94-f526-4857-b533-2231e9d7428c)
 
 **"Hola, soy Michael. Creo que la colaboración creativa entre el diseño y la tecnología es la magia que hace que las experiencias pasen de ser buenas a increíbles".**
+
 
 Si un reclutador busca un diseñador de movimiento y cuando mira la introducción de tu página de inicio puede darse cuenta de inmediato que es tu especialidad, entonces eso es genial y es más probable que continúe revisando tu portfolio. Si, por el contrario, tu página de inicio utiliza un lenguaje vago o no comunica nada en absoluto, es posible que ni siquiera se tome el trabajo de seguir leyendo.
 
 - A continuación, veremos la **página Acerca de mí**. Es exactamente como suena: **una página profesional sobre ti**.
 
-Intenta leer las páginas Acerca de mí en los sitios web de algunos diseñadores de experiencia del usuario o empresas que admires. Puedes escribir en más detalle en tu página Acerca de mí, ya que quieres que los posibles empleadores y reclutadores sepan más de ti. Puedes incluir **qué tipo de trabajos haces**; **qué es lo que te apasiona** o **las cosas que valoras**; **dónde trabajas actualmente**; si **trabajas en un área relacionada**; cuáles son **tus credenciales académicas**, como este certificado y cualquier otro título adicional; si tienes **proyectos notables**, **clientes**, **premios**; cuál es tu **información de contacto,** incluida tu dirección de **correo electrónico**, enlaces a tus **perfiles en redes profesionales** y tu **actual lugar de residencia**.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/842adff6-1b21-422a-8894-d1c5ead2f161)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/dfad32e3-513c-4b76-809d-a1e495390a97)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/16edaf58-a9dc-4fe5-af75-05c35cc0b3a8)
+
+Intenta leer las páginas Acerca de mí en los sitios web de algunos diseñadores de experiencia del usuario o empresas que admires. 
+
+Puedes escribir en más detalle en tu página Acerca de mí, ya que quieres que los posibles empleadores y reclutadores sepan más de ti. 
+
+Puedes incluir:
+
+-**qué tipo de trabajos haces**
+
+-**qué es lo que te apasiona** o **las cosas que valoras**
+
+-**dónde trabajas actualmente**, si **trabajas en un área relacionada**
+
+-cuáles son **tus credenciales académicas**, como este certificado y cualquier otro título adicional
+
+-si tienes **proyectos notables**, **clientes**, **premios**
+
+-cuál es tu **información de contacto,** incluida tu dirección de **correo electrónico**, enlaces a tus **perfiles en redes profesionales** y tu **actual lugar de residencia**.
 
 - Por último, incluye **descripciones de tu trabajo en tu portfolio**.
 
-Dentro del caso práctico de cada proyecto, deberías escribir sobre los temas que discutimos anteriormente, como tu función en el proyecto, tu proceso y el diseño final. Deja que tus diseños cuenten la historia y pongan de manifiesto tu talento a lo largo de tu portfolio. Para mantener tu escritura concisa y articulada, aquí van algunos consejos. Usa la menor cantidad de palabras posibles para exponer tu punto. Evita usar un lenguaje complicado. No hace falta usar tres adjetivos cuando uno específico es suficiente. Las palabras que elijas deben ser calificativos claros, no palabras de moda. Evita usar jerga. La jerga se compone de términos de la industria que las personas que no trabajan en el diseño de experiencia del usuario pueden no saber. Tu escritura debe ser fácil de entender y accesible. Incluye palabras clave que puedan estar en una descripción de trabajo o conceptos que todo diseñador de experiencia del usuario sabe, como el recorrido del usuario o sprint de diseño. Esta es una buena manera de aumentar la capacidad de detección de tu sitio en los motores de búsqueda. Refleja tu personalidad, sé coloquial. Tu sitio web debe reflejar claramente cómo eres, tu trabajo y la marca que estableciste.
+Dentro del caso práctico de cada proyecto, deberías escribir sobre los temas que discutimos anteriormente, como tu función en el proyecto, tu proceso y el diseño final. 
+
+Deja que tus diseños cuenten la historia y pongan de manifiesto tu talento a lo largo de tu portfolio. 
+
+Para mantener tu escritura concisa y articulada, aquí van algunos consejos. 
+
+-Usa la menor cantidad de palabras posibles para exponer tu punto.
+
+-Evita usar un lenguaje complicado. No hace falta usar tres adjetivos cuando uno específico es suficiente. 
+
+-Las palabras que elijas deben ser calificativos claros, no palabras de moda. 
+
+-Evita usar jerga. La jerga se compone de términos de la industria que las personas que no trabajan en el diseño de experiencia del usuario pueden no saber. 
+
+-Tu escritura debe ser fácil de entender y accesible. 
+
+-Incluye **palabras clave** que puedan estar en una descripción de trabajo o conceptos que todo diseñador de **experiencia del usuari**o sabe, como el recorrido del usuario o **sprint de diseño**. Esta es una buena manera de aumentar la capacidad de detección de tu sitio en los motores de búsqueda. 
+
+-Refleja tu personalidad, sé coloquial. Tu sitio web debe reflejar claramente cómo eres, tu trabajo y la marca que estableciste.
 
 - Por último, busca un **editor de confianza**. Todos, incluso los escritores profesionales, cometen errores. Pídele a un amigo que revise tu escrito para que busque errores ortográficos o gramaticales, o para señalar partes del texto en las que la redacción distraiga al lector de los proyectos que intentas resaltar.
 
