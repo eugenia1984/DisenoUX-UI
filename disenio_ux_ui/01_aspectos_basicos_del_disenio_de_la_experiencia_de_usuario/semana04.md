@@ -574,6 +574,75 @@ Eso es todo, ahora ya cuentas con algunos consejos para redactar tu portfolio. U
 
 ---
 
+## :computer: Actividad
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/ce12649b-e3ec-45a3-8f37-d9d59d537a92)
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/ddad5481-d92a-42f5-baaa-143f0a5bf89d)
+
+---
+
+Your personal brand is the way in which your personality, unique skills, and values as a designer intersect with your public persona. An effective way to present your brand is in the form of a personal statement—a one or two-sentence phrase that describes what you do and what you stand for. Answer the questions below to create your own personal brand statement! 
+
+
+## Part 1 - How do I see myself?
+
+1.	What is an activity or idea I am passionate about? How does this passion motivate me as a designer?
+
+2.	List two or three things I value. How do I express these values in my everyday life? 
+
+3.	What are my biggest strengths? What are the things I am naturally good at or have learned to do well?
+
+4.	What do I want people to recognize me for? 
+
+
+## Part 2 - How do others see me? 
+Ask three or more people (e.g., friend, co-worker, manager, family member): 
+
+1.	“What is an activity or idea you think I am passionate about?”
+
+2.	“What are some things you think I value?” 
+
+3.	“What strengths do you think I have?”
+
+4.	“What makes me stand out from other people you know or work with?” 
+
+ 
+## Part 3 - Crafting your personal brand 
+
+Ideally, how you see yourself will be similar to how others describe you. When crafting your brand, think about how you can bring your self-perception and public perception closer together. A well-crafted personal statement gives you a consistent and efficient way to present your brand.
+
+1.	Compare your answers from part 1 (how you see yourself) and part 2 (how others see you). What are the similarities? If there are surprising differences, what are they? 
+
+2.	From this comparison between your answers in parts 1 and 2, compile a list of those words or phrases that best capture an authentic view of your brand. (You may want to add new words or phrases that help bridge the gap in those areas where you discovered a difference between how you see yourself and how others see you.)
+
+3.	Arrange the words and phrases from question 2 into statements that describe you in a way that expresses your brand. Start with something like “[Your name] is known for…” (For example, “Dhani is known for their belief in the power of technology to create more inclusive communities.”)
+
+4.	Your statements from question 3 should begin to tell a story about the person behind your designs! Now pull it all together into a personal brand statement. Tip: Your personal statement should be 1-2 sentences that reflect what you do best (your strengths and values) and how you do it uniquely (your qualities that make you stand out). 
+
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/59beecb5-eb10-483c-aa0d-bfd45409cf74)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/95cf83ad-fd5e-4e02-a472-fe93e95f51a6)
+
+[Shabi](https://www.shabnamkashani.com/kashani-about)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2c7e47ca-087e-4750-abdf-abf951684f85)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9b36e3b2-7350-4cf4-ab36-24172cdd0745)
+
+---
+
+
+
 ### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Empieza a desarrollar un presencia en línea
 
 Hasta ahora, has hecho un muy buen trabajo en tu portfolio. Ya hiciste muchas cosas, como configurar tu sitio web y aprender las mejores prácticas para escribir. En este video, explicaremos cómo construir una presencia en línea coherente y uniforme. Ya abarcamos cómo aplicar tu marca personal a tu portfolio en un video anterior. Tu marca personal debería estar presente en tu portfolio, en las redes sociales, en las comunidades de diseño de UX en línea y en sitios web de búsqueda de empleo. También será útil tener a mano las hojas de trabajo que completaste sobre tu marca personal para poder consultarlas en los próximos videos. Bien, ¿qué significa construir tu presencia profesional en línea? Empieza con tu declaración personal, que fue parte de la hoja de trabajo de desarrollo de marca que completaste. Una declaración personal es una frase de una o dos oraciones que describe lo que haces y lo que representas. Una declaración personal sería como tu propio eslogan o lema. La idea es que tu declaración personal resalte lo que diferencia a tu trabajo del resto. Las mejores declaraciones personales son fáciles de recordar y pegadizas. Analiza incluir una versión de tu declaración personal en la sección Acerca de mí de tu portfolio. Es beneficioso repetir las palabras que usas para describirte y así reforzar los elementos clave de tu marca. También puedes incluir tu declaración personal en tus perfiles de redes sociales o tu currículum. Ten en cuenta que, sea lo que sea que comunique tu declaración personal, esto también se debe reflejar en tu trabajo. Por ejemplo, te describes como alguien organizado, eso debería ser evidente en tus diseños. O si te apasiona trabajar con realidad virtual, deberías incluir el diseño de una experiencia de realidad virtual. Aunque no sea tu diseño propio, puedes escribir por qué te parece inspirador. Además, quizás sepas que debes tener cuidado al publicar fotos tuyas en internet. Como el objetivo es crear una presencia en línea coherente, tu foto debería ser la misma en todas las plataformas, como tu portfolio o tu perfil de LinkedIn. Por ejemplo, usar la misma foto en todos lados puede ayudar a los reclutadores a identificarte en distintas plataformas. Y, cuando seleccionas una foto, esta debe expresar tu estilo, cultura e intereses únicos. Por último, asegúrate de que tu combinación de colores, logotipo, fuente y otros elementos de diseño sean consistentes en todas las plataformas. Esto incluye sitios web, como tu portfolio y cuentas de redes sociales, así como productos físicos, como tarjetas de presentación. Por supuesto, no es posible personalizar mucho las redes sociales, pero intenta mantener una estética y aspecto uniforme siempre que sea posible. Ten en cuenta que tu presencia en línea y marca personal son importantes para conseguir trabajo e impulsar tu carrera. Además, también es una oportunidad para expresar creatividad, así que diviértete. A continuación, exploraremos la utilidad de las marcas personales al crear perfiles en redes sociales o comunidades en línea para diseñadores de UX. Nos vemos pronto.
