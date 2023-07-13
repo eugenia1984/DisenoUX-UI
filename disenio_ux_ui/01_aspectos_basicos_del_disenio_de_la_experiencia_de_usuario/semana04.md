@@ -865,8 +865,182 @@ Incluso puedes hacer tus propias publicaciones en Medium. Medium ofrece muchos r
 
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Establecer redes de contactos
 
+---
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Crear redes y encontrar a un mentor
+
+Ahora pongamos tu perfil en línea en uso. En este vídeo, hablaremos sobre la red de contactos y la búsqueda de un mentor, y cómo ambas pueden ayudarte a iniciar tu carrera en diseño de experiencia del usuario. Antes de profundizar, exploremos por qué son importantes las redes.
+
+
+Las redes implican interactuar con otras personas para obtener contactos profesionales y aprender más sobre la industria. Puedes hacer contactos en línea o en persona. Tu red de contactos puede ser estrictamente profesional. Por ejemplo, podrías asistir a una conferencia de diseño y conocer a otros diseñadores de experiencia del usuario. Luego podrías continuar la conversación fuera de la conferencia y conectarte con tu nuevo conocido en LinkedIn o en otra plataforma en línea. O tal vez encuentres a alguien en LinkedIn que trabaje en una empresa que te interese. Puedes enviarle un mensaje personalizado y pedirle que te cuente sobre sus experiencias como diseñador de experiencia del usuario. O puedes conectarte con personas que también estén inscriptas en este programa en el foro de discusión.
+
+
+Más allá del enfoque profesional, las redes también son un fenómeno social. Tu red incluye a todas personas que ya conoces, desde profesores y consejeros de tu pasado académico hasta parientes lejanos. También puedes unirte a una organización profesional para ampliar tu red. Puedes encontrar asociaciones relacionadas con el diseño cerca de tu ubicación si buscas en línea, le preguntas al bibliotecario de tu localidad o visitas una oficina de empleo para obtener información. Muchas de estas organizaciones profesionales proponen encuentros después del trabajo o comidas campestres para que los miembros puedan interactuar en un entorno más relajado. Es inteligente pensar en los beneficios de las conexiones sociales a largo plazo. Puede que al principio una persona que conozcas en un encuentro no te haga avanzar en tu carrera, pero si te mantienes en contacto, quizás en el futuro tu nuevo amigo conozca a alguien que esté buscando contratar a un diseñador de experiencia del usuario para su empresa. Nunca se sabe a dónde te podría llevar una conexión. Relacionarse con personas en la industria del diseño de experiencia del usuario también es una excelente manera de encontrar un mentor. Un mentor es alguien de tu área de especialización que puede darte consejos sobre tu carrera. Un mentor puede ser alguien con muchos años de trabajo en diseño de experiencia del usuario que puede proporcionarte consejos sobre cómo hacer crecer tu carrera, a qué organizaciones unirte y qué libros leer.
+
+
+O puede ser un diseñador de experiencia del usuario novato que da consejos sobre cómo crear portfolios en línea o actuar en una entrevista de trabajo. Ten presente que a la mayoría de las personas les gusta ayudar a otros a tener éxito, y los diseñadores de experiencia del usuario experimentados recuerdan cómo fue el comienzo de sus carreras. No tengas miedo de buscar un mentor. Te sorprenderás de lo feliz que mucha gente es cuando ayuda a otros. Hay diferentes maneras de encontrar un mentor. ¿Hay alguien con quien hayas trabajado que admires? ¿Hay algún evento próximo en tu comunidad en el que puedas conocer a alguien? ¿Y si le mandas un mensaje a ese diseñador de Behance que tanto te gusta seguir? Cuando encuentres un mentor y estés listo para pedirle consejos, prepárate. Es útil tener un objetivo claro para la conversación. Tal vez quieras preguntarle, por ejemplo, cómo encontrar tu primer trabajo en diseño de experiencia del usuario, cómo desarrollar habilidades específicas o aprender una nueva herramienta, cómo pasar del tipo de empresa en la que trabajas al diseño de experiencia del usuario, cómo especializarte en diseño interactivo, visual o de movimiento frente a ser un diseñador generalista, o cómo recibir comentarios sobre tu portfolio.
+
+
+Antes del primer encuentro con tu nuevo mentor, escribe una lista de preguntas que le quieras hacer. Esto te ayudará a sentirte preparado y mantener una conversación fluida. Después de la primera reunión, deberías considerar la frecuencia con la que te gustaría reunirte de ahí en adelante. Dar a conocer tus expectativas desde un principio suele ser de gran ayuda. Por ejemplo, tal vez quieras reunirte en un café una vez al mes o solo hablar por teléfono. Generar una red de contactos y buscar un mentor puede ser muy divertido. Cuanto más participes en conversaciones en el foro de discusión de este programa, en redes sociales y en comunidades de diseño de experiencia del usuario, más cómodo te sentirás para hablar con gente nueva. Con la práctica, esto es cada vez más fácil y natural. Una vez, mi antigua mentora me dio un gran consejo que sigo al día de hoy. Me sugirió compartir mi trabajo a menudo con la comunidad de diseño para recibir devoluciones. También me enseñó que es importante no solo concentrarme en lo que puedo obtener de mi red de contactos, sino más bien en qué puedo devolverle a la comunidad. Creo que todos podemos beneficiarnos de este consejo.
+
+Empieza a hacer contactos ahora y verás lo valioso que es a largo plazo. Es normal sentirse nervioso con la posibilidad de conocer gente nueva o compartir tu trabajo con el mundo. En el siguiente vídeo, hablaremos sobre cómo superar el síndrome del impostor y así poder brillar. Nos vemos ahí.
+
+---
+
+### :book: Desarrollar una red de diseño de UX
+
+Establecer redes de contactos es una parte importante para encontrar tu primer trabajo y construir tu carrera. Conocer a las personas adecuadas puede ser útil para aprender más sobre el diseño de UX, explorar áreas en las que podrías querer crecer e incluso abrirte puertas a oportunidades de trabajo. 
+
+También puedes encontrar un mentor. Un mentor es alguien de tu área que te aconseja sobre tu carrera. A menudo, un mentor es alguien que tiene muchos años de experiencia en su área, por lo que es una gran fuente de información para un diseñador menos experimentado.
+
+Con todo esto en mente, ¡repasemos algunos lugares en los que puedes comenzar a crear tu red profesional y encontrar un mentor!
+
+## Dónde conocer profesionales
+
+### En línea
+
+Para crear redes con profesionales, necesitas saber dónde buscar. Las redes sociales son un buen lugar para comenzar. LinkedIn es una de las plataformas en línea más populares para conocer gente de tu área y está diseñada para ayudar a los profesionales a crear redes. LinkedIn tiene grupos para que los profesionales de la misma industria puedan crear contactos y debatir temas relevantes. ¡Intenta unirte a estos grupos y lograr que tu nombre sea reconocido! Para empezar, mira este 
+[grupo](https://www.linkedin.com/groups/3209228/)  para diseñadores de UX de LinkedIn.
+
+Twitter es otro lugar en el que muchos diseñadores de UX crean redes. Empieza siguiendo a algunos diseñadores de UX cuyo trabajo te agrade. También puedes participar de la conversación revisando #uxdesign o #ux.
+
+Además, las plataformas como Dribbble y Medium están diseñadas específicamente para que los diseñadores hablen sobre diseño de UX y compartan su trabajo con la comunidad de diseño. El uso de estos sitios es una excelente manera de involucrarse en debates actuales sobre diseño de UX y, de paso, conocer gente.
+
+### En persona
+Hay muchas oportunidades para establecer contactos en persona. 
+
+Los eventos de conexión son una excelente manera de conocer gente nueva de tu industria, ya que todos tienen el mismo objetivo: ¡establecer redes de contactos! 
+
+Las conferencias o los seminarios son excelentes oportunidades para crear redes porque generalmente se ofrece tiempo para charlar con otros asistentes. 
+
+Conoce a tus compañeros de las clases de diseño de UX, ¡como este programa de certificación! Puedes conocer a tus compañeros de clase a través del foro de debate. 
+
+Participa de una reunión específica sobre UX, como [estos](https://www.interaction-design.org/events/ux-meetups) 
+ eventos virtuales y presenciales organizados a través de la Interaction Design Foundation, que son gratuitos y están abiertos a todo público. 
+
+Cualquier oportunidad que tengas de conocer gente nueva es una oportunidad para establecer contactos. Nunca se sabe. ¡Quizás la persona que está en la fila contigo sea un diseñador de UX sénior con una oportunidad laboral!
+
+---
+
+## Cómo comunicarse
+
+Imagina que te uniste a comunidades en línea para diseñadores de UX y encontraste el perfil de un profesional con el que te gustaría hablar para saber más sobre su carrera. ¿Qué debes hacer? Bueno, estos son algunos consejos profesionales para comunicarse con profesionales en línea. 
+
+### Completa y actualiza tu perfil
+
+Es más probable que los diseñadores de UX respondan a tu mensaje cuando vean que eres un ser humano real interesado en el diseño de UX. Tener un perfil desarrollado y completo con un enlace a tu portfolio, les ofrece un panorama completo de quién eres.
+
+### Preséntate con un mensaje personalizado
+
+La idea es hacer una conexión personal. Escribe una o dos oraciones sobre ti y trata de agregar algo con lo que la otra persona pueda conectarse. Deja bien en claro que eres principiante en diseño de UX y que buscas aprender de un diseñador más experimentado.
+
+### Mantenlo breve
+
+Es poco probable que las personas lean un correo electrónico o un mensaje muy largo de alguien que no conocen. Mantén tu mensaje conciso y al grano.
+
+### No pidas trabajo
+
+No esperes obtener trabajo de inmediato mediante la creación de redes de contacto. En cambio, concéntrate en crear conexiones genuinas con diseñadores de UX para que te ayuden a aprender más sobre la industria. Conseguir una referencia laboral de alguien puede venir luego.
+
+
+### Ten claro lo que quieres
+
+Aunque no debes pedirle trabajo de inmediato a alguien, puedes tener claro lo que quieres de la relación. Si quieres aprender más sobre un puesto en su empresa, cómo es ser un diseñador de interacción o consejos para mejorar tu portfolio, ¡exprésalo!
+
+### Agradece
+
+Siempre debes agradecerle a la persona por tomarse el tiempo para leer tu mensaje.
+
+Dedicar tiempo y energía para expandir tu red genera conexiones que podrían ser valiosas para ti ahora y en el futuro. ¡Nunca se sabe qué oportunidades podrían surgir de una nueva conexión! Recuerda también que siempre puedes acudir a las personas de tu red para que revisen tu portfolio cuando esté más desarrollado.
+
+Si quieres obtener más información, mira estas [10 plantillas de mensajes de LinkedIn](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates), que puedes modificar para que se adapten a tus necesidades personales. Cubren casi todos los escenarios en los que quizás desees comunicarse con alguien por primera vez.
+
+Usa tus habilidades para establecer redes de contacto recientemente mejoradas para encontrar a un mentor (o dos) y algunos compañeros con los que compartir ideas. Puedes hacerlo tanto en línea como en persona siguiendo los consejos descritos en este artículo. ¡Puedes hacerlo! 
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Superar el síndrome del impostor
+
+Qué bueno volver a encontrarnos. En el último video, hablamos de la importancia de las redes y de tener un mentor. Como dijimos, la creación de redes se vuelve más fácil con la práctica. Es completamente normal estar nervioso al principio. Un obstáculo que todos enfrentamos al avanzar en nuestra carrera es el síndrome del impostor, que es de lo que vamos a hablar en este video. El síndrome del impostor es la creencia de que no estás capacitado, que eres menos que los demás o malo en tu trabajo, a pesar de tus logros. En otras palabras, el síndrome del impostor ocurre cuando crees que eres un mal diseñador, incluso cuando los demás te dicen que eres un gran diseñador.
+
+
+
+Todo el mundo se siente un impostor a veces, desde el nuevo miembro de tu equipo hasta los líderes más importantes de Google. El síndrome del impostor es diferente para cada persona. Pero hay algunas señales de alerta. Los síntomas del síndrome del impostor pueden incluir falta de confianza en ti mismo, sentirte un fraude, compararte constantemente con otras personas, dudar de ti, desconfiar de tu intuición y tus capacidades, decirte cosas negativas o tener miedo irracional del futuro. ¿Algo de esto te suena familiar? En entornos profesionales, el síndrome del impostor puede cobrar vida de muchas formas. Algunos ejemplos incluyen no postularse a un empleo a menos que se cumplan todos los requisitos, asumir tareas adicionales para asegurarte de hacer todo e ignorar los cumplidos. Hay innumerables razones por las que podríamos sentir el síndrome del impostor. La buena noticia es que hay algunas pequeñas acciones que podemos realizar si el síndrome del impostor se activa.
+
+
+
+Primero, acepta los pensamientos. Reconoce cómo te sientes y piensa por qué te sientes así. Comprender los patrones propios e identificar las situaciones que te hacen sentir el síndrome del impostor es un buen punto de partida. En segundo lugar, celebra tus logros. Tu éxito no se debe a la suerte ni a la ayuda de otros. Eres exitoso porque eres inteligente y trabajas duro. Asume la responsabilidad de tu participación para alcanzar un logro. Tercero, haz una lista. Escribe cinco cosas que demuestren que tienes las capacidades para tomar el trabajo que buscas. O escribe cinco logros que te hacen sentir orgulloso. Céntrate en todas las habilidades únicas con las que puedes contribuir. Cuarto, inicia una conversación. Para enfrentarte a tu crítico interior, es útil hablar sobre lo que te está pasando por la mente. Muchas personas dudan en compartir cómo se sienten porque tienen miedo de cómo podrían reaccionar los demás. ¿Recuerdas a tus nuevos mentores? Apuesto a que, a veces, también se sienten extraños, especialmente cuando cambian de trabajo o asumen nuevas responsabilidades en el trabajo. Pregúntale a tus mentores cómo manejan el síndrome del impostor.
+
+
+Por último, recuerda que no estás solo. Si te sientes un impostor, no importa por qué razón, ten en cuenta que no eres el único. Diseñadores de experiencia de usuario con muchos años de experiencia aún se sienten un fraude a veces. Yo mismo también siento el síndrome del impostor de vez en cuando. Descubrir mis fortalezas como diseñador con el paso de los años me ha ayudado a tener más confianza en mí mismo. También me he dado cuenta de que celebrar mis logros me ayudó a hacer que los sentimientos horribles del síndrome del impostor desaparezcan. Comenzar un nuevo trabajo o cambiar de carrera lleva tiempo. Date un respiro y entiende que cometerás errores en el camino. Al realizar este programa, ya estás probando que tienes curiosidad, persistencia y determinación. Esto demuestra que estás motivado para tener éxito. Si comienzas a cuestionar tus capacidades, recuerda que todos empezaron donde tú estás ahora. La próxima vez que sientas que no eres lo suficientemente bueno como para ser diseñador, ponte a pensar si no es tan solo un caso grave del síndrome del impostor. Si reconoces ese sentimiento y sigues los consejos de este video, tal vez parezca menos terrible.
+
+
+---
+
+### :book: Más información sobre cómo superar el síndrome del impostor
+
+¿Alguna vez has sentido que no eres lo suficientemente bueno a pesar de que realmente lo seas? Sentir que no eres lo suficientemente bueno para un determinado trabajo o integrarte a ciertas personas es algo más frecuente de lo que crees. De hecho, es un sentimiento tan común que incluso tiene un nombre: síndrome del impostor.
+
+El síndrome del impostor es la creencia de que no estás calificado, eres inferior a los demás o malo en tu trabajo, a pesar de tus éxitos. Todos hemos sentido el síndrome del impostor en algún momento de nuestras vidas. Si sientes el síndrome del impostor, ¡ciertamente no eres el único!
+
+### Efectos del síndrome del impostor
+
+El síndrome del impostor puede causar ansiedad y baja autoestima que pueden impedir que te conviertas en la versión más exitosa de ti mismo. El síndrome del impostor puede manifestarse de muchas maneras y la experiencia de cada uno es única. Quizás viste o experimentaste personalmente el síndrome del impostor en situaciones como las siguientes: 
+
+- No solicitar ciertos trabajos a menos que cumplas con todos los requisitos (¡aunque no sea necesario!).
+
+- Trabajar más para asegurarte de que “estás haciendo todo” y para parecer más capacitado frente a tus compañeros.
+
+- No asistir a eventos de creación de redes de contactos o ferias de carreras porque sientes nervios o ansiedad.
+
+- Minimizar tus habilidades durante conversaciones.
+
+- Desestimar cumplidos porque no les crees.
+
+### Control del síndrome del impostor
+
+Queremos que conozcas gente nueva con confianza y sin permitir que el síndrome del impostor se interponga. Estos son algunos consejos profesionales para controlar esos sentimientos de ansiedad:
+
+- Reconoce tus sentimientos. Reconoce cómo te sientes e intenta identificar por qué te sientes así. Esto te ayudará a descubrir cuáles son los desencadenantes de tu síndrome del impostor, para que puedas manejarlo mejor en el futuro.
+
+- Aprópiate de tus logros. Tienes tus propias perspectivas y experiencias únicas. Piensa en todos los logros y habilidades que te diferencian del resto. Anótalos en formato de lista para ver de qué puedes hablar cuando establezcas contactos. Tienes mucho que ofrecer; ¡participa con confianza de las conversaciones!
+
+Sé honesto contigo mismo. Haz una evaluación realista de tus fortalezas y debilidades. Encuentra las áreas que te hagan sentir no "ser lo suficientemente bueno" y trabaja para mejorarlas para sientas más confianza en ti. Todos tienen áreas que se pueden mejorar y siempre hay cosas que aprender, así que no dejes que tus debilidades te detengan.
+
+Conversa. Pregúntale a un mentor, amigo o profesional experimentado de confianza cómo maneja el síndrome del impostor.
+
+- Usa algo que te haga sentir seguro. Verte bien te ayuda a sentirte bien. Si vas a un evento presencial para establecer redes de contactos, ponte tu atuendo profesional favorito para sentir la mejor versión de ti mismo.
+
+- Ayuda a otra persona. Compartir el conocimiento que tienes con los demás te ayudará a sentirte más valorado. Por ejemplo, podrías darle consejos a alguien menos experimentado que tú o compartir una experiencia única con tus compañeros. Si crees que no tienes nada que ofrecerle a nadie, consulta la lista que hiciste anteriormente.
+
+- Finge hasta lograrlo. Por más que no te sientas seguro de tus habilidades como diseñador, si actúas con confianza durante el tiempo suficiente, finalmente lo naturalizarás. Las personas sienten una atracción natural a las personas seguras, por lo que actuar con confianza probablemente te ayudará a crear incluso más conexiones dentro de tu lugar de trabajo y la comunidad de UX. 
+
+- Ve con un amigo. Asistir a eventos para establecer redes de contactos con alguien que conoces puede ayudarte a sentirte menos abrumado y nervioso.
+
+- Conoce gente. Familiarizarte con otros profesionales de UX te hará sentir más cómodo. Te darás cuenta de que los diseñadores experimentados de UX no son tan intimidantes como quizás parezcan al principio. Esto te ayudará a sentirte menos nervioso en el futuro cuando conozcas a otras personas. 
+
+- Sabe que no estás solo. Si vas a un evento para establecer redes de contacto o comienzas un proyecto grupal con personas que no conoces, no serás el único que se sienta incómodo. Rodearse de profesionales experimentados puede ser intimidante; ¡incluso si tú también lo eres! Además, hasta los diseñadores de UX más experimentados estuvieron en tu lugar alguna vez. Todos fuimos principiantes. 
+
+El establecer redes de contacto y el crecimiento de tu carrera tiene que ver con aprender, no con ser perfecto. No te rijas por estándares descabellados. En cambio, ¡esfuérzate por ser el mejor diseñador que puedas, confía en ti y sigue mejorando! 
+
+
+
+
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Catherine: cómo conquistar el síndrome del impostor
+
+Mi nombre es Catherine, y soy vicepresidenta de Experiencia del usuario en Google. Mi primer contacto con la tecnología ocurrió, tal vez, en mi último año de la secundaria en un programa de verano que se llamaba WISE, Mujeres en la Ciencia e Ingeniería. Nunca olvidaré esa experiencia. Estaba trabajando en un laboratorio de patología y me sentía como una absoluta impostora. Yo era la única estudiante de secundaria que trabajaba con todas esas personas en el laboratorio médico.
+Reproduce el video desde ::30 y sigue la transcripción0:30
+Un día, el médico con quien trabajaba me dio hojas de papel cuadriculado y me dijo: “Catherine, ¿podrías dibujar unos gráficos y darme algunos datos?” Yo pensé: “Está bien, puedo hacerlo”. Miré el papel cuadriculado y pensé en mi mamá, que es académica y trabajaba con un nuevo software con el que se puede crear gráficos. Pensé: “Está bien. Voy a intentar crear los gráficos, en lugar de dibujarlos en el papel, en este software. Me fui a mi casa y lo hice, y estaba muy contenta con los gráficos de barras y los gráficos circulares. Los llevé al trabajo y todo el personal creyó que era algo del futuro. Nunca habían visto algo así antes, estaban muy impresionados. De repente, pasé de sentirme como una absoluta impostora a la persona más inteligente en la habitación. Fue mi primera lección en darme cuenta de que solemos sentirnos impostores cuando estamos en un puesto nuevo o una situación nueva, o tal vez eres muy joven o no tienes tanta experiencia, pero todo el mundo tiene algo único que puede aportar a una situación y valor que puede agregar.
+
+
+Esa experiencia definitivamente se ha plasmado en lo que respecta a mi amor por el trabajo con productos de software y también en cómo me enfrento a nuevos retos. Una de las cosas que fue muy evidente para mí cuando recién empezaba mi carrera profesional, e incluso en mis estudios, cuando estuve en un programa de ingeniería industrial, es que yo era una de las pocas mujeres en el campo. Con frecuencia era doblemente intimidante. Cuando asumía un nuevo puesto, era la que tenía menos experiencia y, a veces, era la única mujer presente. Lo que aprendí a hacer fue usar ese sentimiento como combustible. Una de mis filosofías más importantes es siempre acercarme a mis compañeros, ya sean hombres o mujeres, tengan cargos más altos o más bajos, para pedirles ayuda. En todos los casos, la gente siempre estuvo dispuesta a ayudarme. Muy rápidamente, pasaba de sentirme intimidada, y tal vez fuera de lugar, a establecer vínculos y conexiones con la gente, y reconocer que estas personas estaban más que felices y, en la mayoría de los casos, realmente querían verme triunfar. Nunca me olvidaré de cuando tuve mi primer mentor. Mi jefe se me acercó, probablemente llevaba un año en mi primer trabajo en la carrera, y me dijo: “Catherine, me gustaría que trabajaras con Joe. Creo que sería un gran mentor para ti”. Yo era nueva en mi campo y, de repente, pensé: ”¿Qué he hecho mal? Seguro no estoy haciendo bien mi trabajo. ¿Por qué me asignan un mentor?”. Pensé que era porque había hecho algo mal y que eso era un castigo.
+
+
+Luego, me di cuenta de cuán equivocada estaba sobre las intenciones del gerente. Hablo con diferentes personas y veo lo que valoro en ellas, ya sea su capacidad de hablar en público o su habilidad para los negocios o cuando es capaz de influir en los demás, y les consulto o intento replicar su comportamiento, así que siento como que he tenido muchos mentores durante mi carrera para ayudarme en cosas diferentes. Uno de los consejos que podría dar a las personas nuevas en el campo de la experiencia del usuario es aprovechar a la comunidad. Es una increíble comunidad abierta de personas. Si eres nuevo en este mundo, puede ser abrumador e intimidante. Hay tanto que puede parecer desconocido. Puedes unirte a grupos locales que se centren en la experiencia del usuario. Encuentra un mentor o un compañero. Te sorprenderá saber cuánta gente está dispuesta a ayudarte.
+Reproduce el video desde :3:55 y sigue la transcripción3:55
+Ya sea revisando tu portfolio o ayudándote a pensar en las empresas que podrían necesitar tus destrezas. Te animo de todo corazón a que aproveches la increíble comunidad de profesionales en experiencia del usuario que existe y que están dispuestos a ayudar.
 
 ---
 ---
