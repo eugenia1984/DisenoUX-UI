@@ -645,7 +645,42 @@ Ideally, how you see yourself will be similar to how others describe you. When c
 
 ### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/> Empieza a desarrollar un presencia en línea
 
-Hasta ahora, has hecho un muy buen trabajo en tu portfolio. Ya hiciste muchas cosas, como configurar tu sitio web y aprender las mejores prácticas para escribir. En este video, explicaremos cómo construir una presencia en línea coherente y uniforme. Ya abarcamos cómo aplicar tu marca personal a tu portfolio en un video anterior. Tu marca personal debería estar presente en tu portfolio, en las redes sociales, en las comunidades de diseño de UX en línea y en sitios web de búsqueda de empleo. También será útil tener a mano las hojas de trabajo que completaste sobre tu marca personal para poder consultarlas en los próximos videos. Bien, ¿qué significa construir tu presencia profesional en línea? Empieza con tu declaración personal, que fue parte de la hoja de trabajo de desarrollo de marca que completaste. Una declaración personal es una frase de una o dos oraciones que describe lo que haces y lo que representas. Una declaración personal sería como tu propio eslogan o lema. La idea es que tu declaración personal resalte lo que diferencia a tu trabajo del resto. Las mejores declaraciones personales son fáciles de recordar y pegadizas. Analiza incluir una versión de tu declaración personal en la sección Acerca de mí de tu portfolio. Es beneficioso repetir las palabras que usas para describirte y así reforzar los elementos clave de tu marca. También puedes incluir tu declaración personal en tus perfiles de redes sociales o tu currículum. Ten en cuenta que, sea lo que sea que comunique tu declaración personal, esto también se debe reflejar en tu trabajo. Por ejemplo, te describes como alguien organizado, eso debería ser evidente en tus diseños. O si te apasiona trabajar con realidad virtual, deberías incluir el diseño de una experiencia de realidad virtual. Aunque no sea tu diseño propio, puedes escribir por qué te parece inspirador. Además, quizás sepas que debes tener cuidado al publicar fotos tuyas en internet. Como el objetivo es crear una presencia en línea coherente, tu foto debería ser la misma en todas las plataformas, como tu portfolio o tu perfil de LinkedIn. Por ejemplo, usar la misma foto en todos lados puede ayudar a los reclutadores a identificarte en distintas plataformas. Y, cuando seleccionas una foto, esta debe expresar tu estilo, cultura e intereses únicos. Por último, asegúrate de que tu combinación de colores, logotipo, fuente y otros elementos de diseño sean consistentes en todas las plataformas. Esto incluye sitios web, como tu portfolio y cuentas de redes sociales, así como productos físicos, como tarjetas de presentación. Por supuesto, no es posible personalizar mucho las redes sociales, pero intenta mantener una estética y aspecto uniforme siempre que sea posible. Ten en cuenta que tu presencia en línea y marca personal son importantes para conseguir trabajo e impulsar tu carrera. Además, también es una oportunidad para expresar creatividad, así que diviértete. A continuación, exploraremos la utilidad de las marcas personales al crear perfiles en redes sociales o comunidades en línea para diseñadores de UX. Nos vemos pronto.
+En este video, explicaremos **cómo construir una presencia en línea coherente y uniforme**. 
+
+Ya abarcamos cómo aplicar tu marca personal a tu portfolio en un video anterior. Tu marca personal debería estar presente en tu portfolio, en las redes sociales, en las comunidades de diseño de UX en línea y en sitios web de búsqueda de empleo. También será útil tener a mano las hojas de trabajo que completaste sobre tu marca personal para poder consultarlas en los próximos videos. 
+
+Bien, **¿qué significa construir tu presencia profesional en línea?
+
+ 
+- Empieza con tu **declaración personal**, que fue parte de la hoja de trabajo de desarrollo de marca que completaste. Una declaración personal **es una frase de una o dos oraciones que describe lo que haces y lo que representas**. Una declaración personal sería como **tu propio eslogan o lema.** La idea es que tu declaración personal resalte lo que diferencia a tu trabajo del resto. Las mejores declaraciones personales son **fáciles de recordar y pegadizas**.
+
+Analiza incluir una versión de tu declaración personal en la sección Acerca de mí de tu portfolio. 
+
+Es beneficioso repetir las palabras que usas para describirte y así reforzar los elementos clave de tu marca. 
+
+También puedes incluir tu declaración personal en tus** perfiles de redes sociales o tu currículum**. 
+
+Ten en cuenta que, sea lo que sea que comunique tu declaración personal, esto también se debe reflejar en tu trabajo. 
+
+Por ejemplo, te describes como alguien organizado, eso debería ser evidente en tus diseños. O si te apasiona trabajar con realidad virtual, deberías incluir el diseño de una experiencia de realidad virtual. Aunque no sea tu diseño propio, puedes escribir por qué te parece inspirador. 
+
+- Además, quizás sepas que debes tener **cuidado al publicar fotos tuyas en internet**. Como el objetivo es crear una presencia en línea coherente, tu foto debería ser la misma en todas las plataformas, como tu portfolio o tu perfil de LinkedIn.
+
+Por ejemplo, usar la misma foto en todos lados puede ayudar a los reclutadores a identificarte en distintas plataformas.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d8385564-13e8-4c2d-b958-5b84aa045106)
+
+
+Y, cuando seleccionas una foto, esta debe expresar tu estilo, cultura e intereses únicos. 
+
+
+- Por último, asegúrate de que **tu combinación de colores, logotipo, fuente y otros elementos de diseño sean consistentes en todas las plataformas**.
+
+Esto incluye sitios web, como tu portfolio y cuentas de redes sociales, así como productos físicos, como tarjetas de presentación.
+
+Por supuesto, no es posible personalizar mucho las redes sociales, pero intenta mantener una estética y aspecto uniforme siempre que sea posible. 
+
+Ten en cuenta que tu presencia en línea y marca personal son importantes para conseguir trabajo e impulsar tu carrera. Además, también es una oportunidad para expresar creatividad, así que diviértete. 
 
 ---
 
