@@ -813,11 +813,30 @@ Tu presencia profesional está compuesta por todos tus perfiles en línea, así 
 ### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>  Participar de las comunidades de diseño de UX
 
 
-Acabamos de ver cómo LinkedIn y Twitter son excelentes para establecer contactos con responsables de contratación y profesionales. También hay comunidades en línea específicas para diseñadores de experiencia del usuario. Tener presencia en uno de estos sitios es una forma fantástica de ganar exposición y demostrar tus habilidades en diseño de experiencia del usuario. En este video, hablaremos sobre algunas de las comunidades de diseño de experiencia del usuario más populares: Dribbble, Behance y Medium. Puedes crear cuentas en estos sitios para aprender sobre el diseño de experiencia del usuario en general y de los diseños de otros profesionales. Además, publicar tus propios diseños en estos sitios es una excelente manera de que los diseñadores de experiencia del usuario más experimentados observen tu trabajo. Empecemos con Dribbble.
+También hay comunidades en línea específicas para diseñadores de experiencia del usuario.
 
-Dribbble -con tres "B"- es una comunidad de diseñadores que quieren compartir sus trabajos, pedir observaciones, inspirarse y encontrar trabajo. Los diseños que la gente comparte en Dribbble no suelen ser casos prácticos completos como los que están en tu portfolio, sino pequeñas instantáneas del trabajo que resaltan una habilidad o interés, como la marca, el diseño de producto o la tipografía.
+Tener presencia en uno de estos sitios es una forma fantástica de ganar exposición y demostrar tus habilidades en diseño de experiencia del usuario. 
 
-Si encuentras un diseño específico que te guste, puedes seguirlo. También es útil ver a los diseñadores con más seguidores para ver tipos populares de diseños y obtener ideas sobre cómo presentarte con eficiencia. Del mismo modo, puedes seguir a equipos en Dribbble. Estos pueden incluir a empresas como Google o grupos de diseño independientes que cuentan con páginas propias.
+En este video, hablaremos sobre algunas de las comunidades de diseño de experiencia del usuario más populares: 
+
+- Dribbble
+
+- Behance 
+
+- Medium
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/6c2676ea-0fc4-4e57-9153-67a0b4a123f9)
+
+Puedes crear cuentas en estos sitios para aprender sobre el diseño de experiencia del usuario en general y de los diseños de otros profesionales. Además, publicar tus propios diseños en estos sitios es una excelente manera de que los diseñadores de experiencia del usuario más experimentados observen tu trabajo. Empecemos con Dribbble.
+
+- **Dribbble** es una comunidad de diseñadores que quieren compartir sus trabajos, pedir observaciones, inspirarse y encontrar trabajo. Los diseños que la gente comparte en Dribbble no suelen ser casos prácticos completos como los que están en tu portfolio, sino **pequeñas instantáneas del trabajo que resaltan una habilidad o interés, como la marca, el diseño de producto o la tipografía**.
+
+Si encuentras un diseño específico que te guste, puedes seguirlo. 
+
+También es útil ver a los diseñadores con más seguidores para ver tipos populares de diseños y obtener ideas sobre cómo presentarte con eficiencia. 
+
+Del mismo modo, puedes seguir a equipos en Dribbble. Estos pueden incluir a empresas como Google o grupos de diseño independientes que cuentan con páginas propias.
 
 Además, dar Me gusta y comentar proyectos es excelente para entablar conversaciones con otros diseñadores y hacer contactos en la comunidad de diseño de experiencia del usuario.
 
@@ -825,10 +844,19 @@ Finalmente, Dribbble es una gran comunidad a la que necesitas unirte si buscas t
 
 Además, los responsables de contratación buscan diseñadores en Dribbble, por lo que ser un miembro activo es otra forma de demostrar tus habilidades y conseguir empleo.
 
-Una segunda comunidad popular para diseñadores de experiencia del usuario es Behance.
+- Una segunda comunidad popular para diseñadores de experiencia del usuario es **Behance**.
 
-Muchas funciones de Behance son similares a las de Dribbble. Por ejemplo, puedes descubrir diseños de todas partes del mundo y seguir a diseñadores específicos. Behance también tiene una bolsa de trabajo que incluye trabajos de tiempo completo y por cuenta propia, y pasantías. Puedes limitar tu búsqueda en la bolsa de trabajo a áreas muy específicas. Además, los diseñadores con frecuencia transmiten en vivo desde Behance para demostrar sus habilidades en tiempo real. Finalmente, una tercera comunidad en línea para diseñadores de experiencia del usuario es Medium. Es posible que ya estés familiarizado con Medium. Es una popular plataforma de blogs que presenta artículos sobre todo tipo de temas. En Medium, encontrarás una vibrante comunidad de diseño de experiencia del usuario y, específicamente, en UX Collective, un subconjunto del sitio web. Medium es bastante diferente de Dribbble y Behance. Por ejemplo, en Medium tus diseños no son el principal atractivo. La comunidad de Medium se centra en la escritura de formato largo sobre diseño de experiencia del usuario y, a veces, incluye imágenes. Así que empieza a leer. En Medium, hay una gran cantidad de artículos de líderes en diseño de experiencia del usuario, algunos provenientes de Google. Medium es un gran lugar para descubrir los procesos de los mejores diseñadores y aprender sobre las tendencias de la industria. Incluso tenemos una colección de diseños de Google. Ten presente que los artículos publicados en sitios de blogs como Medium deben considerarse artículos de opinión, no de investigación objetiva. Dicho esto, aún puedes aprender mucho de los recursos en Medium, como consejos para usar un software de diseño específico o el modo de incorporar equidad y accesibilidad a tu trabajo. Puedes comunicarte con otros diseñadores si respondes a los artículos en la sección de comentarios o los aplaudes, la forma de dar Me gusta de Medium. También puedes seguir a los diseñadores que te inspiren y suscribirte a sus boletines. Es una excelente manera de ampliar tu red. Incluso puedes hacer tus propias publicaciones en Medium. Medium ofrece muchos recursos para ayudarte a comenzar. Pule tu historia y encuentra tu público. Puedes encontrar más detalles sobre cómo crear un perfil en cada una de estas plataformas en las lecturas del curso. Sé creativo y no tengas miedo de comenzar a publicar tus ideas de diseño, solicitar observaciones y convertirte en un miembro activo de las comunidades de diseño de experiencia del usuario en línea. Lo harás genial. A continuación, explicaremos cómo los responsables de contratación y los entrevistadores podrían verificar tu presencia en línea. Nos vemos ahí.
+Muchas funciones de Behance son similares a las de Dribbble. Por ejemplo, puedes descubrir diseños de todas partes del mundo y seguir a diseñadores específicos. Behance también tiene una bolsa de trabajo que incluye trabajos de tiempo completo y por cuenta propia, y pasantías. Puedes limitar tu búsqueda en la bolsa de trabajo a áreas muy específicas. 
 
+Además, los diseñadores con frecuencia transmiten en vivo desde Behance para demostrar sus habilidades en tiempo real. 
+
+- Finalmente, una tercera comunidad en línea para diseñadores de experiencia del usuario es **Medium**. Es posible que ya estés familiarizado con Medium. Es una popular **plataforma de blogs que presenta artículos sobre todo tipo de temas**. En Medium, encontrarás una vibrante comunidad de diseño de experiencia del usuario y, específicamente, en UX Collective, un subconjunto del sitio web.
+
+Medium es bastante diferente de Dribbble y Behance. Por ejemplo, en Medium tus diseños no son el principal atractivo. La comunidad de Medium se centra en la escritura de formato largo sobre diseño de experiencia del usuario y, a veces, incluye imágenes. Así que empieza a leer. En Medium, hay una gran cantidad de artículos de líderes en diseño de experiencia del usuario, algunos provenientes de Google. 
+
+Medium es un gran lugar para descubrir los procesos de los mejores diseñadores y aprender sobre las tendencias de la industria. Incluso tenemos una colección de diseños de Google. Ten presente que los artículos publicados en sitios de blogs como Medium deben considerarse artículos de opinión, no de investigación objetiva. Dicho esto, aún puedes aprender mucho de los recursos en Medium, como consejos para usar un software de diseño específico o el modo de incorporar equidad y accesibilidad a tu trabajo. Puedes comunicarte con otros diseñadores si respondes a los artículos en la sección de comentarios o los aplaudes, la forma de dar Me gusta de Medium. También puedes seguir a los diseñadores que te inspiren y suscribirte a sus boletines. Es una excelente manera de ampliar tu red. 
+
+Incluso puedes hacer tus propias publicaciones en Medium. Medium ofrece muchos recursos para ayudarte a comenzar. Pule tu historia y encuentra tu público. Puedes encontrar más detalles sobre cómo crear un perfil en cada una de estas plataformas en las lecturas del curso. Sé creativo y no tengas miedo de comenzar a publicar tus ideas de diseño, solicitar observaciones y convertirte en un miembro activo de las comunidades de diseño de experiencia del usuario en línea. Lo harás genial.
 
 
 
