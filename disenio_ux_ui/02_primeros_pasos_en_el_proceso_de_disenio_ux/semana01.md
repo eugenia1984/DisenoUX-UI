@@ -266,6 +266,7 @@ Elige una consigna que responda a tus intereses o experiencias.
 
 51. Diseñar una aplicación acerca de un artista para una galería de arte
 
+-> **Mi elección**: Diseñar una aplicación de avances de películas para un cine
 
 
 ---
