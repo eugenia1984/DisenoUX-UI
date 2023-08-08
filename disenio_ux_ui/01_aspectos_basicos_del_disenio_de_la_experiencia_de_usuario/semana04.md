@@ -1053,6 +1053,35 @@ Ya sea revisando tu portfolio o ayudándote a pensar en las empresas que podría
 ---
 ---
 
+
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> ACTIVIDAD
+
+### Introducción
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/c2c8a086-741f-4c9e-aa84-9bd7d18877b8)
+
+
+## Instrucciones paso por paso
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d1983ffc-9b8e-43ad-98ff-ef436352c53b)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/66f7e170-dc42-44e3-a689-10fef4215196)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/5e3950a1-4eeb-4d67-acf5-349e27adde2f)
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/8813921d-a0ab-4ba5-a4e5-98aec7080819)
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d2dc3f33-39a5-4b1d-a599-9291e4af9118)
+
+---
+---
+
 ## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/>  Repaso de la semana 4
 
 ### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
