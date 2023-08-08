@@ -318,6 +318,49 @@ Mantén tu autonomía. Recuerda que tú eres el diseñador líder de este proyec
 
 # COMPRENDER EL PAPEL DE LA INVESTIGACIÓN EN EL DISEÑO
 
+## :tv: Introducción a la investigación en UX
+
+Cambiemos de marcha y hablemos de la **investigación de la experiencia del usuario**. Como me dedico a la investigación en UX, esta sección es una de mis preferidas. A continuación, hablaremos de **cómo encaja la investigación de la experiencia del usuario en el desarrollo de un producto**, algunos **métodos comunes de investigación en UX** y sus **ventajas** y **desventajas**, así como los **sesgos en la investigación en UX**. 
+
+Mientras avanzamos, ten en cuenta que el rol de un diseñador de UX puede variar considerablemente de una empresa a otra. En una empresa más grande, como Google, que tiene miles de empleados, los diseñadores de UX suelen tener un socio dedicado específicamente a la investigación en UX, de modo que no tienen que investigar mucho ellos mismos. En una empresa más pequeña, en cambio, un diseñador de UX podría ser responsable tanto de la investigación en UX como del diseño de UX. Por eso es tan importante que aprendas a hacer ambas partes del trabajo. Además, tener algunas destrezas de investigación puede ser muy atractivo para las empresas que buscan contratar nuevos diseñadores de UX.
+
+Comencemos con lo básico. 
+
+- La **investigación de UX** se centra en **entender el comportamiento, las necesidades y las motivaciones de los usuarios a través de la observación y la retroalimentación**. El objetivo de la investigación de la experiencia del usuario es **priorizar al usuario**. También queremos que se satisfagan las **necesidades de la empresa**. La investigación en UX puede ayudar a **salvar la brecha entre lo que un negocio piensa que el usuario necesita y lo que el usuario realmente necesita** antes de encarar el proceso lento y costoso de crear un producto.
+
+-  ¿Cómo encaja la investigación en UX en el desarrollo de un producto? Para responder esta pregunta, necesitamos tomar distancia y repasar el **ciclo de desarrollo de un producto**. Quizás recuerdes que el ciclo de desarrollo de un producto es el proceso que se usa para transformar una idea en realidad. La investigación de usuarios es una parte continua del ciclo de desarrollo del producto y tiene lugar antes, **durante y después de la fase 3: diseño**. La investigación que se realiza antes de que se diseñe nada se suele llamar **investigación básica**. Algunos equipos de UX también la llaman **investigación estratégica** o **generativa**. Los tres términos significan lo mismo, pero, en el resto del curso, nos quedaremos con «investigación básica». La investigación básica responde la pregunta **«¿Qué debemos construir?»**. Otras preguntas que podrías hacerte durante esta fase de investigación son: **«¿Cuáles son los problemas del usuario?»**, **«¿Cómo podemos resolverlos?»**. El objetivo de la investigación básica es **definir el problema que el diseño buscará solucionar**. Esta investigación involucra **hablar con los usuarios e identificar sus dificultades cuando usan un producto**. ¿Y sabes qué? A veces, la investigación básica revela oportunidades que no se le habrían ocurrido a nadie en el equipo de diseño.
+
+- La investigación que se lleva a cabo durante la fase de diseño o fase 3 del ciclo de desarrollo de un producto se llama **INVESTIGACIÓN DE DISEÑO**. Algunos equipos la llaman **investigación táctica**, pero ambos términos se refieren a lo mismo. La investigación de diseño responde a la pregunta **«¿Cómo debemos construirlo?»**. Aquí hay una lista de cosas sobre las que podría ser útil preguntar a los usuarios durante esta fase de investigación:
+
+-¿Cómo fue tu experiencia usando el prototipo hoy? 
+
+-¿Fue difícil de usar? 
+
+-¿Por qué? 
+
+_¿Tuviste alguna dificultad? 
+
+La investigación de diseño busca **entender cómo debe construirse el producto**. La investigación de diseño da a los diseñadores la oportunidad de **reducir los problemas que ocurren cuando los usuarios interactúan con tu prototipo**. Puedes realizar la investigación de diseño en una etapa muy temprana del proceso de diseño, cuando solo tienes bocetos en papel, o puedes esperar hasta tener un prototipo para probar con los usuarios. Depende de cuáles sean tus objetivos de investigación principales.
+
+- El tercer tipo de investigación de usuarios es la **POSTERIOR AL LANZAMIENTO**. Como te imaginarás, la investigación posterior al lanzamiento solo ocurre al final del ciclo de desarrollo del producto. Este tipo de investigación puede usarse para evaluar en qué grado una característica satisface las necesidades de los usuarios. Esta investigación responde la pregunta: **«¿Tuvimos éxito?»**. El objetivo de esta investigación es entender qué experiencia tuvieron los usuarios con el producto y si fue buena o mala. También podría ser útil comparar el rendimiento del producto frente al de la competencia.
+
+A continuación, veamos algunas de las **cualidades clave de los investigadores de UX**. Algunas cualidades de un buen investigador de UX son:
+
+- la empatía
+
+- el pragmatismo
+
+- la colaboración.
+
+-> La empatía consiste en la capacidad de entender los sentimientos o pensamientos de otra persona en una situación dada. 
+-> El pragmatismo es un enfoque práctico hacia la resolución de problemas. Las personas pragmáticas se enfocan en investigar las metas. 
+
+-> La colaboración es la capacidad de trabajar con distintos tipos de personas, personalidades y estilos de trabajo. Ya tienes todas esas cualidades. Solo necesitas aprender cómo aplicarlas en tu trabajo. Cuanto más desarrolles estas cualidades, mejor investigador te volverás con el tiempo, así que no bajes los brazos.
+
+Si quieres especializarte en investigación de UX, necesitarás formación adicional. Aunque nuestro programa se centra en el diseño de UX, ten en cuenta que la investigación siempre forma parte del proceso de diseño. A continuación, veremos algunos métodos de investigación usados para responder distintas preguntas.
+
+
+
 ---
 ---
 
