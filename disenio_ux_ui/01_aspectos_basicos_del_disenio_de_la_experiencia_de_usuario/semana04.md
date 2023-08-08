@@ -1268,9 +1268,27 @@ Wireframe: An outline or a sketch of a product or a screen
 ---
 
 
-## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/>  Repaso de la semana 4
+## <img width="40" height="40" src="https://img.icons8.com/cute-clipart/40/design.png" alt="design"/> Felicitaciones por completar el Curso 1: Aspectos básicos del diseño de la experiencia del usuario
 
-### <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/design.png" alt="design"/>
+Felicidades! Completaste el primer curso del programa. Trabajaste con increíble dedicación y se nota. Deberías estar muy orgulloso de ti mismo. Cuando empezaste este programa, tal vez sentiste nervios o euforia, o ambas emociones, y te preguntaste qué es la UX. Mírate ahora. Ya sabes qué hace un diseñador de UX y qué nos impulsa a hacer mejores productos para los usuarios. Además, ya comenzaste a crear tu portfolio y a pensar en tu carrera.
+
+Repasemos tus logros. En este curso, descubriste:
+
+- qué es la experiencia del usuario y por qué es importante para los usuarios y las empresas
+ 
+- qué es lo que hace que un diseño sea bueno para el usuario.
+
+- Identificaste diferentes disciplinas dentro de la UX y qué tipo de tareas puedes llegar a hacer como diseñador de UX.
+
+- Aprendiste sobre las herramientas comunes, los frameworks y las plataformas utilizadas en el diseño de UX.
+
+- Identificaste los pasos de un sprint de diseño y cómo tú, como diseñador de UX principiante, puedes participar en ese proceso.
+
+- Comenzaste a desarrollar tu portfolio, tu marca personal y tus perfiles en línea para poder comenzar con tus redes.
+
+Ya viste bastante. Tienes una base sólida en experiencia del usuario que seguirá creciendo durante el resto de este programa. Profundizaremos estos conocimientos en el próximo curso. Empezaremos por la investigación del usuario, la comprensión de los problemas de diseño y una lluvia de ideas para aportar soluciones tempranas.
+
+Emily, a quien conociste brevemente en la introducción al programa, será tu guía en el próximo curso. Emily es una instructora fantástica y es una experta en el ámbito de la UX. Prepárate para aprender mucho. Ahora es momento de despedirme. Fue un placer acompañarte en este curso. No puedo esperar a ver tus diseños en acción algún día. Suerte mientras continúas el programa.
 
 ---
 ---
