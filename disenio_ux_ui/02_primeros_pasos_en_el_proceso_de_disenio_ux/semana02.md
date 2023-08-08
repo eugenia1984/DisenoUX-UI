@@ -1,0 +1,1 @@
+# SEMANA 2 - Empatizar con los usuarios y definir los puntos débiles
