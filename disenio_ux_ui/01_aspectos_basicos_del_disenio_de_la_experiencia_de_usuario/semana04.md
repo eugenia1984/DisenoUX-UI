@@ -1047,7 +1047,7 @@ Esa experiencia definitivamente se ha plasmado en lo que respecta a mi amor por 
 
 
 Luego, me di cuenta de cuán equivocada estaba sobre las intenciones del gerente. Hablo con diferentes personas y veo lo que valoro en ellas, ya sea su capacidad de hablar en público o su habilidad para los negocios o cuando es capaz de influir en los demás, y les consulto o intento replicar su comportamiento, así que siento como que he tenido muchos mentores durante mi carrera para ayudarme en cosas diferentes. Uno de los consejos que podría dar a las personas nuevas en el campo de la experiencia del usuario es aprovechar a la comunidad. Es una increíble comunidad abierta de personas. Si eres nuevo en este mundo, puede ser abrumador e intimidante. Hay tanto que puede parecer desconocido. Puedes unirte a grupos locales que se centren en la experiencia del usuario. Encuentra un mentor o un compañero. Te sorprenderá saber cuánta gente está dispuesta a ayudarte.
-Reproduce el video desde :3:55 y sigue la transcripción3:55
+
 Ya sea revisando tu portfolio o ayudándote a pensar en las empresas que podrían necesitar tus destrezas. Te animo de todo corazón a que aproveches la increíble comunidad de profesionales en experiencia del usuario que existe y que están dispuestos a ayudar.
 
 ---
