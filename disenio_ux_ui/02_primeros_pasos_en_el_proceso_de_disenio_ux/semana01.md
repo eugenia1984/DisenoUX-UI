@@ -359,6 +359,93 @@ A continuación, veamos algunas de las **cualidades clave de los investigadores 
 
 Si quieres especializarte en investigación de UX, necesitarás formación adicional. Aunque nuestro programa se centra en el diseño de UX, ten en cuenta que la investigación siempre forma parte del proceso de diseño. A continuación, veremos algunos métodos de investigación usados para responder distintas preguntas.
 
+---
+
+## :book: Obtén más información sobre la investigación en UX
+
+Hay dos partes clave en cada proyecto de diseño de UX: realizar una investigación para aprender sobre los usuarios para los que diseñas y recopilar comentarios sobre sus perspectivas. El diseño de UX se trata de poner al usuario como prioridad, y la investigación ayuda a los diseñadores a comprender a esos usuarios. 
+
+- La **investigación en UX** se centra en comprender los comportamientos, las necesidades y las motivaciones de los usuarios a través de la observación y la retroalimentación. El diseño del producto debe basarse en investigaciones y hechos, no en suposiciones. La investigación en UX alinea lo que tú, como diseñador, crees que el usuario necesita con lo que el usuario realmente necesita. 
+
+¿Recuerdas el ciclo de desarrollo de productos que abordamos en un curso anterior del programa? El **ciclo de desarrollo del producto** tiene cinco etapas (lluvia de ideas, definición, diseño, prueba y lanzamiento) que guían la idea de una aplicación, sitio web o producto hasta su lanzamiento. 
+
+Veamos cómo encaja la investigación en el ciclo de desarrollo de un producto.
+
+1. **Investigación básica** 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/62f197f3-623c-4fc3-b2e2-7adc8fc44993)
+
+
+La investigación básica siempre se realiza antes de comenzar a diseñar. Dentro del ciclo de desarrollo de productos, la investigación básica ocurre durante la etapa de lluvia de ideas (primera etapa) y sirve para identificarte con los usuarios, comprender sus necesidades e inspirar nuevas direcciones de diseño. Durante esta etapa, también crearás personas e historias de usuarios, de las que aprenderás pronto. 
+
+En la investigación básica, el objetivo es averiguar qué necesita el usuario y cómo abordar esas necesidades con tu producto. El resultado de una investigación básica sólida podría contradecir tu perspectiva personal sobre cuál podría ser una buena solución. 
+
+Estas son algunas preguntas que podrías hacer durante la investigación básica:
+
+```
+-¿Qué debemos construir?
+-¿Cuáles son los problemas del usuario?
+-¿Cómo podemos solucionar esos problemas?
+-¿Soy consciente de mis propios sesgos y puedo dejarlos a un lado mientras investigo?
+```
+
+Hay muchos métodos para realizar investigaciones básicas, pero muchos de ellos se basan en observaciones. Estos son algunos métodos comunes de investigación básica: 
+
+- **Entrevistas**: Las entrevistas son un método de investigación que se utiliza para recopilar información detallada sobre las opiniones, los pensamientos, las experiencias y los sentimientos de las personas. A menudo, entrevistarás a tus propios usuarios objetivo.
+
+- **Encuestas**: Una actividad en la que a muchas personas se les hacen las mismas preguntas para comprender lo que la mayoría de la gente piensa sobre un producto.
+
+- **Grupos de enfoque**: Un pequeño grupo de personas cuyas reacciones se estudian. Por ejemplo, tu grupo de enfoque podría reunir a ocho usuarios para hablar sobre lo que piensan de las nuevas características de tu diseño. Un grupo de enfoque suele estar dirigido por un moderador que guía al grupo para que debata sobre un tema específico. 
+
+- **Auditoría competitiva**: Una descripción general de las fortalezas y debilidades de tus competidores. Llevarás a cabo tu propia auditoría competitiva más adelante en el curso, por lo que comprenderás en detalle este método de investigación. 
+
+- **Estudios de campo**: Actividades de investigación que tienen lugar en el contexto del usuario o en el entorno personal, en lugar de realizarse en una oficina o un laboratorio. 
+
+- **Estudios de diario**: Un método de investigación utilizado para recopilar datos cualitativos sobre los comportamientos, las actividades y las experiencias de los usuarios a lo largo del tiempo. A menudo, un usuario registrará (como si se tratara de un diario) sus actividades diarias y proporcionará información sobre sus comportamientos y necesidades. Esta información puede ser útil para guiar tus diseños. 
+
+
+2. **Investigación de diseño**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/6b3b322f-50b2-4ae3-b82c-6dfc2d2d6d56)
+
+La investigación de diseño se realiza mientras diseñas. Dentro del ciclo de desarrollo del producto, la investigación de diseño se lleva a cabo durante la etapa de diseño (tercera etapa) y tiene como objetivo guiar tus diseños, adaptarse a las necesidades de los usuarios y reducir el riesgo. Cada vez que creas una nueva versión de tu diseño, debes realizar una nueva investigación para evaluar qué cosas funcionan bien y qué cosas deben cambiarse. 
+
+En la investigación posterior al lanzamiento, tu objetivo es responder a la pregunta «¿Cómo debemos construirlo?».
+
+La cantidad de investigación de diseño que realices variará según el lugar donde trabajes y lo que estés construyendo. El método más común para realizar investigaciones de diseño es un estudio de facilidad de uso, que es una técnica para evaluar un producto probándolo entre usuarios reales. El objetivo de los estudios de facilidad de uso es identificar las dificultades que experimenta el usuario con tus prototipos, de modo que los problemas se puedan solucionar antes del lanzamiento. Realizarás tu propio estudio de facilidad de uso en el próximo curso de este programa de certificación. 
+
+Estos son otros métodos de investigación que podrían usarse para realizar investigaciones de diseño:
+
+- **Pruebas A/B**: Un método de investigación que evalúa y compara dos aspectos diferentes de un producto para descubrir cuál de ellos es más efectivo. Por ejemplo, puedes hacer que los usuarios evalúen dos diseños para la página de inicio de tu aplicación a fin de averiguar qué diseño es el más efectivo. 
+
+- **Estudios de café o estilo guerrilla**: Un método de investigación en el que se recopilan comentarios de los usuarios llevando un diseño o prototipo a un espacio público y preguntando a los transeúntes qué opinan. Por ejemplo, podrías sentarte en una cafetería local y preguntarles a los clientes si estarían dispuestos a probar el diseño de tu aplicación durante un par de minutos y hacer comentarios. 
+
+- **Clasificación de tarjetas**: Un método de investigación en el que se les pide a los participantes del estudio que clasifiquen las etiquetas escritas en una serie de tarjetas en categorías que les parezca que tengan sentido. Este tipo de investigación se utiliza en gran medida para definir la arquitectura de la información de un proyecto, que discutiremos en el próximo curso del programa, el curso 3: Crear esquemas de página y diseños de baja fidelidad.
+
+- **Estudios de intercepción**: Un método de investigación en el que se recopilan comentarios in situ de los usuarios mientras participan en las actividades que se investigan. Los estudios de intercepción a menudo se realizan en el campo, por lo que pueden considerarse un caso particular de la investigación de campo. Un estudio de intercepción puede proporcionar una retroalimentación rápida y resumida.
+
+
+3. **Investigación posterior al lanzamiento**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/f1f4c845-e39f-42fc-8131-887538e3a1a6)
+
+La investigación posterior al lanzamiento se realiza una vez que se completa el diseño y se lanza el producto al mercado. Dentro del ciclo de desarrollo del producto, la investigación posterior al lanzamiento ocurre después de la etapa de lanzamiento (quinta etapa) y sirve para validar que el producto satisfaga las necesidades del usuario a través de métricas establecidas.
+
+En la investigación de diseño, tu objetivo es responder a la pregunta «¿Tuvimos éxito?». Esta investigación te dirá cómo se está desempeñando tu producto final en función de métricas establecidas, como la adopción, el uso y la satisfacción del usuario, entre otras. 
+
+Debes utilizar métodos de investigación que brinden información sobre lo que el usuario piensa de tu producto y si su experiencia al usar tu producto se alinea con la forma en que pretendías que funcionara. Estos son algunos de los métodos de investigación que puedes utilizar para realizar una investigación posterior al lanzamiento:
+
+- Pruebas A/B
+
+- Estudios de facilidad de uso
+
+- Encuestas
+
+Análisis de registros: Un método de investigación utilizado para evaluar grabaciones de usuarios mientras interactúan con el diseño, las herramientas, etc. 
+
+La clave para un producto centrado en el usuario: la investigación
+La investigación es fundamental para crear un producto que satisfaga las necesidades de los usuarios. Como diseñador de nivel básico, puede ser tentador suponer lo que el usuario necesita en función de tu propia experiencia, pero, como ya sabes: el usuario es lo primero. Siempre asegúrate de que tus opiniones estén respaldadas por una investigación. ¡Debes recibir comentarios de los usuarios antes, durante y después de diseñar!
 
 
 ---
