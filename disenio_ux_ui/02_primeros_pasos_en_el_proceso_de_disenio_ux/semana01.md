@@ -104,6 +104,171 @@ Ten en cuenta que, si deseas obtener el Certificado de diseño de UX de Google, 
 Buena suerte en el comienzo del proceso de diseño del primer proyecto de tu portfolio: ¡diseñar una aplicación móvil!
 
 ---
+
+## :book: Introducción al proyecto de portfolio
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/7b89fc26-c510-4880-889d-6e9c7b39935e)
+
+### Proyecto de portfolio 1
+
+A medida que realices los cursos de este programa de certificación, deberás crear proyectos para tu portfolio, donde mostrarás tu trabajo a posibles empleadores. ¡Es un momento muy emocionante, porque estás a punto de comenzar tu primer proyecto de diseño! 
+
+Para comenzar, deberás seleccionar una consigna de proyecto utilizando el generador de consignas de Sharpen en la siguiente actividad. Luego, en los próximos cursos, continuarás desarrollando tus diseños de aplicaciones móviles. 
+
+- Aquí, en el curso 2, Primeros pasos en el proceso de diseño de UX: Empatizar, definir e idear, aprenderás cómo empatizar con los usuarios potenciales, definir las necesidades de los usuarios y comenzar a generar ideas para soluciones de diseño. 
+
+- A continuación, en el curso 3, Crear esquemas y prototipos de baja fidelidad, continuarás aportando ideas de soluciones que aborden las necesidades de los usuarios. Bosquejarás guiones gráficos, crearás esquemas y construirás un prototipo de baja fidelidad de tu aplicación en una herramienta de diseño llamada Figma. 
+
+- En el curso 4, Realizar una investigación de UX y probar los primeros conceptos, planificarás y realizarás una investigación para probar tus diseños y obtener comentarios de los usuarios.
+
+- En el curso 5: Crear diseños y prototipos de alta fidelidad en Figma, crearás maquetas y un prototipo de alta fidelidad de tu aplicación para una segunda ronda de pruebas. 
+
+Todo lo que crees durante las actividades de este programa se incluirá en tu portfolio. Te recomendamos realizar los cursos de este programa de certificación en orden, de modo que sigas los pasos del proceso de diseño y crees todos los artefactos que necesitarás para tu portfolio. 
+
+### Elige una consigna usando Sharpen
+
+Quizás te preguntes: ¡Hay tantos productos que quiero diseñar! ¿Cómo voy a elegir entre ellos? Para ayudar a reducir las opciones disponibles, tu primer proyecto se centrará en diseñar una aplicación móvil para satisfacer una necesidad específica de una empresa u organización hipotética. Deberás elegir una consigna que te dé pautas más específicas. Por ejemplo, tu consigna podría ser diseñar una aplicación móvil para el proceso de pago en tu restaurante favorito en tu ciudad. Otra consigna podría ser diseñar una aplicación para el pedido anticipado del álbum de un rapero. Hay decenas de miles de consignas de proyectos disponibles. ¡Tú eliges! 
+
+Encontrarás todas estas consignas de proyectos en Sharpen, una herramienta en línea que crea consignas de diseño aleatorias, en la siguiente actividad. Las consignas de Sharpen tienen un estilo similar a las que podrían pedirte en una entrevista de trabajo real. Tu primer proyecto se centrará en diseñar un proceso dentro de una aplicación móvil, y el generador de consignas te dará muchas ideas entre las que elegir. 
+
+Para producir una consigna, haz clic en el botón «Nuevo desafío». Puedes actualizar la consigna tantas veces como desees para encontrar una que despierte tu energía creativa. En este proyecto, deberás elegir una única consigna en la que basarás tu diseño en los próximos cursos del programa, así que encuentra una que realmente se adapte a tus intereses o experiencias. Cuando encuentres una consigna que te guste, toma una captura de pantalla o anótala. Deberás enviar la consigna que elegiste en un próximo cuestionario.
+
+Un comentario más: Si ya tienes una idea para un proyecto de diseño en mente, tendrás la oportunidad de trabajar en el proyecto de tu elección en el Curso 7 del programa de certificación. Para este primer proyecto, utiliza una consigna de Sharpen para asegurarte de que tu proyecto tenga un alcance adecuado y se alinee con el material presentado en el curso.
+
+### Construye tu caso práctico
+A medida que avances por los cursos 2 a 5 del Certificado de diseño de UX de Google, reunirás artefactos para el caso práctico de tu portfolio en una presentación. Una presentación es un formato versátil que puedes utilizar para compilar, presentar y compartir tu trabajo. También es un formato muy utilizado en el mundo profesional. Se necesita mucho esfuerzo para construir un caso práctico sólido, por lo que te aconsejamos que lo hagas a medida que completes las actividades. De esta manera, podrás dedicar más tiempo a asegurarte de que cada diapositiva tenga lo necesario para impresionar a la audiencia.
+
+Utiliza la plantilla que proporcionamos a continuación para organizar y construir tu caso práctico a medida que avanzas en los cursos. Siéntete libre de personalizar la plantilla para que coincida con tu marca. También te proporcionaremos recordatorios cada vez que debas agregar un artefacto a tu presentación. Al final del Curso 5, tendrás un caso práctico completo para incluir en el sitio web de tu portfolio y exhibirlo en tus futuras solicitudes de empleo.
+
+Para utilizar la plantilla para el caso práctico, haz clic en el enlace de abajo y selecciona «Usar plantilla». 
+
+Enlace a la plantilla: [Plantilla para presentación de caso práctico](https://docs.google.com/presentation/d/1zyqoc1125wnStwfpGwhmJw0PAjtr9-Dt7i0o7a7DYGw/template/preview). Si no tienes una cuenta de Google, puedes descargar la plantilla directamente desde el siguiente archivo adjunto.
+
+A continuación, se ofrecen algunos consejos que te ayudarán a utilizar la plantilla de presentación: 
+
+
+Utiliza las instrucciones y las formas indicativas de cada diapositiva como guía para saber el contenido que debes incluir. Para reemplazar el texto indicativo, selecciónalo y, luego, escribe el texto nuevo. Recuerda: esta plantilla es solo una ayuda para comenzar; puedes cambiar la fuente y el formato como desees. 
+
+Para incluir imágenes de tus artefactos de UX en las diapositivas, haz una captura de pantalla o descárgalas a tu dispositivo. Luego, ve a la diapositiva donde deseas agregar una imagen, elige Insertar en el menú superior, navega hasta Imagen y selecciona Cargar desde la computadora en el menú desplegable. Desde aquí, carga la captura de pantalla o la imagen descargada que desees mostrar.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/1c9c7033-700a-4eee-8e2d-cf7f00f92991)
+
+Cambia el tamaño y coloca la imagen como creas que se complementa mejor con el resto del contenido de la diapositiva. No olvides eliminar cualquier forma o texto indicativo de la plantilla. 
+
+Revisa estas instrucciones siempre que lo necesites y ten en cuenta que, al igual que el diseño de UX, la creación de un caso práctico es un proceso iterativo que lleva tiempo. Sé paciente y reflexiona cuando crees cada diapositiva y pronto tendrás un caso práctico completo y listo para compartir con la audiencia.
+
+---
+
+## :book: Elige la consigna del proyecto para tu portfolio
+
+Elige una consigna que responda a tus intereses o experiencias.
+
+1. Diseñar una aplicación para un florista que le permita previsualizar un ramo de flores
+
+2. Diseñar una aplicación de planificación de recetas para un restaurante alemán
+
+3. Diseñar una aplicación que permita previsualizar un juego para un salón recreativo
+
+4. Diseñar una aplicación para controlar los requisitos de una ceremonia para un salón de bodas de tu ciudad favorita
+
+5. Diseñar una aplicación que calcule la información nutricional de las recetas para un restaurante elegante
+
+6. Diseñar una aplicación para la administración de facturas para una tienda de zapatos de tu ciudad natal
+
+7. Diseñar una aplicación que genere tickets desde el teléfono móvil para un cine
+
+8. Diseñar una aplicación de subastas de arte para una galería de arte
+
+9. Diseñar una aplicación de fidelidad del cliente para un local moderno de música
+
+10. Diseñar una aplicación de ventas por teléfono móvil para una pastelería
+
+11. Diseñar una aplicación para que un terapeuta pueda realizar un seguimiento de las recetas médicas
+
+12. Diseñar una aplicación de seguimiento de pedidos para una tienda de tu ciudad favorita
+
+13. Diseñar una aplicación para inscribirse en un evento especial para un salón recreativo
+
+14. Diseñar una aplicación de gestión de clientes para un hospital
+
+15. Diseñar una aplicación de reseñas de comidas para un camión de comidas lujoso
+
+16. Diseñar una aplicación de ventas anticipadas de un álbum para una banda de punk
+
+17. Diseñar una aplicación de servicio al cliente para una tienda minorista de tu ciudad natal
+
+18. Diseñar una aplicación para contratar músicos para un salón de bodas
+
+19. Diseñar una aplicación para personalizar los pedidos de comida para un restaurante de lujo
+
+20. Diseñar una aplicación de ventas por teléfono móvil para un restaurante alemán
+
+21. Diseñar una aplicación para catálogos de flores para un florista
+
+22. Diseñar una aplicación de contabilidad para un salón recreativo
+
+23. Diseñar una aplicación de previsualización de ingredientes para una marca de comida orgánica para perros
+
+24. Diseñar una aplicación para reservar horarios para un restaurante elegante
+
+25. Diseñar una aplicación de servicio al cliente para un restaurante australiano especializado en carnes
+
+26. Diseñar una aplicación de ventas anticipadas de un álbum para una banda de folk
+
+27. Diseñar una aplicación de caja registradora para un icónico salón de música
+
+28. Diseñar una aplicación de seguimiento de entregas para un restaurante español
+
+29. Diseñar una aplicación para que un preparador físico pueda brindar instrucciones desde su teléfono móvil
+
+30. Diseñar una aplicación de contabilidad para un restaurante exclusivo
+
+31. Diseñar una aplicación de seguimiento de pedidos para una marca de alimento orgánico para mascotas
+
+32. Diseñar una aplicación de seguimiento de reseñas para un restaurante especializado en carnes
+
+33. Diseñar una aplicación que ofrezca un recorrido virtual para un salón de bodas de tu ciudad natal
+
+34. Diseñar una aplicación para gestionar el inventario de un restaurante australiano especializado en carnes
+
+35. Diseñar una aplicación que rastree las ventas que un músico de moda realizó de un álbum
+
+36. Diseñar una aplicación de seguimiento de reseñas para una cafetería de tu ciudad favorita
+
+37. Diseñar una aplicación que calcule la información nutricional de las recetas para un restaurante de comida para llevar
+
+38. Diseñar una aplicación para vender entradas a un concierto para una banda de rock
+
+39. Diseñar una aplicación con un menú de catering para un salón de bodas
+
+40. Diseñar una aplicación de ventas por teléfono móvil para un restaurante familiar
+
+41. Diseñar una aplicación de ventas por teléfono móvil para una sala de piano
+
+42. Diseñar una aplicación de ventas anticipadas de un álbum para un músico
+
+43. Diseñar una aplicación para pedir bocadillos para un cine
+
+44. Diseñar una aplicación que ofrezca un recorrido virtual para un salón de bodas campestre
+
+45. Diseñar una aplicación con las planillas horarias del personal para una cafetería de tu ciudad natal
+
+46. Diseñar una aplicación de ventas por teléfono móvil para un florista
+
+47. Diseñar una aplicación para previsualizar el menú de una cervecería al aire libre
+
+48. Diseñar una aplicación para el cálculo de facturas para una empresa de transporte que utiliza barcos
+
+49.  Diseñar una aplicación web móvil para una escuela de aikido
+
+50. Diseñar una aplicación de avances de películas para un cine
+
+51. Diseñar una aplicación acerca de un artista para una galería de arte
+
+
+
+---
 ---
 
 # COMPRENDER EL PAPEL DE LA INVESTIGACIÓN EN EL DISEÑO
