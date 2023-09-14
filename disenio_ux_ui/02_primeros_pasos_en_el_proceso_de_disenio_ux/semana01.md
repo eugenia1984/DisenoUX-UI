@@ -449,7 +449,7 @@ La investigación es fundamental para crear un producto que satisfaga las necesi
 
 ---
 
-## :book: Christie: el diseño y la importancia de la retroalimentación
+## :tv: Christie: el diseño y la importancia de la retroalimentación
 
 Hola, me llamo Christie y soy diseñadora de UX en Google. 
 
@@ -477,6 +477,76 @@ Es común que nos encariñemos u obsesionemos con un diseño, pero, en última i
 ---
 
 # EXPLORAR LOS MÉTODOS DE INVESTIGACIÓN EN UX
+
+
+## :tv: Elegir el método de investigación adecuado
+
+Hola de nuevo. Ahora que sabes qué implica la investigación de usuarios, hablemos de **los métodos de investigación de usuarios**.
+
+**métodos** ->  se refieren a **cómo haces la investigación**. 
+
+Hay muchas formas diferentes de obtener las respuestas que necesitamos de los usuarios, y tú deberás decidir qué método usar en función de qué preguntas necesites responder. Cada método tiene aspectos positivos y negativos, que abordaremos en otro video.
+
+
+
+Antes de pasar a cada uno de los métodos de investigación, veamos lo básico. Hay dos formas de categorizar los métodos de investigación. 
+
+- La primera se basa en **quién realiza la investigación**.
+
+- La segunda se basa en **el tipo de datos recopilados**.
+
+1. Primero, pensemos en **quién realiza la investigación**.
+  
+-> La **investigación primaria** es aquella que **realizas por tu cuenta**. Por ejemplo, podrías entrevistar o encuestar usuarios o realizar un estudio de facilidad de uso para oír directamente a los usuarios. 
+
+-> La **investigación secundaria** es aquella que **se basa en información que alguien más ha reunido**. Con la investigación secundaria, se puede obtener información de **libros, artículos o revistas**. Quizás ya hayas hecho investigación secundaria sin siquiera darte cuenta. ¿Sabías que buscar las estadísticas de un equipo deportivo es investigación secundaria? La mayoría de las veces, la investigación secundaria se hace desde el principio del ciclo de desarrollo de un producto, antes de cualquier ideación. Suele estar a cargo de directores de productos, no de diseñadores de UX. Pero la información que comparten puede ayudarte a sustentar mejor tus decisiones de diseño y generar más empatía por tus usuarios. 
+
+-> Otra forma de categorizar los métodos de investigación es **según el tipo de datos que se recopilan**. Los datos se pueden recopilar mediante...
+
+... **investigación cualitativa**. La investigación cuantitativa se centra en datos que se pueden recopilar contando o midiendo. 
+
+... **investigación cuantitativa**. La investigación cuantitativa suele basarse en encuestas de grupos grandes de personas usando respuestas numéricas. Este tipo de investigación suele responder preguntas como: «¿Cuántos?» «¿Qué cantidad?» Si quieres saber cómo la mayoría de los usuarios experimentan un producto, deberías usar investigación cuantitativa.
+
+
+2. Por otro lado, la **investigación cualitativa** se centra en las **observaciones**. La investigación cualitativa suele basarse en **entrevistas**, donde nos centramos en un grupo más pequeño de usuarios y buscamos **comprender sus necesidades en mayor detalle**. Este tipo de investigación suele responder preguntas como:
+
+¿Por qué? 
+
+¿Cómo ocurrió esto?
+
+Si quieres saber por qué los usuarios tienen una mala experiencia con el producto y cómo mejorarlo, deberías usar investigación cualitativa.
+
+Aquí tienes una forma rápida de recordar la diferencia: 
+
+**la investigación cuantitativa te da el qué, y la investigación cualitativa te da el porqué.**
+
+Ahora que conoces lo básico de cómo categorizamos la investigación, veamos en detalle algunos métodos de investigación comunes. Empecemos con las entrevistas. Las entrevistas se utilizan para recopilar información detallada sobre las opiniones de las personas, sus pensamientos, sus experiencias, y sus sentimientos. Generalmente se llevan a cabo en persona y suelen incluir una serie de preguntas abiertas en las que el investigador pregunta al usuario sobre su experiencia. 
+
+Utiliza **entrevistas** cuando tus preguntas requieran una respuesta detallada. Por ejemplo,
+
+¿puedes detectar la diferencia entre estas dos preguntas? 
+
+«¿Cómo calificarías tu experiencia usando la aplicación en una escala del 1 al 10?» 
+
+frente a: «¿Cómo fue tu experiencia usando la aplicación?». 
+
+La segunda pregunta es abierta y permite que el usuario comparta detalles sobre su experiencia.
+
+
+
+- Ahora, veamos las **encuestas**. En las encuestas, **se le hace a mucha gente las mismas preguntas para entender qué piensa la mayoría sobre un producto**. Las encuestas nos permiten **saber las opiniones de más usuarios que las entrevistas**. Las encuestas combinan preguntas cuantitativas y cualitativas. Las encuestas **son particularmente útiles cuando ya sabes algo sobre las dificultades a las que se enfrentan los usuarios y quieres datos más sólidos encuestando a más personas**.
+
+- Por último, veamos los **estudios de facilidad de uso**. Los estudios de facilidad de uso **son una técnica que nos ayuda a evaluar un producto probándolo entre los usuarios**. El objetivo de un estudio de este tipo es **identificar las dificultades que los usuarios experimentan con diferentes prototipos, de modo de solucionar los problemas antes del lanzamiento final**. En un estudio de facilidad de uso, tienes la oportunidad de ver cómo los usuarios finales interactúan con tu nuevo producto o función y, después, entrevistarlos para saber más sobre su experiencia. Luego, los datos del estudio se usan para mejorar el diseño de UX.
+
+- Si el producto ya está en el mercado, puedes hacer un estudio posterior al lanzamiento con datos como **métricas de éxito** e **indicadores clave de rendimiento**, también conocidos como **KPI**. Los indicadores clave de rendimiento son una **medida crítica del avance hacia un objetivo final**. Los KPI de una aplicación o o un producto nuevos podrían incluir información como el tiempo que dedicó el usuario a una tarea o el número de clics que usó para hacer una compra. Pronto aprenderás a realizar tus propios estudios de facilidad de uso.
+
+
+
+Ahora que conoces todos los métodos de investigación, quizás te preguntes cómo puedes elegir uno. La clave es que la elección del método de investigación viene dada por la pregunta que queremos responder. Cuando empieces a trabajar en un proyecto específico, podrás definir las preguntas que te conducirán al mejor método. A continuación, veremos las ventajas y desventajas de los métodos que acabamos de presentar: entrevistas, encuestas y estudios de facilidad de uso.
+
+
+---
+
 
 ---
 ---
