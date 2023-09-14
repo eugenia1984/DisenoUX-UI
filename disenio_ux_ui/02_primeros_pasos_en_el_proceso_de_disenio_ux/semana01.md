@@ -447,6 +447,31 @@ Análisis de registros: Un método de investigación utilizado para evaluar grab
 La clave para un producto centrado en el usuario: la investigación
 La investigación es fundamental para crear un producto que satisfaga las necesidades de los usuarios. Como diseñador de nivel básico, puede ser tentador suponer lo que el usuario necesita en función de tu propia experiencia, pero, como ya sabes: el usuario es lo primero. Siempre asegúrate de que tus opiniones estén respaldadas por una investigación. ¡Debes recibir comentarios de los usuarios antes, durante y después de diseñar!
 
+---
+
+## :book: Christie: el diseño y la importancia de la retroalimentación
+
+Hola, me llamo Christie y soy diseñadora de UX en Google. 
+
+Trabajo en el equipo de servicios de Google. Nuestra misión es conectar a clientes y proveedores de servicios entre sí. Un proveedor de servicios podría ser un instructor de yoga, un plomero o un abogado. Una de las cosas que diseño es una función para solicitar un presupuesto, que está disponible tanto en la búsqueda como en Google Maps. Básicamente, se trata de ayudar a los clientes a solicitar un presupuesto directamente al perfil comercial de un proveedor. 
+
+**Mi trabajo favorito es colaborar con el resto del equipo; las lluvias de ideas con los diseñadores, los ingenieros y los gerentes de productos de nuestro equipo realmente ayudan a construir un producto más sólido porque entran en juego múltiples opiniones y diferentes puntos de vista.**
+
+Nuestro proceso comienza de manera diferente según la característica en la que estemos trabajando, pero, muchas veces, comienza con la **investigación**, que busca identificar **necesidades insatisfechas de los clientes** o, en mi caso, de los proveedores. Solemos hacer muchas **entrevistas** y **encuestas** para** identificar qué es lo que frustra a las personas y lo que no les gusta del todo en su recorrido como usuarios**. 
+
+Luego, nosotros, los **diseñadores**, analizamos qué **características o ideas pueden ayudarlos a sentir que ese recorrido no es demasiado difícil**. Cuando estoy diseñando y quiero empezar a recibir comentarios, puedo llevar el diseño a las sesiones de crítica que se realizan en el equipo de diseño. Es un espacio muy abierto y seguro, y es un área muy productiva donde nos presionamos unos a otros a pensar de manera diferente. 
+
+Luego, suelo llevarle mis diseños al **gerente de productos** y contarle lo que pienso. Poco después, también se los llevo a los **ingenieros**, quienes me dicen si es técnicamente factible o no. 
+
+**La retroalimentación es muy importante, porque, muchas veces, tengo una visión miope sobre cuál creo que sería el mejor diseño y, por lo general, me equivoco.**
+
+Me apasiono con una idea y necesito que otros me digan, «Oye, ¿pensaste en esto?» para empujarme a pensar de manera diferente. 
+
+Una vez, estaba aprendiendo a diseñar para personas daltónicas. Hay muchos colores que una persona daltónica no puede diferenciar bien. Si no hubiera aceptado esos comentarios, creo que la aplicación probablemente no hubiera sido tan útil para las personas daltónicas. Así que me alegro de haber podido escuchar, ver y aprender.
+
+**Además de escuchar mucho, te aconsejo que seas abierto y estés dispuesto a escuchar la opinión de otros sobre tu diseño.**
+
+Es común que nos encariñemos u obsesionemos con un diseño, pero, en última instancia, no diseñamos para nosotros mismos. Creo que por eso es tan importante escuchar.
 
 ---
 ---
