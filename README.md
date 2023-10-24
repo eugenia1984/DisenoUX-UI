@@ -145,7 +145,7 @@ Haciendo click [en este link al **Design Journal** de Notion](https://therapeuti
 
 ## Notas:
 
-Aprecio tu interés por este ropositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y seguime en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
+Aprecio tu interés por este ropositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y seguime en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
 ---
 
