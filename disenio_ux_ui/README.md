@@ -1,4 +1,4 @@
-# :star: Diseño UX UI - Google 2023(Coursera):star: 
+# Diseño UX UI - Google 2023(Coursera)
 
 ## <img width="30" height="30" src="https://img.icons8.com/quill/30/bookmark--v2.png" alt="bookmark--v2"/> ¿Qué aprendí?
 
