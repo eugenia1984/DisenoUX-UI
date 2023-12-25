@@ -547,7 +547,213 @@ Ahora que conoces todos los métodos de investigación, quizás te preguntes có
 
 ---
 
+:tv: Comprender las ventajas y las desventajas de los métodos de investigación
 
+
+ Ahora conoces algunos métodos de investigación comunes en el campo de UX. Con tantos métodos diferentes entre los cuales elegir, puede ser difícil saber cuál usar. No te preocupes. Ahora, veremos las ventajas y desventajas de los distintos métodos de investigación, como la investigación secundaria, las entrevistas, las encuestas y los estudios de facilidad de uso. También analizaremos por qué podrías elegir un método por sobre otro.
+ 
+
+- ¿Recuerdas lo que mencionamos antes?
+
+**El método de investigación óptimo depende de la pregunta que nos hagamos**. 
+
+-> **Si recién estamos comenzando con un proyecto, podríamos usar una investigación secundaria para conocer las estadísticas, los hechos y las cifras que ya existen sobre nuestros usuarios**. 
+
+Por ejemplo, imagina que estás diseñando una app de presupuestos. Podría ser buena idea revisar las tendencias históricas de gastos de las personas de 20 años. Tal vez desees saber en qué gastan su dinero estos adultos jóvenes. Es probable que ya exista un estudio creíble sobre esto. Encontrar uno puede ahorrarle a tu equipo tiempo y dinero. Además, ¿por qué reinventar la rueda? 
+
+Otro aspecto interesante de la investigación secundaria es que **es inmediatamente accesible**. 
+
+Por lo general, todo lo que se necesita es una buena conexión a Internet.
+
+Por último, puedes usar la investigación secundaria para **respaldar tu propia investigación primaria**. Si los usuarios mencionaron algo durante las entrevistas, podrías buscar una investigación secundaria para respaldarlo. 
+
+### Pero la investigación secundaria también tiene sus inconvenientes. 
+
+- La investigación secundaria no te permite ver cómo los usuarios interactúan con tu app de presupuestos.
+Por lo tanto, no tendrás comentarios sobre cómo se sienten con tu producto.
+
+## ENTREVISTAS
+
+Ahora, hablemos de las entrevistas. Las entrevistas te permiten comprender qué piensan los usuarios y por qué. También son una oportunidad para hacer preguntas relacionadas y entender en detalle la experiencia del usuario. El principal inconveniente de las entrevistas es que requieren mucho tiempo y dinero. Esto posiblemente se traducirá en un tamaño de muestra pequeño, lo que puede ser riesgoso cuando se lanza un producto nuevo.
+
+## ENCUESTAS
+
+Un punto medio son las encuestas. Como aprendiste antes, las encuestas nos permiten obtener comentarios de una mayor cantidad de usuarios.
+
+ Otras ventajas de las encuestas es que son rápidas y económicas. Puedes conocer las perspectivas de muchos usuarios muy rápidamente.
+
+Un gran inconveniente del uso de encuestas es que los comentarios de los usuarios son limitados. Las preguntas de la encuesta no permiten comentarios detallados.
+
+
+## ESTUDIOS DE USABILIDAD
+
+Los estudios de facilidad de uso nos permiten ver de primera mano cómo interactúa el usuario con nuestro producto. Nuestros diseños tienen sentido para nosotros porque nosotros los creamos.
+
+Pero eso no garantiza que tengan sentido para todos los usuarios. Los estudios de facilidad de uso evitan que nuestras suposiciones nos eviten entender la experiencia real del usuario. 
+
+Además, estos estudios le permiten al usuario brindar comentarios en profundidad.
+
+El inconveniente de estos estudios es que solo miden un aspecto: lo fácil de usar que es el producto. 
+
+Otro inconveniente que tienen es que son caros, porque hay que llevar a los usuarios a un laboratorio y retribuirles su tiempo. 
+
+Por último, los usuarios podrían interactuar con tu producto de forma diferente en un entorno de laboratorio que en la vida real. Ahora ya tienes una comprensión básica de las ventajas y desventajas de cuatro métodos comunes de investigación de usuarios.
+
+
+---
+
+:book: Obtén más información sobre los métodos de investigación
+
+Hay dos formas de categorizar la investigación: **según quién realiza la investigación** y **según el tipo de datos recopilados**.
+
+- La primera forma de categorizar la investigación es **según quién realiza la investigación**: **investigación primaria** e **investigación secundaria**.
+
+-La **investigación primaria** es la **investigación que realizas por tu cuenta**. En este tipo de investigación, la información proviene de interacciones directas con los usuarios, como entrevistas, encuestas o estudios de facilidad de uso.
+
+-La **investigación secundaria** es aquella que **utiliza información que otra persona ha reunido**. Por ejemplo, el uso de información de fuentes como libros, artículos o revistas se considera investigación secundaria.
+
+- La segunda forma de categorizar la investigación es **según el tipo de datos recopilados**: **cualitativos** o **cuantitativos**.
+
+-En la **investigación cualitativa**, los datos se recopilan principalmente **a través de observaciones y conversaciones**. La investigación cualitativa se basa en **comprender las necesidades de los usuarios** y tiene como objetivo responder preguntas como **«¿por qué sucede esto?»** o **«¿cómo sucedió?»**.
+
+-La **investigación cuantitativa** se centra en **los datos que se pueden recopilar contando o midiendo**. La investigación cuantitativa se basa en **datos numéricos** que, a menudo, se recopilan de **encuestas a gran escala**. Este tipo de investigación tiene como objetivo responder preguntas como **«¿cuántos?»** y **«¿cuánto?»**.
+
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/df979bf0-61f2-4baf-8bf8-f12a9102d78e)
+
+
+Estos cuatro tipos de investigación pueden combinarse entre sí. La investigación primaria y la investigación secundaria pueden ser tanto cualitativas como cuantitativas. Por ejemplo, una entrevista es una forma de investigación cualitativa. Si eres tú quien realiza la entrevista, será una investigación primaria. Si revisas un artículo sobre una entrevista realizada por otra persona, se tratará de una investigación secundaria. Es importante poder identificar la diferencia entre estos tipos de investigación porque los datos que recopiles serán la base de tus decisiones de diseño.
+
+
+### Métodos de investigación primaria
+
+Ahora que comprendes los diferentes tipos de investigación, revisemos algunos métodos de investigación primaria comunes para recopilar información.
+
+
+
+- Entrevistas
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2f8e8fb8-1f84-479a-93b2-65cbc1a37b14)
+
+Las entrevistas son un método de investigación que se utiliza para recopilar información detallada sobre las opiniones, los pensamientos, las experiencias y los sentimientos de las personas. Las entrevistas se pueden realizar individualmente o en grupo (por ejemplo, en un grupo de enfoque). 
+
+Las entrevistas pueden ser investigación cualitativa o cuantitativa. Un método de investigación cualitativa incluye preguntas abiertas que requieren que los participantes expliquen sus respuestas proporcionando más detalles. Un método de investigación cuantitativa incluye solo preguntas cerradas, como preguntas que requieren solo respuestas de “sí” o “no”, o preguntas de opciones múltiples con respuestas fijas.
+
+Se recomienda que realices al menos cinco entrevistas con los usuarios durante tu investigación. A medida que realizas las entrevistas, comenzarás a encontrar similitudes entre los comentarios de los usuarios en relación con las cosas que funcionan bien y las que no. ¡Este es exactamente el tipo de comentarios que necesitas! 
+
+- Ventajas
+
+```
+-Puedes comprender mejor lo que piensa un usuario y por qué.
+-Puedes ajustar tus preguntas o reenfocar la conversación en función de las respuestas del usuario.
+-Puedes hacer preguntas relacionadas en tiempo real.
+-Puedes hacer preguntas adaptadas específicamente a las necesidades de un usuario.
+-Recibirás sugerencias directas del usuario. 
+```
+
+
+- Desventajas
+
+
+```
+-Entrevistar a cada usuario lleva mucho tiempo. 
+-Es caro pagar a los participantes y alquilar un espacio para las entrevistas.
+-Debido a las limitaciones de tiempo y dinero, los tamaños de muestra son más pequeños.
+- Las entrevistas grupales pueden verse afectadas por el llamado «efecto de arrastre», que consiste en seguir la opinión del grupo en lugar de pensar de manera creativa, lo que puede desalentar el debate abierto de las personas que tienen una opinión que no se alinea con la mayoría del grupo. 
+```
+
+Si deseas obtener más información sobre las entrevistas, consulta [un artículo sobre las entrevistas a usuarios](https://www.nngroup.com/articles/user-interviews/#:~:text=Topics%3A,of%20learning%20about%20that%20topic.), de Nielsen Norman Group.
+
+
+
+- Encuestas 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e1a404cd-61b2-4fbc-b0e0-a856b8d78aeb)
+
+Una encuesta es una actividad en la que a muchas personas se les hacen las mismas preguntas para comprender lo que la mayoría de la gente piensa sobre un producto. Las encuestas son una excelente manera de medir el éxito de tu producto, sea durante el desarrollo o después del lanzamiento. Por ejemplo, enviar encuestas después del lanzamiento de un producto puede ser útil para medir la efectividad de tu producto y sentar las bases para futuras mejoras. 
+
+Si buscas una investigación cualitativa, puedes diseñar las encuestas con preguntas abiertas que permitan a los participantes aclarar sus respuestas a la encuesta. En cambio, si buscas una investigación cuantitativa, puedes usar preguntas cerradas que generen datos numéricos.
+
+- Ventajas
+
+```
+-Puedes obtener más información gracias a que el tamaño de muestra es mayor.
+-Puedes recopilar resultados y obtener información valiosa rápidamente. 
+-Las encuestas suelen ser económicas porque los participantes no necesitan mucho tiempo para completarlas y se pueden hacer de forma remota. 
+```
+
+- Desventajas
+
+```
+-Muchas veces, las encuestas no dan cabida a una retroalimentación detallada; la mayoría de las preguntas tendrán una serie de respuestas fijas entre las que elegir. 
+-Hay algunos tipos de preguntas de investigación que no funcionan en un formato de encuesta.
+-Por lo general, las encuestas no permiten la personalización.
+```
+
+Si deseas obtener más información sobre las encuestas, consulta el [artículo de usability.gov sobre las encuestas en línea](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html). 
+
+
+
+- Estudios de facilidad de uso
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/7601cbb1-d0f4-4443-b205-ba6f4f14b127)
+
+Un estudio de facilidad de uso es una técnica que se utiliza para evaluar un producto probándolo entre los usuarios. Los estudios de facilidad de uso ayudan a demostrar si un producto va por buen camino o si es necesario ajustar el diseño. Hay muchas formas de probar la facilidad de uso, tanto en persona como en línea. Es una buena idea grabar las sesiones de facilidad de uso, ya sea con audio o video, para que puedas hacer referencia a los datos del usuario mientras tomas decisiones de diseño más adelante en el proceso. 
+
+La investigación cualitativa se basa en observaciones, y una parte fundamental de la realización de estudios de facilidad de uso es observar cómo los participantes interactúan con el producto que diseñaste. Centrarse en la investigación cualitativa durante los estudios de facilidad de uso puede generar conocimientos más personales al evaluar el comportamiento de los usuarios cuando experimentan con el producto. La investigación cuantitativa también se puede utilizar al realizar estudios de usabilidad para comprender las impresiones de los participantes sobre el producto.
+
+- Ventajas
+
+```  
+-Puedes aprender de primera mano a partir de la observación del usuario y la interacción con él. 
+-Los estudios de facilidad de uso pueden poner en duda tus suposiciones sobre tu producto al demostrar un resultado completamente diferente al que esperabas. 
+-Los usuarios pueden proporcionar comentarios detallados. 
+```
+
+- Desventajas
+
+
+```
+-Los estudios de facilidad de uso solo miden si un producto es fácil de usar.
+-La investigación de este tipo puede resultar costosa, especialmente si se realiza en persona. 
+-Puede haber diferencias entre un estudio de facilidad de uso "controlado" en un laboratorio y cómo un usuario percibe el producto en la vida real. 
+```
+
+Si deseas obtener más información sobre las pruebas de facilidad de uso, consulta el [artículo de Nielsen Norman Group sobre las pruebas de facilidad de uso](https://www.nngroup.com/articles/usability-testing-101/).
+
+#### Métodos de investigación secundaria
+
+La investigación secundaria se puede realizar en cualquier fase del proyecto, ya que utiliza información de fuentes externas. En otras palabras, la investigación secundaria no es un resultado directo de tu producto ni del usuario para el que diseñas. La información que descubras durante la investigación secundaria puede servir de base para tu investigación primaria, de modo que tengas una mejor idea de dónde concentrar tus esfuerzos. La investigación secundaria también podría complementar los hallazgos de la investigación primaria de un proyecto y reiterar o fortalecer tus conclusiones.
+
+- Ventajas
+
+```
+-La investigación secundaria suele ser más barata y más rápida que la investigación primaria. Esto significa que ahorrarás tiempo y dinero. 
+-A menudo, puedes realizar una investigación secundaria a partir de búsquedas en línea y publicaciones científicas por suscripción.
+-La investigación secundaria puede ser un buen complemento para los hallazgos de la investigación primaria.
+```
+
+- Desventajas
+
+``` 
+-No obtendrás información de primera mano sobre la interacción del usuario con tu producto.
+-No recibirás comentarios de usuarios que sean específicos sobre tu producto.
+-La investigación secundaria puede ser engañosa y generalizar en exceso si no se realiza de manera adecuada.
+```
+ 
+Si deseas obtener más información sobre la investigación secundaria, consulta este [artículo sobre investigación secundaria de Formplus](https://www.formpl.us/blog/secondary-research).
+
+#### Investigación en la práctica
+
+A medida que avances en tu carrera de diseño de UX, es probable que uses varios tipos diferentes de métodos de investigación. Conocer las ventajas y desventajas de cada método, y cuándo usar cada uno, puede hacer que tu investigación sea más efectiva y, en última instancia, mejorar el diseño de tu producto. 
+
+Si deseas leer más sobre la investigación, consulta  [este artículo sobre métodos de investigación de UX
+ de NN Group](https://www.nngroup.com/articles/which-ux-research-methods/). Este artículo te guiará en la elección del método de investigación más adecuado para ti entre 20 opciones populares. 
+ 
 ---
 ---
 
