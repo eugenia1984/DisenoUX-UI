@@ -784,7 +784,97 @@ Sigue siendo lo que hace que un lunes por la mañana, en un día lluvioso en que
 ---
 ---
 
-# IDENTIFICAR SESGOS EN LA INVESTIGACIÓN EN UX
+# :star: IDENTIFICAR SESGOS EN LA INVESTIGACIÓN EN UX
+
+
+
+## :tv: Identificar sesgos en la investigación en UX
+
+En este video, nos centraremos en cómo el sesgo afecta el trabajo de diseño en particular. 
+
+Veremos **seis tipos de sesgos**: 
+
+- sesgo de confirmación
+
+- sesgo de falso consenso
+
+- sesgo de prioridad
+
+- sesgo de actualidad
+
+- sesgo implícito
+
+- falacia del costo irrecuperable.
+
+Para empezar, definamos la palabra **sesgo**. En pocas palabras, **un sesgo es un prejuicio a favor o en contra de algo basado en información limitada**. Es como tomar una decisión sobre una persona antes de conocerla. **Todos tenemos prejuicios** y, a menudo, **son inconscientes**. Si bien no podemos deshacernos por completo de los prejuicios, **sí podemos ser más conscientes de ellos y trabajar para superarlos**. 
+
+En el diseño de UX, esto es fundamental para el éxito del producto y para tu desarrollo profesional. 
+
+Todo lo que aprendimos hasta ahora nos ha demostrado que nosotros no somos el usuario. También **aprendimos lo importante que es ponernos en los zapatos de nuestros usuarios a la hora de tomar decisiones de diseño. Los sesgos pueden obstaculizar este proceso**. 
+
+Más tarde, veremos en detalle cómo se aplica esto a tu trabajo. 
+
+###  sesgo de confirmación
+
+El primer sesgo que hay que tener en cuenta es el sesgo de confirmación. Este sesgo ocurre cuando comienzas a buscar evidencia para probar una hipótesis que ya tienes. Como crees que ya tienes la respuesta, **te dejas atraer por aquella información que confirma tus creencias y preconceptos**. Digamos que tienes la idea preconcebida de que los zurdos son más creativos que los diestros. A medida que investigas, podrías dejarte arrastrar por la evidencia que apoya esta creencia y usarla para sustentar tu caso, aunque no sea necesariamente cierta.
+
+Uno de los métodos más efectivos para superar el sesgo de confirmación en la investigación es **hacer preguntas abiertas en las entrevistas**. Una pregunta abierta permite que el entrevistado responda libremente, en lugar de responder «sí» o «no». 
+
+También es bueno adquirir el hábito de **escuchar de forma activa sin agregar tus propias opiniones**. Así, no guiarás a los entrevistados hacia la respuesta que deseas que den. Otra forma de evitar el sesgo de confirmación es **incluir una amplia muestra de usuarios**. Asegúrate de no buscar solo un pequeño grupo de personas que encajen con tus preconceptos. Lo ideal es **tener una gran muestra de usuarios con diversas perspectivas**. 
+
+### sesgo de falso consenso
+
+Ahora, veamos el sesgo de falso consenso, que es **la suposición de que otros pensarán igual que nosotros**. 
+
+En la investigación de UX, el sesgo de falso consenso ocurre **cuando sobreestimamos el número de personas que estarán de acuerdo con nuestra idea o diseño, lo que crea un falso consenso**. 
+
+El sesgo de falso consenso puede llegar al extremo de suponer que cualquiera que no está de acuerdo contigo es anormal. Una forma de evitar el sesgo de falso consenso es identificar y articular tus suposiciones.
+
+Por ejemplo, quizás vivas en una comunidad que se identifique con ciertas creencias políticas. Cuando conoces a alguien nuevo, podrías suponer que comparte tus creencias políticas, porque ambos viven en la misma ciudad. Pero eso no es necesariamente cierto. 
+
+Encontrar algunas personas que se alineen con tus creencias y suponer que representan a toda la comunidad constituye un falso consenso. Esa es otra razón para **encuestar a grupos grandes de personas**. 
+
+### sesgo de actualidad
+
+Otro sesgo común entre los diseñadores es el sesgo de actualidad. Este ocurre cuando **es más fácil recordar lo último que escuchaste en una entrevista, conversación u otro entorno por el solo hecho de ser lo más reciente**. Cuando hablas con alguien, es más probable que recuerdes lo que compartió al final de la conversación.
+
+Para superar el sesgo de actualidad, puedes **tomar notas detalladas o grabaciones de cada entrevista o conversación que tengas**. De esta forma, podrás revisar lo que dijeron las personas al comienzo de la conversación si no lo recuerdas. 
+
+### sesgo de prioridad
+
+Los diseñadores de UX también pueden ser víctimas del sesgo de prioridad, que consiste en **recordar mejor al primer participante**. 
+
+A veces, la primera persona con que te reúnes es la que deja una impresión más marcada, porque estás en una nueva situación o te enfrentas a una nueva experiencia. 
+
+El sesgo de prioridad, al igual que el sesgo de actualidad, es un buen motivo para tomar notas detalladas o grabaciones, de modo que puedas revisar todo lo que pasó, no solo las primeras impresiones memorables. 
+
+Los sesgos de actualidad y prioridad también demuestran por qué **deberías entrevistar a cada participante de la misma manera**. La **coherencia hace que sea más fácil comparar a lo largo del tiempo**. También hace que sea más fácil recordar los momentos inusuales e importantes que ocurran a lo largo de la investigación. 
+
+### sesgo implícito
+
+La siguiente forma de sesgo es el sesgo implícito, que también se conoce como **sesgo inconsciente**. El sesgo implícito **involucra el conjunto de actitudes y estereotipos que asociamos inconscientemente con ciertas personas**. 
+
+Una de las formas más comunes de sesgo implícito en la UX ocurre cuando solo entrevistamos a personas con ciertos perfiles demográficos, como raza, edad, género, nivel o estatus socioeconómico y capacidades. Por lo general, estos perfiles se basan en suposiciones que tenemos sobre ciertos tipos de personas.
+
+Por ejemplo, el sesgo implícito podría hacer que te sientas incómodo entrevistando a personas cuyas experiencias de vida son diferentes a las tuyas.
+
+Por otra parte, podríamos optar por **entrevistar a personas de grupos frecuentemente excluidos, pero hacer preguntas posiblemente ofensivas debido a nuestros estereotipos internalizados**. Ambos escenarios son problemáticos y conducen a una menor representatividad del proceso de investigación y diseño. 
+
+**Lo más importante que hay que tener en cuenta sobre los sesgos implícitos es que todos los tenemos.** 
+
+Para superar nuestros sesgos, podemos reflexionar sobre nuestra conducta y pedir a otros que señalen nuestros sesgos implícitos. 
+
+Esta es una de las mejores formas de ser conscientes de nuestros sesgos. 
+
+###  falacia del costo irrecuperable
+
+La última forma de sesgo que veremos es la falacia del costo irrecuperable. Esta **es la idea de que cuanto más avanzamos en un proyecto en el que hemos invertido, más difícil es cambiar de rumbo sin sentir que hemos fallado o perdido el tiempo**. 
+
+La frase “costo irrecuperable” se refiere al tiempo que ya invertimos en un proyecto o actividad y que no recuperaremos. 
+
+Por ejemplo, podrías pensar: «Esta película es muy mala, pero la miraré hasta el final porque ya la miré una hora». Para los diseñadores de UX, la falacia del costo irrecuperable entra en juego cuando trabajamos en un diseño. Podría ocurrir que hayas invertido horas en el diseño de una nueva función antes de descubrir que la función no aborda un problema real del usuario. Es tentador seguir trabajando en un diseño en el que has invertido tiempo. Pero, en última instancia, debes concentrarte en un trabajo que tenga un impacto positivo en los usuarios.
+
+Para evitar la falacia del costo irrecuperable, **divide tu proyecto en fases más pequeñas e identifica puntos específicos donde puedas decidir si continuar o detenerte**. Esto te permitirá detenerte de acuerdo con los nuevos conocimientos antes de que el proyecto avance demasiado. Ya estás familiarizado con las formas más comunes de sesgo en la investigación de usuarios. Es importante que sepas que hay otros sesgos que no abordamos aquí. El sesgo es una limitación que va más allá del diseño de UX y la investigación de usuarios. Pueden infiltrarse en cómo hacemos amigos, cómo gestionamos proyectos y cómo nos comunicamos con nuestros familiares. Ahora que conoces estos tipos de sesgo, quizás comiences a notarlos en tu vida diaria. Cuanto más te acostumbres a identificar el sesgo, mejor podrás evitarlo en el proceso de diseño. Como diseñadores de UX, es importante que evitemos que el sesgo se interponga en el camino de una investigación precisa. Puedes consultar el glosario en cualquier momento para repasar estos sesgos y sus definiciones. Ten en cuenta estos consejos para superar los sesgos y estarás bien encaminado.
 
 ---
 ---
