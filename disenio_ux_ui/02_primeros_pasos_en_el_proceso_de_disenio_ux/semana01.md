@@ -973,12 +973,23 @@ Hola, me llamo Deana. Soy investigadora sénior de experiencia del usuario en Go
 
 En un momento, nos dimos cuenta de que no habíamos hablado mucho con los comerciantes, ya que no nos integrábamos directamente con ellos. No habíamos hablado con ellos para entender sus necesidades. Así que nos propusimos hacerlo. Ese fue un momento esclarecedor para nosotros. Nos dimos cuenta de que era una gran oportunidad para construir un ecosistema que fuera equitativo para todos. Como investigador, descubres muchas ideas interesantes. Tomamos esas ideas y mejoramos constantemente nuestros productos. Esa solución nos hizo darnos cuenta de que necesitamos entender el panorama completo, todo el ecosistema. Tenemos que incluir todas las voces durante el diseño para construir una solución que sea equitativa y justa para todos los que se verán afectados.
 
----
----
-
-# REPASO DE SEAMAN 1
 
 ---
----
 
+## :tv: Actividad de cierre: Integrar la investigación en el proceso de diseño
+
+
+¡Hola! Dediquemos un momento a repasar lo que aprendiste recientemente. 
+
+Comenzaste con lo básico: 
+
+- comprender el rol que la investigación de UX juega en el proceso de diseño. Recuerda: el objetivo de la investigación de UX es priorizar al usuario.
+
+También examinaste cómo encaja la investigación de UX en el desarrollo de un producto, incluidas la investigación básica, la investigación de diseño y la investigación posterior al lanzamiento. 
+
+Anteriormente, te presentaron dos formas de categorizar los métodos de investigación: investigación primaria y secundaria, e investigación cuantitativa y cualitativa. 
+
+Como parte de esa conversación, analizaste las ventajas y desventajas de los métodos de investigación más populares, como la investigación secundaria, las entrevistas, las encuestas y los estudios de facilidad de uso. Finalmente, hablamos de identificar y evitar los sesgos. Has recorrido un largo camino. ¡Sigue así!
+
+---
 
