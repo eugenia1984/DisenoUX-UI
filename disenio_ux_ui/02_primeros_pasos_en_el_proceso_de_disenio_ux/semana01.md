@@ -964,6 +964,15 @@ Un consejo más: Cuando realizas una investigación, debes hacer un esfuerzo por
 Aunque los sesgos son normales, es esencial tratar de eliminarlos de tu proceso de investigación para comprender con la mayor precisión posible las necesidades de tus usuarios. Conocer los tipos de sesgos que existen y cómo puedes evitarlos te ayudará a reconocer cuando se presenten, así que ¡ya has tenido un gran comienzo! 
 
 Si deseas obtener más información sobre los sesgos en la investigación en UX, consulta [este artículo sobre cómo superar el sesgo cognitivo en la investigación de usuarios](https://npr.design/overcoming-cognitive-bias-in-user-research-e4082f4506a)  de Design at NPR.
+
+---
+
+## :tv: ​​Identificar sesgos en la investigación de UX
+
+Hola, me llamo Deana. Soy investigadora sénior de experiencia del usuario en Google. Como investigadora de UX, busco canalizar la voz de la gente, sus motivaciones, sus deseos y sus necesidades. Llevo esas percepciones de vuelta a mi equipo, que las utiliza para construir nuevos productos o mejorar los actuales. Hablemos del sesgo en la investigación de usuarios. El sesgo puede ocurrir de muchas formas distintas. Daré un ejemplo. En la investigación de usuarios, es común entrevistar gente. De lo que muchas veces no nos damos cuenta es de que, por cada persona que entrevistamos, también excluimos a alguien. Así que, como investigadores, es realmente importante saber por qué elegimos entrevistar a ciertas personas y no a otras, a quién excluimos y si las personas que excluimos deberían ser entrevistadas. Uno de los productos en los que trabajo es una herramienta de Google que permite pedir comida a restaurantes cercanos.
+
+En un momento, nos dimos cuenta de que no habíamos hablado mucho con los comerciantes, ya que no nos integrábamos directamente con ellos. No habíamos hablado con ellos para entender sus necesidades. Así que nos propusimos hacerlo. Ese fue un momento esclarecedor para nosotros. Nos dimos cuenta de que era una gran oportunidad para construir un ecosistema que fuera equitativo para todos. Como investigador, descubres muchas ideas interesantes. Tomamos esas ideas y mejoramos constantemente nuestros productos. Esa solución nos hizo darnos cuenta de que necesitamos entender el panorama completo, todo el ecosistema. Tenemos que incluir todas las voces durante el diseño para construir una solución que sea equitativa y justa para todos los que se verán afectados.
+
 ---
 ---
 
