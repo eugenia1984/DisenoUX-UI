@@ -753,7 +753,34 @@ A medida que avances en tu carrera de diseño de UX, es probable que uses varios
 
 Si deseas leer más sobre la investigación, consulta  [este artículo sobre métodos de investigación de UX
  de NN Group](https://www.nngroup.com/articles/which-ux-research-methods/). Este artículo te guiará en la elección del método de investigación más adecuado para ti entre 20 opciones populares. 
- 
+
+
+---
+
+:tv: Craig: Mi recorrido hacia la UX
+
+¡Hola! Me llamo Craig y soy director de investigación de Google. 
+
+Mi trayectoria profesional en el mundo de la UX definitivamente no fue sencilla. 
+
+Cuando salí de la universidad, no estaba seguro de qué hacer. No sabía bien qué era UX... tengan en cuenta que esto fue hace 20 años, cuando la UX recién empezaba. 
+
+Mi primer trabajo fue barrer pisos en un gimnasio. Ese fue mi primer trabajo. Sabía que me interesaba la tecnología y sabía que estaba capacitado para la investigación, pero no estaba muy seguro de qué tenía que hacer o a dónde tenía que ir.
+
+Al final, me las arreglé para conseguir un trabajo en investigación de mercado. La investigación de mercado estaba en auge en ese momento y había mucho trabajo. 
+
+Pasé un par de años trabajando para distintas organizaciones, pero el trabajo nunca parecía del todo relacionado con crear productos y usar realmente la tecnología. 
+
+Un amigo me contó que había un puesto junior como investigador de UX en una empresa de juegos en línea en el Reino Unido, y conseguí una entrevista. Creo que esa persona quizás sintió un poco de pena por mí, así que decidió darme la oportunidad y conseguí el trabajo. Desde entonces, no he mirado atrás. Pero hizo falta que alguien creyera en mí, en que tenía las destrezas necesarias para ser un buen investigador de UX, y me diera esa oportunidad. 
+
+Una de las cosas que realmente me gustan sobre el trabajo y el puesto es que me gusta pasar tiempo con cosas nuevas. 
+
+Es sorprendente que, en el mundo de la tecnología, tienes la oportunidad de explorar y jugar con cosas que, tal vez, ni siquiera existen todavía. 
+
+Piensas en cómo combinar la investigación y la información que tienes sobre el proceso de desarrollo de ese producto y trabajas en ello con muchas otras personas. Esa es la parte que todavía me entusiasma. 
+
+Sigue siendo lo que hace que un lunes por la mañana, en un día lluvioso en que tengo que levantarme temprano luego de un gran fin de semana, esté igual de entusiasmado por ir a trabajar y hacer este tipo de cosas, porque fueron las que me llevaron a entrar en el sector en primer lugar.
+
 ---
 ---
 
