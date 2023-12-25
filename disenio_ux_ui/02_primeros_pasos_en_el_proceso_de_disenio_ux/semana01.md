@@ -877,6 +877,94 @@ Por ejemplo, podrías pensar: «Esta película es muy mala, pero la miraré hast
 Para evitar la falacia del costo irrecuperable, **divide tu proyecto en fases más pequeñas e identifica puntos específicos donde puedas decidir si continuar o detenerte**. Esto te permitirá detenerte de acuerdo con los nuevos conocimientos antes de que el proyecto avance demasiado. Ya estás familiarizado con las formas más comunes de sesgo en la investigación de usuarios. Es importante que sepas que hay otros sesgos que no abordamos aquí. El sesgo es una limitación que va más allá del diseño de UX y la investigación de usuarios. Pueden infiltrarse en cómo hacemos amigos, cómo gestionamos proyectos y cómo nos comunicamos con nuestros familiares. Ahora que conoces estos tipos de sesgo, quizás comiences a notarlos en tu vida diaria. Cuanto más te acostumbres a identificar el sesgo, mejor podrás evitarlo en el proceso de diseño. Como diseñadores de UX, es importante que evitemos que el sesgo se interponga en el camino de una investigación precisa. Puedes consultar el glosario en cualquier momento para repasar estos sesgos y sus definiciones. Ten en cuenta estos consejos para superar los sesgos y estarás bien encaminado.
 
 ---
+
+## :book: Obtén más información sobre el sesgo en la investigación en UX
+
+El cerebro humano es una máquina de procesamiento increíble y puede almacenar una cantidad asombrosa de información. Una forma en que los cerebros pueden almacenar tanta información es **creando atajos mentales basados en patrones repetidos**. Estos atajos permiten a los humanos **relacionarse y agrupar información para procesarla más rápidamente**. Sin embargo, estos **patrones de pensamiento repetidos** pueden llevar a conclusiones inexactas o irrazonables que están sesgadas, favoreciendo a alguien o algo o teniendo prejuicios contra ello. ****Los sesgos pueden afectar seriamente la investigación de tus usuarios e influir negativamente en el diseño de tu producto final**. 
+
+Entonces, exploremos cómo el sesgo puede afectar tu trabajo como diseñador de UX y cómo combatirlo durante tu investigación.
+
+### Prevención del sesgo en la recopilación de datos
+
+Es importante tener en cuenta que todo el mundo tiene prejuicios. Es una parte natural del ser humano. Lo que realmente importa es ser capaz de reconocer tus propios prejuicios y evitar que afecten tu trabajo. Como diseñador de UX, necesitarás saber cómo anticipar, identificar y superar los sesgos, sobre todo a la hora de investigar.
+
+- **Elige tus palabras con cuidado**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/41cf5f41-f68d-4481-aacb-ac670ffe966b)
+
+Cuando realizas una investigación, es importante utilizar palabras que no lleven al usuario en una dirección u otra. Por supuesto, como diseñador, serás parcial con los diseños que tú creaste y probablemente supondrás que a los usuarios también les gustarán. ¡Por eso los diseñaste! Sin embargo, cuando hagas preguntas a los usuarios sobre su experiencia con el uso de tu producto, no sirve de nada que respondan de una manera particular solo para complacerte. La elección de palabras iniciales puede causar el efecto de presentación, que ocurre cuando los usuarios toman una decisión o elección en función de la forma en que se les presentó la información. 
+
+Esto es especialmente relevante en los estudios de facilidad de uso. Por ejemplo, imagina que un participante está probando tus diseños. Le preguntas al participante: “¿Te gusta o no te gusta el diseño mejorado de estos botones?”. Debido a que usaste la palabra “mejorado”, lo más probable es que el usuario responda positivamente. Sin embargo, esta retroalimentación no es muy útil, porque presentaste la pregunta de una manera que llevó al participante a responder en consecuencia. Para mejorar tu producto, necesitas comentarios honestos.
+
+Una manera más adecuada de formular la misma pregunta es la siguiente: “Explica qué piensas acerca del diseño de los botones”. Esta redacción permite al usuario llegar a sus propias conclusiones sin ninguna influencia externa, lo que te brindará mejores datos sobre su razonamiento y su experiencia. 
+
+- **Fomentar el pensamiento independiente**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/5afa85e5-0118-4baa-a3af-9ba6bf9a132e)
+
+ Las entrevistas grupales pueden verse afectadas por el llamado «efecto de arrastre», que consiste en seguir la opinión del grupo en lugar de pensar de manera creativa, lo que puede desalentar el debate abierto de las personas que tienen una opinión que no se alinea con la mayoría del grupo. 
+
+Por ejemplo, imagina que estás realizando una investigación con un grupo de cinco participantes. Pides a las personas del grupo que compartan, una por una, lo que piensan sobre una elección de diseño específica del producto, como la ubicación de un botón en la página de inicio. Cuando llegue el turno de la última persona, sus comentarios se verán afectados por todas las respuestas que se compartieron anteriormente. Para combatir el efecto de arrastre, pide a los participantes que escriban o registren lo que piensan antes de debatir en grupo.
+
+- **Evita el lenguaje específico**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e8b44246-e2d7-4e44-b309-954943b1495f)
+
+Es importante tener en cuenta los tipos de preguntas que les haces a los usuarios y cómo se formulan esas preguntas. Deberás tener cuidado para evitar el sesgo de confirmación, que consiste en buscar pruebas para probar una hipótesis que ya tienes. 
+
+El sesgo de confirmación es particularmente frecuente en las encuestas en línea. Por ejemplo, imagina que estás realizando una encuesta en línea entre un grupo grande de participantes. Una de las preguntas de la encuesta es: “¿De qué modo usas nuestro producto?”. Como diseñador, tienes algunas ideas sobre cómo crees que la gente usa tu producto, por lo que proporcionas cuatro opciones fijas entre las que el participante debe elegir. Si ninguna de las opciones que proporcionaste se aplica al usuario, no puede seleccionar “otro” ni omitir la pregunta, por lo que se verá obligado a elegir una de las respuestas que no coincida con su experiencia real. Eso significa que tú acabarás con información falsa que sesgará los datos de tu investigación y podría proporcionar evidencia incorrecta para una hipótesis que ya tenías. 
+
+Recuerda que, en una encuesta, deseas resultados medibles, que se conocen como datos cuantitativos. Puedes reformular la pregunta de la encuesta al pedirles a los participantes que califiquen sus experiencias cuando usan el producto, lo que será una forma más precisa de evaluar cómo se sintieron al usarlo.
+
+- **Guía lo menos posible a los usuarios**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a1f1c901-81be-4006-8d31-25997f9aaf84)
+
+Cada persona aprende y piensa de manera diferente. Cuando realizas cualquier tipo de investigación de UX, debes tener cuidado y evitar experimentar un falso consenso, que es la suposición de que otros pensarán de la misma manera que tú. 
+
+Si estás realizando un estudio de facilidad de uso, algunos de los participantes no seguirán el flujo de usuarios del producto de la forma esperada. Por ejemplo, un usuario podría hacer clic en el menú, seleccionar una carpeta y, luego, seleccionar una subcarpeta para completar una tarea que le asignaste, cuando en realidad hay un hipervínculo simple en la página de inicio que podría haberle ahorrado tiempo. Además, algunos participantes podrían usar tecnología de asistencia para navegar por el producto y podrían seguir un flujo completamente diferente. 
+
+Es importante dejar que los participantes sigan sus propios caminos a la hora de usar el producto, sin interrumpirlos. Interrumpir a un participante mientras experimenta con tu producto te privará de datos útiles que pueden ayudarte a comprender cómo mejorar tus diseños. En su lugar, pide a los participantes que narren o desglosen el recorrido de tu producto a medida que avanzan. Esto te permitirá comprender mejor lo que piensan mientras navegan por tus diseños. 
+
+
+- **Ten en cuenta el tono y el lenguaje corporal de los usuarios**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d3440e23-e74d-407d-8520-11da28426c11)
+
+Trabajarás con muchos usuarios y participantes diferentes a lo largo de tu carrera de UX, y parte de tu trabajo consistirá en interpretar sus señales no verbales, como el tono de voz y el lenguaje corporal. Para evitar experimentar sesgos implícitos, que se basan en el conjunto de actitudes y estereotipos que asocias inconscientemente con ciertas personas, es importante aclararlo cuando creas que recibes señales contradictorias de un participante. 
+
+Por ejemplo, imagina que estás realizando una entrevista individual y el participante tiene los brazos cruzados sobre el pecho. Esto puede interpretarse como un signo de que la persona se siente a la defensiva o insegura, lo que podría contradecir los comentarios positivos que comparte verbalmente sobre tu producto. Este es un buen momento para hacer preguntas del tipo “¿Algo de esto te incomoda?”, lo que podría animar al participante a explicar que hace frío en tu oficina y que solo está tratando de calentarse. ¡Siempre haz preguntas si no estás seguro de la intención detrás del tono o el lenguaje corporal de un usuario! 
+
+Sin embargo, para que este proceso de retroalimentación funcione, es importante que te asegures de que los participantes se sientan cómodos compartiendo sus pensamientos contigo. Antes de que comience la investigación, pregunta a los participantes sobre ellos mismos o entabla una conversación amistosa sobre un tema no relacionado. Comenzar con preguntas más sencillas puede contribuir a reducir la ansiedad o la incomodidad a lo largo del estudio. 
+
+- **Ten cuidado con tu propio lenguaje corporal y tus reacciones**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/19248a32-8a42-49fc-8bde-b261e47059c1)
+
+ También debes tener en cuenta tu propio tono y lenguaje corporal a la hora de interactuar con los participantes. El sesgo de complacencia social puede ocurrir cuando un participante responde una pregunta basándose en lo que cree que tú quieres escuchar. Si le haces una pregunta a un participante y este observa una pista visual o verbal que sugiere cuál es tu opinión sobre la pregunta, es posible que responda de una manera que crea que te agradará. 
+
+Por ejemplo, imagina que tu tono de voz cambia cuando describes una función de la aplicación que tú diseñaste y que realmente te emociona. Si esto sucede, es probable que el participante no sea honesto acerca de sus opiniones negativas sobre la función, ya que tú eres muy positivo al respecto. Si deseas que los datos que recopiles sean útiles, el usuario debe sentirse cómodo compartiendo sus sentimientos de forma honesta y sin filtro. Es tu trabajo guiarlo a lo largo del proceso sin influir accidentalmente en sus respuestas. Una forma de hacerlo es asegurarles a los participantes que sus respuestas no lastimarán los sentimientos de nadie y que realmente deseas escuchar sus opiniones honestas para mejorar tu trabajo. 
+
+- **Planifica la investigación de manera efectiva**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d495161c-dd9b-4fa4-9080-6bca9ebb9e6c)
+
+Los plazos ajustados son inevitables. Pero como diseñador de UX, es esencial que tengas suficiente tiempo para reclutar a los usuarios adecuados para tu investigación. El sesgo de disponibilidad ocurre cuando aceleras el proceso de selección de usuarios o te saltas algunas preguntas de selección para atraer a un grupo más grande de usuarios, incluso si no se ajustan a las calificaciones o características que ya has determinado que debería tener tu usuario ideal. 
+
+La investigación que realizas es vital para el proceso de diseño de tu producto. Por lo tanto, entrevistar a los usuarios que no pertenecen a las personas que identificaste no te proporcionará los datos que necesitas para mejorar tus diseños. Si tienes problemas para reclutar a los usuarios adecuados antes de la fecha límite, ofrece un mejor incentivo para participar en el estudio, ajusta tu estrategia de reclutamiento o pídele más tiempo al gerente de proyectos. No te limites a elegir cualquier usuario que esté disponible. 
+
+- **Mantén la mente abierta**
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2cb52fb3-3689-41c3-9af8-377895f69a6d)
+
+Un consejo más: Cuando realizas una investigación, debes hacer un esfuerzo por tratar toda la información por igual para evitar tanto el sesgo de prioridad, que consiste en recordar al primer usuario más que a otros, como el sesgo de actualidad, que consiste en recordar mejor lo último que escuchaste. Para ayudar a combatir estos sesgos en tu propia investigación, es útil espaciar la programación de las entrevistas, pedir a tus colegas que te acompañen durante las entrevistas para presentar opiniones adicionales y tomar notas con cuidado. 
+
+### Combatir el sesgo como diseñador de UX
+
+Aunque los sesgos son normales, es esencial tratar de eliminarlos de tu proceso de investigación para comprender con la mayor precisión posible las necesidades de tus usuarios. Conocer los tipos de sesgos que existen y cómo puedes evitarlos te ayudará a reconocer cuando se presenten, así que ¡ya has tenido un gran comienzo! 
+
+Si deseas obtener más información sobre los sesgos en la investigación en UX, consulta [este artículo sobre cómo superar el sesgo cognitivo en la investigación de usuarios](https://npr.design/overcoming-cognitive-bias-in-user-research-e4082f4506a)  de Design at NPR.
+---
 ---
 
 # REPASO DE SEAMAN 1
