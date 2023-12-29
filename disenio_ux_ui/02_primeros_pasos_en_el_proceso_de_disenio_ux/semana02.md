@@ -109,5 +109,84 @@ Sin embargo, ten en cuenta que estos dos métodos no encajan con los propósitos
 
 # :book: Reclutar participantes para las entrevistas
 
+
+El nombre diseño de experiencia de usuario lo dice todo: **la experiencia de usuario es central para encarar el diseño de los productos**. La mejor manera de crear experiencias de usuario fantásticas es **conocer y empatizar con tu usuario**. Como recordarás, **la empatía es la capacidad de entender los sentimientos o pensamientos de otra persona en una situación**. 
+
+Como diseñador de experiencia de usuario, **empatizar con los usuarios mejora los productos que creas porque experimentas el producto como lo hace tu usuario**. Cuanto más te anticipes a los deseos y las necesidades de un usuario, más cómodo se sentirá el usuario con tu diseño y es más probable que interactúe con tu producto a largo plazo. 
+
+Por lo tanto, vamos a explorar cómo la empatía puede convertirte en un diseñador de experiencia de usuario más eficaz.
+
+
+## Cómo empatizar con los usuarios
+
+Si empatizar con los usuarios te suena como una enorme tarea, ¡no temas! La capacidad de empatizar con los usuarios es una habilidad que se puede aprender con la práctica. Aquí hay seis consejos que te pueden ayudar a convertirte en un diseñador de experiencia de usuario más empático.
+
+
+
+### Haz muchas preguntas
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/50ce9309-ead3-481a-8cdd-60b6f371649a)
+
+Haz muchas preguntas. Como diseñador de experiencia de usuario, no puedes hacer suposiciones sobre las necesidades de tus usuarios. En cambio, pregúntales a tus usuarios directamente sobre sus necesidades y deseos que el diseño de tu producto puede abordar. Haz preguntas que empiecen con qué, cómo y por qué para comprender mejor la perspectiva de tus usuarios.
+
+
+
+### Sé más observador
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/13c782c5-c37f-4885-bb3d-223185de1d85)
+
+Sé más observador. Cambia tu enfoque en el usuario como un todo y no solo en las palabras que está usando. En las entrevistas donde el usuario está presente físicamente o en una grabación de video, ver a un usuario interactuar contigo o con tu producto te puede proporcionar pistas físicas que pueden afectar los resultados de tu investigación. Para ayudarte a capturar observaciones, tomarás notas detalladas o incluso grabarás tus sesiones con los usuarios.
+
+
+### Sé un oyente activo
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/7be9be25-a329-4b5f-b8c4-e35e814d5315)
+
+Sé un oyente activo. La escucha activa requiere que te concentres completamente, entiendas y recuerdes lo que dice el usuario con el que estás interactuando. Evita distraerte con el destino de la conversación o lo que podrías decir a continuación. En el diseño de experiencia de usuario, practicar la escucha activa puede ayudarte a obtener retroalimentación imparcial directamente de tus usuarios, la cual podrás aplicar para mejorar tus diseños.
+
+
+
+### Solicita información
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/3a49bd70-09e2-48d4-8223-40072bd3842f)
+
+Solicita información. Es importante que la retroalimentación que recibas sea objetiva e imparcial. Los amigos o colegas a menudo proporcionan comentarios sesgados, en su mayoría positivos, porque quieren apoyarte o complacerte. Por lo tanto, es importante obtener información de diversas fuentes y de un grupo diverso de usuarios. Cuando solicites comentarios, utiliza preguntas abiertas para comprender las opiniones reales del usuario sobre la experiencia o el producto.
+
+
+
+### Ten la mente abierta
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/6fd508b0-6704-41b2-b95c-315dd19236b6)
+
+Ten la mente abierta. Todos tenemos prejuicios. Recuerda, un sesgo es favorecer o tener prejuicios contra algo o alguien, basándose en información limitada. Como diseñadores de experiencia de usuario, tenemos que dejar de lado esos sesgos para empatizar mejor con los demás. Tu objetivo es entender a los usuarios, no complicar su retroalimentación con tus propias opiniones y emociones.
+
+
+### Mantente actualizado en la investigación en UX
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/6831f753-cf31-4c07-abe1-0babc05d7d39)
+
+Mantente actualizado en la investigación en UX. Sigue a los investigadores y únete a las comunidades en línea para mantenerte al día en la investigación que afecta a los diseñadores de experiencia de usuario y a los usuarios para los que estás diseñando. La investigación siempre está cambiando y evolucionando a medida que entendemos más sobre la psicología humana. Mantenerte al día te dará una ventaja en la forma en que entiendes e interactúas con tu audiencia. 
+
+
+### Empatía vs. simpatía 
+
+La empatía a veces se confunde con la simpatía, a pesar de que los dos términos no significan lo mismo. La empatía significa comprender los sentimientos o pensamientos de alguien, a menudo sientes dichas emociones tú mismo. La simpatía es la experiencia de mostrar preocupación o compasión sin sentir tales emociones. 
+
+
+
+El hecho de empatizar eficazmente con tus usuarios y hacer todo lo posible para comprender sus necesidades, crea una base excelente para una experiencia de producto que te ayudará a resolver sus problemas únicos. 
+
+### ¿Qué significa la empatía para ti?
+
+Diseñar con empatía mejorará los productos que creas. Al crear conexiones más profundas con los usuarios, entenderás mejor sus perspectivas y puntos débiles. Encontrar esa conexión lo antes posible puede guiarte por el camino correcto del diseño y evitar revisiones exhaustivas de tu producto durante una fase posterior del proceso de diseño.
+
+Con enfoque en la empatía, puedes diseñar un producto que ofrezca a los usuarios todo lo que necesitan y más. 
+
+Para obtener más información, consulta [https://www.dailymotion.com/video/x28nj7a](https://www.dailymotion.com/video/x28nj7a)
+este video sobre el poder de la empatía [del Dr. Brené Brown](https://www.dailymotion.com/video/x28nj7a).
+
+
 ---
 ---
