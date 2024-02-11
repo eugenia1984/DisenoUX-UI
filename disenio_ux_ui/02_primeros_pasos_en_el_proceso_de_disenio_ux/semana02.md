@@ -306,3 +306,143 @@ La investigación es una parte esencial del proceso de diseño de experiencia de
 
 ---
 ---
+
+# Modelo de la actividad: Reclutar participantes para las entrevistas de tu proyecto de portfolio
+
+Aquí hay un modelo terminado, junto con una explicación de por qué el modelo cumple con los requisitos de la actividad anterior.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/bb2f8913-26aa-4746-9e28-7ef9faa99154)
+
+## Modelo
+
+### Objetivos de la entrevista: 
+
+Quiero entender los desafíos frecuentes a los que se enfrentan las personas cuando intentan gestionar una apretada agenda y planificar sus comidas.
+
+Quiero identificar las frustraciones que experimentan las personas durante el proceso de hacer un pedido a un restaurante.  
+
+### Escribe las preguntas de la entrevista: 
+
+1. ¿Puedes describir tu horario actual y cómo equilibras tus responsabilidades al planificar tus comidas?
+
+2. ¿Con qué frecuencia pides comidas a un restaurante? Cuando lo haces, ¿por qué lo haces? 
+
+3. ¿A qué desafíos te enfrentas en el proceso de pedido? ¿Cómo te hace sentir esto?
+
+4. ¿Sientes que estos desafíos podrían resolverse de alguna manera?
+
+### Características del participante objetivo:
+
+- Entre 18 y 62 años de edad
+
+- Vive en áreas metropolitanas o suburbanas
+
+- Personas que piden comida a restaurantes al menos una vez a la semana
+
+- Incluye a participantes de diferentes géneros
+
+- Incluye a participantes con diferentes capacidades
+
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/4992cafb-57cc-4851-a178-44ac977f561b)
+
+## Evaluación del modelo
+
+En este ejemplo, se definieron los objetivos de entrevista específicos para la aplicación. En este caso, los objetivos eran aprender más sobre los desafíos frecuentes a los que se enfrentan las personas cuando intentan gestionar una apretada agenda y planificar sus comidas, así como algunas de las frustraciones que experimentan al pedir a un restaurante. Comprender estos objetivos en la entrevista ayudó a los investigadores a comprender las necesidades y dificultades de los usuarios a quienes se dirige la aplicación. 
+
+Al elegir a los participantes para entrevistar, se identificaron ciertas características de los participantes para garantizar que se entreviste a una muestra representativa. Como ejemplo, tenemos a la participante entrevistada Reena, una paramédica de 37 años que vive en un suburbio cerca de Denver, Colorado, que come afuera varias noches a la semana y tiene una agenda apretada. Para tus participantes, es importante incluir un grupo diverso pero específico de usuarios al realizar las entrevistas a fin de obtener los mejores datos. 
+
+Para la aplicación de Zia's Pizza, los participantes ideales eran personas de diferentes capacidades y géneros que tienen entre 18 y 62 años, piden comida a restaurantes al menos una vez a la semana y residen en áreas metropolitanas o suburbanas. 
+
+A continuación, aparecen las preguntas de la entrevista basándose en los objetivos identificados al principio del proceso. Esas preguntas fueron concebidas para que fueran abiertas a fin de fomentar una conversación detallada. Durante la entrevista, se redactaron claramente para que pudieran entenderse fácilmente. 
+
+Ahora, compara el ejemplo con el material de preparación de la entrevista de usuario ya completado. ¿Qué cosas hiciste bien? ¿En qué aspectos podrías mejorar? Utiliza tus respuestas a estas preguntas para guiarte a medida que avanzas en el curso.
+
+
+
+---
+---
+
+## :book: Prepararse para las entrevistas de usuario
+
+¡Hola nuevamente! Acabamos de cubrir cómo asegurar los participantes para tus entrevistas. 
+
+Ahora, debes prepararte para **llevar a cabo tales entrevistas**. 
+
+En este video, repasaremos lo que debes hacer, para que estés completamente preparado para que cada entrevista sea un éxito. 
+
+¿Alguna vez escuchaste la cita, **"Antes que nada, la preparación es la clave del éxito"**? Estoy seguro de que cuando el inventor Alexander Graham Bell dijo esas palabras en el siglo XIX, no tenía en mente el diseño de experiencia de usuario. Sin embargo, este es un gran consejo al momento de abordar una entrevista de usuario. Ya sea que estés llevando a cabo entrevistas en persona o en línea, prepararse con anticipación te ayudará a aprovechar al máximo el tiempo de entrevista limitado y a aprender tanto como sea posible sobre las perspectivas únicas del entrevistado. Hay muchas formas de prepararte para una entrevista.
+
+- Primero, escribe las preguntas de la entrevista. Se considera una buena práctica hacer las mismas preguntas a todos los usuarios, por lo que dicha lista de preguntas será tu guía durante la entrevista.
+
+- En segundo lugar, reúne los materiales que necesitarás para la entrevista, como una lista impresa de tus preguntas, una computadora o papel y lápiz, y cualquier equipo de grabación que puedas necesitar. Si estás utilizando nuevos equipos o tecnología durante la entrevista, asegúrate de saber cómo funcionan con anticipación. Por ejemplo, si estás llevando a cabo una entrevista en línea, debes asegurarte de estar familiarizado con la plataforma que utilizarás y verificar que el entrevistado tenga acceso a la tecnología antes de iniciar la entrevista. 
+
+Un buen diseñador de experiencia de usuario también tiene preparado un plan de respaldo, en caso de que surjan problemas con la tecnología. Esto podría ser tan simple como asegurarte de tener un número de teléfono para comunicarte con el participante. 
+
+- En tercer lugar, investiga a los usuarios. Si los usuarios que planeas entrevistar proporcionan su información personal antes de la entrevista, asegúrate de tomar nota de tales datos. Dicha información puede incluir sus nombres, información demográfica, experiencia de usuario relativa al producto que estás diseñando o detalles sobre cómo se enteraron de la entrevista. También puedes revisar sus respuestas a una encuesta de selección, si realizaste alguna antes de la entrevista. Por último, practica. Siempre es una buena idea practicar cómo harás las preguntas a los usuarios antes de llevar a cabo una entrevista real. Hacerlo te ayudará a asegurarte de que la entrevista se desarrolle sin problemas.
+
+Una vez que hayas cumplido con todos los pasos, finalmente estarás listo para reunirte con los participantes a entrevistar. Nos vemos en el siguiente video, donde repasaremos los pasos y las buenas prácticas para llevar a cabo tus entrevistas. ¡Nos vemos ahí!
+
+---
+
+## :book: Realizar las entrevistas de usuario
+
+¡Bienvenido nuevamente! Ahora que tus participantes están programados y has preparado los materiales para la entrevista, finalmente estás listo para llevar a cabo las entrevistas. 
+
+En este video, revisaremos los cuatro pasos para llevar a cabo entrevistas a los usuarios. 
+
+Como mencioné antes, llevar a cabo entrevistas con personas reales es una excelente manera de aprender más sobre las necesidades de los usuarios. Al igual que muchos otros diseñadores de experiencia de usuario, encuentro esta parte del proceso de diseño extremadamente emocionante. Para mí, interactuar con los usuarios para identificar los puntos débiles es como conectar las piezas de un rompecabezas. Al final de mis entrevistas, los que empezaron siendo puntos débiles independientes se unen para crear una mejor comprensión de lo que debe suceder para mejorar el producto. ¡Empecemos! 
+
+- El primer paso es **conocer al participante**. Enfrentémoslo. Conocer a extraños a veces puede ser incómodo. Es posible que no sepas qué esperar o no sepas qué decir. Tu trabajo como profesional de experiencia de usuario es **hacer que tus participantes se sientan relajados y a gusto**.
+
+Aquí tienes algunos consejos sobre cómo hacerlo : 
+
+-Construye una buena interacción. Se trata de establecer una interacción profesional pero amistosa. 
+
+-Puedes entablar una conversación ligera para empezar, algo como, ¿cómo va tu día? 
+
+-También deberías agradecerle al participante su participación. Agradecerles a los usuarios es parte de establecer una buena interacción y puedes hacerles sentir que se valoran sus opiniones y su tiempo. 
+
+-Tómate el tiempo para revisar los detalles legales que tus entrevistados deben conocer antes de empezar con la entrevista. Este puede ser un buen momento para presentar cualquier documento legal que requiera su consentimiento para publicar las grabaciones de audio. También puedes hacer que tus participantes firmen una verificación de que son mayores de 18 años y no necesitan el permiso de un padre o tutor. 
+
+-Recopila detalles básicos a medida que conoces a los usuarios. Recuerda preguntar sobre cualquier detalle que sea relevante para la entrevista como sus nombres e información demográfica. 
+
+-Empezar con preguntas que sean fáciles de responder para el participante puede darles un buen impulso y confianza. 
+
+-Por último, déjale saber al participante que no hay respuestas correctas o incorrectas. De esta manera, se sienten cómodos y no se preocupan por dar respuestas incorrectas.
+
+- Ahora estás listo para el segundo paso del proceso de entrevista, **llevar a cabo la entrevista**.
+
+Aquí hay un par de cosas que debes tener en cuenta al realizar las entrevistas: Sigue las normas para entrevistas. 
+
+Habla de forma clara y de manera concisa mientras haces las preguntas. 
+
+Es importante comportarse como un profesional sin importar cómo respondan los usuarios a una pregunta. Durante las entrevistas, recuerda también hacer preguntas abiertas. Hacer preguntas del tipo sí o no evitará que tu participante dé su opinión sincera sobre tu producto. En cambio, intenta hacer preguntas que empiecen con por qué o qué. Por ejemplo, si haces una pregunta como, ¿te gusta comprar en línea? Es probable que obtengas una de dos respuestas, sí o no. En cambio, haz una pregunta abierta como, ¿qué te gusta y qué no te gusta de las compras en línea? Hacer este tipo de preguntas te dará una comprensión más profunda de los sentimientos de los usuarios, como lo que les gusta y lo que no. 
+
+También debes hacer preguntas de seguimiento basadas en cómo el participante responde la pregunta inicial. 
+
+- Mientras llevas a cabo las entrevistas, recuerda **tomar notas**, que es el tercer paso para llevar a cabo una entrevista de usuario. 
+
+¿Alguna vez has tenido una gran conversación con un amigo y luego no has podido recordar los detalles de la conversación? Tal vez recuerdes cómo empezó y terminó la conversación, pero todo lo del medio es confuso. Esto nos pasa a todos y las entrevistas a los usuarios no son diferentes. Por eso es útil tomar notas durante la entrevista. 
+
+En el mundo de la experiencia de usuario, los investigadores que trabajan para empresas o en equipos suelen tener otros miembros moderadores o tomando notas durante la sesión. 
+
+Por ahora, tendrás que cumplir ambas funciones por tu cuenta. Mientras tomas notas, querrás resaltar citas convincentes. 
+
+Esas interesantes citas son excelentes indicadores sobre cómo piensan y sienten realmente los usuarios. 
+
+Se pueden incluir en mapas de empatía y testimonios de usuarios más adelante. 
+
+Documenta las observaciones sobre los participantes. 
+
+A veces, lo que hace un participante es tan importante como lo que dice. Será importante tomar notas sobre su estado de ánimo, expresiones, lenguaje corporal y comportamiento al crear los mapas de empatía. 
+
+- Por último, considera **grabar las entrevistas**. Cuando estás aprendiendo cómo llevar a cabo una investigación, la grabación es ideal. Puede ser útil más adelante cuando tengas que volver a escuchar las partes de una entrevista o tomes notas adicionales después de que termine la entrevista. Una vez más, es una buena práctica siempre pedirles a los participantes su permiso para grabarlos antes de empezar la entrevista. El cuarto y último paso para llevar a cabo una entrevista de usuario es concluir la entrevista. Al igual que en una carrera de atletismo, cuando te estás acercando a la línea de llegada de una entrevista, es importante terminar con la misma fuerza que cuando empezaste. Concluir una entrevista sin mostrar gratitud a los participantes por unirse a la entrevista puede hacer que se sientan incómodos o que deseen no haber aceptado participar. En cambio, deseas que se retiren sintiendo que sus opiniones fueron una contribución valiosa a tu proceso de diseño en general. Para hacer esto, finaliza la entrevista dándoles a los usuarios la oportunidad de compartir sus pensamientos finales sobre cualquier tema discutido durante la entrevista. Algunos participantes pueden abrirse sobre sus opiniones y revelar conocimientos que no compartieron antes. Puedes intentar preguntarles si hay algún punto nuevo que quieran agregar. Además, siempre debes agradecerles nuevamente a los participantes por su tiempo. Diles que aprecias que hayan participado en la entrevista y despídelos afectuosamente. Si les ofreciste algún incentivo a tus participantes para la entrevista, ahora es el momento de entregarlo.
+
+Eso es todo. 
+
+Espero que aprender estos pasos te ayude a que abordar una entrevista se sienta menos intimidante. Seguir cada uno de estos pasos en orden aumenta la probabilidad de que tu entrevista se desarrolle sin problemas. En el siguiente video, seguirás con la creación de un mapa de empatía. ¡Nos vemos ahí!
+
+---
