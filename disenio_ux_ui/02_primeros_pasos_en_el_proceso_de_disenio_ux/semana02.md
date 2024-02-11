@@ -619,3 +619,177 @@ Ahora, tenemos un mapa de empatía agregado completo que representa un segmento 
 En la próxima actividad, revisarás las entrevistas que has realizado y comenzarás a crear tus propios mapas de empatía a partir de la retroalimentación de los usuarios reales. ¡Buena suerte!
 
 ---
+
+##  Crear un mapa de empatía a partir de la transcripción de una entrevista
+
+Para empatizar con los usuarios, los diseñadores e investigadores de experiencia de usuario suelen realizar entrevistas. Las entrevistas pueden ayudarte a entender las perspectivas de los usuarios y conocer sus puntos débiles. ¡Pero entrevistar a los usuarios es solo el inicio del proceso de investigación en UX! Si bien las entrevistas proporcionan mucha información, el mapa de empatía te acercará a identificar las necesidades reales de tus usuarios. 
+
+Recuerda que los mapas de empatía son gráficos de fácil comprensión que explican todo lo que los diseñadores de experiencia de usuario han aprendido sobre un tipo particular de usuario. Los mapas de empatía dividen cada entrevista en piezas de información comprensible.
+
+En esta lectura, aprenderás sobre los mapas de empatía de un usuario, los cuales son mapas de empatía que se crean tomando la transcripción de la entrevista de un usuario y convirtiéndola en un mapa de empatía.
+
+### Mapas de empatía en acción 
+
+Imagina que tu empresa está creando una nueva aplicación para reservar paseadores de perros. El propósito de la aplicación es hacer coincidir a los paseadores de perros calificados con los clientes que necesitan ayuda para cuidar a sus perros, de forma similar a una aplicación de transporte compartido o para compartir una casa. Estás en el equipo de experiencia de usuario y tu equipo se encuentra en las primeras etapas del diseño de la aplicación y de la comprensión de los puntos débiles de los usuarios. 
+
+Un colega ya ha entrevistado a dueños de perros y paseadores de perros profesionales que se espera utilicen la aplicación con regularidad. Ahora es tu responsabilidad resumir cada transcripción de la entrevista. La transcripción de la entrevista es una versión escrita o mecanografiada de una conversación que ha sido grabada. Tu trabajo consiste en resumir las transcripciones utilizando mapas de empatía y presentar los mapas al resto de tu equipo.
+
+Echa un vistazo a este ejemplo de transcripción de la entrevista con Makayla, una maestra de cuarto grado con dos perros. Puedes leer la transcripción completa a continuación, o consultar el documento de ejemplo que aparece a continuación en una ventana separada mientras sigues con el resto de la lectura.
+
+Para ver la transcripción de la entrevista de Makayla externamente, puedes encontrarla a continuación:
+
+Para ver el modelo completo de este ítem del curso, haz clic en el enlace a continuación y selecciona «Usar plantilla». 
+
+### Transcripción de la entrevista
+
+Nombre: Makayla Scott
+
+Situación: Makayla es una maestra de 45 años que se identifica como mujer y vive en Houston, Texas. Tiene dos perros. Makayla tiene un trabajo exigente como maestra de cuarto grado. También es voluntaria como entrenadora de voleibol después de la escuela. La pareja de Makayla trabaja a tiempo completo como cirujano pediátrico y cambia regularmente entre el turno de noche y el turno de día en un hospital local.  
+
+[Investigador de experiencia de usuario]¿Puedes describir tu situación laboral actual y cómo cuidas a tus perros?  
+
+[Makayla] Trabajo como maestra y entreno voleibol después de la escuela, así que mis cachorros Reggie y Snowball a menudo se quedan solos en casa durante largos períodos de tiempo. Mi pareja trabaja en la guardia de un hospital, lo que a menudo significa turnos de 12 horas durante el día o la noche. Cuando nuestros horarios se superponen, definitivamente necesitamos ayuda para sacar a pasear a Reggie y Snowball.
+
+[UXR]¿A qué desafíos te enfrentas al gestionar el cuidado de tus perros?  ¿Cómo te hace sentir esto?
+
+[Makayla] ¡Amo a mis perros! Tienen tanta energía. Si fuera por ellos, saldrían a caminar cinco veces al día. Pero, con nuestros horarios, es difícil sacarlos tanto como nos gustaría. Puedo sacarlos a primera hora de la mañana y de nuevo por la noche. A veces, le pago al hijo de 17 años de mi vecino de al lado para que los saque a pasear. Sin embargo, el verdadero problema radica en nuestra agenda de viajes. A mi pareja y a mí nos gusta hacer muchos viajes y no siempre podemos llevar a nuestras mascotas con nosotros. Planificar nuestros viajes sería mucho más fácil si pudiéramos reservar un paseador de perros. 
+
+El hijo de nuestro vecino se gradúa este año y su agenda se está volviendo inconsistente. No puedo contar con él a último momento, y me preocupa que no tenga la experiencia adecuada para cuando haga viajes más largos. Quiero decir, claro, un chico de 17 años está bien para las caminatas diarias. Pero, ¿y si se lleva a los perros un fin de semana y Snowball se enferma? ¿Cómo sabrá qué hacer? ¿Cómo sabrá si debería llamarme? Definitivamente me preocupa, pero no puedo gastar el dinero en una guardería para perros.
+
+También hay muchos lugares donde no puedo llevar a Reggie, que es un perro mucho más grande que Snowball. No es hipoalergénico como Snowball. Y, debido a que es tan grande, incluso llevarlo de viaje por carretera puede ser muy difícil. Nos mudamos a Houston el año pasado y no hay mucha gente a la que podamos pedirle ayuda. He considerado poner un anuncio en línea, pero no estoy segura de cómo sabría a quién dejar que entre en mi casa o quién es bueno con los perros.  
+
+[UXR]¿Sientes que estos desafíos podrían resolverse? 
+
+[Makayla] Me encantaría encontrar un paseador de perros mediante una preselección y conocerlo un poco más. Y me encantaría poder reservar a alguien de manera continua. Tal vez alguien que pueda trabajar los fines de semana con regularidad y que pueda comprometerse en momentos específicos mientras estoy trabajando. Podría perfectamente programar los días de cuidado de mis perros con anticipación. ¡Solo necesito un paseador de perros constante que pueda conocer mediante una preselección para asegurarme de que sea seguro y bueno con los animales! Estoy dispuesta a pagar un poco más para conseguir a alguien así en lugar de pedirle ayuda constantemente a mi vecino. 
+
+### Crear un mapa de empatía
+
+Ahora que has tenido la oportunidad de revisar la transcripción de la entrevista de Makayla, vamos a desglosar los pasos para crear un mapa de empatía. Como recordatorio, esto es lo que incluye un mapa de empatía: 
+
+Puedes completar este mapa de empatía en unos pocos pasos.
+
+**Paso 1: Agrega el nombre del usuario**. Incluye el nombre de la persona entrevistada en tu mapa de empatía. Tener un nombre adjunto te ayudará por si alguna vez necesitas volver atrás en la transcripción original o en la investigación, y distinguir este mapa de otros mapas que hayas creado.
+
+**Paso 2: En el cuadrado «DICE»**. Usa citas literales extraídas de la entrevista. En otras palabras, escribe exactamente lo que dijo la persona; no lo resumas con tus propias palabras. Si resumes una cita, podrías malinterpretar lo que quiere decir el usuario. También es útil intentar capturar temas durante la entrevista que estén relacionados con el producto que estás investigando. Por ejemplo, si el usuario vuelve a plantear el mismo problema varias veces durante la entrevista, probablemente se trate de un problema importante. Presta especial atención a los desafíos que plantea tu usuario y registra cualquier beneficio o expectativa deseada que mencione. 
+
+**Paso 3: El cuadrado «PIENSA»**. Aquí puedes resumir los pensamientos expresados por el usuario. Agrega sentimientos que el usuario transmitió a través del lenguaje corporal, el tono u otros indicadores notables, incluso si no te los expresó verbalmente. Puedes inferir algunos de estos sentimientos, pero debes tener cuidado de no hacer suposiciones sobre el usuario. Por ejemplo, Makayla expresó su preocupación por el hijo adolescente de su vecino y mencionó su edad y sus calificaciones. Se supone que Makayla quiere un paseador de perros adulto. Una inferencia es que quiere un paseador de perros con auto y licencia de conducir que pueda llevar al perro al veterinario en caso de emergencia. Siempre puedes pedir a tu usuario que te aclare su lenguaje corporal si encuentras alguna contradicción.  
+
+**Paso 4: El cuadrado «HACE»**. Makayla nos dio bastante detalle sobre los pasos y las acciones que toma para superar los desafíos que enfrenta al momento de pasear los perros. Todas esas acciones pueden ir en el cuadrado «HACE».
+
+**Paso 5: El cuadrado «SIENTE»**. Enumera los sentimientos que expresa el usuario. Las notas que incluyas pueden superponerse con algunas de las que enumeraste en el cuadrado «PIENSA». ¡Está bien! Este proceso pretende ser una documentación exhaustiva de tus observaciones. Si eres la persona que realiza la entrevista, es posible que notes signos de sentimientos como enojo, frustración, emoción y otros. Si el usuario no menciona explícitamente ningún sentimiento durante la entrevista, puedes buscar sentimientos con la pregunta: «¿Cómo te hace sentir esto?»
+
+### Ejemplo de mapa de empatía para Makayla
+
+Ahora que has revisado la transcripción de la entrevista y los pasos para crear un mapa de empatía, ¡usemos nuestra plantilla para poner manos a la obra! Aquí tienes un mapa de empatía para Makayla:
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/4c40638c-dd03-426d-b401-5212e80e9738)
+
+
+### DICE
+
+- «No estoy segura de cómo sabría a quién dejar que entre en mi casa o quién es bueno con los perros».
+
+- «Me encantaría encontrar un paseador de perros que pudiera preseleccionar».
+
+- «Y me encantaría poder reservar a alguien de manera continua».
+
+- «Podría perfectamente programar los días de cuidado de mis perros con anticipación».
+
+- «... no hay mucha gente a la que podamos pedirle ayuda»
+
+- «Estoy dispuesta a pagar un poco más para conseguir... esto»
+
+### PIENSA
+
+- Quiere reservar paseadores de perros recurrentes
+
+- Le gustaría preseleccionar a los paseadores de perros
+
+- Le gustaría encontrar paseadores de perros con antelación 
+
+- Pasear perros es caro
+
+- Le gustaría un paseador de perros que tenga experiencia con animales
+
+- No conoce a suficientes personas para pedirles que saquen a pasear a sus perros 
+
+- Quiere un paseador de perros más consistente
+
+### HACE 
+
+- Trabaja a tiempo completo como maestra
+
+- Pasea a sus perros a primera hora de la mañana y por la noche
+
+- Paga a su vecino, un estudiante de secundaria de 17 años, para que pasee a los perros 
+
+### SE SIENTE
+
+- Culpable cuando no puede sacar a pasear a sus perros
+
+- Triste por no poder pasar más tiempo con sus perros
+
+- Triste por no poder llevar a sus perros de vacaciones
+
+- Preocupada por encontrar un paseador de perros consistente y dedicado que pueda comprometerse con su agenda
+
+- Preocupada por las necesidades de su perro más grande 
+
+- Preocupada por la capacidad de su actual paseador de perros para manejar una posible enfermedad repentina de su perro
+
+
+Este mapa de empatía desglosa todos los puntos que necesitará tu equipo para determinar cómo tu aplicación puede satisfacer las necesidades de Makayla. El verdadero desafío comienza cuando trazas los mapas de empatía de todas las entrevistas con los usuarios y descubres cómo se superponen las necesidades de cada posible usuario. 
+
+###  Tipos de mapas de empatía
+
+Es importante entender que existen dos tipos de mapas de empatía: mapas de empatía de un usuario y mapas de empatía agregados (también conocidos como «mapas de empatía de varios usuarios»). Los mapas de empatía de un usuario se crean tomando la transcripción de la entrevista de un usuario y convirtiéndola en un mapa de empatía, como el ejemplo anterior en esta lectura. Este enfoque ayuda a los diseñadores a filtrar los pensamientos, sentimientos y rasgos de un solo usuario en un formato del que es más fácil recopilar los datos.
+
+El otro tipo de mapa de empatía, un mapa de empatía agregado, representa a un grupo de usuarios que comparten pensamientos, opiniones o cualidades similares. Los mapas de empatía agregados se crean construyendo varios mapas de empatía de un solo usuario a partir de las transcripciones de las entrevistas, y luego combinando los mapas donde los usuarios expresaron cosas similares en un nuevo mapa de empatía. Esto ayuda a los diseñadores a identificar segmentos o grupos de personas con tendencias similares que utilizarán el producto. Los conocimientos de los mapas de empatía agregados permiten que los diseñadores identifiquen los temas, lo cual les ayuda a empatizar mejor con los grupos para los que están diseñando. Para obtener más información sobre los diferentes tipos de mapas de empatía, consulta este artículo sobre 
+mapas de empatía
+ de Nielsen Norman Group.
+
+Estás empezando a entender lo que significa empatizar con los usuarios. Cada vez que interactúas con un posible usuario, te acercas un poco más a entender sus perspectivas y puntos débiles. ¡Buena suerte!
+
+---
+---
+
+## :tv: Identificar los puntos débiles del usuario
+
+
+¡Bienvenido nuevamente! Anteriormente, aprendiste por qué empatizar es tan importante. Como diseñador de experiencia de usuario, empatizar es tu superpoder número uno porque te ayuda a detectar problemas del usuario. Resolver los problemas del usuario es el objetivo final del diseño de experiencia de usuario. Pero, ¿cómo saber si un problema es realmente un problema? Empecemos ahora mismo. Piensa en las resoluciones de Año Nuevo. La mayoría de nosotros nos fijamos objetivos a principios de año, ¿pero cuántos de nosotros sostenemos esos objetivos? Bueno, resulta que no muchos. El ochenta por ciento de las resoluciones de Año Nuevo fallan porque no son claras o establecemos expectativas poco realistas.
+
+
+Los diseñadores de experiencia de usuario enfrentan similares desafíos a la hora de establecer objetivos. Para estar seguro de que estás abordando algo con lo que puedas impactar, debes establecer objetivos claros y prácticos centrándote en los problemas del usuario. Por lo tanto, identifiquemos esos problemas del usuario. Por ahora, una cosa debería estar bastante clara: **el diseño de experiencia de usuario tiene que ver con el usuario**. Siempre, siempre estás diseñando para el usuario. Pero, **¿quién es el usuario y cuáles son sus luchas?** Para averiguarlo, necesitas leer la mente. De acuerdo, no tienes que leer la mente exactamente, pero necesitas usar tu superpoder: **tu capacidad de empatizar**. 
+
+Necesitas investigar para entrar en la cabeza del usuario y comprender de dónde vienen. También debes anticipar tanto las necesidades que los usuarios saben que tienen como las necesidades que no saben que tienen. Eso es raro, ¿verdad? ¿Cómo es que los usuarios no saben lo que necesitan? Aquí hay un ejemplo: En el apogeo de los teléfonos con tapa, los clientes podrían haber pensado que necesitaban una batería de mayor duración, una interfaz más grande, una forma más fácil de enviar mensajes de texto. Pero no tenían idea de que necesitaban teléfonos inteligentes. La mayoría de nosotros ni siquiera sabíamos que los teléfonos inteligentes eran posibles. Así que cuando Apple presentó el primer teléfono inteligente modernizado en 2007, nos deslumbró todo lo que podía hacer. Tener un teléfono inteligente se convirtió rápidamente en una necesidad para muchos de nosotros.
+
+
+Así que si reduces todo lo que hace un diseñador de experiencia de usuario a una sola función, esa función es la de **solucionador de problemas**, y** resolver las dificultades de los usuarios o los puntos débiles está en el primer puesto de la lista**. Los **puntos débiles** son **cualquier problema de experiencia de usuario que frustre al usuario y evite que el usuario consiga lo que necesita**. ¿Recuerdas Norman Door? Si esperas que una puerta se abra, la puerta debería abrirse. Si no lo hace, ese es un punto débil para el usuario. ¿O qué tal este? ¿Alguna vez has visitado el sitio web de una empresa para encontrar su información de servicio de atención al cliente? Haces clic en pestaña tras pestaña, te desplazas página tras página, ¿y aún no la encuentras? Ese es un punto débil del usuario. La mayoría de los puntos débiles se clasifican en una de cuatro categorías. 
+
+- **Los puntos débiles financieros** son problemas del usuario relacionados con, lo adivinaste, el dinero. Si alguna vez te has perdido en un artículo en línea, solo para ser interrumpido bruscamente por un mensaje de pago, ya sabes a qué me refiero.
+
+- También hay **puntos débiles del producto**. Suelen ser problemas de calidad relacionados con el producto. Norman Doors entra en esta categoría.
+
+
+- A continuación, existen los **puntos débiles del proceso**. Son frustraciones que impiden que el usuario pase del punto A al punto B. Por ejemplo, ¿alguna vez has comprado en línea y has tenido problemas para obtener el artículo que deseas pagar? Ese es un punto débil del proceso y eso podría dar como resultado que la empresa pierda un cliente.
+
+- Y, por último, hay **puntos débiles de soporte**. Cuando los usuarios interactúan con tu producto, podrían tener preguntas. Si no pueden encontrar respuestas a sus preguntas, no se sentirán respaldados. La información de servicio al cliente que está oculta en un sitio web está incluida en esta categoría. ¿Recuerdas cuando dije que los diseñadores necesitan leer la mente? Bueno, también necesitamos leer los corazones.
+
+  ![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/523817aa-bc9a-464f-a4d6-05a2ab1630d9)
+
+
+`BRAIN + HART = USER EXPERIENCE`
+
+Creo que es seguro decir que todos hemos experimentado este tipo de puntos débiles. Sabemos cómo se siente. Como diseñador, necesitas saber cómo se siente tu usuario. En otras palabras, necesitas tener empatía por tu usuario. Vuelve a pensar en el experimento de la puerta. 
+
+Abrir la puerta es posible pero no siempre es fácil. ¿Qué pasa si nuestro usuario está en silla de ruedas? ¿Qué pasa si no pueden alcanzar la perilla? ¿Qué pasa si no tienen suficiente fuerza? Quieres considerar a todos los usuarios. 
+
+Pensemos nuevamente en un mapa de empatía. Los mapas de empatía nos muestran lo que el usuario piensa, dice, hace y siente. 
+
+Los mapas de empatía nos ayudan a pensar como el usuario lo hace, permitiéndonos identificar sus puntos débiles. Este es solo el comienzo. Realmente queremos conocer a nuestros usuarios, y es por eso que los diseñadores crean personas de usuarios. Averigüemos de qué se tratan las personas.
+
+---
+---
+
+---
