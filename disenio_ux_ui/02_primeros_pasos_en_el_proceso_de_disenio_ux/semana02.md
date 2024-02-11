@@ -446,3 +446,74 @@ Eso es todo.
 Espero que aprender estos pasos te ayude a que abordar una entrevista se sienta menos intimidante. Seguir cada uno de estos pasos en orden aumenta la probabilidad de que tu entrevista se desarrolle sin problemas. En el siguiente video, seguirás con la creación de un mapa de empatía. ¡Nos vemos ahí!
 
 ---
+---
+
+## :book: Realizar las entrevistas de usuario
+
+Como diseñador de experiencia de usuario, siempre te centrarás en el usuario y en la experiencia que tendrá con el producto que estás diseñando. En este curso, aprenderás sobre la primera fase del proceso de diseño, empatizar con los usuarios, lo cual es fundamental a la hora de crear una excelente experiencia de usuario. Para empatizar con los usuarios y comprender sus puntos débiles, tendrás que realizar entrevistas con personas reales que podrían usar el producto que estás diseñando.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2376918c-f9b6-4adf-bf56-503d33f45475)
+
+## Prepárate para la entrevista
+
+Ya sea que realices entrevistas en persona o en línea, es importante estar preparado antes de hablar con usuarios reales. Quieres aprovechar al máximo el tiempo limitado que tienes para estar con el entrevistado y aprender lo más que puedas sobre sus perspectivas únicas. Estas son algunas cosas que puedes hacer para prepararte para las entrevistas:
+
+**Escribir las preguntas de la entrevista** Elabora una lista de preguntas para hacerles a todos los usuarios que entrevistes. Se considera una práctica recomendada mantener la coherencia de las preguntas para las entrevistas entre los usuarios, pero esta lista de preguntas es solo una guía. Si es necesario, puedes desviarte de las preguntas que has preparado para obtener más información sobre el usuario y sus puntos débiles.
+
+**Preparar los suministros**. Crea una lista de verificación de los elementos que necesitarás para la entrevista, como una computadora, una lista impresa de preguntas o papel y lápiz. Si utilizas equipo o tecnología nuevos durante la entrevista, asegúrate de saber de antemano cómo funciona.
+
+**Investigar a los usuarios**. Tómate el tiempo para aprender lo más que puedas sobre las personas a las que entrevistarás. Si los usuarios que estás preparando para la entrevista proporcionan su información personal antes de la entrevista, asegúrate de tomar nota de ello. Esta información puede incluir su nombre, información demográfica, experiencia relevante con el producto que estás diseñando o detalles sobre cómo se enteraron de la entrevista. Puedes usar esta información para extender la conversación durante la entrevista y establecer una buena relación. Cuando trabajas para una organización, también puedes seleccionar a los participantes en sitios como LinkedIn para confirmar que son quienes dicen ser. ¡No querrás entrevistar accidentalmente a alguien que está trabajando para la competencia!
+
+**Practicar**. Siempre es una buena idea practicar cómo formular las preguntas que harás a los usuarios antes de realizar una entrevista real. Esto te da tiempo para hacer cambios en las preguntas que planeas hacer y te ayuda a garantizar que las entrevistas se desarrollen sin problemas. Practicar también es una buena manera de determinar si la duración de la entrevista es adecuada o si necesitas agregar o eliminar preguntas de tu lista. Puedes practicar cómo hacer las preguntas de la entrevista frente a un espejo o con un colega de confianza.
+
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e13e5e93-7cd2-4030-aeaf-b9a01439012a)
+
+
+## Conocer al participante
+
+¡La primera impresión importa! Cuando te encuentras con los usuarios por primera vez, al inicio de una entrevista, quieres que la conversación sea exitosa. Estas son algunas cosas que puedes hacer cuando te reúnas con los participantes de la entrevista:
+
+**Construir una buena interacción**. Construir una buena interacción consiste en establecer una relación profesional, pero amigable. Tener una conversación relajada, como preguntar cómo estuvo su día, puede ayudar a establecer una relación con el usuario antes de que empiece la entrevista. Las preguntas sencillas y los gestos de bienvenida pueden tranquilizar al usuario, lo que le ayudará a compartir sus verdaderos sentimientos una vez que empiece la entrevista. 
+
+**Darles las gracias por venir a los usuarios**. Antes de empezar la entrevista, dales las gracias a las personas que estás entrevistando por tomarse el tiempo para reunirse contigo y compartir sus perspectivas. Agradecer a los usuarios es parte de establecer una buena interacción y puede ayudarles a sentir que sus opiniones son valiosas. 
+
+**Reunir los detalles básicos**. Cuando conozcas a los usuarios, recuerda obtener información básica que sea relevante para la entrevista, como su nombre o datos demográficos.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/961715b7-0a9e-4eaf-8ad5-b3285b22bb08)
+
+## Realizar la entrevista
+
+Realizar entrevistas como una forma de empatizar con los usuarios consiste en hacer que el usuario se sienta cómodo y hacer muchas preguntas. Aquí hay un par de cosas que debes tener en cuenta al realizar las entrevistas:
+
+**Sigue las normas de etiqueta de la entrevista**. Habla de forma clara y concisa mientras haces preguntas y mantén un nivel profesional sin importar cómo respondan los usuarios a las preguntas. Demuestra que estás escuchando activamente mientras los usuarios comparten sus perspectivas, asintiendo con la cabeza, haciendo contacto visual adecuado o tomando notas.
+
+**Haz preguntas abiertas**. Evita hacer preguntas que conduzcan a una respuesta simple del tipo «sí» o «no». En su lugar, haz preguntas que empiecen con «por qué». Por ejemplo, evita preguntar «¿Te gusta ir a la biblioteca?» y en su lugar pregunta «¿Por qué te gusta o no te gusta ir a la biblioteca?» Esto dará lugar a conversaciones más detalladas que pueden revelar información útil para incluir en el producto que estás diseñando. Si el participante da una respuesta breve de «sí» o «no», debes hacer una pregunta de seguimiento para que comparta más información.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/a9da524f-74bf-49b9-8ee3-fba7b9b59a48)
+
+## Toma notas
+
+Las entrevistas tienden a realizarse rápidamente. Sin tomar notas, ¡es casi imposible contar exactamente lo que expresaron los participantes! Mientras observas y escuchas a los participantes durante la entrevista, escribe todo lo que puedas capturar. Una lista sólida de notas será útil para crear mapas de empatía y cuando se te ocurran ideas para resolver los puntos débiles de los usuarios. Estas son algunas buenas prácticas para ayudarte a tomar notas durante las entrevistas:
+
+**Resalta las citas atractivas**. La parte más obvia de una entrevista es tomar notas sobre lo que dice el usuario. Las citas interesantes son indicadores sólidos sobre cómo piensan y sienten realmente los usuarios. Incluir citas en tus mapas de empatía es una excelente manera de presentar una perspectiva de primera mano de un usuario real, lo que puede proporcionar información valiosa al empezar tus diseños. 
+
+**Documenta las observaciones sobre los participantes**. Es importante registrar no solo lo que dicen los usuarios, sino también su estado de ánimo, expresiones, lenguaje corporal y comportamientos. Presta especial atención a los factores externos, como un ruido o una distracción, que podrían sesgar las respuestas de la entrevista. Será importante tener en cuenta todas estas observaciones al crear mapas de empatía.
+
+**Considera grabar las entrevistas**. Pregunta a los participantes si te permitirán grabar sus entrevistas. Si dan su consentimiento, las entrevistas grabadas pueden ser realmente útiles más adelante, para revisar partes de una entrevista que quizás no recuerdes o tomar notas adicionales después de que la entrevista concluya. 
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/acf95964-1d34-4387-bbd9-1675f869cc5a)
+
+## Finaliza la entrevista
+
+Una vez que hayas hecho todas las preguntas de la entrevista, dales a los usuarios la oportunidad de compartir sus ideas finales sobre cualquier tema discutido durante la entrevista. Es posible que algunos participantes se abran, den sus opiniones y revelen ideas que no compartieron antes. 
+
+Además, recuerda darles las gracias a los participantes una vez más. Quieres que los participantes salgan de la entrevista sintiéndose bien contigo, con tu futuro producto y con la marca a la que podrías representar. 
+
+
+---
+
