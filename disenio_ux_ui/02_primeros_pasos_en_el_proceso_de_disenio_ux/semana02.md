@@ -517,3 +517,105 @@ Además, recuerda darles las gracias a los participantes una vez más. Quieres q
 
 ---
 
+
+## Crear transcripciones de las entrevistas
+
+Es hora de organizar la información que recopilaste durante las entrevistas! Crearás transcripciones de las entrevistas, que son una versión escrita o mecanografiada de una conversación que hayas grabado. Las transcripciones de las entrevistas pueden ser útiles cuando necesitas escanear rápida y fácilmente el contenido de la entrevista para buscar citas clave o retroalimentación de los participantes en la investigación. 
+
+Para crear transcripciones de entrevistas, necesitarás las grabaciones de las entrevistas que realizaste, una forma de reproducir la grabación, y lápiz y papel o un documento de Word para escribir. 
+
+Sigue estos pasos para transcribir tus entrevistas:
+
+1. **Para cada entrevista, crea un documento nuevo o toma una hoja de papel en blanco.**
+
+- Escribe el nombre del participante en la parte superior de la hoja. 
+
+- Crea una breve introducción sobre el participante, que incluya información demográfica, como la edad y el cargo del participante, y el contexto del participante que sea relevante para el producto que vas a diseñar.  
+
+2. **Escribe las preguntas de la entrevista en el orden en que fueron formuladas.** 
+
+
+- Coloca [Investigador de experiencia de usuario] o el nombre del entrevistador en negrita y entre paréntesis antes de cada pregunta formulada durante la entrevista. 
+
+- Pon el nombre del participante en negrita y entre paréntesis antes de cada espacio de respuesta abierta.
+
+La configuración de la transcripción de tu entrevista podría ser la siguiente: 
+
+[Investigador de experiencia de usuario] ¿Podrías describir tu experiencia con la búsqueda y reserva de paseadores de perros?
+
+[Makayla]
+
+Si vas a transcribir las entrevistas en papel, recuerda dejar espacio suficiente después de cada pregunta de la entrevista para completar con las respuestas que proporcionó el participante.
+
+3. **Reproduce la grabación de la entrevista y escribe las respuestas del participante a cada pregunta palabra por palabra**. Prepárate para poner en pausa la grabación a fin de tener tiempo de transcribirla. 
+
+Crear transcripciones de entrevistas es una forma útil de organizar tu investigación. Aunque lleva tiempo, tener una cuenta la retroalimentación de los participantes palabra por palabra hace que sea más fácil compartir citas importantes y puede ayudarte a identificar los temas en las entrevistas. Tus transcripciones serán especialmente útiles cuando empieces a resumir los datos de las entrevistas más adelante.  
+
+---
+
+## :book: Mapas de empatía
+
+¡Hola y bienvenido nuevamente! ¿Cómo estuvieron tus entrevistas con los usuarios? Estoy seguro de que ya estas empezando a comprender mejor a tus usuarios. 
+
+A medida que avanzamos en esta etapa del proceso de diseño, una forma en que podemos visualizar la empatía es creando un **mapa de empatía**.
+
+### Definicion
+
+Un mapa de empatía es un gráfico de fácil comprensión que explica todo lo que los diseñadores han aprendido sobre un tipo de usuario. 
+
+Un mapa de empatía consta de cuatro cuadrados, que muestran lo que el usuario:
+
+- dice
+
+- hace
+
+- piensa
+
+- siente.
+
+La palabra usuario va en el medio, justo donde se cruzan estos cuadrados.
+
+Ahora estás listo para completar los cuadrados. 
+
+Ten en cuenta que existen dos tipos de mapas de empatía. 
+
+- Los mapas de empatía de un usuario, donde registras los comentarios de un solo usuario
+
+- Los mapas de empatía agregados, donde consolidas la retroalimentación de un grupo de usuarios.
+
+
+Empecemos por crear un mapa de empatía de un usuario, y luego pasaremos a un mapa de empatía agregado. Imagina que estás en un equipo que crea una aplicación que promete la entrega de comida en 30 minutos o menos. Entrevistas a los usuarios sobre sus experiencias con la entrega de comida. 
+
+La parte superior izquierda de tu mapa de empatía incluye **lo que dice el usuario** durante la entrevista. Cuando hagas esto, usa citas directas si puedes. Por ejemplo, un usuario, Simone, ha pedido comida a través de otras aplicaciones de entrega antes. Simone podría decir algo como, "Me gustaría que las aplicaciones de entrega de comida proporcionen estimaciones de tiempo más precisas". Deberíamos escribir esta cita directa de Simone en el cuadrado de lo que se dice en nuestro mapa de empatía. 
+
+A continuación, el cuadrado inferior izquierdo se centra en **lo que hace el usuario**. Pueden ser acciones o comportamientos que el usuario comparte en sus respuestas o incluso acciones físicas del usuario durante la entrevista. Por ejemplo, Simone podría compartir cómo solo pide la entrega cuando come solo en casa. 
+
+El cuadrado superior derecho se centra en **lo que piensa el usuario**. Esto incluye cosas que el usuario en realidad no dice, pero que tú puedes deducir a través de la observación. Las expresiones faciales son una excelente manera de comprender lo que piensa un usuario. Un ceño fruncido podría indicar que Simone está escéptica sobre la garantía de 30 minutos o menos. 
+
+Finalmente, el cuadrado inferior derecho del mapa de empatía se centra en **lo que siente el usuario**. Podrías preguntarle directamente a Simone qué siente durante la entrevista, siempre que se haga de forma abierta. Por ejemplo, podrías preguntar, ``¿cómo te sentiste cuando intentaste realizar pedidos de entrega a través de una aplicación?``
+
+Después de la entrevista, completa el cuadrado de sentimientos con estas observaciones y así terminamos el mapa de empatía de Simone, ¡buen trabajo! 
+
+### Mapas de empatía agregados
+
+A continuación, aprenderás a crear mapas de empatía agregados. Ahora que sabes cómo crear mapas de empatía para un usuario, es hora de tomar lo que has aprendido sobre un solo usuario y aplicarlo a varios usuarios. *
+
+*Los mapas de empatía agregados representan una visualización de todo lo que los diseñadores saben sobre un segmento de usuarios completo o un grupo de usuarios similares, no solo un usuario**. 
+
+Los mapas de empatía agregados tienen el mismo aspecto que los mapas de empatía de un usuario. Desglosan la información que hemos recolectado sobre nuestro segmento de usuarios en cuatro categorías, dice, hace, piensa y siente. La diferencia es que los mapas de empatía agregados **incluyen información que se recopila de varios usuarios**. 
+
+Siguiendo con nuestro ejemplo, digamos que el día que entrevistaste a Simone, también entrevistaste a Miranda y Louis. En el cuadrado de lo que se dice, Miranda menciona algo similar a lo que Simone dijo sobre las estimaciones precisas. Pero Louis dice: ``"Me gustaría poder realizar un seguimiento en vivo de mi entrega de comida"``. Agregaremos esa respuesta debajo de la respuesta de Simone en el cuadrado de lo que se dice. 
+
+Para el cuadrado de lo que se hace, algo que tanto Miranda como Louis compartieron fue que ordenan la entrega los días de semana con más frecuencia que los fines de semana, por lo que agregaremos eso al cuadrado de lo que hace. 
+
+Ahora estamos en el cuadrado de lo que se piensa. Durante la entrevista, Louis comparte que sería bueno si sus restaurantes favoritos tuvieran una opción de entrega. Agreguemos esto al cuadrado de lo que se piensa. 
+
+A continuación, Simone respondió a la pregunta, ¿cómo te sentiste cuando intentaste realizar un pedido de entrega a través de una aplicación? Expresó frustración por la falta de instrucciones en la mayoría de las aplicaciones de entrega de comida. Primero agregaremos esta respuesta al cuadrado de lo que se siente. Louis declaró sentirse molesto al intentar navegar por las aplicaciones de entrega. Agregaremos esa retroalimentación al final. 
+
+Ahora, tenemos un mapa de empatía agregado completo que representa un segmento de usuarios completo. Crear un mapa de empatía agregado puede parecer abrumador, pero ten en cuenta que quieres que represente todo un segmento de usuarios que has entrevistado. Mientras piensas en las formas de agrupar los comentarios de los usuarios, recuerda que cada mapa debe reflejar un segmento de usuarios diferente con pensamientos y necesidades específicas. Por ejemplo, si entrevistas a algunos usuarios que encuentran la aplicación fácil de usar y no tienen problemas o quejas reales, ese segmento de usuarios estaría representado por un mapa de empatía agregado diferente, luego los usuarios que se sintieron frustrados cuando intentaron usar la aplicación. 
+
+¿Listo para empezar a pensar en crear mapas de empatía para tu proyecto? 
+
+En la próxima actividad, revisarás las entrevistas que has realizado y comenzarás a crear tus propios mapas de empatía a partir de la retroalimentación de los usuarios reales. ¡Buena suerte!
+
+---
