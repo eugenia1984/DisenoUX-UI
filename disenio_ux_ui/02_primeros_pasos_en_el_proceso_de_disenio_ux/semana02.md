@@ -792,4 +792,50 @@ Los mapas de empatía nos ayudan a pensar como el usuario lo hace, permitiéndon
 ---
 ---
 
+# :star: CREAR PERSONAS
+
+## :tv: Comprender a las personas
+
+¡Hola! ¡Hola y bienvenido nuevamente! Ahora ya sabes todo sobre los puntos débiles de los usuarios. 
+
+A continuación, **exploremos a las personas y por qué los diseñadores de experiencia de usuario las usan**. 
+
+En el diseño de experiencia de usuario, **las personas son usuarios ficticios cuyos objetivos y características representan las necesidades de un grupo más amplio de usuarios**. Las personas pueden ayudarnos a **identificar los patrones de comportamiento en los usuarios**. Estos patrones podrían **señalar un punto débil que experimenta un grupo de usuarios**. Si bien las personas son ficticias, no inventamos estas personas desde cero, **las construimos basándonos en la investigación**. Debes **investigar** si quieres un conjunto de personas que realmente representen a tus usuarios potenciales. A medida que investigas, formarás imágenes en tu cabeza sobre quiénes son tus usuarios. Estos se convertirán en tus personas. 
+
+Construyamos una persona juntos.
+
+En primer lugar, **necesitaremos averiguar qué grupo de usuarios representa nuestra persona**. Imagina que estás diseñando una aplicación de recaudación de fondos que conecta a las organizaciones sin fines de lucro con voluntarios. Realiza una investigación secundaria y lleva a cabo entrevistas telefónicas con un conjunto diverso de usuarios. Digamos que durante la investigación, descubres que los profesionales solteros de las zonas rurales realizan donaciones a causas medioambientales el doble que los profesionales solteros de las grandes ciudades. También descubres que es más probable que los solteros de las grandes ciudades se ofrezcan como voluntarios que los profesionales solteros en las zonas rurales. En base a esto, uno de tus grupos de usuarios podría estar compuesto por propietarios de organizaciones ambientales sin fines de lucro en áreas rurales. 
+
+### GRUPO DE USUARIOS
+
+**Un grupo de usuarios es un conjunto de personas con intereses, objetivos o preocupaciones similares**. 
+
+Ahora que hemos identificado un grupo de usuarios sólido, vamos a crear una persona para representarlo.
+
+¿Listo? Conoce a Tsering Choedon, fundadora de ourplanet.org. 
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/69a40459-4cec-4445-9f86-755f15a08a00)
+
+1. **BOCETO DE BIOGRAFIA**
+A medida que construimos la persona, querremos incluir su **foto** y un **breve boceto de su biografía**. Incluye datos como edad, ocupación, ciudad natal, estado civil y cualquier otro dato demográfico que nos pueda dar una mejor idea de quiénes están en nuestro grupo de usuarios. 
+
+Entonces, imagina que Tsering tiene 35 años, tiene una licenciatura en inglés, y vive en Bellevue, Nebraska con su esposa y dos perros de rescate.
+
+2. **OBJETIVOS PROFESIONALES Y ACTIVIDADES COTIDIANA**
+
+Después del boceto de su biografía agregaremos un poco de información sobre sus objetivos profesionales y actividades cotidianas. 
+
+Como fundadora de una organización sin fines de lucro, Tsering probablemente cumple muchas funciones, como redactar subvenciones y hablar con los funcionarios de la ciudad sobre iniciativas ecológicas interesantes. También mantiene informados a los residentes sobre cómo y dónde reciclar su basura. Luego, dado que estás diseñando una aplicación, es posible que desees saber qué tan cómoda se siente Tsering navegando en línea y trabajando con tecnología. Digamos que no es tan experta en tecnología, pero sabe que tiene que poner a su organización sin fines de lucro en línea si quiere encontrar más voluntarios. Por último, es posible que quieras darle un eslogan, algo que diga para inspirarse a sí misma y a su pequeño equipo todos los días. Para Tsering, eso podría ser algo así como volverse más ecológico cada día. Y así, tu grupo de usuarios se convierte en una persona real con la que el equipo puede crear su aplicación. Ten en cuenta que cada persona que creas humaniza a un grupo de usuarios para tu equipo.
+
+Tsering representa solo una persona. Deseas crear una persona para representar a cada grupo de usuarios clave, y eso llevará tiempo. ¿Vale la pena construir tantas personas? ¿La respuesta corta? Absolutamente. Ahora, la respuesta más larga. Las personas crean empatía y le ponen una cara al usuario. Ayudan a humanizar a nuestros usuarios. Les dan a las partes interesadas una idea más clara de quiénes son realmente sus usuarios y hacen que la experiencia de usuario sea más significativa. Hagamos una pequeña prueba. Cuando te digo que hay alrededor de 533.000 personas mayores de 100 años viviendo en el mundo actualmente, es probable que lo encuentres un poco interesante por un segundo antes de olvidar rápidamente la cantidad. Pero si te hablo de Mavis Hunter, una corredora de competencia que recién empezó a practicar este deporte hace dos años, después de cumplir 100 años, es probable que deje una impresión más duradera. ¿Por qué? Te hace sentir algo que las estadísticas no. Se percibe como una persona real. Quieres ayudarla a seguir haciendo lo que ama. Ese es el poder de las personas.
+
+Además, las personas cuentan historias. Es por eso que las personas son clave para convertir una presentación promedio de las partes interesadas en una experiencia de narración de historias. Si tu cliente está creando una nueva aplicación para salir a correr, Mavis ayuda a argumentar la creación de nuevas funciones o la ampliación de accesibilidad para los atletas de la tercera edad. De acuerdo, las personas crean empatía y cuentan historias. Pero, ¿por qué necesitas un conjunto completo de personas? Bueno, una persona no es suficiente para contar todos los aspectos de una historia de diseño. Por genial que sea Mavis, no estarías mejorando la aplicación para correr si fuera solo para ella. Por eso necesitas un conjunto de personas. Todos los grupos de usuarios deberían estar claramente representados. Esto le muestra a las partes interesadas la diversidad de sus grupos de usuarios y te permite probar funciones con ellos. Esto nos lleva a la tercera razón por la que las personas valen la pena. Las personas son un test de stress para los diseños. Volvamos a la aplicación para correr. Lo que funciona para Mavis podría no funcionar para Diane, una madre de tres hijos menores de cinco años que trabaja. Lo que más le importa a Mavis no es lo mismo que lo que más le importa a Diane. Mavis quiere accesibilidad, mientras que nuestra madre trabajadora quiere tiempo. Las personas garantizan que los diseñadores podamos crear algo que beneficie a una amplia gama de usuarios. Ahora que sabes qué es una persona, qué hacen las personas para los diseñadores de experiencia de usuario, y cómo construir una persona, conozcamos cómo las personas nos ayudan a contar una historia de usuario.
+
+​
+
+
+
+
 ---
