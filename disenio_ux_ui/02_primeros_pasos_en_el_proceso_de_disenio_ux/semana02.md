@@ -827,15 +827,128 @@ Entonces, imagina que Tsering tiene 35 años, tiene una licenciatura en inglés,
 
 Después del boceto de su biografía agregaremos un poco de información sobre sus objetivos profesionales y actividades cotidianas. 
 
-Como fundadora de una organización sin fines de lucro, Tsering probablemente cumple muchas funciones, como redactar subvenciones y hablar con los funcionarios de la ciudad sobre iniciativas ecológicas interesantes. También mantiene informados a los residentes sobre cómo y dónde reciclar su basura. Luego, dado que estás diseñando una aplicación, es posible que desees saber qué tan cómoda se siente Tsering navegando en línea y trabajando con tecnología. Digamos que no es tan experta en tecnología, pero sabe que tiene que poner a su organización sin fines de lucro en línea si quiere encontrar más voluntarios. Por último, es posible que quieras darle un eslogan, algo que diga para inspirarse a sí misma y a su pequeño equipo todos los días. Para Tsering, eso podría ser algo así como volverse más ecológico cada día. Y así, tu grupo de usuarios se convierte en una persona real con la que el equipo puede crear su aplicación. Ten en cuenta que cada persona que creas humaniza a un grupo de usuarios para tu equipo.
+Como fundadora de una organización sin fines de lucro, Tsering probablemente cumple muchas funciones, como redactar subvenciones y hablar con los funcionarios de la ciudad sobre iniciativas ecológicas interesantes. También mantiene informados a los residentes sobre cómo y dónde reciclar su basura. 
 
-Tsering representa solo una persona. Deseas crear una persona para representar a cada grupo de usuarios clave, y eso llevará tiempo. ¿Vale la pena construir tantas personas? ¿La respuesta corta? Absolutamente. Ahora, la respuesta más larga. Las personas crean empatía y le ponen una cara al usuario. Ayudan a humanizar a nuestros usuarios. Les dan a las partes interesadas una idea más clara de quiénes son realmente sus usuarios y hacen que la experiencia de usuario sea más significativa. Hagamos una pequeña prueba. Cuando te digo que hay alrededor de 533.000 personas mayores de 100 años viviendo en el mundo actualmente, es probable que lo encuentres un poco interesante por un segundo antes de olvidar rápidamente la cantidad. Pero si te hablo de Mavis Hunter, una corredora de competencia que recién empezó a practicar este deporte hace dos años, después de cumplir 100 años, es probable que deje una impresión más duradera. ¿Por qué? Te hace sentir algo que las estadísticas no. Se percibe como una persona real. Quieres ayudarla a seguir haciendo lo que ama. Ese es el poder de las personas.
+Luego, dado que estás diseñando una aplicación, es posible que desees saber qué tan cómoda se siente Tsering navegando en línea y trabajando con tecnología. Digamos que no es tan experta en tecnología, pero sabe que tiene que poner a su organización sin fines de lucro en línea si quiere encontrar más voluntarios. 
 
-Además, las personas cuentan historias. Es por eso que las personas son clave para convertir una presentación promedio de las partes interesadas en una experiencia de narración de historias. Si tu cliente está creando una nueva aplicación para salir a correr, Mavis ayuda a argumentar la creación de nuevas funciones o la ampliación de accesibilidad para los atletas de la tercera edad. De acuerdo, las personas crean empatía y cuentan historias. Pero, ¿por qué necesitas un conjunto completo de personas? Bueno, una persona no es suficiente para contar todos los aspectos de una historia de diseño. Por genial que sea Mavis, no estarías mejorando la aplicación para correr si fuera solo para ella. Por eso necesitas un conjunto de personas. Todos los grupos de usuarios deberían estar claramente representados. Esto le muestra a las partes interesadas la diversidad de sus grupos de usuarios y te permite probar funciones con ellos. Esto nos lleva a la tercera razón por la que las personas valen la pena. Las personas son un test de stress para los diseños. Volvamos a la aplicación para correr. Lo que funciona para Mavis podría no funcionar para Diane, una madre de tres hijos menores de cinco años que trabaja. Lo que más le importa a Mavis no es lo mismo que lo que más le importa a Diane. Mavis quiere accesibilidad, mientras que nuestra madre trabajadora quiere tiempo. Las personas garantizan que los diseñadores podamos crear algo que beneficie a una amplia gama de usuarios. Ahora que sabes qué es una persona, qué hacen las personas para los diseñadores de experiencia de usuario, y cómo construir una persona, conozcamos cómo las personas nos ayudan a contar una historia de usuario.
+Por último, es posible que quieras darle un eslogan, algo que diga para inspirarse a sí misma y a su pequeño equipo todos los días. Para Tsering, eso podría ser algo así como volverse más ecológico cada día. Y así, tu grupo de usuarios se convierte en una persona real con la que el equipo puede crear su aplicación. Ten en cuenta que cada persona que creas humaniza a un grupo de usuarios para tu equipo.
+
+Tsering representa solo una persona. Deseas crear una persona para representar a cada grupo de usuarios clave, y eso llevará tiempo. ¿Vale la pena construir tantas personas? ¿La respuesta corta? Absolutamente. Ahora, la respuesta más larga. 
+
+### Beneficios de las personas
+
+**Las personas crean empatía y le ponen una cara al usuario. Ayudan a humanizar a nuestros usuarios. Les dan a las partes interesadas una idea más clara de quiénes son realmente sus usuarios y hacen que la experiencia de usuario sea más significativa**. 
+
+Hagamos una pequeña prueba. Cuando te digo que hay alrededor de 533.000 personas mayores de 100 años viviendo en el mundo actualmente, es probable que lo encuentres un poco interesante por un segundo antes de olvidar rápidamente la cantidad. Pero si te hablo de Mavis Hunter, una corredora de competencia que recién empezó a practicar este deporte hace dos años, después de cumplir 100 años, es probable que deje una impresión más duradera. ¿Por qué? Te hace sentir algo que las estadísticas no. Se percibe como una persona real. Quieres ayudarla a seguir haciendo lo que ama. Ese es el poder de las personas.
+
+Además, **las personas cuentan historias**. Es por eso que **las personas son clave para convertir una presentación promedio de las partes interesadas en una experiencia de narración de historias**.
+
+Si tu cliente está creando una nueva aplicación para salir a correr, Mavis ayuda a argumentar la creación de nuevas funciones o la ampliación de accesibilidad para los atletas de la tercera edad. De acuerdo, las personas crean empatía y cuentan historias. 
+
+Pero, ¿por qué necesitas un conjunto completo de personas? Bueno, una persona no es suficiente para contar todos los aspectos de una historia de diseño. Por genial que sea Mavis, no estarías mejorando la aplicación para correr si fuera solo para ella. Por eso necesitas un conjunto de personas. Todos los grupos de usuarios deberían estar claramente representados. Esto le muestra a las partes interesadas la diversidad de sus grupos de usuarios y te permite probar funciones con ellos. Esto nos lleva a la tercera razón por la que las personas valen la pena. Las personas son un test de stress para los diseños. 
+
+Volvamos a la aplicación para correr. Lo que funciona para Mavis podría no funcionar para Diane, una madre de tres hijos menores de cinco años que trabaja. Lo que más le importa a Mavis no es lo mismo que lo que más le importa a Diane. Mavis quiere accesibilidad, mientras que nuestra madre trabajadora quiere tiempo. 
+
+Las personas garantizan que los diseñadores podamos crear algo que beneficie a una amplia gama de usuarios. Ahora que sabes qué es una persona, qué hacen las personas para los diseñadores de experiencia de usuario, y cómo construir una persona, conozcamos cómo las personas nos ayudan a contar una historia de usuario.
 
 ​
+---
+
+## :book: Obtén más información sobre las personas
+
+En este punto del curso, aprendiste a sentir empatía por los usuarios y a crear mapas de empatía para identificar los puntos débiles de los usuarios. ¡Estás en camino de aprender todo sobre los usuarios para los que diseñarás un producto! 
+
+Ahora es el momento de empezar a personificar los usuarios. Teniendo en cuenta todo lo que has aprendido hasta ahora, pronto construirás tu primera persona. En el diseño de experiencia de usuario, las personas son usuarios ficticios cuyos objetivos y características representan las necesidades de un grupo más amplio de usuarios. Cada persona que construyas representará a un grupo de usuarios con características similares que has obtenido a través de tu investigación. Las personas son clave en el proceso de diseño porque reflejan el estilo de vida de los usuarios y le dan a tu equipo una idea de cómo satisfacer las necesidades o los desafíos de los usuarios. 
+
+En el mundo del diseño de experiencia de usuario, el usuario siempre es lo primero. Pero para poner las necesidades de los usuarios en primer lugar, tenemos que saber de quién estamos hablando. Así que vamos a explorar cómo construir personas. 
+
+### Construir personas
+Las personas se crean mediante la investigación de los usuarios e identificando los puntos débiles frecuentes, que son problemas de diseño de imagen que frustran e impiden que el usuario obtenga lo que necesita de un producto.
+
+A medida que creas personas, busca los temas más frecuentes en tus datos y agrupa a los usuarios que personifican esos temas. Por ejemplo, imagina que los datos recopilados de las entrevistas a los usuarios de la aplicación de paseador de perros muestran que muchos posibles usuarios de entre 45 y 60 años están preocupados por el acceso que tengan los paseadores de perros a sus hogares. Definitivamente sería una dificultad que querrías incluir en una persona que represente a ese grupo etario específico de usuarios.
+
+Generalmente, crear de 3 a 8 personas es suficiente para representar a la mayoría de la base de usuarios de un producto. Piensa en las personas como una visión general de todas tus investigaciones y entrevistas. Si bien es importante que las personas representen con exactitud a los usuarios, es imposible satisfacer cada una de sus necesidades específicas. Las personas también son específicas del contexto, lo que significa que deben centrarse en los comportamientos y objetivos de los usuarios que interactúan con el producto de manera efectiva.
+
+Para la aplicación de paseador de perros, piensa en un escenario desde la perspectiva de un dueño de perro:
+
+- Daniela es una productora de cine independiente de 48 años que vive con su pareja Priya y sus dos hijos en Atlanta, Georgia. La familia adoptó recientemente un cachorro golden retriever llamado Cisco. 
+
+- La familia realiza viajes regulares con los niños para competiciones de gimnasia, y Daniela suele viajar durante largos períodos de tiempo durante los rodajes. Daniela quiere encontrar a alguien que cuide al cachorro, Cisco, mientras la familia está fuera u ocupada. 
+
+- La mayor preocupación de Daniela es tener la confianza para que un extraño entre en su casa y cuide a su cachorro. Daniela se sentiría más cómoda contratando a alguien que sepa cómo cuidar cachorros correctamente y que pueda llevar a Cisco a pasear y a los parques para perros.
+
+Esto es lo que una persona podría incluir para Daniela, usando la plantilla para personas que se muestra en el video:
+
+Puedes usar la información de las personas para crear diseños que se refieran directamente a los usuarios, como Daniela. ¡Esto garantiza que los usuarios tengan la mejor experiencia al usar tu producto! Por ejemplo, en tus diseños, es posible que quieras indicar que los paseadores de perros son seleccionados por la aplicación y deben pasar la comprobación de antecedentes, lo que les aseguraría a los usuarios como Daniela que su perro estará a salvo.
+
+Aquí tienes un consejo profesional: Escucha la opinión de tu equipo sobre los usuarios del producto antes de crear personas. Luego, después de crear las personas, revisa esas sugerencias de tu equipo y compáralas con las personas que creaste. Señala cómo los datos validaron o contradijeron sus sugerencias. Todos los miembros de tu equipo deben entender a las personas para poder conectar realmente con tus usuarios. 
+
+Hay muchas formas en las que puedes crear personas. Para empezar, puedes usar la plantilla para personas de los videos de este curso.
+
+Para utilizar la plantilla de este ítem del curso, haz clic en el enlace a continuación y selecciona «Usar plantilla». 
+
+---
+
+## Actividad: Crea personas para el proyecto Coffee House
+
+1. Pregunta 1
+Como diseñador de experiencia de usuario, tendrás que evaluar, investigar y desarrollar personas para que representen a grupos de usuarios clave. En el diseño de experiencia de usuario, las personas son usuarios ficticios cuyos objetivos y características representan las necesidades de un grupo más amplio de usuarios. Estos grupos de usuarios se determinan identificando respuestas, comportamientos o características similares compartidas entre varios participantes de la entrevista. Esto significa que representan un grupo más grande de usuarios que han compartido opiniones, comportamientos y rasgos de personalidad. Comprender que varios usuarios encajan en la misma categoría general te ayuda a empezar a definir para qué tipos de personas estás diseñando. Ahí es donde entran las personas. 
+
+Esta actividad es para el proyecto CoffeeHouse en el que has estado trabajando y te ayudará a aplicar las habilidades que has aprendido creando dos personas usando la plantilla proporcionada.
+
+Después de completar esta actividad, tendrás la oportunidad de comparar tu trabajo con un ejemplo de persona completa. El ejemplo se proporcionará en la siguiente actividad del curso.
+
+-  Revisar el escenario de CoffeeHouse
+
+Estás diseñando una aplicación para CoffeeHouse. A continuación, puedes encontrar el escenario de CoffeeHouse que has estado siguiendo en este curso: 
+
+A continuación, se muestra un resumen de los tipos de clientes potenciales. 
+
+### Tipo de cliente uno:
+
+Un empleado junior de una empresa profesional activa que generalmente tiene menos de 23 años.
+
+Varias veces a la semana, este cliente va a CoffeeHouse para retirar un pedido para él y hasta doce compañeros de trabajo.
+
+Este cliente tiene poco tiempo que perder y necesita pedir artículos de CoffeeHouse de alta calidad con anticipación y retirarlos de manera rápida y eficiente.
+
+La frustración más frecuente para este tipo de clientes implica la coordinación del retiro de los artículos. A veces, un pedido grande está incompleto o es incorrecto. Otras veces, pasa demasiado tiempo y el café o los alimentos calientes se enfrían.
+
+### Tipo de cliente dos:
+
+Alguien que disfruta de pasar el rato en CoffeeHouse y quiere un espacio fuera de su hogar y lugar de trabajo donde pueda conectarse y trabajar. Este tipo de cliente varía en edad y ocupación.
+
+Las frustraciones más frecuentes para este cliente involucran una mala organización en mostrador y la dificultad para encontrar un espacio de trabajo adecuado. Esperar en la fila para hacer pedidos y recoger los artículos interrumpe su productividad y lo desalienta a la hora de hacer un pedido. Para estos clientes también es importante tener acceso a buenas condiciones de trabajo, como una conexión Wi-Fi sólida y un espacio cómodo para trabajar.
 
 
+-  Crear dos personas para esta actividad
 
+Recuerda: Las personas que vayas a crear deben reflejar la combinación de atributos de un grupo de usuarios con necesidades similares.
+
+La Persona 1 debe representar a los empleados junior ocupados que buscan un servicio de recolección rápido y eficiente.
+
+La Persona 2 debe representar a los clientes en la tienda que desean disfrutar de los artículos y el ambiente de CoffeeHouse de una manera que sea favorable para estar conectados y trabajar.
+
+Sigue los pasos que se indican a continuación para crear las dos personas:
+
+1. Con la información del cliente presentada anteriormente, crea un usuario ficticio para cada uno de los tipos de clientes descritos en la plantilla proporcionada.
+
+2. A cada persona que construyas debes darle características que se encuentren dentro de las descripciones generales presentadas para su tipo de cliente.
+
+3. Reemplaza la imagen y los datos biográficos de la plantilla por una imagen y una biografía que representen mejor a la persona que has creado.
+
+- Reflexionar sobre la finalización de esta actividad
+
+Considera las siguientes preguntas mientras reflexionas sobre tu trabajo:
+
+1. Información demográfica: ¿La información demográfica coincide con las características de la persona indicadas en las instrucciones de la actividad?
+
+2. Cita: ¿Pudiste imaginar una cita que se corresponda con la persona y los antecedentes que has creado para ella?
+
+3. Objetivos/frustraciones: ¿Pudiste alinear los objetivos y las frustraciones con la persona y el escenario de la actividad?
+
+4. Breve historia/escenario: ¿Pudiste dar más información sobre la persona, vinculando sus objetivos y frustraciones, así como su cita?
+
+5. Imagen: ¿Has incluido una imagen o un avatar que represente a las personas para tu actividad?
 
 ---
