@@ -546,3 +546,116 @@ Recapitulemos algunas de las herramientas que nos ayudan a empatizar con los usu
 
 ---
 
+## :book: GLOSARIO
+
+#### B
+
+- Bias: Favoring or having prejudice against something based on limited information 
+
+#### C
+
+- Call-to-action (CTA): A visual prompt that tells the user to take action, like to click a button
+
+- Confirmation bias: Occurs when you start looking for evidence to prove a hypothesis you have
+
+#### D
+
+- Design research: Answers the question: How should we build it?
+
+- Direct competitors: Have offerings that are similar to your product and focus on the same audience
+
+#### E
+
+- Edge case: What happens when things go wrong that are beyond the user’s control
+
+- Empathy: The ability to understand someone else’s feelings or thoughts in a situation
+
+- Empathy map: An easily understood chart that explains everything designers have learned about a type of user
+
+#### F
+
+- False consensus bias: The assumption that others will think the same way as you do
+
+- Feedback loops: The outcome a user gets at the end of a process
+
+- Foundational research: Answers the questions: What should we build? What are the user problems? How can we solve them?
+
+
+#### H
+
+- Happy path: A user story with a pleasant ending
+
+- Hick’s Law: The more options a user has, the longer it takes for them to make a decision
+
+- Hypothesis statement: Our best educated guess on what we think the solution to a design problem might be
+
+#### I
+
+- Implicit bias: The collection of attitudes and stereotypes you associate with people without your conscious knowledge
+
+- Interviews: A research method used to collect in-depth information on people’s opinions, thoughts, experiences, and feelings
+
+#### K
+
+- Key Performance Indicators (KPIs): Critical measures of progress toward an end goal
+
+#### M
+
+- Mental models: Internal maps that allow humans to predict how something will work
+
+#### P
+
+- Pain points: UX issues that frustrate the user and block the user from getting what they need
+
+- Personas: Fictional users whose goals and characteristics represent the needs of a larger group of users
+
+- Post-launch research: Answers the question: Did we succeed?
+
+- Primacy bias: Remembering the first user more than others
+
+- Primary research: Research you conduct yourself
+
+- Problem statement: A clear description of the user’s need that should be addressed
+
+- Product development lifecycle: The process used to take a product from an idea to reality
+
+#### Q
+
+- Qualitative research: Focuses observations on why and how things happen
+
+- Quantitative research: Focuses on data that can be gathered by counting or measuring
+
+#### R
+
+- Recency bias: Most easily remembering the last thing you heard
+
+#### S
+
+- Secondary research: Research that uses information someone else has put together
+
+ -Serial position effect: When given a list of items, people are more likely to remember the first few and the last few, while the items in the middle tend to blur
+
+- Sunk cost fallacy: The idea that the deeper we get into a project we’ve invested in, the harder it is to change course
+
+- Surveys: An activity where many people are asked the same questions in order to understand what most people think about a product
+
+#### T
+
+-The human factor: Describes the range of variables humans bring to their product interactions
+
+#### U
+
+- Usability study: A technique to evaluate a product by testing it on users
+
+- User group: A set of people who have similar interests, goals, or concerns
+
+- User story: A fictional one-sentence story told from the persona’s point of view that inspires and informs design decisions
+
+- UX research:  Focuses on understanding user behaviors, needs, and motivations through observation and feedback
+
+#### V
+
+- Von Restorff effect, or isolation effect:  When multiple similar objects are present, the one that differs from the rest is most likely to be remembered
+
+
+---
