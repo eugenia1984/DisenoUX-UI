@@ -985,3 +985,118 @@ Ahora compara los ejemplos anteriores con tu autoevaluación completada. Evalúa
 5. Imagen: ¿Has incluido una imagen o un avatar que represente a las personas para tu actividad?
 
 ---
+
+## :tv: Actividad de cierre: Empatizar con los usuarios y definir los puntos débiles
+
+Hola de nuevo, acabas de aprender sobre algunas herramientas geniales para empatizar con los usuarios y comprender sus puntos débiles. 
+
+Discutimos cómo reclutar participantes para las entrevistas y cómo realizar entrevistas de una manera que te ayude a construir conocimientos más sólidos sobre la experiencia del usuario. 
+
+Luego aprendiste a usar las transcripciones de la entrevista para construir mapas de empatía a fin de identificar los puntos débiles del usuario y desarrollar personas que hablen directamente de la experiencia del usuario. 
+
+En la siguiente parte del curso cubriremos aún más herramientas generalmente utilizadas por los diseñadores experiencia de usuario en la parte de la empatía. ¡Nos vemos ahí!
+
+---
+
+## :book: GLosario
+
+### C
+
+- Camino ideal: Historia de un usuario con final feliz
+
+- Caso extremo: Aquello que sucede cuando las cosas van mal y están fuera del control del usuario
+
+- Ciclo de desarrollo del producto: El proceso utilizado para llevar un producto de una idea a la realidad
+
+- Circuitos de retroalimentación: El resultado que obtiene un usuario al final de un proceso
+
+- Competidores directos: Tienen ofertas que son similares a tu producto y se enfocan en el mismo público
+
+### D
+
+- Dificultades: Problemas de UX que frustre al usuario y le impida obtener lo que necesita
+
+
+### E
+
+- Efecto de posición en la serie: Cuando se les da una lista de elementos, es más probable que las personas recuerden los primeros y los últimos, mientras que los elementos del medio tienden a difuminarse
+
+- Efecto de Von Restorff o efecto de aislamiento:  Cuando hay varios objetos similares, es más probable que se recuerde el que se diferencia del resto
+
+- El factor humano: Describe el rango de variables que los seres humanos aportan a sus interacciones con los productos
+
+- Empatía: Capacidad de entender qué sienten o piensan los demás en una situación determinada
+
+- Encuestas: Actividad en la que se les hacen las mismas preguntas a muchas personas para comprender qué piensa la mayoría de la gente sobre un producto
+
+- Entrevistas: Método de investigación utilizado para recopilar información detallada sobre opiniones, pensamientos, experiencias y sentimientos de las personas
+
+- Estudio de usabilidad: Técnica utilizada para evaluar un producto al probarlo en los usuarios
+
+### F
+
+- Falacia del costo irrecuperable: La idea de que cuanto más nos involucramos en un proyecto en el que invertimos, más difícil es cambiar de rumbo
+
+- Grupo de usuarios: Conjunto de personas con intereses, objetivos o inquietudes similares
+
+### H
+
+- Historia del usuario: Historia ficticia narrada en una frase desde el punto de vista de un personaje para inspirar e informar las decisiones de diseño
+
+### I
+
+- Indicadores clave de rendimiento (KPI): Medidas críticas del avance hacia un objetivo final
+
+- Investigación básica: Responde las preguntas: ¿Qué debemos desarrollar? ¿Cuáles son los problemas del usuario? ¿Cómo podemos resolverlos?
+
+- Investigación cualitativa: El foco de las observaciones está en por qué y cómo suceden las cosas
+
+- Investigación cuantitativa: Se enfoca en datos que se pueden recopilar al contar o medir
+
+- Investigación de diseño: Responde la pregunta: ¿Cómo debemos desarrollarlo?
+
+- Investigación en UX:  Se centra en comprender los comportamientos, las necesidades y las motivaciones del usuario a través de la observación y la retroalimentación
+
+- Investigación posterior al lanzamiento: Responde la pregunta: ¿Tuvimos éxito?
+
+- Investigación primaria: Investigación que llevas a cabo tú mismo
+
+- Investigación secundaria: Investigación que utiliza información que otra persona reunió
+
+
+### L
+
+- Ley de Hick: Cuantas más opciones tiene un usuario, más tiempo tarda en tomar una decisión
+
+- Llamada a la acción (CTA): Aviso visual que indica al usuario que debe realizar una acción, por ejemplo, hacer clic en un botón
+
+### M
+
+- Mapa de empatía: Gráfico de fácil comprensión que explica todo lo que los diseñadores han aprendido sobre un tipo de usuario
+
+- Modelos mentales: Mapas internos que permiten a los seres humanos predecir cómo funcionará algo
+
+### P
+
+- Personajes: Usuarios ficticios cuyos objetivos y características representan las necesidades de un grupo más amplio de usuarios
+
+- Planteamiento de hipótesis: Nuestra mejor suposición sobre cuál creemos que podría ser la solución a un problema de diseño
+
+- Planteamiento del problema: Descripción clara de la necesidad del usuario que debe abordarse
+
+### S
+
+- Sesgo de actualidad: Recordar con más facilidad lo último que escuchaste
+
+- Sesgo de confirmación: Ocurre cuando comienzas a buscar evidencia para probar tu hipótesis
+
+- Sesgo de falso consenso: La suposición de que otros pensarán igual que tú
+
+- Sesgo de prioridad: Recordar al primer usuario más que a los otros
+
+- Sesgo implícito: Conjunto de actitudes y estereotipos que asocias con personas sin tu conocimiento consciente
+
+- Sesgo: Consiste en favorecer o tener prejuicios contra algo en base a información limitada 
+
+
+---
