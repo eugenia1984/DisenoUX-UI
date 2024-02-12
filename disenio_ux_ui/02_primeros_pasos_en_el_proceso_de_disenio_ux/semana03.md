@@ -529,3 +529,20 @@ Veamos algunos ejemplos más de este efecto. Hoy en día, la mayoría de los cru
 Ahora, pensemos en productos y servicios que no son accesibles. Como medida de seguridad, muchos sitios web de forma automática dejan sin tiempo a un usuario si ha estado inactivo durante dos minutos. Sin embargo, vivimos en un mundo lleno de personas neurológicamente diversas que podrían necesitar más tiempo en un formulario o al leer un texto. Diseñar para la inclusión y la accesibilidad puede significar eliminar o alargar esa ventana de tiempo. Si haces eso, ayudarás a personas con neurodiversidad, padres ocupados, adultos mayores e incluso la gente que necesita más tiempo para buscar sus tarjetas de crédito. Todas estas personas se beneficiarían si se quitara el límite de tiempo, se extendiera el tiempo permitido o si hubiera un temporizador que avise a los usuarios con una notificación visual o sonora cuando se les está por acabar el tiempo. Para terminar, recapitulemos lo que has aprendido. Mientras considerábamos las experiencias de los usuarios con discapacidades, descubrimos cómo, si diseñamos para personas con discapacidades, podemos beneficiarnos todos. A continuación, aprenderás cómo definir un planteamiento de problema.
 
 ---
+
+## :tv: Actividad de cierre: Creación de historias de usuario y mapas de recorrido del usuario
+
+Lo lograste. 
+
+Recapitulemos algunas de las herramientas que nos ayudan a empatizar con los usuarios. 
+
+- Primero, comenzaste con los pasos involucrados en la creación de una historia de usuario basada en personas para conocer sus necesidades.
+
+- Luego aprendiste a usar los casos límite para anticipar problemas para el usuario.
+
+- A continuación, aprendiste sobre cómo se usan los mapas de recorrido del usuario para ayudar a los diseñadores de UX a entender los desafíos que un usuario puede enfrentar al intentar usar tu producto.
+
+- Finalmente, exploraste la importancia de crear diseños accesibles e inclusivos para los usuarios. Nos vemos en la siguiente parte del curso, que se trata de la segunda fase del proceso de diseño: definir. Nos vemos ahí.
+
+---
+
