@@ -952,3 +952,36 @@ Considera las siguientes preguntas mientras reflexionas sobre tu trabajo:
 5. Imagen: ¿Has incluido una imagen o un avatar que represente a las personas para tu actividad?
 
 ---
+
+## Modelo de la actividad: Crear personas para el proyecto CoffeeHouse
+
+Aquí hay un modelo terminado, junto con una explicación de por qué el modelo cumple con los requisitos de la actividad anterior.
+
+A continuación encontrarás dos ejemplos de creación de personas. La primera persona es un empleado junior atareado que busca un servicio de retiro rápido y eficiente. La segunda persona es un cliente en la tienda que quiere disfrutar de los artículos de CoffeeHouse y su ambiente de una manera que sea favorable para estar conectado y ser productivo. Ambas personas se basan en entrevistas de usuarios agregadas y representan grupos de usuarios específicos, en lugar de participantes individuales para las entrevistas.
+
+**Persona 1: Anika, ambiciosa becaria**: Empleado junior atareado que busca un servicio de retiro rápido y eficiente.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/45b74696-f835-4f0e-a74e-d6ecea308a43)
+
+
+**Persona 2: Ali, upskiller remoto**: Cliente de la tienda que quiere disfrutar de los artículos de CoffeeHouse y de su ambiente de manera que le permita estar conectado y ser productivo.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/53eb8c15-0464-4d90-832f-b94f1a332337)
+
+### Evaluación del modelo
+
+Se completaron todos los ítems de la hoja de cálculo con el ejemplar, para que tengas una idea de quién es el usuario y qué lo impulsa. Se destacan los objetivos y las frustraciones y se realiza un desglose de los datos demográficos de las personas. Por último, una cita que resume su personalidad aparece en la parte superior, junto con un párrafo que describe su vida en la parte inferior. El objetivo es crear una persona realista con la cual puedas empatizar mientras piensas en el tipo de soluciones de diseño que tus usuarios podrían necesitar.
+
+Ahora compara los ejemplos anteriores con tu autoevaluación completada. Evalúa lo que has hecho usando cada uno de los criterios utilizados para evaluar el ejemplar. Al comparar, pregúntate:
+
+1. Información demográfica: ¿La información demográfica coincide con las características de la persona indicadas en las instrucciones de la actividad?
+
+2. Cita: ¿Pudiste imaginar una cita que se corresponda con la persona y los antecedentes que has creado para ella?
+
+3. Objetivos/frustraciones: ¿Los objetivos y las frustraciones estaban alineados con la persona y el escenario de la actividad?
+
+4. Breve historia/escenario: ¿Pudiste dar más información sobre la persona, vinculando sus objetivos y frustraciones, así como su cita?
+
+5. Imagen: ¿Has incluido una imagen o un avatar que represente a las personas para tu actividad?
+
+---
