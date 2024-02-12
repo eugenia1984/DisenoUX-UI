@@ -402,5 +402,130 @@ Es fundamental entender cómo una persona con discapacidad puede tener un recorr
 Aprender más sobre las tecnologías de asistencia o TA podría significar ver videos de expertos que las utilizan. Hay muchos videos disponibles que muestran precisamente eso, o incluso tú podrías probar una tecnología de asistencia. Los modelos de interacción con el teclado sirven como un excelente punto de partida para entender los patrones básicos de interacción de las TA. Por lo general, podrías usar un puntero del mouse con tu computadora y no darte cuenta de que hay momentos en los que dependes de un teclado en su lugar. Por ejemplo, cuando completas un formulario como este, podrías usar el mouse para ir a un nuevo campo del formulario, como el nombre. Luego, puedes presionar «Intro» o «Entrar» en el teclado para enviar el formulario, en vez de hacer clic en el botón con el mouse. Algunas personas confían únicamente en el teclado para interactuar con sitios web en todo momento. Así que todos los sitios deben admitir la entrada de teclado y la navegación para cumplir con los requisitos legales para la gente con discapacidades. Al hacerlo, también permites que otras TA, como los dispositivos con pulsadores, interactúen correctamente con el mismo sitio web. Es imposible exagerar la importancia de diseñar con la accesibilidad en mente. Los diseñadores de UX empatizan con los usuarios potenciales, incluidas las personas con discapacidades. A continuación, veremos cómo diseñar para la accesibilidad también puede terminar beneficiándonos a todos. Nos vemos ahí.
 ​
 
+---
+
+## Considera la accesibilidad en la fase de investigación de usuarios
+
+La accesibilidad es el diseño de productos, dispositivos, servicios o entornos para personas con discapacidades. Diseñar para la accesibilidad consiste en considerar los recorridos de todos los usuarios, teniendo en cuenta sus discapacidades permanentes, temporales o situacionales. Al investigar cómo interactúan las personas con discapacidades con productos como el tuyo, puedes entender mejor cómo diseñar para ellos. No es posible adivinar con precisión todas las formas en que un usuario podría experimentar el producto, razón por la cual es tan importante incluir a las personas con discapacidades en la investigación. 
+
+Estas son algunas consideraciones que debes tener en cuenta al realizar una investigación durante la fase de empatía del proceso de diseño.
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/2b1b1f10-f43d-415d-8c4c-4282a972d71f)
+
+### Tocar
+
+De izquierda a derecha: permanente (un brazo), temporal (lesión en el brazo) y situacional (hijo recién nacido)
+
+**Tocar**: ¿Cómo diseñarías para los usuarios que usan solo un brazo, ya sea de forma permanente, temporal o situacional?
+
+- Decide dónde colocar los botones dentro del diseño basándote en diferentes tamaños de mano.
+
+- Crea una función que permita tocar dos veces para evitar toques accidentales en los iconos.
+
+- Activa la función de teclado con una sola mano y la compatibilidad general del teclado.
+
+- Permite la personalización de botones para acceder con facilidad a la información que el usuario considere más importante.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/68e0da09-932c-4a79-b9ec-0bc50cdf7eab)
+
+
+### Ver
+
+De izquierda a derecha: permanente (ciego), temporal (usa gafas) y situacional (conductor distraído)
+
+**Ver**: ¿Cómo diseñarías para usuarios que tienen visión limitada, ya sea de forma permanente, temporal o situacional?
+
+- Utiliza una fuente más grande para crear un diseño de la aplicación fácil de leer.
+
+- Asegúrate de que la aplicación y las imágenes tengan texto alternativo que se pueda leer con un lector de pantalla.
+
+- Detecta si el usuario está manejando un vehículo motorizado.
+
+- Diseña la aplicación con colores de alto contraste.
+
+- No confíes en el color del texto para explicar la navegación o los próximos pasos. Por ejemplo, no uses solo texto rojo como indicador de una advertencia. En su lugar, el diseño debe incluir instrucciones explícitas.
+
+
+## Texto personalizable
+
+Existen algunas herramientas adicionales de accesibilidad web que pueden beneficiar a las personas con dislexia u otras discapacidades del procesamiento visual. Una de estas formas es el texto personalizable, una función que permite a los usuarios cambiar la manera en que se muestra el texto para poder leerlo con mayor facilidad.  La personalización del texto implica cambiar todo, desde el color o la fuente hasta el tamaño o incluso el espaciado del texto. Por ejemplo, algunas fuentes pueden ser más fáciles de leer que otras para los usuarios, por lo que personalizar las fuentes podría ser de gran ayuda. Por lo tanto, el texto personalizable permite más opciones que simplemente ampliar el texto o hacer zoom, lo que hace que el contenido sea más adaptable, a la vez que mantiene la funcionalidad.
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/6a7f5f03-6c84-4940-b63e-186f6ae65125)
+
+## Oír
+
+De izquierda a derecha: permanente (sordo), temporal (infección de oído) y situacional (cantinero)
+
+**Oír**: ¿Cómo diseñarías para los usuarios con audición limitada, ya sea de forma permanente, temporal o situacional? 
+
+- No confíes únicamente en los sonidos para proporcionar actualizaciones de la aplicación, como una notificación de mensaje nuevo. En su lugar, habilita la función háptica, que son vibraciones que estimulan el sentido del tacto del usuario, y las luces de notificación.
+
+- Aplica subtítulos opcionales a todos los videos. 
+
+- Ofrece un sistema de mensajería de texto dentro de la aplicación para permitir a los usuarios comunicarse por escrito.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/27246822-5419-44c2-9700-09caa21d102b)
+
+## Hablar
+
+De izquierda a derecha: permanente (no verbal), temporal (laringitis) y situacional (extranjero)
+
+**Hablar**: ¿Cómo diseñarías para usuarios que no pueden hablar, ya sea de forma permanente, temporal o situacional? 
+
+- Proporciona introducciones, descripciones e instrucciones escritas a los usuarios, además de contenido basado en video.
+
+- Ofrece mensajes de texto en tiempo real durante las llamadas telefónicas con los usuarios o cuando se comunican con el soporte de la aplicación.
+
+- Organiza alternativas para sistemas automatizados que dependan del reconocimiento de voz.
+
+- Proporciona un sistema de mensajería en la aplicación que permita el uso de emojis y carga de imágenes.
+
+Esta lista es solo una pequeña fracción de lo que debes tener en cuenta a la hora de diseñar para usuarios con discapacidades. La mejor manera de aprender a mejorar tus diseños es investigar y obtener retroalimentación directamente de usuarios con discapacidades.
+
+## Tecnologías de asistencia
+
+Crear un diseño de producto que tenga en cuenta toda la variedad de capacidades puede ser increíblemente difícil. Afortunadamente, existen servicios y aplicaciones diseñados para ayudar a cerrar la brecha. Por ejemplo, un servicio que los proveedores de telefonía han agregado recientemente es el de [mensajes de texto en tiempo real](https://support.google.com/accessibility/android/answer/9042284?hl=en), que permite a los usuarios enviar mensajes de texto durante una llamada telefónica para mejorar la comunicación. 
+
+Otra característica que ayuda a las personas con discapacidades es el texto alternativo. Las personas con problemas de visión o ciegas suelen depender de los lectores de pantalla para leer el contenido en voz alta. Sin embargo, si los iconos informativos no tienen etiquetas ni texto alternativo, el lector de pantalla no puede describir la funcionalidad de ese botón al usuario. No todas las imágenes o iconos son informativos, por lo que solo incluye descripciones cuando sea necesario. 
+
+Investigar y aprender sobre las tecnologías de asistencia te ayudará a comprender mejor el impacto que tienen estas tecnologías. Aquí tienes algunos enlaces que te ayudarán a empezar: 
+
+- Análisis del valor de la tecnología para discapacitados: [Tecnología para discapacitados](https://www.youtube.com/watch?v=eFkhFxJZvho) de las charlas TEDx en YouTube
+
+- Cómo la accesibilidad tecnológica cambia vidas: [Cómo los ciegos usan la tecnología para ver el mundo](https://www.youtube.com/watch?v=0EQOZRIA-nA) de las charlas TEDx en YouTube
+
+- Guía explicativa sobre la accesibilidad del teléfono: [Accesibilidad para smartphones: una guía completa  de Uswitch](https://www.uswitch.com/mobiles/guides/smartphone-accessibility/) 
+
+La [página de inicio del centro de información de accesibilidad de Google](https://www.google.com/accessibility/) 
+
+
+### Poner en práctica el diseño inclusivo
+Para poner en práctica el diseño inclusivo, es importante sumergirse en la tecnología de asistencia que puede utilizar la gente con discapacidad y conversar con ellos sobre sus experiencias. La mejor manera de diseñar con empatía para el mundo que te rodea es interactuar con los usuarios y hacerles preguntas sobre la forma en que tus diseños podrían ayudarlos a tener éxito.
+
+Para obtener más información sobre el diseño inclusivo, aquí tienes algunos recursos adicionales para empezar:
+
+- Descripción de maneras de diseñar productos de forma inclusiva: [Diseño inclusivo: Doce formas de diseñar para todos](https://www.shopify.com/partners/blog/inclusive-design) de Shopify 
+
+- El enfoque accesible de Google para el diseño inclusivo: [Un proceso accesible para el diseño inclusivo](https://www.youtube.com/watch?v=TAzkrXTGEOM&feature=emb_title) de Google I/O
+
+- Desglosar principios importantes del diseño inclusivo: [Seis principios para el diseño inclusivo](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e) de UX Planet
+
+---
+
+## :tv: Comprende el efecto «rampa de acera»
+
+Hola de nuevo. ¿Quieres escuchar un dato divertido? Una de las primeras rampas de acera en los EE. UU. se instaló en Michigan en 1945. Probablemente hayas utilizado alguna vez una rampa de acera. Una rampa de acera es el nombre de la pendiente de la acera que crea una rampa con la calle contigua. Las rampas de acera suelen encontrarse en las intersecciones. Gracias a las rampas de acera, la gente con silla de ruedas, aparatos ortopédicos o muletas puede circular por sus barrios con mucha más libertad. Pero pasa algo gracioso: Los beneficios de las rampas de acera se extienden a todos, desde gente que empuja cochecitos hasta ciclistas, gente que se muda y adultos mayores. Es probable que las rampas de acera también te hayan ayudado a ti. Las rampas de acera son un ejemplo tan popular de diseño para la accesibilidad que hay ahora un concepto entero que lleva su nombre. El efecto rampa de acera es un fenómeno que describe cómo los productos y las políticas diseñados para personas con discapacidades a menudo terminan ayudando a todos.
+
+
+Veamos algunos ejemplos más de este efecto. Hoy en día, la mayoría de los cruces peatonales en las principales ciudades de los Estados Unidos vienen equipados con señales que indican si es seguro que alguien cruce la calle. Hay una señal visual, como un símbolo de una persona que camina. Hay una señal auditiva, como una serie de pitidos. Las señales auditivas incluso se aceleran para permitir que las personas con discapacidad visual sepan que el tiempo para cruzar la calle con seguridad se está acabando. Y también tienen una señal táctil, como el relieve en el borde de la acera. La sensación física del relieve texturado indica que se ha llegado seguro a la siguiente acera. Pero estas señales ayudan a todos. Piensa en una persona con visión normal que está prestando atención a algo que no sea el cruce peatonal, como un nuevo mensaje de texto, la secuencia de pitidos y el suelo con textura para ayudar a las personas con discapacidades visuales ayudará también a la persona distraída. O considera esto: Si alguna vez te has roto una pierna, sabes lo difícil que puede ser hacer las cosas cotidianas, como bajar por las escaleras. Cuando diseñas cosas para alguien con movilidad limitada de forma permanente, como ascensores, elevadores eléctricos o pasillos anchos para sillas de ruedas, al final ayudarás a una gama aún más amplia de usuarios. Del mismo modo, si eres una persona vidente que intentó ver una noticia urgente en la televisión en un bar ruidoso, lo más probable es que te hayan ayudado los subtítulos. No es necesario escuchar al presentador de noticias si puedes leer lo que está diciendo. Y dado que los subtítulos pueden ser multilingües, los usuarios que no dominan el idioma que se habla pueden entender lo que están diciendo al leer los subtítulos en su idioma nativo.
+
+
+Ahora, pensemos en productos y servicios que no son accesibles. Como medida de seguridad, muchos sitios web de forma automática dejan sin tiempo a un usuario si ha estado inactivo durante dos minutos. Sin embargo, vivimos en un mundo lleno de personas neurológicamente diversas que podrían necesitar más tiempo en un formulario o al leer un texto. Diseñar para la inclusión y la accesibilidad puede significar eliminar o alargar esa ventana de tiempo. Si haces eso, ayudarás a personas con neurodiversidad, padres ocupados, adultos mayores e incluso la gente que necesita más tiempo para buscar sus tarjetas de crédito. Todas estas personas se beneficiarían si se quitara el límite de tiempo, se extendiera el tiempo permitido o si hubiera un temporizador que avise a los usuarios con una notificación visual o sonora cuando se les está por acabar el tiempo. Para terminar, recapitulemos lo que has aprendido. Mientras considerábamos las experiencias de los usuarios con discapacidades, descubrimos cómo, si diseñamos para personas con discapacidades, podemos beneficiarnos todos. A continuación, aprenderás cómo definir un planteamiento de problema.
 
 ---
