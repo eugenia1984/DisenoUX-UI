@@ -199,3 +199,60 @@ Como nuevo estudiante de inglés, quiero pedir comida desde una aplicación que 
 
 
 ![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e9821a90-5344-4e60-8546-aad41001e353)
+
+---
+
+## :tv: Ten en cuenta los casos límite
+
+¡Hola de nuevo! Con las historias de usuario, como con cualquier historia, siempre existe la posibilidad de que las cosas no salgan exactamente como lo deseas. 
+
+El detective heroico a veces no resuelve el caso, y el usuario a veces tampoco alcanza su objetivo. 
+
+Afortunadamente para el usuario, **como diseñador de UX puedes cambiar su experiencia**. 
+
+**Al construir un producto nuevo o mejorado, el objetivo del diseñador es mantener a todos los usuarios en el camino ideal**. 
+
+### Happy path
+
+**El camino ideal describe una historia de usuario con final feliz. Para este usuario, todo va como lo esperaba y alcanza su objetivo sin problemas**. 
+
+Desafortunadamente, para otros usuarios las cosas no van tan bien. Por ejemplo, digamos que Iyler, una hacendada, quiere comprar flores de cumpleaños para su amiga Priya en California. Ella visita el sitio web de una florería con sede en California y se pone a diseñar un ramo de las flores favoritas de Priya y le escribe un bonito mensaje. Todo va bien. Iyler está en el camino ideal. Pero cuando le piden a Iyler que ingrese su dirección, hay un campo que pregunta por su estado de origen. Iyler no tiene un estado de origen, ella vive en Londres, Inglaterra. Ella intenta saltarse ese campo, pensando que el sitio se lo permitirá, pero el campo del estado es obligatorio para continuar. Es un callejón sin salida en el camino ideal. Después de todo ese trabajo, tiene que cerrar el sitio web y encontrar otra forma de conseguir flores para su amiga. 
+
+En el mundo del diseño, Iyler y otras personas como ella se denominan usuarios de casos límite. 
+
+### Caso límite
+
+**Un caso límite es una situación rara o un problema inesperado que interrumpe una experiencia de usuario estándar. Una buena UX anticipa los casos límite y redirecciona a los usuarios de vuelta al camino ideal cuando las cosas no salen según lo planeado**. 
+
+**En los casos límite, el obstáculo suele ser imposible de solucionar para los usuarios.** 
+
+Piensa en Iyler, que solo quiere desearle un feliz cumpleaños a su amiga en Estados Unidos. No hay forma de que se salte el campo de estado, por lo que no hay forma de que Iyler logre comprar con éxito flores para Priya en el sitio web de la tienda. 
+
+Desafortunadamente, la experiencia del usuario de Iyler es irreparable por su parte.
+
+Veamos consejos profesionales de diseño de UX para detectar y resolver posibles casos límite antes del lanzamiento del producto, para que otros usuarios no terminen como Iyler. 
+
+- Consejo 1, **crea personas e historias de usuario**. Si te aseguras de que las personas e historias de usuario den cuenta de una amplia gama de usuarios y problemas, pueden mantener hasta los más vulnerables usuarios en el camino ideal.
+
+- Consejo 2, **revisa con cuidado el proyecto antes del lanzamiento**. En la prisa por lanzar un producto, los diseñadores de UX pueden centrarse solo en el camino ideal. Dar al proyecto una buena revisión final desde la perspectiva del usuario ayuda a los diseñadores a identificar los casos límite.
+
+- Consejo 3, **usa esquemas de página**. Aprenderás a crear esquemas de página más adelante. **Los esquemas de página ayudan a visualizar el proyecto, lo que hace que sea más fácil identificar las dificultades potenciales de los usuarios y solucionarlas antes del lanzamiento para gente sin discapacidad visual**.
+
+Todos tenemos ese amigo que siempre tiene todo lo que necesitas cuando lo necesitas. Por ejemplo, si estás en un parque de atracciones almorzando y dejas caer el tenedor al suelo, este amigo tiene un tenedor adicional listo para usar. ¿Necesitas un par de medias adicionales para probarte unos zapatos elegantes? No te preocupes, tu amigo te ayudará con eso. **Como diseñador de UX, deberías ser ese amigo para todos los usuarios. Deberías tener la capacidad de anticipar las necesidades que puedan tener, ya sea que estén en el camino ideal o no**. 
+
+Hasta ahora hemos conocido a los usuarios y sus historias. A continuación, hablaremos de un recorrido. El recorrido del usuario.
+
+---
+
+## :tv: Ayan: ejemplo real de casos límite
+
+Hola, me llamo Ayan y soy diseñadora visual en Google. Un caso límite es una situación en la experiencia con un producto que el equipo de producto considera muy poco probable o que está fuera de el flujo típico dentro de ese producto. Cuando intentas averiguar cuáles son los casos límite para tu producto, realmente debes sentarte con los usuarios y observar cómo el producto afecta sus vidas reales.
+
+
+A menudo, lo que crees que va a suceder cuando la aplicación esté en manos de un usuario no es lo que sucede en realidad. Identificar esos casos es realmente clave para crear una experiencia armoniosa cuando las cosas no salen como las habías planeado. Hay un caso límite en el que he trabajado recientemente. Yo era la líder de diseño visual en el producto Messages de Google. Es nuestra solución de mensajes de texto. La situación es que yo estaba trabajando en crear esa marca, diferenciando visualmente RCS, que es el futuro de los mensajes de texto, con indicadores de escritura, frente a los SMS, mensajes de texto algo anticuados, el protocolo típico que usarías para enviarle un mensaje de texto a tu mamá, digamos. La idea era crear un sistema visual armonioso y que estas dos experiencias separadas funcionaran de modo que, en el caso de que tu teléfono perdiera el acceso, igualmente tuvieras una experiencia armoniosa. Como diseñadora visual, realmente quería asegurarme de que estos dos espacios, que nunca esperábamos que convivieran, igualmente tuvieran sentido si sucedía. Y en realidad, en la práctica, eso pasó con bastante frecuencia. En las capturas de pantalla de esta aplicación de mensajes notarás que no importa si es un RCS o SMS, o tal vez una combinación de ambos, igualmente debería verse hermoso. Mientras trabajábamos en este proyecto y creábamos una nueva rama para la aplicación Messages, trabajé muy de cerca con la gestión de productos para idear un plan estratégico para que, mientras este rediseño viviera en el mundo real, por así decirlo, tuviéramos un plan para los años venideros. Si bien RCS era nuestra gran apuesta para el futuro, queríamos asegurarnos de que la realidad de los SMS en ese momento fuera armoniosa a medida que el producto madurara. Identificar casos de uso futuros frente a casos de uso actuales realmente nos ayudó a identificar estos casos límite que son frecuentes en la actualidad y que tal vez no sean tan frecuentes en el futuro que esperamos.
+
+
+Me siento tan orgullosa cuando veo capturas de pantalla de chats de mensajes de texto por ahí en las redes sociales, y a veces ves SMS junto con RCS, esa burbuja celeste con esa burbuja azul oscuro, y me siento orgullosa de que hayamos identificado ese caso límite antes de que se convirtiera en un problema para nuestra imagen de marca.
+
+---
+---
