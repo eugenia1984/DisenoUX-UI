@@ -256,3 +256,135 @@ Me siento tan orgullosa cuando veo capturas de pantalla de chats de mensajes de 
 
 ---
 ---
+
+# :star: CREAR UN MAPA DE RECORRIDO DEL USUARIO
+
+Ahora que has planificado y te has preparado para caminos ideales y casos límite, veamos de qué se tratan los recorridos de usuario. 
+
+
+### Recorrido de usuario
+
+**Un recorrido de usuario es la serie de experiencias que un usuario tiene para lograr un objetivo específico**. 
+
+Los recorridos de usuario se crean a partir de las personas y las historias que ya has creado. 
+
+Te ayudan a pensar y sentirte como el usuario, lo cual es muy importante. 
+
+Si no puedes ponerte en el lugar de los usuarios, no puedes estar seguro de que tu diseño los ayudará. 
+
+
+### Mapa de recorrido
+
+Antes de empezar el recorrido del usuario, necesitas un mapa de recorrido. 
+
+**Un mapa de recorrido es justamente eso, una ilustración de lo que el usuario realiza para alcanzar sus objetivos. Piensa en eso como si fuera leer un libro. Si la persona es el protagonista, la historia de usuario es la trama, y el mapa de recorrido es el resumen de la historia**. 
+
+Primero, hagamos un pequeño experimento. Imagina que queremos ir en coche a la playa para nadar. Podemos mirar un mapa en el teléfono para obtener una idea general de la mejor ruta. Tenemos el punto de salida y el punto de llegada, así que emprendemos el camino. Hasta ahora todo bien. Vaya, parece que hay un embotellamiento adelante. Por suerte, la aplicación de mapas nos ofrece una ruta de desvío para evitar el tráfico. Estas aplicaciones nos ayudan a evitar los obstáculos. 
+
+- La misma idea se aplica a los mapas de recorrido. **Un mapa de recorrido del usuario ayuda a los diseñadores de UX a crear rutas sin obstáculos**. Ese es el primer beneficio de los mapas de recorrido. Ahora veamos unas cosas más. 
+
+- Un mapa de recorrido del usuario **reduce el sesgo del diseñador**, que tal vez recuerdes como la tendencia del diseñador a diseñar de acuerdo a sus propias necesidades y deseos en lugar de los de los usuarios. Crear un mapa de recorrido te permite documentar a fondo toda la secuencia de eventos e interacciones que experimenta un usuario, incluida la interacción del usuario con tu diseño. Así puedes concentrarte en cómo una persona específica, no tú, piensa y se siente en cada paso del recorrido.
+
+- Los mapas de recorrido también destacan las nuevas dificultades. Por ejemplo, digamos que la persona Kindred es birracial. Su recorrido de usuario es realizar un censo en línea. Todo va bien hasta que llega el momento de que Kindred seleccione su raza en el menú desplegable. De repente se encuentra con un obstáculo. No hay una opción para que ella se identifique como negra y asiática a la vez. Esta es una dificultad importante. Si tú no eres birracial, es posible que no hayas anticipado este problema, pero, al crear la persona de Kindred, al darle una historia, y trazar su recorrido con un mapa de recorrido de usuario, eres capaz de identificar con claridad el problema que está experimentando y mejorar el diseño.
+
+- Esto nos lleva al último beneficio clave de los mapas de recorrido. **Nos permiten identificar las oportunidades de mejora**. En el ejemplo de Kindred, podrías añadir una opción en el menú para que los usuarios escriban su propia identidad racial, o tal vez podrías añadir otro campo al menú desplegable para los ciudadanos multirraciales. Mejorar la UX aquí puede marcar una gran diferencia.
+
+¿Cómo trazamos un mapa de recorrido del usuario? Una acción a la vez. Digamos que nuestra persona, Jamal, viene de un pueblo de 500 personas de Mississippi. Usa silla de ruedas para desplazarse y está de visita en la ciudad de Nueva York por primera vez. Hoy, quiere cumplir su sueño de subir al último piso del Empire State Building. 
+
+¿Cómo trazamos su recorrido? 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/cd8f56ba-671a-491c-a5ce-489d736d98f3)
+
+
+Para empezar, identifica la primera tarea que el usuario debe completar. En este caso, Jamal debe encontrar una ruta de metro que lo lleve al Empire State Building. A continuación, enumera todas las cosas que el usuario tiene que hacer para alcanzar su objetivo. Esta es una lista de las principales tareas de Jamal. 
+
+- Tarea 1, determinar la línea de metro y la ruta que debe tomar.
+
+- Tarea 2, buscar la estación más cercana con accesibilidad para silla de ruedas.
+
+- Tarea 3, comprar un boleto.
+
+- Tarea 4, buscar la plataforma correcta y asegurarse de que el tren se dirige hacia el Empire State Building y no en el sentido contrario.
+
+- Tarea 5, abordar el metro.
+
+- Tarea 6, buscar la salida correcta.
+
+Lo siguiente en el trazado del mapa de recorrido es describir todas las cosas más pequeñas que debe hacer el usuario antes de pasar a la siguiente tarea principal. 
+
+Para Jamal, podría ser algo así.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/f5f6500e-ba2e-4bf4-8f57-d63698a8bfc2)
+
+
+Eso es todo. Has llevado a Jamal hasta el Empire State Building. Tu trabajo aquí ha terminado. 
+
+Bueno, no exactamente. Has completado el recorrido físico de Jamal, pero aún tienes que considerar su recorrido emocional también. 
+
+**La tercera acción al trazar el recorrido es identificar las emociones probables del usuario al ir de tarea en tarea**. Por ejemplo, imagina cómo podría sentirse Jamal la primera vez que mira el mapa de la línea del metro. Es posible que se sienta confundido e intimidado. O imagina que Jamal ha comprado el boleto y está tratando de ir a la plataforma adecuada. No puede usar las escaleras, así que tendrá que buscar un ascensor o una rampa. Si el ascensor está fuera de servicio, tendrá que buscar una rampa. Esta experiencia podría hacer que Jamal se sienta abrumado y excluido. Nos queda una última acción en el ejercicio. 
+
+Una vez que identificamos las emociones del usuario, somos capaces de identificar oportunidades de mejorar su experiencia del usuario. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/fc957cc2-817c-4deb-84a3-8ea05ef20670)
+
+
+Aquí es donde el mapa de recorrido del usuario realmente puede mejorar el diseño de UX. 
+
+Sin el trazado de las acciones del recorrido de Jamal, puede que nunca se nos hubiera ocurrido añadir un indicador de accesibilidad en el mapa para ayudar a los usuarios en silla de ruedas a transitar más fácilmente por las estaciones de metro. 
+
+Así se ve un mapa completo de recorrido del usuario para alguien como Jamal. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/d69f85aa-17cf-4936-b897-42a228c73c46)
+
+Ahora sabes cómo el recorrido del usuario se construye a partir de las historias y personas de usuario, conoces los beneficios de los mapas de recorrido del usuario, y entiendes cómo crear un mapa de recorrido. El recorrido de usuario de Jamal puede haber terminado, pero todavía tenemos un largo camino por delante en nuestro recorrido de aprendizaje de diseño de UX. A continuación, hablaremos de la importancia de tener en cuenta la accesibilidad.
+
+
+---
+
+## Modelo de la actividad: Crear un mapa de recorrido del usuario para el proyecto de CoffeeHouse
+
+Estos son ejemplos completos de mapas de recorrido del usuario para las personas de usuario de la aplicación de CoffeeHouse, Anika y Ali. También hay una explicación de cómo los ejemplos cumplen con las expectativas de la actividad. 
+
+
+Persona: Anika
+
+Objetivo: Una forma rápida y sencilla de realizar y recoger pedidos grupales
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/cb370172-6204-4061-b6e9-aa97124178f8)
+
+
+Persona: Ali
+
+Objetivo: Un entorno de trabajo cómodo con acceso a alimentos y bebidas de calidad
+
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/604f0c6d-dede-454c-84a5-7496b93e4b0e)
+
+
+#### Evaluación del modelo
+
+En los ejemplos anteriores, los mapas de recorrido del usuario cumplen los siguientes criterios:
+
+Todas las acciones a lo largo del recorrido del usuario están definidas.
+
+Se capturan 2 o 3 tareas por cada acción.
+
+Los sentimientos del usuario se indican en cada punto de su recorrido. 
+
+Las oportunidades de mejora se identifican para cada paso del recorrido del usuario.
+
+Los mapas de recorrido del usuario tienen en cuenta la accesibilidad y exploran formas de reducir el impacto del sesgo del diseñador.
+
+Ahora compara los modelos anteriores con los mapas de recorrido de usuario que completaste. Evalúa lo que has hecho usando cada uno de los criterios utilizados para evaluar el modelo. ¿Tus mapas de recorrido del usuario cumplen con cada uno de los criterios anteriores?
+
+Si respondiste «sí», ¡bien hecho! Si no es así, vuelve a leer las instrucciones y modifica los mapas de recorrido del usuario teniendo en cuenta estos criterios.
+
+
+
+---
