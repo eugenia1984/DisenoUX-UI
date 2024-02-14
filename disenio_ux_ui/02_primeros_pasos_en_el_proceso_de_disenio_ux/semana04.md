@@ -156,3 +156,19 @@ Ya has aprendido por qué es importante asegurarte de haber definido el problema
 - [¿Estás resolviendo el problema correcto?](https://hbr.org/2012/09/are-you-solving-the-right-problem) de Harvard Business Review
 
 ---
+
+## :tv: Define planteamientos de hipótesis
+
+Muy bien. Determinas tu planteamiento del problema. ¿Qué pasa después ahora que el problema está claramente definido? 
+
+Bueno, piensa en cómo esto sucede en tu propia vida. Digamos que eres un barista que necesita encontrar una empresa de mudanzas asequible porque te estás mudando al otro lado del país. Si este es el problema al que te enfrentas, harías una lluvia de ideas de posibles soluciones. Hacer una lluvia de ideas de las soluciones es similar a hacer una hipótesis o una conjetura sobre cómo resolver el problema. En diseño de experiencia de usuario, escribimos posibles soluciones al problema como planteamientos de hipótesis. Un planteamiento de hipótesis incluye nuestra conjetura más acertada sobre lo que pensamos podría ser la solución a un problema de diseño. ¿Cómo escribimos planteamientos de hipótesis? A diferencia de los planteamientos del problema, no hay una fórmula estándar para usar al momento de escribir planteamientos de hipótesis. Pero para empezar, intentaremos lo que se conoce como un planteamiento si/entonces. 
+
+Sería algo así:
+
+**Si, nombre y acción, entonces, nombre y resultado.**
+
+Volvamos a nuestro ejemplo anterior con Amal. Amal es una atleta que una necesita una forma de inscribirse en clases de entrenamiento porque la clase en la que quiere participar se llena rápidamente. Su planteamiento de hipótesis podría ser algo así. Si Amal descarga la aplicación del gimnasio, entonces puede reservar su clase favorita con anticipación. Como dijimos, los planteamientos de hipótesis no tienen una fórmula estándar, así que en lugar de usar un planteamiento si/entonces, también podrías escribir este planteamiento de hipótesis como algo más flexible. 
+
+Como, por ejemplo, Amal necesita una aplicación que le permita reservar sus clases favoritas con anticipación y le notifique cuando hay una oportunidad de inscribirse. En ambos ejemplos, estamos adivinando o planteando hipótesis lo que tiene que pasar para que la necesidad de Amal se resuelva. A medida que avanzas en el proceso de diseño, volverás a revisar y posiblemente ajustar tu hipótesis a medida que obtienes más información sobre las necesidades de tu usuario. Sé flexible y adáptate a medida que avanzas para determinar la mejor solución de diseño.
+
+---
