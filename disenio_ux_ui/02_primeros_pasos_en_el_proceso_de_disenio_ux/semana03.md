@@ -641,7 +641,7 @@ Recapitulemos algunas de las herramientas que nos ayudan a empatizar con los usu
 
 #### T
 
--The human factor: Describes the range of variables humans bring to their product interactions
+- The human factor: Describes the range of variables humans bring to their product interactions
 
 #### U
 
