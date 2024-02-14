@@ -41,7 +41,19 @@ Explica por qué el usuario tiene esa necesidad.
 
 En otras palabras, **aporta información sobre el usuario**. 
 
-Por ejemplo, Amal es el nombre del usuario. Su característica de usuario es que es atleta. Su necesidad de usuario es que quiere inscribirse en una clase de entrenamiento y la idea o el motivo por el que tiene la necesidad es que las clases de ejercicios se llenan rápidamente. ¿Qué podemos aprender de un planteamiento eficaz del problema? Primero, los planteamientos del problema nos ayudan a establecer metas. Un planteamiento eficaz del problema te dice lo que realmente necesita el usuario. Definir el objetivo de forma clara y concisa permite que todos en el equipo de diseño se embarquen en la tarea y se enfoquen en lo mismo. Segundo, los planteamientos del problema nos ayudan a conocer las limitaciones. Queremos saber lo que impide que los usuarios satisfagan sus necesidades. En tercer lugar, los planteamientos del problema nos ayudan a definir los entregables. Cuando finalmente resolvamos el problema, ¿qué tendremos que hacer al respecto? Es útil saber qué producirá nuestra solución. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/e2704d31-2570-4794-8d68-9cf5b1fd9e7d)
+
+Por ejemplo, Amal es el nombre del usuario. Su característica de usuario es que es atleta. Su necesidad de usuario es que quiere inscribirse en una clase de entrenamiento y la idea o el motivo por el que tiene la necesidad es que las clases de ejercicios se llenan rápidamente.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/5b89f42e-7b37-4d86-af14-3a9e38010a6b)
+
+
+#### ¿Qué podemos aprender de un planteamiento eficaz del problema?
+
+Primero, los planteamientos del problema nos ayudan a establecer metas. Un planteamiento eficaz del problema te dice lo que realmente necesita el usuario. Definir el objetivo de forma clara y concisa permite que todos en el equipo de diseño se embarquen en la tarea y se enfoquen en lo mismo. Segundo, los planteamientos del problema nos ayudan a conocer las limitaciones. Queremos saber lo que impide que los usuarios satisfagan sus necesidades. En tercer lugar, los planteamientos del problema nos ayudan a definir los entregables. Cuando finalmente resolvamos el problema, ¿qué tendremos que hacer al respecto? Es útil saber qué producirá nuestra solución. 
 
 Por último, los planteamientos del problema nos ayudan a crear puntos de referencia para el éxito. ¿Cómo sabremos cuando tengamos éxito? Por ejemplo, si tu objetivo es abrir una puerta, sabrás que has tenido éxito cuando puedas ver lo que hay detrás de la puerta. La mayoría de los problemas de diseño serán más complicados que abrir una puerta, pero el punto de referencia para el éxito debería ser sencillo.
 
