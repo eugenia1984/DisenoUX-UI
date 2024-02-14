@@ -346,6 +346,150 @@ Al comparar, pregúntate:
 
 ## :stars: Crear una propuesta de valor
 
+## :tv: Define una propuesta de valor
+
+Hola. Acabas de dedicar algo de tiempo a aprender sobre planteamientos de problemas y planteamientos de hipótesis, y has creado algunos para conectarlos con las necesidades de tus usuarios. 
+
+Ya que has tenido tiempo para pensar sobre lo que tus **usuarios necesitan**, es importante empezar a pensar sobre **cómo tu producto satisface esas necesidades**. Esto se conoce como **propuesta de valor**.
+
+### Propuesta de valor
+
+**Una propuesta de valor es la razón por la que un consumidor debe usar un producto o un servicio**. 
+
+Puedes pensar en este planteamiento **como la razón por la que los usuarios estarán interesados y dispuestos a comprometerse con tu producto**. 
+
+Las propuestas de valor **garantizan que los usuarios tengan una razón para usar el producto que estás creando, a diferencia de cualquier otro producto disponible actualmente**. 
+
+Mientras piensas en la propuesta de valor de tu primer proyecto, el primer paso debería ser responder estas dos preguntas importantes. 
+
+- ¿Qué hace tu producto?
+
+-  ¿Y por qué debería importarle al usuario?
+
+Una vez que respondas estas preguntas, puedes empezar a pensar en todas las cosas increíbles que hará tu aplicación. Debes evitar pensar en la implementación en esta etapa, y dejar volar tu imaginación. 
+
+Echemos un vistazo a la aplicación del gimnasio que hemos estado analizando en este curso. 
+
+Sabemos que esta aplicación de gimnasio necesita tener una lista de clases para usuarios y ofrecer la posibilidad de inscribirse en esas clases. Aquí hay algunas otras cosas que nuestra aplicación podría hacer:
+
+- Fácil acceso para reservar entrenadores privados.
+
+- Reservas de máquinas populares.
+
+- Pedidos de música en el gimnasio.
+
+- Vídeos a pedido para hacer ejercicio en casa.
+
+- Inscripción a las clases de entrenamiento.
+
+- Seguimiento de los entrenamientos en la aplicación a través de dispositivos de fitness.
+
+Ahora que tienes una lista de posibles funciones para la aplicación, puedes ordenar estas características en un categoría. 
+
+Volvamos a nuestro ejemplo anterior con Amal.
+
+Amal es una atleta que necesita una forma de inscribirse en clases de entrenamiento porque la clase en la que quiere participar se llena rápidamente. 
+
+Nuestro principal objetivo en este momento es ayudar a usuarios como Amal a planificar las visitas al gimnasio. 
+
+Echemos un vistazo a nuestra lista con Amal en mente y tachemos las funciones que no se adaptan a sus necesidades. Eso nos deja las siguientes propuestas de valor:
+
+- Fácil acceso para reservar entrenadores privados
+
+- Reservas de máquinas populares
+
+- Inscripción en clases de entrenamiento.
+
+Y esas son nuestras propuestas de valor para la aplicación del gimnasio. 
+
+Tener más categorías y usuarios te permite adaptar cada propuesta de valor a las necesidades del usuario. 
+
+Sabemos que el objetivo principal de Amal es reservar clases de entrenamiento. Entonces, esa sería la propuesta de valor que responde a sus necesidades. 
+
+Supongamos que Leela está averiguando por una membresía en un gimnasio. Quiere entrar al gimnasio y salir en una hora, de modo que le quede tiempo para visitar a su madre a diario. Lo que le gusta a Leela es la función de reserva de máquinas y hacer el entrenamiento exacto que desea en un horario fijo. Para los usuarios con agendas complicadas como Leela, las reservas de máquinas populares son esenciales. 
+
+Ahora que entiendes mejor cómo crear propuestas de valor y cómo afectan a los usuarios, es hora de empezar a pensar en las propuestas de valor para tu aplicación.
+
+
+---
+
+## book: Define una propuesta de valor
+
+¿Alguna vez encontraste un producto o una aplicación y pensaste: «¡Tengo que tener esto!»? ¡No es una coincidencia! Este es el sueño de los diseñadores de experiencia de usuario porque queremos crear productos que aporten un valor claro a los usuarios. 
+
+Entonces, ¿cómo puedes usar todo lo que creaste hasta ahora (mapas de empatía, personas, historias de usuarios, planteamientos de problemas e hipótesis) para hacer que los usuarios piensen: «¡Tengo que tener esto!»? 
+
+Empieza por definir las propuestas de valor de tu producto. Las propuestas de valor resumen por qué un consumidor debe utilizar un producto o servicio.
+
+### Ejemplo de propuesta de valor
+
+Echa un vistazo a un producto que quizás reconozcas, Gmail, y pregúntate si puedes identificar algunas de sus propuestas de valor. Cuando Google estrenó Gmail en 2004, estaba entrando en un mercado ya abarrotado de servicios de correo electrónico gratuitos. Gmail ofrecía: 
+
+- La posibilidad de enviar y recibir correos electrónicos de forma gratuita
+
+- Funciones de clasificación, archivado y marca con estrella de correo electrónico
+
+- Filtro de spam para bandejas de entrada
+
+- Vistas de conversaciones por correo electrónico
+
+- 1 gigabyte de almacenamiento en la nube
+
+
+Dos de los elementos de esa lista eran ofertas únicas que ningún otro servicio de correo electrónico ofrecía en ese momento: vistas de conversaciones de correo electrónico, que colocaban a los correos electrónicos individuales en el contexto de un subproceso más grande, y un gigabyte completo de almacenamiento, que equivalía a 1000 veces la cantidad de almacenamiento que ofrecían los competidores. Esas eran las propuestas de valor únicas de Gmail. 
+
+### Crear propuestas de valor
+Todo lo que ofrece tu producto puede parecerte obvio, pero tienes que pensar como tus usuarios. Los usuarios aún no conocen tu producto ni comprenden su valor. Ahí es donde aparecen las propuestas de valor. 
+
+Para empezar, necesitas investigar un poco para responder a estas dos preguntas:
+
+- **¿Qué hace tu producto?** Explica claramente lo que ofrece tu producto a los usuarios. 
+
+- **¿Y por qué debería importarle al usuario?** Describe cómo tu producto aborda los puntos débiles de los usuarios.
+
+Una vez que hayas respondido a estas preguntas, puedes seguir una serie de pasos para centrarte en la propuesta de valor única de tu producto. Usemos la aplicación de paseadores de perros como ejemplo para explorar cómo funciona esto en acción.
+
+**Paso 1: Describir las características y ventajas de tu producto**. Crea una lista de todas las grandes características y beneficios de tu producto, grandes y pequeños. No te detengas; haz una lista de todo lo que te venga a la mente y luego acótala.
+
+**Paso 2: Explicar el valor del producto**. Cualquier cosa que identifiques como propuesta de valor debe ser beneficiosa para tus usuarios. En este ejemplo, para la aplicación de paseadores de perros se identificaron cuatro categorías de valores de producto durante las entrevistas con los usuarios: accesible, experiencia profesional de los paseadores de perros, costo y fiabilidad. La lista gigante de características y beneficios del primer paso se clasifica en estas cuatro categorías.
+
+Había algunas características y beneficios de la lista original que no encajaban en estas cuatro categorías y que no agregaban un «valor» real para los usuarios: 
+
+- Golosinas orgánicas y nuevos productos para tus mascotas todos los meses
+
+- Exclusivamente para paseo de perros (no incluye otro tipo de mascotas)
+
+- Sistema de clasificación para los paseadores
+
+- Consejos de formación
+
+Estas características y beneficios no se clasificaron en las cuatro categorías, sino que se dejaron de lado.
+
+**Paso 3: Conectar estas características y ventajas con las necesidades de tus usuarios**. El objetivo es identificar qué es realmente valioso para el usuario y no solo una característica interesante que los usuarios no pidieron. Para determinar el valor, toma las personas que desarrollaste y combina cada persona con una propuesta de valor que aborde su principal punto débil.
+
+**Paso 4: Revisar tu lista oficial de propuestas de valor**. Redujiste tu lista de muchos beneficios y características haciéndolos corresponder con las necesidades reales de los usuarios. Ahora es momento de revisar la lista de propuestas de valor que ofrece tu producto. Para la aplicación de paseadores de perros, aquí están las propuestas de valor que coinciden con las personas que se desarrollaron anteriormente:
+
+- Formación completa para paseadores.
+
+- Actualización de los paseadores de perros a cuidador de perros para paseos fijos y programados.
+
+- Geolocalización de los paseadores. 
+
+- Reserva de fechas.
+
+- Tarifas de cancelación por notificación tardía.
+
+- Prácticos casilleros para guardar las llaves de tu casa. 
+
+- Diseño de la aplicación fácil de usar
+
+¡Y ahí tienes tu lista de propuestas de valor! Sin embargo, tus competidores también ofrecen algunas de estas características y beneficios. Entonces, ¿cómo sabes qué hace que tu producto se destaque de la competencia? Identifica la propuesta de valor única de tu aplicación. Esto significa revisar la lista de propuestas de valor que coinciden con tus personas y eliminar las que tu competencia también ofrece.
+
+Puedes conocer a los competidores de tu producto leyendo las reseñas. Ordena las reseñas de menor a mayor y examina detenidamente lo que los evaluadores comparten sobre tu competencia. 
+
+### Conclusiones clave
+
+Una de las cosas más importantes que hay que saber sobre las propuestas de valor es que deben ser breves, claras y concisas. Los usuarios quieren poder identificar fácilmente cómo tu producto logrará satisfacer sus necesidades únicas y qué diferencia a tu producto en el mercado. A veces, los usuarios no sabrán lo que necesitan hasta que se lo expliques. Esa es la esencia de la innovación en el diseño de productos.
 
 ---
 ---
