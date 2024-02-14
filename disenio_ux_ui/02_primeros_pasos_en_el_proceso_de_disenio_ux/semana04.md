@@ -13,6 +13,11 @@ Para empezar a definir el problema de diseño, tendremos que sintetizar todo lo 
 Además, los mapas de empatía nos pueden ayudar a centrarnos en las necesidades del usuario y los problemas que está experimentando. ¡Comencemos!
 
 ---
+---
+
+
+# :stars: Definir los planeamientos del problema y de hpótesis
+
 
 ## :tv: Crear planteamientos del problema
 
@@ -161,14 +166,68 @@ Ya has aprendido por qué es importante asegurarte de haber definido el problema
 
 Muy bien. Determinas tu planteamiento del problema. ¿Qué pasa después ahora que el problema está claramente definido? 
 
-Bueno, piensa en cómo esto sucede en tu propia vida. Digamos que eres un barista que necesita encontrar una empresa de mudanzas asequible porque te estás mudando al otro lado del país. Si este es el problema al que te enfrentas, harías una lluvia de ideas de posibles soluciones. Hacer una lluvia de ideas de las soluciones es similar a hacer una hipótesis o una conjetura sobre cómo resolver el problema. En diseño de experiencia de usuario, escribimos posibles soluciones al problema como planteamientos de hipótesis. Un planteamiento de hipótesis incluye nuestra conjetura más acertada sobre lo que pensamos podría ser la solución a un problema de diseño. ¿Cómo escribimos planteamientos de hipótesis? A diferencia de los planteamientos del problema, no hay una fórmula estándar para usar al momento de escribir planteamientos de hipótesis. Pero para empezar, intentaremos lo que se conoce como un planteamiento si/entonces. 
+Bueno, piensa en cómo esto sucede en tu propia vida. Digamos que eres un barista que necesita encontrar una empresa de mudanzas asequible porque te estás mudando al otro lado del país. Si este es el problema al que te enfrentas, harías una **lluvia de ideas de posibles soluciones** (**brainstorm**). Hacer una lluvia de ideas de las soluciones **es similar a hacer una hipótesis o una conjetura sobre cómo resolver el problema**. 
 
-Sería algo así:
+-> **En diseño de experiencia de usuario, escribimos posibles soluciones al problema como planteamientos de hipótesis. Un planteamiento de hipótesis incluye nuestra conjetura más acertada sobre lo que pensamos podría ser la solución a un problema de diseño**. 
+
+#### ¿Cómo escribimos planteamientos de hipótesis? 
+
+A diferencia de los planteamientos del problema, no hay una fórmula estándar para usar al momento de escribir planteamientos de hipótesis.
+
+Pero para empezar, intentaremos lo que se conoce como un **planteamiento si/entonces**. Sería algo así:
 
 **Si, nombre y acción, entonces, nombre y resultado.**
 
-Volvamos a nuestro ejemplo anterior con Amal. Amal es una atleta que una necesita una forma de inscribirse en clases de entrenamiento porque la clase en la que quiere participar se llena rápidamente. Su planteamiento de hipótesis podría ser algo así. Si Amal descarga la aplicación del gimnasio, entonces puede reservar su clase favorita con anticipación. Como dijimos, los planteamientos de hipótesis no tienen una fórmula estándar, así que en lugar de usar un planteamiento si/entonces, también podrías escribir este planteamiento de hipótesis como algo más flexible. 
+Volvamos a nuestro ejemplo anterior con Amal. Amal es una atleta que una necesita una forma de inscribirse en clases de entrenamiento porque la clase en la que quiere participar se llena rápidamente. Su planteamiento de hipótesis podría ser algo así. 
 
-Como, por ejemplo, Amal necesita una aplicación que le permita reservar sus clases favoritas con anticipación y le notifique cuando hay una oportunidad de inscribirse. En ambos ejemplos, estamos adivinando o planteando hipótesis lo que tiene que pasar para que la necesidad de Amal se resuelva. A medida que avanzas en el proceso de diseño, volverás a revisar y posiblemente ajustar tu hipótesis a medida que obtienes más información sobre las necesidades de tu usuario. Sé flexible y adáptate a medida que avanzas para determinar la mejor solución de diseño.
+**Si Amal descarga la aplicación del gimnasio, entonces puede reservar su clase favorita con anticipación.**
 
+Como dijimos, los planteamientos de hipótesis no tienen una fórmula estándar, así que en lugar de usar un planteamiento si/entonces, también podrías escribir este **planteamiento de hipótesis como algo más flexible**. 
+
+Como, por ejemplo, "Amal necesita una aplicación que le permita reservar sus clases favoritas con anticipación y le notifique cuando hay una oportunidad de inscribirse". 
+
+En ambos ejemplos, estamos adivinando o planteando hipótesis lo que tiene que pasar para que la necesidad de Amal se resuelva. 
+
+A medida que avanzas en el proceso de diseño, volverás a revisar y posiblemente ajustar tu hipótesis a medida que obtienes más información sobre las necesidades de tu usuario. **Sé flexible y adáptate a medida que avanzas para determinar la mejor solución de diseño**.
+
+
+---
+
+## :book: Define planteamientos de hipótesis
+
+Has pasado mucho tiempo aprendiendo sobre los usuarios para los que estás diseñando y sobre cómo empatizar con los usuarios e investigarlos puede mejorar tu comprensión de sus necesidades. Como recordatorio, aquí te encuentras en el proceso de diseño:
+
+- **Empatizar** con los usuarios te permite considerar la experiencia del producto desde su perspectiva. Al conectarte directamente con las personas, como a través de entrevistas, puedes descubrir y comprender qué les gusta, qué no les gusta y sus puntos débiles. 
+
+- Luego, revisa la investigación que realizaste sobre los usuarios para **definir** el problema al que se enfrentan. La creación de un planteamiento del problema te ayuda a definir claramente los puntos débiles del usuario que tus futuros diseños pueden abordar.
+
+Ahora puedes empezar a encontrar soluciones que aborden esos problemas! Estás listo para crear planteamientos de hipótesis. Un **planteamiento de hipótesis** es una suposición fundamentada sobre cuál crees que podría ser la solución a un problema de diseño. Ya conoces los desafíos a los que se enfrentan los usuarios, así que es hora de analizar cómo tus diseños pueden resolver sus puntos débiles.
+
+Los planteamientos de hipótesis no tienen una única fórmula estándar a seguir, pero hay dos métodos comunes que puedes intentar usar para escribir una.
+
+Primero, puedes usar el **formato si/entonces** para crear un planteamiento de hipótesis. Estos son ejemplos de planteamientos de hipótesis si/entonces aplicados para los usuarios de la aplicación de paseadores de perros:
+
+- **Si** Arnold descarga la aplicación de paseadores de perros, **entonces** podrá utilizar la configuración del modo «simplificado» para ver solo las funciones básicas de la aplicación. 
+
+- **Si** Tobias se inscribe en la aplicación de paseadores de perros, **entonces** elegirá rápida y fácilmente un paseador que se ajuste a su horario.
+
+Segundo, puedes usar el **formato creemos** que para crear un planteamiento de hipótesis. Aquí hay ejemplos de planteamientos de hipótesis creemos que aplicados a la aplicación de paseadores de perros:
+
+- **Creemos que** un modo simplificado de la aplicación de paseadores de perros **para** Arnold le **permitirá** contratar paseadores de perros de manera eficiente.
+
+- **Creemos que** el fácil acceso a los paseadores de perros disponibles **para** Tobias **aumentará** la cantidad de paseos que elija para sus mascotas.
+
+Los planteamientos si/entonces se centran directamente en las necesidades de los usuarios. Por otro lado, los planteamientos creemos que tienen en cuenta la perspectiva de tu equipo, sin dejar de ser empáticos con las necesidades de los usuarios.
+
+Es posible que te encuentres con situaciones en las que tienes varios planteamientos de hipótesis para un planteamiento de problema. Está bien. Siempre habrá múltiples soluciones para los problemas a los que se enfrentan los usuarios. Tu trabajo como diseñador de experiencia de usuario consiste en usar tu creatividad y tus habilidades de resolución de problemas para decidir qué soluciones funcionan mejor para los usuarios únicos para los que estás diseñando.
+
+Los planteamientos de hipótesis te ayudan a reducir la información de tu investigación a los objetivos de tu producto, para que puedas concentrarte en los deseos y las necesidades de tus usuarios. 
+
+---
+---
+
+## :stars: Crear una propuesta de valor
+
+
+---
 ---
