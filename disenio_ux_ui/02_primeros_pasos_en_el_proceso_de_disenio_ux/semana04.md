@@ -224,6 +224,85 @@ Es posible que te encuentres con situaciones en las que tienes varios planteamie
 Los planteamientos de hipótesis te ayudan a reducir la información de tu investigación a los objetivos de tu producto, para que puedas concentrarte en los deseos y las necesidades de tus usuarios. 
 
 ---
+
+## Modelo de la actividad: Crear un planteamiento de problema e hipótesis para el proyecto CoffeeHouse
+
+Aquí hay un modelo terminado, junto con una explicación de por qué el modelo cumple con los requisitos de la actividad anterior. 
+
+
+### Modelo
+
+Este es un ejemplo creado utilizando el escenario de CoffeeHouse que hemos seguido en este curso.
+
+Aquí dispones de un enlace a ese escenario para este elemento del curso. Haz clic en el enlace que se encuentra a continuación y selecciona «Usar plantilla». 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/3253fdfa-9a8f-4b44-82e8-2d59aa7a3a97)
+
+Aquí hay un ejemplo de planteamiento del problema para una de las personas que creamos usando este escenario:
+
+
+Anika es una pasante de marketing que necesita una forma más rápida y colaborativa de tomar muchos pedidos de café de sus compañeros de trabajo a la vez porque tomar pedidos individuales lleva demasiado tiempo y no se aprovecha bien el tiempo de Anika.
+
+He aquí un ejemplo de un planteamiento de hipótesis que coincide con el planteamiento de problema.
+
+Planteamiento de hipótesis para Anika: Si Anika utiliza la aplicación CoffeeHouse para recoger pedidos y enviarlos, entonces podrá obtener el café para todos en la oficina de forma rápida y sencilla.
+
+Y aquí hay otro ejemplo de planteamiento del problema para la segunda persona que creamos para el escenario CoffeeHouse:
+
+Ali es un estudiante remoto que necesita hacer y recibir pedidos sin dejar su mesa porque si se levanta para hacer el pedido, alguien más podría sentarse en ella y perderá su lugar.
+
+He aquí una hipótesis que se corresponde con el planteamiento de problema de Ali.
+
+Planteamiento de hipótesis para Ali: Si Ali usa la aplicación CoffeeHouse para hacer un pedido en la tienda desde su mesa, un empleado puede entregar su pedido para que Ali no pierda su lugar.
+
+###  Evaluación del modelo
+
+En este modelo, cada planteamiento del problema:
+
+1. Comienza con el nombre del usuario. 
+
+2. Agrega una breve descripción de las características del usuario. 
+
+3. Describe claramente la necesidad del usuario. 
+
+4. Explica por qué el usuario tiene esa necesidad. 
+
+
+Con estas partes claramente definidas, el planteamiento del problema:
+
+- Está centrado en el ser humano y en las necesidades de un tipo específico de usuario.
+
+- Es lo suficientemente amplio como para permitir cierta libertad creativa.
+
+- Es lo suficientemente limitado como para resolverse con una solución de diseño práctica.
+
+Los planteamientos de hipótesis correspondientes expresan un objetivo de diseño claro y los criterios para el éxito:
+
+- Al indicar una acción específica, nos dicen lo que nuestra solución debería permitir hacer al usuario.
+
+- Al indicar el resultado deseado, ofrecen un logro específico. Esto ayuda a determinar si la solución logró satisfacer con éxito las necesidades del usuario.
+
+Ahora compara el modelo anterior con tu entregable completado. Analiza lo que hiciste mediante los criterios utilizados para evaluar el modelo. 
+
+¿Creaste un planteamiento del problema que:
+
+- esté centrado en el ser humano y en las necesidades de un tipo específico de persona?
+
+- ¿es lo suficientemente amplio como para permitir cierta libertad creativa?
+
+- ¿es lo suficientemente limitado como para resolverse con una solución de diseño práctica?
+
+A partir de tu planteamiento del problema, ¿pudiste formular un planteamiento de hipótesis correspondiente que:
+
+- indica una acción específica y nos indica qué debería permitir tu solución que el usuario haga?
+
+- indica el resultado deseado que determina si tu solución logró satisfacer las necesidades del usuario?
+
+Si respondes «Sí» a cada una de estas preguntas, ¡buen trabajo! Si hay preguntas a las que no pudiste responder «Sí», entonces estas son áreas en las que puedes mejorar tus planteamientos del problemas y de hipótesis. ¡Regresa e intenta volver a escribir tus planteamientos teniendo en cuenta estos criterios!
+
+
+---
 ---
 
 ## :stars: Crear una propuesta de valor
