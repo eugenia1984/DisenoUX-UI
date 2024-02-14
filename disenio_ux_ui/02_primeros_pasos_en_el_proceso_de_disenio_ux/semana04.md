@@ -144,3 +144,15 @@ Los planteamientos de problema proporcionan claridad sobre los objetivos de los 
 ¡Los diseños que creas importan! Empatiza con tus usuarios tanto como puedas para crear un producto con el que querrán interactuar y usar todos los días.
 
 ---
+
+## :book: Obtén más información sobre cómo definir problemas de usuario
+
+Ya has aprendido por qué es importante asegurarte de haber definido el problema del usuario correcto antes de diseñar soluciones. Entonces, ¿estás listo para aumentar tu lista de lectura? Estos recursos te ayudarán a desarrollar una comprensión más profunda de la etapa de definición del proceso de diseño.
+
+- [Planteamientos del problema de diseño: Qué son y cómo enmarcarlos](https://www.toptal.com/designers/product-design/design-problem-statement)  de Toptal
+
+- [Planteamientos de necesidades del usuario: La etapa de definición en Design Thinking](https://www.nngroup.com/articles/user-need-statements/) de Nielsen Norman Group
+
+- [¿Estás resolviendo el problema correcto?](https://hbr.org/2012/09/are-you-solving-the-right-problem) de Harvard Business Review
+
+---
