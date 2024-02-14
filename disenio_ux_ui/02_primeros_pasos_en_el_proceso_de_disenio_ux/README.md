@@ -8,7 +8,7 @@ Describir métodos comunes de investigación en UX | Empatizar con los usuarios 
 
 - [SEMANA 1: Integrar la investigación en el proceso de diseño](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana01.md): Describir el papel de la investigación en UX en el proceso de diseño / Enumerar los métodos de investigación comunes en el diseño de UX / Explicar los métodos de investigación que se utilizarán durante el ciclo de vida del desarrollo del producto / Identificar los sesgos en la investigación en UX y tenerlos en cuenta
 
-- [SEMANA 2: Empatizar con los usuarios y definir los puntos débiles](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana02.md)
+- [SEMANA 2: Empatizar con los usuarios y definir los puntos débiles](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana02.md): Empatizar con lo usuarios / Reclutar participantes para las entrevistas / Reclutar participantes para las entrevistas / Reclutar participantes para las entrevistas
 
 - [SEMANA 3: Creación de historias de usuario y mapas de recorrido del usuario](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana03.md)
 
