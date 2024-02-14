@@ -301,7 +301,46 @@ A partir de tu planteamiento del problema, ¿pudiste formular un planteamiento d
 
 Si respondes «Sí» a cada una de estas preguntas, ¡buen trabajo! Si hay preguntas a las que no pudiste responder «Sí», entonces estas son áreas en las que puedes mejorar tus planteamientos del problemas y de hipótesis. ¡Regresa e intenta volver a escribir tus planteamientos teniendo en cuenta estos criterios!
 
+---
 
+## Modelo de la actividad: Crea un planteamiento de problema para el proyecto de tu portfolio.
+
+Aquí hay un modelo terminado de un planteamiento de problema de Ying, junto con una explicación de por qué el modelo cumple los requisitos de la actividad anterior.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/32e25e7f-fce8-4e82-9839-9ce977631709)
+
+
+*Ying es un adulto que trabaja mucho y que necesita fácil acceso a opciones de entrega de alimentos saludables porque no tiene tiempo para prepararse la cena.*
+
+### Evaluación del modelo
+
+Así es como se completó el planteamiento de problema de Ying. 
+
+Paso 1: Abrir la plantilla de planteamiento de problema y crear una copia.
+
+Paso 2: Elegir la persona de ejemplo, Ying, del ejemplo de Zia's Pizza, para que sea el centro del planteamiento de problema. A continuación, agregar el nombre de Ying a la sección «nombre de usuario» de la plantilla. 
+
+Paso 3: Agregar la característica principal de Ying, que es un adulto que trabaja mucho, a la sección «características del usuario» de la plantilla. 
+
+Paso 4: Agregar la necesidad principal de Ying, el fácil acceso a las opciones de pedido de alimentos saludables, a la sección «necesidad del usuario» de la plantilla.  
+
+Paso 5: Por último, rellenar la sección «idea» de la plantilla con la razón por la que Ying tiene su necesidad: porque no tiene tiempo para cocinarse. 
+
+Ying es el **nombre de usuario** de este ejemplo. Su **característica de usuario** es que es un adulto que trabaja mucho. La **necesidad del usuario** es que necesita acceder con mayor facilidad a las opciones de pedido de alimentos saludables. La **idea** de Ying, o por qué tiene la necesidad, es que no tiene tiempo para cocinarse.
+
+Ahora compara tu planteamiento de problema con el modelo correspondiente de arriba.
+
+Al comparar, pregúntate: 
+
+- ¿El planteamiento de problema incluye el nombre de la persona de tu usuario?
+
+- ¿El planteamiento de problema incluye características que definen la persona de tu usuario?
+
+- ¿El planteamiento de problema ayuda a describir las necesidades de la persona de tu usuario?
+
+ ¿El planteamiento de problema define claramente una perspectiva para la persona de tu usuario?
+ 
 ---
 ---
 
