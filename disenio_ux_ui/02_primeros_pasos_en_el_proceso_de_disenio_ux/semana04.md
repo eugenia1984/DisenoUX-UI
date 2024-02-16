@@ -413,7 +413,7 @@ Ahora que entiendes mejor cómo crear propuestas de valor y cómo afectan a los 
 
 ---
 
-## book: Define una propuesta de valor
+## :book: Define una propuesta de valor
 
 ¿Alguna vez encontraste un producto o una aplicación y pensaste: «¡Tengo que tener esto!»? ¡No es una coincidencia! Este es el sueño de los diseñadores de experiencia de usuario porque queremos crear productos que aporten un valor claro a los usuarios. 
 
