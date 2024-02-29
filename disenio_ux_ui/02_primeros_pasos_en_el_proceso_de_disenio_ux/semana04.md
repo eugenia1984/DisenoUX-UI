@@ -529,3 +529,41 @@ Como UXer, podrías pensar que dar a tu usuario muchas opciones mejora su experi
 
 ---
 ---
+
+## :book: GLOSARIO
+
+### C
+
+- Call-to-action (CTA): A visual prompt that tells the user to take action
+
+### F
+
+- Feedback loops: The outcome a user gets at the end of a process
+
+### H
+
+- Hypothesis statement: Our best educated guess on what we think the solution to a design
+problem might be
+
+### M
+
+- Mental models: Internal maps that allow humans to predict how something will work
+
+### P
+
+- Problem statement: A clear description of the user’s need that should be addressed
+
+### S
+
+- Serial position effect: When given a list of items, people are more likely to remember the first
+and the last few, while the items in the middle tend to blur
+
+### T
+
+- The human factor: Describes the range of variables humans bring to their product interactions
+
+### V
+
+- Value proposition: The reason why a consumer should use a product or service
+
+---
