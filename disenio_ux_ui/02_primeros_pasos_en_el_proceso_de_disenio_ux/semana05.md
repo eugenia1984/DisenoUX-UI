@@ -36,3 +36,54 @@ Ahora sabemos qué es la ideación, cómo es la ideación en el mundo real y có
 A continuación, aprenderás por qué generar muchas ideas es tan importante. Disfruta.
 
 ---
+
+## :book: Obtén más información sobre idear el diseño
+
+Empatizaste con los usuarios y determinaste sus puntos débiles. Ahora estás listo para empezar a pensar en formas de resolver los problemas de tus usuarios. Crear ideas es un paso emocionante en tu recorrido como diseñador de UX. 
+
+Como recordatorio, idear el diseño es el proceso de generar un amplio conjunto de ideas sobre un tema determinado sin juzgarlas ni evaluarlas. Cuando empiezas a pensar en ideas, quieres crear tantas como sea posible. El objetivo es generar muchas ideas, incluso aquellas que pueden parecer ridículas al principio. A veces, tu idea más descabellada se convertirá en una solución genial y única.
+
+### Preparar las ideas
+
+Antes de empezar a idear el diseño, tendrás que prepararte.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/1ab882c8-c01e-4264-9131-27ec08574534)
+
+### Empatizar con el usuario
+
+**Empatiza con el usuario**. La empatía es el primer paso del proceso de diseño. Necesitas saber para quién estás resolviendo el problema y cuáles son sus necesidades. Ya empatizaste con el usuario al crear mapas de empatía, personas, historias de usuario y mapas de recorrido del usuario. 
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/79142aa3-f9a9-4095-94f4-368168040748)
+
+### Definir el problema
+
+**Define el problema**. La definición es el segundo paso del proceso de diseño. El problema que intentas resolver debe estar bien definido para que todos los miembros de tu equipo puedan pensar en ideas para resolverlo. Saber exactamente qué problema necesitas resolver también priorizará las necesidades de los usuarios.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/85727122-bf9f-4b4c-a5a7-c66f553dae81)
+
+### Establecer un entorno creativo
+
+**Establece un entorno creativo**. Necesitarás un espacio cómodo donde todos los miembros del equipo puedan reunirse y presentar sus ideas. Si vas a reunirte en persona, elige un espacio para idear que sea diferente a tu espacio de trabajo habitual. Si vas a reunirte de manera virtual, trata de encontrar un espacio diferente en tu hogar, ordenado y tranquilo.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/9d6cc575-e51b-4c71-b42b-3bfd00ede4c3)
+
+### Establecer un límite de tiempo
+
+**Establece un límite de tiempo**. Hay un sinfín de productos y características posibles que podrías diseñar, así que date tiempo suficiente para que surjan las ideas. Sin embargo, no puedes llevar a cabo una lluvia de ideas por tiempo indefinido, por lo que también tendrás que establecer un momento para finalizar la lluvia de ideas y empezar a pensar más en detalle las ideas que se te ocurran.
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/93f98679-b01d-4e68-9c85-f0ba2b939540)
+
+### Reunir a un equipo diverso
+
+**Reúne a un equipo diverso**. Trata de encontrar tantas ideas diferentes como sea posible. Un equipo inclusivo de personas, con diferentes razas, géneros, destrezas y antecedentes, te ayudará a encontrar todo tipo de soluciones.
+
+
+![image](https://github.com/eugenia1984/DisenoUX-UI/assets/72580574/80b08b57-b50f-40cf-b48f-60a91759af0e)
+
+### Ser original
+
+Sé original. No te limites a las ideas y soluciones tradicionales. Si tienes una idea genial que parece un poco diferente, escríbela. Piensa en grande y sé creativo al idear. 
+
+---
