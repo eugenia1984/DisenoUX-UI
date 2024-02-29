@@ -14,6 +14,6 @@ Describir métodos comunes de investigación en UX | Empatizar con los usuarios 
 
 - [SEMANA 4: Definición de problemas de usuario](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana04.md): Definir los planeamientos del problema y de hipótesis / Crear una propuesta de valor / Opcional: explorar la influencia de la psicología en el diseño de la experiencia de usuario
 
-- [SEMANA 5: Idear soluciones de diseño](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana05.md)
+- [SEMANA 5: Idear soluciones de diseño](https://github.com/eugenia1984/DisenoUX-UI/blob/main/disenio_ux_ui/02_primeros_pasos_en_el_proceso_de_disenio_ux/semana05.md): Explicar de qué se trata idear el diseño / Analizar los beneficios de idear en el diseño de UX / Explicar cómo usar auditorías competitivas en el diseño de UX / Crear una auditoría competitiva / Describir el propósito y los beneficios de las auditorías competitivas en el diseño de UX / Analizar las limitaciones de las auditorías competitivas / Demostrar cómo idear antes de elegir un enfoque / Determinar cuándo se han recopilado suficientes datos para empezar a diseñar
 
 --- 
