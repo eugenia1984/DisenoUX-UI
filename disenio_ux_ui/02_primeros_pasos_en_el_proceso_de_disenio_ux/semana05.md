@@ -9,6 +9,7 @@ Espero que hayas disfrutado al aprender sobre cómo empatizar con los usuarios y
 Ahora, analizaremos la fase de ideación del proceso de Design Thinking, en dónde nos centraremos en comprender cómo idear el diseño, llevar a cabo una auditoría competitiva, los enfoques de lluvia de ideas, como How Might We y Crazy Eights, y determinar si se necesita investigación adicional. Ten en cuenta que en la fase de ideación pasamos de aprender sobre los usuarios y el problema a encontrar soluciones.
 
 ---
+---
 
 ## :star: Comprender de qué se trata idear el diseño
 
@@ -85,5 +86,29 @@ Antes de empezar a idear el diseño, tendrás que prepararte.
 ### Ser original
 
 Sé original. No te limites a las ideas y soluciones tradicionales. Si tienes una idea genial que parece un poco diferente, escríbela. Piensa en grande y sé creativo al idear. 
+
+---
+---
+
+
+## :tv: Explorar muchas ideas
+
+Muy bien, ahora sabemos lo que significa idear. Pero, **¿por qué es tan importante generar muchas ideas?**
+
+Eso es lo que responderemos en este video. 
+
+Para hacer funcionar nuestro cerebro, ideemos soluciones para este problema: Olivia es una madre que busca la manera de andar en bicicleta con su hijo Luca, de 2 años, porque él no puede montar su propia bicicleta. Hay muchas soluciones para este problema existente. Pero imaginemos que es un producto nuevo. 
+
+Para resolver este problema, podrías diseñar un asiento detrás del ciclista; un asiento delante del ciclista; una bicicleta construida para dos, que requiere que el niño pedalee con el adulto; un accesorio de minibicicleta para que el niño vaya detrás del adulto; una cesta en el manillar para que el niño se siente; un sidecar, como puedes encontrar en las motocicletas; un asiento que se acople al casco del adulto o un remolque cubierto para llevar detrás de la bicicleta. ¿Algunas de estas ideas son descabelladas? Totalmente. Pero cuando ideas, quieres ir más allá de las ideas obvias para encontrar las ideas innovadoras.
+
+Recuerda que **la ideación se centra en generar muchas ideas**. ¿Por qué? 
+
+- Por un lado, la lista de ideas se reducirá en el momento de pensar en las limitaciones, como el presupuesto y los plazos. Por ejemplo, tal vez la mejor idea no sea posible debido a las limitaciones presupuestarias de tu equipo. Es conveniente empezar con una lista exhaustiva de posibles ideas, de modo que, cuando se introduzcan restricciones, todavía tengas soluciones que podrían funcionar.
+
+- Además, tenemos que proponer ideas equitativas. La primera idea que se te ocurra puede ser perfecta para ti como usuario, pero cuando diseñamos teniendo en cuenta la equidad, queremos asegurarnos de que el diseño funcione para todos los que van a utilizar el producto. Hay muchas soluciones para todos los problemas, pero queremos encontrar la que funcione mejor para los usuarios, no para ti.
+
+- Por último, ten en cuenta que es posible que no seas tú el que decida cuál idea es la mejor solución. En su lugar, deja que los usuarios prueben muchas de tus ideas y tal vez encuentren la respuesta correcta.
+
+Ahora que entiendes por qué explorar muchas ideas es tan beneficioso, podemos iniciar el proceso de ideación. A continuación, te mostraremos cómo evaluar las ideas según las necesidades de la empresa.
 
 ---
