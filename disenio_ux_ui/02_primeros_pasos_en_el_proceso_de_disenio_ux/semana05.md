@@ -112,3 +112,16 @@ Recuerda que **la ideación se centra en generar muchas ideas**. ¿Por qué?
 Ahora que entiendes por qué explorar muchas ideas es tan beneficioso, podemos iniciar el proceso de ideación. A continuación, te mostraremos cómo evaluar las ideas según las necesidades de la empresa.
 
 ---
+---
+
+## :tv: Reconocer las necesidades empresariales al idear el diseño
+
+Ahora sabemos cómo generar muchas ideas y evaluarlas. **Cuando ideas, es importante pensar en la empresa para la que diseñas**. Esto incluye la voz, el tono y el presupuesto de la empresa. En esto nos centraremos en el siguiente video: **comprender las necesidades comerciales detrás de un diseño**.
+
+Los diseñadores de UX suelen trabajar en conjunto con los equipos de marca y marketing. Esto se debe a que la marca tiene un gran efecto en la forma en que los usuarios experimentan un producto. Dos componentes principales de la marca son la voz y el tono. Aunque una marca no es un ser humano, tiene personalidad. Los usuarios no quieren comunicarse con una marca que utiliza un lenguaje robótico. En cambio, quieren interactuar con la marca cuya voz y tono suenen humanos y atractivos. Esta es la cuestión: la voz y el tono impactan en gran medida en la experiencia del usuario con un producto.
+
+Por ejemplo, si realizas un pedido de zapatos en línea y recibes un correo electrónico de confirmación que dice: "Gran elección. La compra debería llegar a tu casa en los próximos cinco días. Haznos saber cuánto te gusta". Cuando pides otro par de zapatos a otra empresa, la confirmación dice: "Pedido enviado. Llegada estimada: de 5 a 7 días hábiles". El primer correo electrónico parece entusiasta y conversacional, mientras que el segundo correo electrónico se siente frío y distante. Pequeños cambios en el lenguaje comunican la voz y el tono de una marca y ayudan a mejorar la experiencia del usuario. A medida que avancemos en este programa, verás cómo el diseño puede ayudar a facilitar la conversación entre una empresa y sus usuarios. Por ejemplo, Apple y Google pueden tener cada uno un producto que se centre en necesidades similares de los usuarios, pero el enfoque, el tono, y la marca de ese producto pueden ser muy diferentes. Además, debemos tener en cuenta los fundamentos para impulsar las ventas al diseñar. Por ejemplo, imagina que diseñas un sitio de comercio electrónico. Quieres que sea más fácil encontrar el botón Pagar. Esto mejora la experiencia del usuario e impulsa las ventas, entonces el diseño beneficia tanto al cliente como a la empresa: un beneficio mutuo.
+
+Por último, es útil investigar a los competidores de tu marca como parte de la exploración del diseño. Conocer los éxitos y fracasos de tu competencia puede influir en tus decisiones sobre el diseño. Esto podría implicar hacer este tipo de preguntas: ¿cómo acceden tus competidores al carrito de compra? o, ¿cómo es el proceso de registro de tu competidor? Para recapitular, debemos considerar tanto las necesidades de la empresa como las del usuario a la hora de diseñar. A continuación, investigaremos a nuestros competidores, así que prepara tu equipo de detective.
+
+---
