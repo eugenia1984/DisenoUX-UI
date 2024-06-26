@@ -125,3 +125,38 @@ Por ejemplo, si realizas un pedido de zapatos en línea y recibes un correo elec
 Por último, es útil investigar a los competidores de tu marca como parte de la exploración del diseño. Conocer los éxitos y fracasos de tu competencia puede influir en tus decisiones sobre el diseño. Esto podría implicar hacer este tipo de preguntas: ¿cómo acceden tus competidores al carrito de compra? o, ¿cómo es el proceso de registro de tu competidor? Para recapitular, debemos considerar tanto las necesidades de la empresa como las del usuario a la hora de diseñar. A continuación, investigaremos a nuestros competidores, así que prepara tu equipo de detective.
 
 ---
+---
+
+## REALIZAR AUDITORIAS COMPETITIVAS
+
+## :tv: Alcance de la competencia
+
+Bienvenido de nuevo. ¿Preparaste tu equipo de detective? En este video, analizaremos una parte importante del proceso de ideación: **auditorías competitivas**. 
+
+**Una auditoría competitiva es una descripción general de las fortalezas y debilidades de un competidor**. Sabemos que es importante generar muchas ideas antes de decidir una solución. Una auditoría competitiva **es solo una de las herramientas para explorar ideas de diseños, a fin de poder aprender sobre lo que ha funcionado y lo que no para los demás**. 
+
+Comencemos por hablar de lo que puedes aprender de una auditoría competitiva. Esto incluye lo siguiente: 
+
+-Identificar a tus competidores clave. 
+
+-Revisar los productos que ofrecen los competidores. 
+
+-Comprender cómo se posicionan los competidores en el mercado. 
+
+-Examinar lo que la competencia hace bien y lo que podría mejorar. 
+
+-Considerar cómo se describen los competidores a sí mismos. 
+
+Entonces, ¿a quién consideras tu competencia? **Para ser exhaustivo, debes incluir tanto competidores directos como indirectos en tu auditoría. Toma la lupa**.
+
+- Los **competidores directos** tienen ofertas, es decir, **productos, servicios o características**, que son similares a las de tu producto y tienen el mismo público objetivo. Básicamente, ambos tratan de resolver el mismo problema.
+
+- Los *c*ompetidores indirectos** son un poco más matizados. **Tienen un conjunto similar de ofertas, pero un público objetivo diferente, o tienen un conjunto diferente de ofertas y el mismo público objetivo**.
+
+Por ejemplo, creas una aplicación para perder peso que se centra en personas de 30 a 39 años. Tus competidores directos son otras empresas que también crean aplicaciones para bajar de peso dirigidas a personas de 30 a 39 años. Tus competidores indirectos son cualquier empresa que cree aplicaciones de salud o bienestar dirigidas a personas de 30 a 39 años, o cree aplicaciones de pérdida de peso dirigidas a personas de un grupo etario diferente. Es útil auditar una amplia gama de productos que compiten con los tuyos para conseguir una imagen completa del escenario. En el diseño de UX, las auditorías competitivas son importantes por algunas razones clave. Investiguemos.
+
+En primer lugar, ayudan a informar tu proceso de diseño. ¿Cuál es el enfoque de la competencia al diseñar sus productos? Saber lo que otros han hecho puede ayudar a tomar mejores decisiones de diseño para tu producto. En segundo lugar, las auditorías competitivas ayudan a resolver problemas de usabilidad. ¿El sitio web de tus competidores es difícil de usar? Si es así, sabes lo que debes evitar en tu sitio web. En tercer lugar, las auditorías competitivas revelan los déficits en el mercado. ¿Hay necesidades de los usuarios que tus competidores no satisfacen? Tu producto podría responder a estas necesidades de los usuarios. En cuarto lugar, las auditorías competitivas proporcionan pruebas fiables. ¿Por qué es importante reunir pruebas? Las ideas de diseño tienen más éxito cuando hay un vasto conocimiento de las necesidades empresariales y los déficits del mercado. Las auditorías competitivas son clave para recopilar esa información. Conocer estos aspectos puede ayudarte a ahorrar tiempo, dinero y energía.
+
+Sé que todos queremos ser detectives, pero, ¿quién lleva a cabo una auditoría? Esto depende de dónde trabajes. Una empresa más pequeña puede hacer que un solo diseñador de UX realice la auditoría, mientras que una empresa más grande puede disponer de un equipo para hacer el trabajo. De cualquier manera, es importante que sepas cómo realizar una auditoría competitiva, porque es fundamental para tu trabajo como diseñador de UX. Ahora conoces las auditorías competitivas y sus beneficios, así que ya puedas colgar tu sombrero de detective. A continuación, exploraremos algunas de las limitaciones que presentan las auditorías competitivas. Nos vemos pronto.
+
+---
