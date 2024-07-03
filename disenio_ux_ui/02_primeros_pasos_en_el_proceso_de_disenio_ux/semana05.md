@@ -192,4 +192,12 @@ Al invertir tiempo en auditorías competitivas, tu equipo podrá aprender de los
 ¿Deseas explorar las auditorías competitivas con más detalle? Aquí hay un par de artículos que te ayudarán a seguir investigando: [Guía para diseñadores de productos sobre análisis competitivo](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis)
  de Toptal y [Cómo realizar y preparar un análisis competitivo](https://edwardlowe.org/how-to-conduct-and-prepare-a-competitive-analysis/) de Edward Lowe Foundation.
 
- ---
+---
+
+## :tv: Límites a las auditorías competitivas
+
+Hola de nuevo. Ahora que definimos las auditorías competitivas y analizamos sus beneficios, discutiremos algunas limitaciones. Comencemos primero con la limitación principal. Las auditorías competitivas pueden sofocar la creatividad. Si pasas demasiado tiempo enfocándote en lo que hacen otros, podrías perder la oportunidad de crear un producto realmente innovador. No puedes innovar si haces lo mismo que la competencia. La clave es entender qué hace la competencia y usarlo como un punto de partida para progresar e innovar. Otra limitación es que el éxito de la auditoría competitiva depende de qué tan bien interpretes los hallazgos. Analizar datos puede ser complicado, y es una destreza que desarrollarás a lo largo de tu carrera como diseñador.
+
+Trabajar en equipo puede ser útil ya que otros pueden interpretar los datos. Otro aspecto para tener en cuenta al crear una auditoría competitiva es que no todos los diseños funcionan en todos los casos de uso. Si tratas con usuarios diferentes, las funciones que son buenas para un competidor pueden no serlo para tu producto. Por ejemplo, imagina que diseñas un sitio web para una empresa de ropa. Un competidor tiene una función que muestra fotos de clientes que usan la ropa de su marca en las redes sociales. Pero si el público no usa las redes sociales a diario, esta función no es adecuada para tu sitio web. Un aspecto más para destacar: deberías realizar auditorías competitivas de forma regular, no solo una vez. Quieres estar al tanto de lo que hacen tus competidores y estar atento a nuevos competidores que puedan aparecer. Muy bien, ahora que analizamos por qué llevamos a cabo auditorías competitivas y sus limitaciones, a continuación compartiremos los pasos específicos por seguir al realizar una auditoría competitiva. Empecemos.
+
+---
