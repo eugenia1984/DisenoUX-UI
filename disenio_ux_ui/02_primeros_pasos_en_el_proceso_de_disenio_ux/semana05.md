@@ -160,3 +160,36 @@ En primer lugar, ayudan a informar tu proceso de diseño. ¿Cuál es el enfoque 
 Sé que todos queremos ser detectives, pero, ¿quién lleva a cabo una auditoría? Esto depende de dónde trabajes. Una empresa más pequeña puede hacer que un solo diseñador de UX realice la auditoría, mientras que una empresa más grande puede disponer de un equipo para hacer el trabajo. De cualquier manera, es importante que sepas cómo realizar una auditoría competitiva, porque es fundamental para tu trabajo como diseñador de UX. Ahora conoces las auditorías competitivas y sus beneficios, así que ya puedas colgar tu sombrero de detective. A continuación, exploraremos algunas de las limitaciones que presentan las auditorías competitivas. Nos vemos pronto.
 
 ---
+
+## :tv: Obtén más información sobre las auditorías competitivas
+
+Las auditorías competitivas son uno de los diversos pasos valiosos que puedes dar durante el proceso de creación de ideas. Una auditoría competitiva es una descripción general de las fortalezas y debilidades de un competidor. Analizar las marcas y los productos de los competidores, o de las empresas que ofrecen productos similares a los tuyos, puede proporcionarte una base de conocimiento muy completa sobre el mercado en el que entrará tu producto. Ese conocimiento se incorporará a tus diseños y te ayudará a crear un producto que sea útil y único para los usuarios. Como diseñador de UX, es probable que te asocies con personas de otros equipos, como marketing o gestión de productos, para llevar a cabo una auditoría competitiva. 
+
+**Tus competidores se dividen en dos categorías: directos e indirectos**. Los competidores directos son empresas que tienen ofertas similares a tu producto y el mismo público objetivo. Los competidores indirectos pueden tener un conjunto similar de ofertas y un público diferente, o un conjunto diferente de ofertas con el mismo público. Examinar a estos dos competidores puede brindarte información sobre el camino que podrían tomar tus diseños y los usuarios para los que estás diseñando. 
+
+### ¿Por qué son importantes las auditorías competitivas?
+
+Considera cuánto trabajo ya han realizado tus competidores directos e indirectos para diseñar y promocionar sus productos con los usuarios. Ya han tenido un impacto en la industria en la que entrará tu producto. Estudiar estas empresas, sus diseños y los comentarios de los usuarios es una fuente importante de información. 
+
+Las auditorías competitivas pueden ofrecer muchos beneficios a lo largo de tu fase de ideación, entre ellos:
+
+- Te dan una idea de los productos que ya están en el mercado y sus diseños. 
+
+- Te sugieren ideas para resolver problemas tempranos a los que te enfrentas con tus propios diseños. 
+
+- Te revelan el motivo por el cual los productos actuales del mercado no satisfacen las necesidades de los usuarios. Esto es un déficit que debe abordar tu producto.
+
+- Te muestran el ciclo de vida esperado de un producto en el mismo mercado que el tuyo.
+
+- Te brindan información sobre las iteraciones diferentes que tu producto podría tomar y cómo funcionaron para tus competidores. 
+
+Con estas ventajas en mente, puedes trabajar con tu equipo para identificar las características y cualificaciones que consideres fundamentales para tu producto. Centrarás tu auditoría en las partes de tu diseño sobre las que quieres aprender más, como el flujo de usuarios o la navegación dentro de la aplicación. Autorreflexionar sobre los diseños en los que estás trabajando preparará tu auditoría para el éxito desde el principio.
+
+### ¡Estás listo para empezar!
+
+Al invertir tiempo en auditorías competitivas, tu equipo podrá aprender de los errores de tus competidores y evitar cometerlos. Piensa en las auditorías como una herramienta que te ayuda a crear algo para los usuarios que se diferencia por completo de tu competencia, combinando todos los puntos fuertes de la oferta de tus competidores en un producto fantástico.
+
+¿Deseas explorar las auditorías competitivas con más detalle? Aquí hay un par de artículos que te ayudarán a seguir investigando: [Guía para diseñadores de productos sobre análisis competitivo](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis)
+ de Toptal y [Cómo realizar y preparar un análisis competitivo](https://edwardlowe.org/how-to-conduct-and-prepare-a-competitive-analysis/) de Edward Lowe Foundation.
+
+ ---
